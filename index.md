@@ -1,4 +1,4 @@
-## Welcome to BloxStreet Support
+## 👋 Welcome!
 
 Welcome to BloxStreet! It's great to have you here 🥳
 
