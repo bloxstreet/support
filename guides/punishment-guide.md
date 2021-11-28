@@ -29,6 +29,7 @@ Some things to note:
 
 
 ### Staff Punishments
+
 |          Action |    Punishment |   Applies to |
 | --------------------- | -------------- | ----- |
 | Hinting for promotion | Verbal warning | Staff |
