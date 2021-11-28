@@ -29,8 +29,8 @@ Some things to note:
 
 
 ### Staff Punishments
-| Action | Punishment | Applies to |
-| ------ | ---------- | ---------- |
+|          Action |    Punishment |   Applies to |
+| --------------------- | -------------- | ----- |
 | Hinting for promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
 | Refusal to wear correct uniform | Demotion to customer | Staff |
