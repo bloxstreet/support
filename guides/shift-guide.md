@@ -1,4 +1,13 @@
+---
+layout: default
+title: Shift Guide
+parent: Guides
+nav_order: 1
+---
+
 ## Shift Guide
+
+This guide is intended for HRs.
 
 This guide is to assist shift hosts with tasks needed to host a successful shift. Please be sure to read **all** of this guide before hosting your first shift.
 
