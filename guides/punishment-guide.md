@@ -34,7 +34,7 @@ Some things to note:
 | Hinting for promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
 | Refusal to wear correct uniform | Demotion to customer | Staff |
-| Lack of Grammar | 3 verbal warnings then a demotion one rank down | Assistant Supervisor - Store Manager |
+| Lack of Grammar | 3 verbal warnings then a demotion one rank down | Assistant Supervisor to Store Manager |
 | Lack of Grammar | 1 verbal warning then report to SHR | High ranks |
 | Cuff abuse | Blacklist | Staff |
 | False warnings | Blacklist | Staff |
