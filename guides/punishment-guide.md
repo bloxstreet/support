@@ -4,7 +4,14 @@ title: Punishment Guide
 parent: Guides
 nav_order: 2
 ---
-## Punishment Guide
+# Punishment Guide
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 This guide is intended for everyone.
 
@@ -14,7 +21,7 @@ Some things to note:
 - Higher ranks may receive more severe punishments
 - All of the listed punishments are subject to change based on the severity of the user's actions.
 
-### Punishments
+## Punishments
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
@@ -28,7 +35,7 @@ Some things to note:
 | Bypassing | Permanent ban | Everyone |
 
 
-### Staff Punishments
+## Staff Punishments
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
