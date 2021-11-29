@@ -59,3 +59,16 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Trainees | Attends training and follows all instructions to recieve a possible promotion. | **Trainee Team Members - Senior Team Members**. | No maximum. | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a Specator arrives, they can not be turned down by the Host or Co-host). | No maximum. | 
 
+##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING.**
+(Customer, Allied Representative, Noted Customer, Store Intern, Assistant Supervisor, Floor Supervisor, Assistant Manager)
+
+## Training Scripts
+The following sections contain the scripts that you will need to say in-game. Only say what is shown for your specific role. Don’t say anything if you’re not doing that job!
+
+The Host Claims the Session 
+{: .label .label-yellow }
+At :30, the host, the co-host, and the rankers should join the Training Center to prepare for the session.
+
+To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once you have pressed claim, the message that says “No Training is being hosted right now. Check back later!” on the lower ranks screen will be removed, and the session will become active. 
+
+**_NOTE: AFTER YOU HAVE CLAIMED IN-GAME, YOU CANNOT LEAVE THE SERVER, OR YOU WILL RECEIVE CONSEQUENCES! DO NOT CLAIM IF YOU KNOW YOU ARE HAVING INTERNET RELATED ISSUES, THAT MIGHT MEAN YOU GET DISCONNECTED, ETC._** 
