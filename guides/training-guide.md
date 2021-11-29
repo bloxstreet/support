@@ -1,6 +1,12 @@
+---
+layout: default
+title: Training Guide
+parent: Guides
+nav_order: 3
+---
+
 ## Training Guide
 
-## General Information
 ### 1A - Introduction
 This guide is intended for Store Manager+. 
 
