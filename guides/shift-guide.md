@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # Shift Guide
-
 {: .no_toc }
 
 ## Table of contents
@@ -40,7 +39,7 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 - There can only be a maximum of 5 Store Interns, Assistant Supervisors, Floor Supervisors and Assistant Managers prompted at each shift.
 - All players that are promoted at a shift should be checked to see if they're on cooldown.
 
-### Rank cooldowns:
+### Rank cooldowns
 <dl>
   <dt>Store Intern</dt>
   <dd>No cooldown</dd>
