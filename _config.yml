@@ -1,7 +1,7 @@
 title: BloxStreet Support
 description: A hub for all things BloxStreet
-baseurl: "/support"
-url: "https://bloxstreet.github.io"
+baseurl: "/"
+url: "https://support.bloxstreet.store"
 
 back_to_top: true
 back_to_top_text: "Back to top"
