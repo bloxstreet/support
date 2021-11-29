@@ -5,13 +5,21 @@ parent: Guides
 nav_order: 1
 ---
 
-## Shift Guide
+# Shift Guide
+
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 This guide is intended for HRs.
 
 This guide is to assist shift hosts with tasks needed to host a successful shift. Please be sure to read **all** of this guide before hosting your first shift.
 
-### Shift times:
+## Shift times:
 Shifts can be hosted at **7** different times throughout the day (all times are in EST):
 - 12am
 - 11am
@@ -23,7 +31,7 @@ Shifts can be hosted at **7** different times throughout the day (all times are 
 
 Shifts can only be hosted at the above times. Hosting at any other time will make the shift unauthorized.
 
-### Claiming, roles & ranking
+## Claiming, roles & ranking
 - HRs should be claiming shifts with the appropriate process at 4:30pm EST.
 - There can only be **one** host for each shift.
 - Arguing over shifts is not allowed.
@@ -32,7 +40,7 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 - There can only be a maximum of 5 Store Interns, Assistant Supervisors, Floor Supervisors and Assistant Managers prompted at each shift.
 - All players that are promoted at a shift should be checked to see if they're on cooldown.
 
-#### Rank cooldowns:
+### Rank cooldowns:
 <dl>
   <dt>Store Intern</dt>
   <dd>No cooldown</dd>
@@ -44,12 +52,12 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
   <dd>5 Days</dd>
 </dl>
 
-### Step-by-step claiming
+## Step-by-step claiming
 1. On the GUI at the top of the screen, click the settings icon.
 2. Once the Staff Panel has opened, click "Shifts" from the menu on the left.
 3. To claim a shift, click the "Start Shift" button within the Shifts menu.
 
-### Joining & Leaving during a shift
+## Joining & Leaving during a shift
 - Before claiming a shift, make sure you have a good internet connection and can remain at the store for at least 35 minutes.
 - Each shift lasts for 30 minutes, if you know you cannot stay for the entire shift, do not claim it.
 - If you lose connection or disconnect, the shift will be announced as concluded within #session-notice. However, the shift can continue once you rejoin.
