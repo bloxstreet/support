@@ -86,7 +86,7 @@ As the Trainees join the server, be sure to encourage them to join you in the **
 You should keep saying the line above until the start time. Do not constantly spam it… use it when necessary.
 The Host and Co-Host will stand in front of the training room doors. Trainees are to stand on the red lines against the back wall.
 
-3C - The Training Session Commences
+The Training Session Commences
 {: .label .label-yellow }
 
 Once it is time to commence, the Trainees should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. Make sure to use /e :slock to stop more Trainees from joining.
@@ -105,7 +105,7 @@ The host and co-host will stand and monitor the Trainees and the presentation to
 
 To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, they should rejoin immediately. The slideshow can only be played once. Be sure to inform the Trainees that they can click on the monitors to get a better view.**
 
-3D - After the Presentation
+After the Presentation
 {: .label .label-yellow }
 
 Once the presentation concludes, LRs are required to remain silent for the host’s instructions.
@@ -123,3 +123,5 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 **Excess Trainers should be dismissed. _They may not act as spectators under any circumstances. Anybody who decides to idle during training should be kicked._**
 
 **_The Trainees are to start at the CAFE section of the training room, then groups may move onto the registers._** 
+
+h2, .text-beta
