@@ -18,7 +18,7 @@ This guide is intended for HRs.
 
 This guide is to assist shift hosts with tasks needed to host a successful shift. Please be sure to read **all** of this guide before hosting your first shift.
 
-## Shift times:
+## Shift times
 Shifts can be hosted at **7** different times throughout the day (all times are in EST):
 - 12am
 - 11am
