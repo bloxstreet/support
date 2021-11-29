@@ -1,3 +1,10 @@
+---
+layout: default
+title: Discord Rules
+nav_order: 2
+has_children: false
+---
+
 # Discord Rules
 These rules apply to our Discord server. Failure to follow them may lead to a warning, mute, kick or ban.
 
