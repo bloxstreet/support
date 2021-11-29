@@ -7,20 +7,19 @@ nav_order: 3
 
 ## Training Guide
 
-### 1A - Introduction
 This guide is intended for Store Manager+. 
 
 The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when teaching Low Ranks. 
 
 * The text in *italic* is meant for you to say in-game. 
   * (Copy and paste in-game).
-* The text in **bold** or normal is instructions of what you should do during a training. 
+* The text in **bold** or normal are instructions of what you should do during a training. 
   * (**DO NOT** copy and paste in-game).
 
-### 1B - Training Information
+### Training Information
 If you decide to host a training, you must consider the following information:
-* Trainings can only be hosted at the following times:
 
+Trainings can only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
@@ -41,7 +40,7 @@ If you decide to host a training, you must consider the following information:
 * Hosts are required to select a trusted HR to announce training at the store.
 * Trainers should not rush through the script. Allow your Trainees to have time to read the information you’re providing them.
 
-### 2 - Rank Information
+### Rank Information
 In this section, you will see an overview of each rank’s job at training sessions. 
 
 | Job        | Description          | Eligible Ranks | Quantity | 
