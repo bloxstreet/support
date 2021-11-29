@@ -67,6 +67,7 @@ The following sections contain the scripts that you will need to say in-game. On
 
 The Host Claims the Session 
 {: .label .label-yellow }
+
 At :30, the host, the co-host, and the rankers should join the Training Center to prepare for the session.
 
 To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once you have pressed claim, the message that says “No Training is being hosted right now. Check back later!” on the lower ranks screen will be removed, and the session will become active. 
