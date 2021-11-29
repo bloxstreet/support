@@ -74,6 +74,7 @@ To claim the session, click the message at the top of the screen that says â€œCl
 
 **_NOTE: AFTER YOU HAVE CLAIMED IN-GAME, YOU CANNOT LEAVE THE SERVER, OR YOU WILL RECEIVE CONSEQUENCES! DO NOT CLAIM IF YOU KNOW YOU ARE HAVING INTERNET RELATED ISSUES, THAT MIGHT MEAN YOU GET DISCONNECTED, ETC._** 
 
+
 Pre-Training (After Host has Claimed In-Game)
 {: .label .label-yellow }
 
@@ -122,13 +123,3 @@ Once the presentation concludes, LRs are required to remain silent for the hostâ
 **Excess Trainers should be dismissed. _They may not act as spectators under any circumstances. Anybody who decides to idle during training should be kicked._**
 
 **_The Trainees are to start at the CAFE section of the training room, then groups may move onto the registers._** 
-
-
-
-
-
-
-
-
-
-
