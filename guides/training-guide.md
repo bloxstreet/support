@@ -60,6 +60,7 @@ In this section, you will see an overview of each rankâ€™s job at training sessi
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a Specator arrives, they can not be turned down by the Host or Co-host). | No maximum. | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING.**
+{: .no_toc }
 (Customer, Allied Representative, Noted Customer, Store Intern, Assistant Supervisor, Floor Supervisor, Assistant Manager)
 
 ## Training Scripts
@@ -123,5 +124,3 @@ Once the presentation concludes, LRs are required to remain silent for the hostâ
 **Excess Trainers should be dismissed. _They may not act as spectators under any circumstances. Anybody who decides to idle during training should be kicked._**
 
 **_The Trainees are to start at the CAFE section of the training room, then groups may move onto the registers._** 
-
-h2, .text-beta
