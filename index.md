@@ -14,4 +14,4 @@ This support site contains guidelines, FAQs and other articles which can help an
 - To get started, select a topic from the menu, or search 🔍 for what you're looking for.
 
 Test
-{: .alert .alert-warning }
+{: .p-2 .bg-yellow-000}
