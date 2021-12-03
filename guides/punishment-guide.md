@@ -3,7 +3,7 @@ layout: default
 title: Punishment Guide
 parent: Guides
 nav_order: 2
-last_modified_date: %b %e %Y at %I:%M %p
+last_modified_date: "%b %e %Y at %I:%M %p"
 ---
 # Punishment Guide
 {: .no_toc }
