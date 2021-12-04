@@ -124,3 +124,19 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 **Excess Trainers should be dismissed. _They may not act as spectators under any circumstances. Anybody who decides to idle during training should be kicked._**
 
 **_The Trainees are to start at the CAFE section of the training room, then groups may move onto the registers._** 
+
+Trainer Test Information
+{: .label .label-purple }
+This section will outline each of the tests the Trainers are expected to perform.
+
+###### Grammar/Greeting Test
+For the Grammar/Greeting Test, as a Trainer, you must explain how this test works. Have the Trainee show their greeting to you. **IMPORTANT: Do not fail a Trainee for minor grammatical errors. If you are able to understand their greeting easily, you should pass them.** You are always welcome to give out tips if needed. Make sure to give them a tip on copying and pasting their greeting every time, as it makes things much quicker on their behalf. If they pass, continue to the next test.  If they fail, kick them from the server explaining why.
+
+###### Cafe Test
+The next phase is the Cafe Test. In this test, you will ask them for any available drink of your choosing. Wait for them to make it and say “Of course.”, or something related to that. The Trainee must have understandable grammar in this test. Ensure that Trainees know about the slush machine, and the fact it has different flavors that can be selected once a COLD CUP is touched.
+
+###### Register Test
+The next phase is the Register Test. Please go through a roleplay of them checking you out (including their greeting). If they don’t know how to send a payment request, explain the process to them! Make sure they use proper grammar and effort. If they pass, continue to the next test. If they fail, kick them from the server, explaining why.
+
+###### Passing Trainees
+If the Trainee passes, you must use the :ff command on them, and take them to the green line at the front of the Training room. The Host/Co-Host will rank them accordingly, and then kick them from the game.
