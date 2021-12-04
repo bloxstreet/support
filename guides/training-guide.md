@@ -154,3 +154,18 @@ This section will provide the script for Trainers to use. Please try to stick to
 **Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
 
 At this point, you must wait for the Trainee to respond. If they reply with a positive answer, implying that they are ready to proceed, skip part and move on. If not, answer any questions they may have, until they are ready to begin. 
+
+##### Grammar / Greeting Test
+At this point, you must conduct the grammar test. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
+
+**Trainer:** We will start this training with the Greeting Test. 
+
+**Trainer:** When a guest approaches your register at the store, you must greet them with a greeting.
+
+**Trainer:** Here is an example of a greeting: “Hello! Welcome to Blox-Street Shopping Center! My name is (username), how may I assist you today?”
+
+**Trainer:** You are welcome to add adjectives or emojis to your greeting. Feel free to customize it however you want.
+
+**Trainer:** I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.
+
+**Wait for the Trainee to speak.** If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed. 
