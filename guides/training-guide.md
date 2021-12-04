@@ -168,7 +168,9 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
 
-**Wait for the Trainee to speak.** If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed. 
+**Wait for the Trainee to speak.** 
+
+**_If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed._**
 
 ##### Cafe Test Script
 **Trainer:** *Congratulations, you have passed the Greeting Test! We will now move on to the Cafe Test.*
@@ -202,3 +204,41 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **Wait for a response and the order.**
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
+
+##### Register Test Script
+**Trainer:** *Congratulations, you have passed the Cafe Test. We will now begin the Register Test.*
+
+**AT THIS POINT, PLEASE MOVE TO THE REGISTERS ON THE OTHER SIDE OF THE TRAINING ROOM.**
+
+**Trainer:** *When a customer approaches your register at the store, you should greet them with a polite greeting.*
+
+**Trainer:** *When they ask to be checked out, click “Open Sale” on the register.*
+
+**Trainer:** *Type in their username, then click “Finalize Sale.”
+
+**Trainer:** *Click "Robux Payment" or "Card Payment," depending on the customer's preference. 
+
+**Trainer:** *Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
+
+**Trainer:** *Is everyone here ready to begin the test? A response from every Trainee is mandatory.
+
+**_THE REGISTERS IN THE TRAINING CENTER WORK!_** If they say yes, begin.  If they say no, answer any questions until they are ready.
+
+
+**Note: This part is the in-test script.**
+
+**Wait for their greeting.** *Hi, may I please check out my items?
+
+**Wait for them to say.** *Thank you!
+
+**_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
+
+**Trainer:** *Congratulations, you have passed the Register Test! You have completed all tests, meaning we can now conclude this training.
+
+**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.
+
+**Trainer:** *Please follow me to the ranking lines so you can be ranked. Congratulations on passing!
+
+**Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.
+
+**:ff them and take them to the ranking line.**
