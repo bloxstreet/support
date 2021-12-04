@@ -155,7 +155,6 @@ This section will provide the script for Trainers to use. Please try to stick to
 
 At this point, you must wait for the Trainee to respond. If they reply with a positive answer, implying that they are ready to proceed, skip part and move on. If not, answer any questions they may have, until they are ready to begin. 
 
-
 ##### Grammar / Greeting Test Script
 At this point, you must conduct the grammar test. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
 
@@ -172,7 +171,6 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **Wait for the Trainee to speak.** 
 
 **_If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed._**
-
 
 ##### Cafe Test Script
 **Trainer:** *Congratulations, you have passed the Greeting Test! We will now move on to the Cafe Test.*
@@ -206,7 +204,6 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **Wait for a response and the order.**
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
-
 
 ##### Register Test Script
 **Trainer:** *Congratulations, you have passed the Cafe Test. We will now begin the Register Test.*
@@ -245,3 +242,12 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.
 
 **:ff them and take them to the ranking line.**
+
+## Training Conclusion 
+Once the training has ended, there should be no LRs left in the server, and very few MRs or HRs. All Trainers **should’ve left the server** after they’ve finished training. If there are people left, encourage them to leave to go to the store. **Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server, or just shutdown.**
+
+
+Leave the game when finished training or once you have been ranked. Do not do anything else.
+
+
+**_If a Junior Moderator+ chooses to take a photo at the conclusion of the session, follow their directions._**
