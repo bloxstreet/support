@@ -5,27 +5,32 @@ parent: Rules
 nav_order: 1
 ---
 
-# Discord Rules
-These rules apply to our Discord server. Failure to follow them may lead to a warning, mute, kick or ban.
-- More information on punishments can be found [here](https://support.bloxstreet.com/guides/punishment-guide.html).
+# ℹ️ | Discord Server Regulations
+Our communications server has specific rules for all community members to abide by. Failure to abide by these regulations will result in disciplinary action.
 
-1. No cussing
-2. There should be no NSFW
-3. Speak ENGLISH
-4. Mic Spam/Text Spam/ @‘ing is banned
-5. Targeting people is not allowed
-6. No bulling of any sort
-7. No racist jokes
-8. Loud sounds? Use Push-To-Talk
-9. Don’t post banned links or shortened
-10. Keep profile pictures appropriate
-11. Nickname must be Roblox name
-12. Keep all music played mature and PG
-13. Don’t be a smart behind
-14. Keep talk to channel topic
-15. Don’t leak personal information
-16. Do not server advertise
-17. Do not post invite links
-18. Do not abuse the ticket system
-19. Respect all SHR decisions
-20. Don't be dumb!
+**1.** Do not bypass in any chats.
+**2.** Do not DM or server advertise. Using our communications server for advertising is strictly prohibited.
+**3.** Do not cause drama or argue with any community member.
+**4.** Do not post any suspicious links or files.
+**5.** Do not post NSFW (not safe for work content) in server channels.
+**6.** Do not abuse the ticket system.
+**7.** Racism, discriminatory language, hate speech, etc. is prohibited.
+**8.** Do not leak anyone’s personal information.
+**9.** Be respectful to all server members.
+**10.** Your Discord name must be your Roblox username.
+**11.** Refrain from discussing controversial topics such as politics and religion.
+**12.** Use common sense at all times.
+**13.** Administration say is final, respect all administrative decisions.
+**14.** Malicious communication is strictly prohibited.
+**15.** Opening more then 1 support ticket at a time will result in a sanction. 
+**16.** Not responding to support after opening a ticket will result in your ticket being closed.
+**17.** Failure to put a reason in the support box will result in a warning.
+
+Violation of any rules will result in sanctions depending on the severity.
+
+**_Moderation Strikes._**
+1. Warning / mute.
+2. Kick from server.
+3. Moderation ban.
+
+Receive a ban from the server as staff will result in immediate termination of your employment and result in you being blacklisted from our staff team. 
