@@ -255,6 +255,7 @@ Once the training has ended, there should be no LRs left in the server, and very
 
 Leave the game when finished training or once you have been ranked. Do not do anything else.
 
+
 At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area. 
 
 
