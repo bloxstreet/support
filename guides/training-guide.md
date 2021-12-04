@@ -73,6 +73,8 @@ At :30, the Host, the Co-host, and the rankers should join the Training Center t
 
 To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once you have pressed claim, the message that says “No Training is being hosted right now. Check back later!” on the lower ranks screen will be removed, and the session will become active. 
 
+At :40, Co-Host should do the first shout on the group page. The group shout templates are located in a designated area. 
+
 **_NOTE: AFTER YOU HAVE CLAIMED IN-GAME, YOU CANNOT LEAVE THE SERVER, OR YOU WILL RECEIVE CONSEQUENCES! DO NOT CLAIM IF YOU KNOW YOU ARE HAVING INTERNET RELATED ISSUES, THAT MIGHT MEAN YOU GET DISCONNECTED, ETC._** 
 
 
@@ -93,6 +95,8 @@ The Training Session Commences
 {: .label .label-yellow }
 
 Once it is time to commence, the Trainees should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. Make sure to use /e :slock to stop more Trainees from joining.
+
+At :00, the Co-Host should post the second group shout. The group shout templates are located in a designated area. 
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
@@ -250,6 +254,8 @@ Once the training has ended, there should be no LRs left in the server, and very
 
 
 Leave the game when finished training or once you have been ranked. Do not do anything else.
+
+At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area. 
 
 
 **_If a Junior Moderator+ chooses to take a photo at the conclusion of the session, follow their directions._**
