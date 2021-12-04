@@ -57,7 +57,7 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Ranker           | Ranks all Low Ranks that pass. | Anybody ranked **Executive Assisant or Higher**. | **2-3** Rankers per training. 
 | Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their trainees and deterimines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher**. | Maximum of **15 trainers** (1 trainer per counter).  |
 | Trainees | Attends training and follows all instructions to recieve a possible promotion. | **Trainee Team Members - Senior Team Members**. | No maximum. | 
-| Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a Specator arrives, they can not be turned down by the Host or Co-host). | No maximum. | 
+| Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a Spectator arrives, they can not be turned down by the Host or Co-host). | No maximum. | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING.**
 {: .no_toc }
@@ -94,9 +94,7 @@ The Host and Co-Host will stand in front of the training room doors. Trainees ar
 The Training Session Commences
 {: .label .label-yellow }
 
-Once it is time to commence, the Trainees should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. Make sure to use /e :slock to stop more Trainees from joining.
-
-At :00, the Co-Host should post the second group shout. The group shout templates are located in a designated area. 
+At :00,  the Trainees should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more Trainees from joining and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
