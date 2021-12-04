@@ -82,7 +82,7 @@ Pre-Training (After Host has Claimed In-Game)
 As the Trainees join the server, be sure to encourage them to join you in the **HALLWAY (The long hall outside the training room).**
 
 **Host:** *Welcome to all of our staff members joining! Please come and join us in the hallway.*
-**Host:** *All Low Ranks should be standing on the red lines. Your trainer will answer any questions that you might have.*
+**Host:** *All Low Ranks should be sitting at any of the available tables. Your trainer will answer any questions that you might have.*
 
 You should keep saying the line above until the start time. Do not constantly spam it… use it when necessary.
 The Host and Co-Host will stand in front of the training room doors. Trainees are to stand on the red lines against the back wall.
