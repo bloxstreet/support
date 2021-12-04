@@ -214,32 +214,32 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *When they ask to be checked out, click “Open Sale” on the register.*
 
-**Trainer:** *Type in their username, then click “Finalize Sale.”
+**Trainer:** *Type in their username, then click “Finalize Sale.”*
 
-**Trainer:** *Click "Robux Payment" or "Card Payment," depending on the customer's preference. 
+**Trainer:** *Click "Robux Payment" or "Card Payment," depending on the customer's preference.*
 
-**Trainer:** *Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
+**Trainer:** *Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.*
 
-**Trainer:** *Is everyone here ready to begin the test? A response from every Trainee is mandatory.
+**Trainer:** *Is everyone here ready to begin the test? A response from every Trainee is mandatory.*
 
-**_THE REGISTERS IN THE TRAINING CENTER WORK!_** If they say yes, begin.  If they say no, answer any questions until they are ready.
+**_THE REGISTERS IN THE TRAINING CENTER WORK!_** If they say yes, begin.  If they say no, answer any questions until they are ready.*
 
 
 **Note: This part is the in-test script.**
 
-**Wait for their greeting.** *Hi, may I please check out my items?
+**Wait for their greeting.** *Hi, may I please check out my items?*
 
-**Wait for them to say.** *Thank you!
+**Wait for them to say.** *Thank you!*
 
 **_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-**Trainer:** *Congratulations, you have passed the Register Test! You have completed all tests, meaning we can now conclude this training.
+**Trainer:** *Congratulations, you have passed the Register Test! You have completed all tests, meaning we can now conclude this training.*
 
-**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.
+**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
-**Trainer:** *Please follow me to the ranking lines so you can be ranked. Congratulations on passing!
+**Trainer:** *Please follow me to the ranking lines so you can be ranked. Congratulations on passing!*
 
-**Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.
+**Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.*
 
 **:ff them and take them to the ranking line.**
 
