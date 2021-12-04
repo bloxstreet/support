@@ -140,3 +140,17 @@ The next phase is the Register Test. Please go through a roleplay of them checki
 
 ###### Passing Trainees
 If the Trainee passes, you must use the :ff command on them, and take them to the green line at the front of the Training room. The Host/Co-Host will rank them accordingly, and then kick them from the game.
+
+Training Process
+{: .label .label-purple } 
+This section will provide the script for Trainers to use. Please try to stick to this layout. You may add emojis. 
+
+**Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I am your trainer for today.*
+
+**Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
+
+**Trainer:** *If you need to go AFK for a reason, please make sure to notify me. Failure to do so will result in a removal from the server.*
+
+**Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
+
+At this point, you must wait for the Trainee to respond. If they reply with a positive answer, implying that they are ready to proceed, skip part and move on. If not, answer any questions they may have, until they are ready to begin. 
