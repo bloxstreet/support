@@ -169,3 +169,36 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
 
 **Wait for the Trainee to speak.** If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed. 
+
+##### Cafe Test Script
+**Trainer:** *Congratulations, you have passed the Greeting Test! We will now move on to the Cafe Test.*
+
+**Trainer:** *In this test, treat me as a guest who has approached your cafe register. Make sure to say your greeting when I approach you.*
+
+**Trainer:** *You must utilize understandable grammar in this test. I will determine if your grammar is understandable or not.*
+
+**Trainer:** *Before we begin, I will show you how to make a Coffee. Please pay attention, and avoid going AFK, as the information is for your success.*
+
+**Trainer:** *1st, click on the Cup/Mug. When you have the cup, put in the type of coffee the guest told you to make. I’ll show you an example, please watch closely.*
+
+**At this point, you will show them how to make a simple coffee, by placing the mug on the dispenser.**
+
+**Trainer:** *We also have a slush machine at Blox-Street that allows our guests to choose from a variety of different flavored Slushies.*
+
+**Trainer:** *This machine requires a COLD CUP.*
+
+**Trainer:** *To dispense a Slush, simply place the COLD CUP up to the slush dispenser of your choice.*
+
+**Trainer:** *You cannot use the handto system in the Training Center. In the store, click the H key if you are on a PC.*
+
+**Trainer:** *If you are on mobile, click the button on the left side of your screen to begin the process.*
+
+**Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
+
+**Trainer:** *We will now begin this test. Please state your greetings.*
+
+**Trainer:**  *Hi! Could I get a Regular Coffee and a Blox Fizz?*
+
+**Wait for a response and the order.**
+
+**_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
