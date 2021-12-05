@@ -11,6 +11,7 @@ This page outlines all changes made to the store, displaying the build number (v
 ### Build 8157 (05/12/2021)
 Added:
 - Build number display (bottom-left of the screen)
+
 Fixed:
 - Bloxbiz will now delay it's load to avoid overusing HTTP requests
 - Blacklisted people can no longer redeem ranks
