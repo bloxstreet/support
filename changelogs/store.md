@@ -17,3 +17,6 @@ Fixed:
 - Blacklisted people can no longer redeem ranks
 - Webhooks will no longer cause spam issues
 - Build number display will no longer overlap "Current Shift" info UI
+
+Removed:
+- Player list rank display (Couldn't see full rank)
