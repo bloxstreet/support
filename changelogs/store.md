@@ -5,7 +5,7 @@ parent: Changelogs
 nav_order: 1
 ---
 
-# Store changelog
+# Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
 ### Build 8157 (05/12/2021)
