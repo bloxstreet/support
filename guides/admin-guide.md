@@ -85,4 +85,19 @@ All major admin abuse (running ;pban all etc.) is **logged** and will result in 
 
 **Logs All Attempts:** Whether or not doing all as a player logs.
 
-Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands in **bold** must not be used AT ALL! Using them could lead to severe consequences.
+Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
+
+_###### :cmds_
+{: .no_toc }
+
+###### :respawn | :res | :refresh | :ref 
+{: .no_toc }
+**Arguments** = A player.
+
+**Allowed** =  You can respawn yourself and anybody who may request it. 
+
+**Not Allowed** = You may NOT do :respawn all, or respawn users who **do not** 
+
+**Punishment** = Ranges from a warning to a permanent ban, depending on the severity. 
+
+**Logs All Attempts:** Whether or not doing all as a player logs.
