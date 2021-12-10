@@ -68,4 +68,17 @@ Downtime, also known to many as, "**THE ADMIN SYSTEM IS NOT WORKING!!!!**", is a
 * A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
 
 ### 4 - Acceptable Usage
-This is the
+This is the main section of the document. It will outline everything that you can and not do with your commands. 
+
+All major admin abuse (running ;pban all etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and developers are notified. 
+
+#### 4A - All commands Usage
+{: .no_toc }
+
+**Arguments** = What you need to supply to run the command. 
+**Allowed** = What you may use this command for. 
+**Not Allowed** = What you may not use this command for. 
+**Punishment** = What happens if you use it inappropriately. 
+**Logs All Attempts:** Whether or not doing all as a player logs.
+
+Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands in **bold** must not be used AT ALL! Using them could lead to severe consequences.
