@@ -56,3 +56,9 @@ When executing commands, you must take care to ensure you are doing it correctly
       ( Exploit logs GUI is then shown as expected) 
       
 ### 2 - Anti-Exploit
+As mentioned at the start of this document, TSA features a built in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the serverity. 
+
+* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system can not detect everything, and only logs when an exploiter is automatically banned.** 
+* If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for a SHR unless they are able to rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
+
+### 2 - Anti-Exploit
