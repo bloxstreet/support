@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Training Guide
+title: Admin Guide
 parent: Guides
 nav_order: 3
 ---
