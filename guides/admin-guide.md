@@ -41,3 +41,9 @@ Depending on the role, you will only be able to perform certain commands. For ex
 
 #### 1B - Executing Commands
 {: .no_toc }
+When executing commands, you must take care to ensure you are doing it correctly. 
+
+* TSA allows you to run a command by typing "/e" in front of a command. You may also use the console to carry out a command. 
+  * To run a command privately with the "/e" method, you need to first open up chat to run a command like you usually would. Before running the command, however, you need to type "/e."
+    * EX: /e :m Hello! 
+* This will make the command private, and this hidden from the chat. 
