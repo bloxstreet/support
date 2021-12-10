@@ -45,12 +45,13 @@ When executing commands, you must take care to ensure you are doing it correctly
 
 * TSA allows you to run a command by typing "/e" in front of a command. 
   * To run a command privately with the "/e" method, you need to first open up chat to run a command like you usually would. Before running the command, however, you need to type "/e."
-    * EX: **_/e :m Hello!_**
+    * EX:  **_/e :m Hello!_**
   * This will make the command private, and this hidden from the chat. 
 * You may also use the console to carry out a command. 
   * To use the console, you need to first press ";" or "'" on your keyboard. This will cause a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
     * EX: ; (Console Opens) 
       **_exploit logs_**
+
       ( Exploit logs GUI is then shown as expected) 
       
 ### 2 - Anti-Exploit
