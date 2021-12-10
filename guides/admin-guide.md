@@ -62,3 +62,9 @@ As mentioned at the start of this document, TSA features a built in Anti-Exploit
 * If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for a SHR unless they are able to rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
 
 ### 3 - Downtime
+Downtime, also known to many as, "**THE ADMIN SYSTEM IS NOT WORKING!!!!**", is a time in which a critical error has occured within the code, stopping all comands being run, and by extension, your admin being given. 
+
+* In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, dm us repeatedly or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems, and are likely fixing them as you worry. 
+* A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.** 
+
+### 4 - Acceptable Usage
