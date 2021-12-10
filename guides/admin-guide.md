@@ -76,9 +76,13 @@ All major admin abuse (running ;pban all etc.) is **logged** and will result in 
 {: .no_toc }
 
 **Arguments** = What you need to supply to run the command. 
+
 **Allowed** = What you may use this command for. 
+
 **Not Allowed** = What you may not use this command for. 
+
 **Punishment** = What happens if you use it inappropriately. 
+
 **Logs All Attempts:** Whether or not doing all as a player logs.
 
 Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands in **bold** must not be used AT ALL! Using them could lead to severe consequences.
