@@ -27,12 +27,12 @@ All members who are ranked Floor Supervisor+ will gain access to various command
 | Floor Supervisor           | good swedish fish | 
 | Assistant Manager | good and plenty   | 
 | Store Manager           | good `oreos`      | 
-| Assistant Director          | good `zoute` drop | 
-| Store Director           | good `zoute` drop | 
-| Executive Assistant           | good `zoute` drop | 
-| Store Executive         | good `zoute` drop | 
-| Junior Moderator           | good `zoute` drop | 
-| Senior Moderator          | good `zoute` drop | 
-| Head Moderator           | good `zoute` drop | 
-| Store Developer          | good `zoute` drop | 
-| Group Owner           | good `zoute` drop | 
+| Assistant Director          | good zoute drop | 
+| Store Director           | good zoute drop | 
+| Executive Assistant           | good zoute drop | 
+| Store Executive         | good zoute drop | 
+| Junior Moderator           | good zoute drop | 
+| Senior Moderator          | good zoute drop | 
+| Head Moderator           | good zoute drop | 
+| Store Developer          | good zoute drop | 
+| Group Owner           | good zoute drop | 
