@@ -50,6 +50,7 @@ When executing commands, you must take care to ensure you are doing it correctly
 * You may also use the console to carry out a command. 
   * To use the console, you need to first press ";" or "'" on your keyboard. This will cause a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
     * EX: ; (Console Opens) 
+      
       **_exploit logs_**
 
       ( Exploit logs GUI is then shown as expected) 
