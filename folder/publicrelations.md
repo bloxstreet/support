@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Public Relations
-parent: folder 
+parent: alliances 
 nav_order: 2
 ---
 
