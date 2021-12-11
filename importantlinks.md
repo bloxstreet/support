@@ -3,7 +3,7 @@ layout: default
 title: Important Links
 nav_order: 5
 has_children: true
-permalink: /changelogs
+permalink: /importantlinks
 ---
 
 # Important Links
