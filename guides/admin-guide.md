@@ -97,11 +97,17 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:crash~~           | N/A. | N/A.  |      N/A.        |     N/A.        |        N/A           |
 | ~~:h (SHOULD NOT BE USED BY ANYONE)~~           | N/A. | N/A.  |  N/A.            |   N/A.          |       N/A.            |
 | :sm / :m (Junior Moderator+ in-store ONLY).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
-| :mod / :admin / :superadmin (DEV+).           | No information.  | No information.  |    No information.          | No information.            |    No information.               |
+| :mod / :admin / :superadmin (DEV+).           | N/A.  | N/A.  |    N/A.          | N/A.            |    N/A.               |
 | :unadmin (Head Moderator+ ONLY.)           | A player. | Only users who are Head Moderator+ may use this command. This can be used for users who are undergoing admin abuse, but do not warrant for a ban.  |   Using this if you are not a Head Moderator+.           |     Permanent ban.        |        Yes.           |
-| :s (DEV+ ONLY).           | No information. | No information.  |   No information.           |     No information.        |                   |
-| :shutdown (Head Moderator+ ONLY).           | Only users who are Head Moderator+ may use this. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+.         |     N/A.       |    No.               |
-| :slock / unslock         | No information. | No information.  |   No information.           |     No information.        |                   |
+| :s (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
+| :shutdown (Head Moderator+ ONLY).           | Only users who are Head Moderator+ may use this. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+.         |     N/A.       |    N/A.               |
+| :slock / unslock (Not to be used at the store. May be used at trainings.        | N.A. | N/A.  |   N/A.           |     N/A.        |       N/A            |
+| :time (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
+| :tp / :bring (Assistant Director+). | Player(s) | Only if a player is stuck somewhere and needs to be freed. | Any other invalid reason. | Warning. If continued, may lead to a demotion. | Yes. 
+| :to | Player. | Needing to be teleported to a certain situation, and any other valid reason. | Unnecessary reasons. | Demotion. | Yes. | 
+| :btools (DEV+ ONLY). | Player. | N/A. | N/A. | Instant termination if used by a user who is not a Developer. | Yes. | 
+| ~~:change~~  | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
+| ~~:ws / :speed~~ | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
 
 | Command Name (No information needed)       |
 |:-------------|
