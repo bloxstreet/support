@@ -142,5 +142,5 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:removetools~~ | 
 | ~~:startergear / :clearstartergear~~ |
 
-### 5 - .Conclusion-red-300
+### 5 - Conclusion
 You reached the end of the Admin Guide! Please ensure that you read **all** the information thoroughly before you use your commands. If you have any questions, please refer back to this Guide or contact a Junior Moderator+.
