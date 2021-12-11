@@ -14,10 +14,9 @@ nav_order: 3
 1. TOC
 {:toc}
 
-## TSA Info 
-A modified version of the Basic Admin Essentials command system. This system is modified to allow for HTTP actions, anti-exploit, and more. Basic Admin Essentials created by **TheFuryFish**. Modified by **Axcracy**. Assisted by **TheCakeChicken**.
+TSA is BloxStreet's administrative system and anti-exploit. Custom developed by axcracy and TheCakeChicken. TSA takes the form of a Discord bot, Roblox module and administrative web panel. Those with TSA permissions can utilise these to perform their duties.
 
-### 1 - Commands
+### Commands
 {: .text-red-300 }
 #### 1A - Permission Levels
 {: .text-grey-dk-000 }
@@ -58,21 +57,23 @@ When executing commands, you must take care to ensure you are doing it correctly
 
       ( Exploit logs GUI is then shown as expected) 
       
-### 2 - Anti-Exploit
+### Anti-Exploit
 {: .text-red-300 }
 As mentioned at the start of this document, TSA features a built in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the serverity. 
 
 * All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system can not detect everything, and only logs when an exploiter is automatically banned.** 
 * If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for a SHR unless they are able to rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
 
-### 3 - Downtime
+### Downtime
 {: .text-red-300 }
-Downtime, also known to many as, "**THE ADMIN SYSTEM IS NOT WORKING!!!!**", is a time in which a critical error has occured within the code, stopping all comands being run, and by extension, your admin being given. 
+Downtime is a time in which a critical error has occured within the code, stopping all commands being run, and by extension, your admin being given.
+
+Click [here](https://status.bloxstreet.store) to view the status of various TSA services.
 
 * In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, dm us repeatedly or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems, and are likely fixing them as you worry. 
 * A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
 
-### 4 - Acceptable Usage
+### Acceptable Usage
 {: .text-red-300 }
 This is the main section of the document. It will outline everything that you can and not do with your commands. 
 
@@ -149,6 +150,6 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:removetools~~ | 
 | ~~:startergear / :clearstartergear~~ |
 
-### 5 - Conclusion
+### Conclusion
 {: .text-red-300 }
 You reached the end of the Admin Guide! Please ensure that you read **all** the information thoroughly before you use your commands. If you have any questions, please refer back to this Guide or contact a Junior Moderator+.
