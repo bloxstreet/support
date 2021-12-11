@@ -19,7 +19,9 @@ nav_order: 3
 A modified version of the Basic Admin Essentials command system. This system is modified to allow for HTTP actions, anti-exploit, and more. Basic Admin Essentials created by **TheFuryFish**. Modified by **Axcracy**. Assisted by **TheCakeChicken**.
 
 ### 1 - Commands
+{: .text-red-300 }
 #### 1A - Permission Levels
+{: .text-grey-dk-000 }
 {: .no_toc }
 All members who are ranked Floor Supervisor+ will gain access to various commands. Ranks and their respective admin levels are shown below. 
 
@@ -41,6 +43,7 @@ All members who are ranked Floor Supervisor+ will gain access to various command
 Depending on the role, you will only be able to perform certain commands. For examples, users with Moderator commands **cannot** run ;pban, but users with Super Admin commands can. 
 
 #### 1B - Executing Commands
+{: .text-grey-dk-000 }
 {: .no_toc }
 When executing commands, you must take care to ensure you are doing it correctly. 
 
@@ -57,23 +60,27 @@ When executing commands, you must take care to ensure you are doing it correctly
       ( Exploit logs GUI is then shown as expected) 
       
 ### 2 - Anti-Exploit
+{: .text-red-300 }
 As mentioned at the start of this document, TSA features a built in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the serverity. 
 
 * All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system can not detect everything, and only logs when an exploiter is automatically banned.** 
 * If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for a SHR unless they are able to rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
 
 ### 3 - Downtime
+{: .text-red-300 }
 Downtime, also known to many as, "**THE ADMIN SYSTEM IS NOT WORKING!!!!**", is a time in which a critical error has occured within the code, stopping all comands being run, and by extension, your admin being given. 
 
 * In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, dm us repeatedly or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems, and are likely fixing them as you worry. 
 * A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
 
 ### 4 - Acceptable Usage
+{: .text-red-300 }
 This is the main section of the document. It will outline everything that you can and not do with your commands. 
 
 All major admin abuse (running ;pban all etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and developers are notified. 
 
 #### 4A - All commands Usage
+{: .text-grey-dk-000 }
 {: .no_toc }
 
 **Arguments** = What you need to supply to run the command. 
@@ -99,7 +106,7 @@ Commands in _italic_ do not have any consequences / information to say about the
 | :mod / :admin / :superadmin (DEV+).           | N/A.  | N/A.  |    N/A.          | N/A.            |    N/A.               |
 | :unadmin (Head Moderator+ ONLY.)           | A player. | Only users who are Head Moderator+ may use this command. This can be used for users who are undergoing admin abuse, but do not warrant for a ban.  |   Using this if you are not a Head Moderator+.           |     Permanent ban.        |        Yes.           |
 | :s (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
-| :shutdown (Head Moderator+ ONLY).           | Only users who are Head Moderator+ may use this. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+.         |     N/A.       |    N/A.               |
+| :shutdown (Head Moderator+ ONLY & Host/Co-Host in trainings).           | Only users who are Head Moderator+ may use this in-store. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+ in-store.         |     N/A.       |    N/A.               |
 | :slock / unslock (Not to be used at the store. May be used at trainings.        | N.A. | N/A.  |   N/A.           |     N/A.        |       N/A            |
 | :time (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |       N/A.            |
 | :tp / :bring (Assistant Director+). | Player(s) | Only if a player is stuck somewhere and needs to be freed. | Any other invalid reason. | Warning. If continued, may lead to a demotion. | Yes. 
@@ -144,4 +151,5 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:startergear / :clearstartergear~~ |
 
 ### 5 - Conclusion
+{: .text-red-300 }
 You reached the end of the Admin Guide! Please ensure that you read **all** the information thoroughly before you use your commands. If you have any questions, please refer back to this Guide or contact a Junior Moderator+.
