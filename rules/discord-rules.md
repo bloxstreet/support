@@ -9,21 +9,21 @@ nav_order: 1
 Our communications server has specific rules for all community members to abide by. Failure to abide by these regulations will result in disciplinary action.
 
 
-**1.** Do not bypass in any chats.
+**1.** Do not bypass in any server channels.
 
-**2.** Do not DM or server advertise. Using our communications server for advertising is strictly prohibited.
+**2.** Do not advertise in our server or in any DMs with a community member. Doing so is strictly prohibited. 
 
 **3.** Do not cause drama or argue with any community member.
 
 **4.** Do not post any suspicious links or files.
 
-**5.** Do not post NSFW (not safe for work content) in server channels.
+**5.** Do not post NSFW (not safe for work content) in any server channel.
 
 **6.** Do not abuse the ticket system.
 
 **7.** Racism, discriminatory language, hate speech, etc. is prohibited.
 
-**8.** Do not leak anyone’s personal information.
+**8.** Do not leak any community member's personal information.
 
 **9.** Be respectful to all server members.
 
@@ -33,7 +33,7 @@ Our communications server has specific rules for all community members to abide 
 
 **12.** Use common sense at all times.
 
-**13.** Administration say is final, respect all administrative decisions.
+**13.** Administration say is final; respect all administrative decisions.
 
 **14.** Malicious communication is strictly prohibited.
 
@@ -52,4 +52,4 @@ Violation of any rules will result in sanctions depending on the severity.
 2. Kick from server.
 3. Moderation ban.
 
-Receive a ban from the server as staff will result in immediate termination of your employment and result in you being blacklisted from our staff team. 
+Receiving a ban from the server as staff will result in immediate termination and blacklist from our staff team.
