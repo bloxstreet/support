@@ -90,7 +90,6 @@ Commands in _italic_ do not have any consequences / information to say about the
 _:cmds_
 
 **:respawn / :res / :refresh / :ref**
-{: .no_toc }
 **Arguments** = A player.
 
 **Allowed** =  You can respawn yourself and anybody who may request it. 
@@ -100,3 +99,42 @@ _:cmds_
 **Punishment** = Ranges from a warning to a permanent ban, depending on the severity. 
 
 **Logs All Attempts:** Whether or not doing all as a player logs.
+
+_:bans / pbans_
+
+_:info_
+
+**:Kick (Assistant Director+)**
+**Arguments** = A player, A Reason. 
+
+**Allowed** =  Any player with 3 or more valid warnings or for a valid reason. 
+
+**Not Allowed** = Anybody with less than 3 warnings or for an invalid reason. 
+
+**Punishment** = Ranges from blacklist to permanent ban, depending on the severity. 
+
+**Logs All Attempts:** Yes. 
+
+
+**:Ban (Assistant Director+)**
+**Arguments** = A player.
+
+**Allowed** =  A player who has a valid reason to be server banned (read Punishment Guide). 
+
+**Not Allowed** = For invalid reasons.
+
+**Punishment** = Ranges from warning to permanent ban. 
+
+**Logs All Attempts:** Yes. 
+
+
+**:unban (Assistant Director+)**
+**Arguments** = A player.
+
+**Allowed** =  A player who has a valid reason to be unbanned (read Punishment Guide). 
+
+**Not Allowed** = For invalid reasons.
+
+**Punishment** = Ranges from warning to permanent ban. 
+
+**Logs All Attempts:** Yes.
