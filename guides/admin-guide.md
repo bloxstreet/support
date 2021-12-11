@@ -140,4 +140,4 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:clear / :clr~~ | 
 | ~~:tools~~ | 
 | ~~:removetools~~ | 
-| ~~:startergear / "clearstartergear~~ | 
+| ~~:startergear / "clearstartergear~~ |
