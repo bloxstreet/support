@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # TSA Admin Guide
+	.text-red-300 
 {: .no_toc }
 
 ## Table of contents
