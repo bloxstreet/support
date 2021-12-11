@@ -95,4 +95,9 @@ Commands in _italic_ do not have any consequences / information to say about the
 | _:info_         |  |   |              |             |                   |
 | :kick (Assistant Director+).           | A player, a reason. | Anyone with 3 or more warnings or for a valid reason.  |  Anyone with 3 or less warnings and for an invalid reason.  | Ranges from a blacklist to a permanent ban, depending on the severity.            |    Yes.               |
 | :ban (Assistant Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
-| :unban (Assistant Director).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
+| :unban (Assistant Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
+| :pban (Junior Moderator+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide).  |  Anyone with an invalid reason.            |  Ranges from a warning to a permanent ban, depending on the severity.           |   Yes.                |
+| ~~:crash~~           |  |   |              |             |                   |
+| ~~:h (SHOULD NOT BE USED BY ANYONE)~~           |  |   |              |             |                   |
+| :sm / :m (Junior Moderator+ in-store ONLY).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
+| _:pm (Junior Moderator+)._           |  |   |              |             |                   |
