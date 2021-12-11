@@ -106,7 +106,8 @@ Commands in _italic_ do not have any consequences / information to say about the
 | :btools (DEV+ ONLY). | Player. | N/A. | N/A. | Instant termination if used by a user who is not a Developer. | Yes. | 
 | :view / :unview | Player. | To watch suspicious players (Ex: exploiters). | Stalking SHRs (Junior Moderator+). | Warning. | Yes. |
 | :ff / :unff | Player. | To be used for Low Ranks at training. | Any other reason. | Warning. | Yes. | 
-| :jump (Junior Moderator+). | If a player is stuck in a seat and can not get out. | Any other reason. | Warning. | Yes. | 
+| :jump (Junior Moderator+). | Player. | If a player is stuck in a seat and can not get out. | Any other reason. | Warning. | Yes. | 
+| :fly (Junior Moderator+). | Player. | If a Junior Moderator needs to supervise. | Any other player using the command. | Warning. | Yes. | 
 
 
 
@@ -122,9 +123,10 @@ Commands in _italic_ do not have any consequences / information to say about the
 | _:joinlogs_           | 
 | _:exploitlogs_           | 
 | _:shutdownlogs_           |
+| _:viewtools_ | 
 
 
-| Command Names That CAN NOT Used (No information needed)       |
+| Command Names that CAN NOT Be Used (No information needed)       |
 |:-------------|
 | ~~:crash~~           |
 | ~~:h (SHOULD NOT BE USED BY ANYONE AT THE STORE, NON-HOSTS AND CO-HOSTS AT TRAINING)~~           | 
@@ -133,3 +135,9 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:jumppower~~ | 
 | ~~:god / :ungod / :heal~~ | 
 | ~~:sit~~ | 
+| ~~:team~~ | 
+| ~~:insert~~ |
+| ~~:clear / :clr~~ | 
+| ~~:tools~~ | 
+| ~~:removetools~~ | 
+| ~~:startergear / "clearstartergear~~ | 
