@@ -24,6 +24,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
   * (**DO NOT** copy and paste in-game).
 
 ## Training Information
+{: .text-red-300 }
 If you decide to host a training, you must consider the following information:
 
 Trainings can only be hosted at the following times:
@@ -48,6 +49,7 @@ Trainings can only be hosted at the following times:
 * Trainers should not rush through the script. Allow your Trainees to have time to read the information you’re providing them.
 
 ## Rank Information
+{: .text-red-300 }
 In this section, you will see an overview of each rank’s job at training sessions. 
 
 | Job        | Description          | Eligible Ranks | Quantity | 
@@ -64,9 +66,11 @@ In this section, you will see an overview of each rank’s job at training sessi
 (Customer, Allied Representative, Noted Customer, Store Intern, Assistant Supervisor, Floor Supervisor, Assistant Manager)
 
 ## Host Scripts
+{: .text-red-300 }
 This section outlines what the duties the host has and what they should say for each. Do not follow this section if you are not the host/co-host.
 
 ### Host: Claiming
+{: .text-yellow-200 }
 {: .no_toc }
 
 At :30, the Host, the Co-host, and the rankers should join the Training Center to prepare for the session.
@@ -79,6 +83,7 @@ At :40, Co-Host should do the first shout on the group page. The group shout tem
 
 
 ### Host: After claiming
+{: .text-yellow-200 }
 {: .no_toc }
 
 As the Trainees join the server, be sure to encourage them to join you in the **HALLWAY (The long hall outside the training room).**
@@ -91,7 +96,8 @@ As the Trainees join the server, be sure to encourage them to join you in the **
 You should keep saying the line above until the start time. Do not constantly spam it… use it when necessary.
 The Host and Co-Host will stand in front of the training room doors. Trainees are to stand on the red lines against the back wall.
 
-### Host/co-host: Training start
+### Host/Co-host: Training Starts
+{: .text-yellow-200 }
 {: .no_toc }
 
 At :00,  the Trainees should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more Trainees from joining and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
@@ -110,7 +116,8 @@ The host and co-host will stand and monitor the Trainees and the presentation to
 
 To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, they should rejoin immediately. The slideshow can only be played once. Be sure to inform the Trainees that they can click on the monitors to get a better view.**
 
-### Host/co-host: After presentation
+### Host/co-host: After Presentation
+{: .text-yellow-200 }
 {: .no_toc }
 
 Once the presentation concludes, LRs are required to remain silent for the host’s instructions.
@@ -130,29 +137,35 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 **_The Trainees are to start at the CAFE section of the training room, then groups may move onto the registers._** 
 
 ## Trainer Scripts
+{: .text-red-300 }
 This section will outline each of the tests the Trainers are expected to perform.
 
 ### Grammar/Greeting Test
+{: .text-purple-100 }
 {: .no_toc }
 
 For the Grammar/Greeting Test, as a Trainer, you must explain how this test works. Have the Trainee show their greeting to you. **IMPORTANT: Do not fail a Trainee for minor grammatical errors. If you are able to understand their greeting easily, you should pass them.** You are always welcome to give out tips if needed. Make sure to give them a tip on copying and pasting their greeting every time, as it makes things much quicker on their behalf. If they pass, continue to the next test.  If they fail, kick them from the server explaining why.
 
 ### Cafe Test
+{: .text-purple-100 }
 {: .no_toc }
 
 The next phase is the Cafe Test. In this test, you will ask them for any available drink of your choosing. Wait for them to make it and say “Of course.”, or something related to that. The Trainee must have understandable grammar in this test. Ensure that Trainees know about the slush machine, and the fact it has different flavors that can be selected once a COLD CUP is touched.
 
 ### Register Test
+{: .text-purple-100 }
 {: .no_toc }
 
 The next phase is the Register Test. Please go through a roleplay of them checking you out (including their greeting). If they don’t know how to send a payment request, explain the process to them! Make sure they use proper grammar and effort. If they pass, continue to the next test. If they fail, kick them from the server, explaining why.
 
 ### Passing Trainees
+{: .text-purple-100 }
 {: .no_toc }
 
 If the Trainee passes, you must use the :ff command on them, and take them to the green line at the front of the Training room. The Host/Co-Host will rank them accordingly, and then kick them from the game.
 
 ### Training process
+{: .text-blue-000 }
 {: .no_toc }
 
 This section will provide the script for Trainers to use. Please try to stick to this layout. You may add emojis. 
@@ -168,6 +181,7 @@ This section will provide the script for Trainers to use. Please try to stick to
 At this point, you must wait for the Trainee to respond. If they reply with a positive answer, implying that they are ready to proceed, skip part and move on. If not, answer any questions they may have, until they are ready to begin. 
 
 ### Grammar / Greeting Test Script
+{: .text-blue-000 }
 {: .no_toc }
 
 At this point, you must conduct the grammar test. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
@@ -187,6 +201,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **_If you can understand their greeting then pass them. Do not be strict. If they lack understandable grammar, you must kick the Trainee from the game, saying they failed._**
 
 ### Cafe Test Script
+{: .text-blue-000 }
 {: .no_toc }
 
 **Trainer:** *Congratulations, you have passed the Greeting Test! We will now move on to the Cafe Test.*
@@ -222,6 +237,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
 ### Register Test Script
+{: .text-blue-000 }
 {: .no_toc }
 
 **Trainer:** *Congratulations, you have passed the Cafe Test. We will now begin the Register Test.*
@@ -240,7 +256,9 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *Is everyone here ready to begin the test? A response from every Trainee is mandatory.*
 
-**_THE REGISTERS IN THE TRAINING CENTER WORK!_** If they say yes, begin.  If they say no, answer any questions until they are ready.*
+**_THE REGISTERS IN THE TRAINING CENTER WORK!_** 
+{: .text-red-100 }
+If they say yes, begin.  If they say no, answer any questions until they are ready.*
 
 
 **Note: This part is the in-test script.**
@@ -262,6 +280,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 **:ff them and take them to the ranking line.**
 
 ## Training Conclusion
+{: .text-red-300 }
 Once the training has ended, there should be no LRs left in the server, and very few MRs or HRs. All Trainers **should’ve left the server** after they’ve finished training. If there are people left, encourage them to leave to go to the store. **Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server, or just shutdown.**
 
 
