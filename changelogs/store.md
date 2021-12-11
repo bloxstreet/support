@@ -8,13 +8,14 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8200 (11/12/2021)
+### Build 8206 (11/12/2021)
 Added:
 - Sandwich shop (Currently open to staff and premium only)
 
 Fixed:
 - Fixed wall issues
 - Fixed light issues
+- Migrated more scripts over to Apollo
 
 ### Build 8164 (05/12/2021)
 Added:
