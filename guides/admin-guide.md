@@ -89,7 +89,7 @@ Commands in _italic_ do not have any consequences / information to say about the
 
 | Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
 |:-------------|:------------------|:------|:-------------|:------------|:------------------|
-| ok           | good swedish fish | nice  |              |             |                   |
-| ok           | good swedish fish | nice  |              |             |                   |
+| _:cmds_           |  |   |              |             |                   |
+| :respawn / :res / :refresh / :ref          | A player | You can respawn yourself and anybody who may request it.  |  You may NOT do :respawn all, or respawn users who **do not** request a resapawn.           |  Ranges from a warning to permanent ban, depending on the severity           |  No.                 |
 | ok           | good swedish fish | nice  |              |             |                   |
 | ok           | good swedish fish | nice  |              |             |                   | 
