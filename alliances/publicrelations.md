@@ -14,4 +14,4 @@ Members of the Public Relations Department are listed below. If you have any que
 | sinfulsvaint | 
 | rqvdnn           |
 | Eclipselcy           |
-| Ser0ton1xn | 
+| Ser0ton1xn |
