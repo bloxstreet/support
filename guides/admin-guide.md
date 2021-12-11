@@ -87,54 +87,9 @@ All major admin abuse (running ;pban all etc.) is **logged** and will result in 
 
 Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
 
-_:cmds_
-
-**:respawn / :res / :refresh / :ref**
-**Arguments** = A player.
-
-**Allowed** =  You can respawn yourself and anybody who may request it. 
-
-**Not Allowed** = You may NOT do :respawn all, or respawn users who **do not** 
-
-**Punishment** = Ranges from a warning to a permanent ban, depending on the severity. 
-
-**Logs All Attempts:** Whether or not doing all as a player logs.
-
-_:bans / pbans_
-
-_:info_
-
-**:Kick (Assistant Director+)**
-**Arguments** = A player, A Reason. 
-
-**Allowed** =  Any player with 3 or more valid warnings or for a valid reason. 
-
-**Not Allowed** = Anybody with less than 3 warnings or for an invalid reason. 
-
-**Punishment** = Ranges from blacklist to permanent ban, depending on the severity. 
-
-**Logs All Attempts:** Yes. 
-
-
-**:Ban (Assistant Director+)**
-**Arguments** = A player.
-
-**Allowed** =  A player who has a valid reason to be server banned (read Punishment Guide). 
-
-**Not Allowed** = For invalid reasons.
-
-**Punishment** = Ranges from warning to permanent ban. 
-
-**Logs All Attempts:** Yes. 
-
-
-**:unban (Assistant Director+)**
-**Arguments** = A player.
-
-**Allowed** =  A player who has a valid reason to be unbanned (read Punishment Guide). 
-
-**Not Allowed** = For invalid reasons.
-
-**Punishment** = Ranges from warning to permanent ban. 
-
-**Logs All Attempts:** Yes.
+| Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
+|:-------------|:------------------|:------|:-------------|:------------|:------------------|
+| ok           | good swedish fish | nice  |              |             |                   |
+| ok           | good swedish fish | nice  |              |             |                   |
+| ok           | good swedish fish | nice  |              |             |                   |
+| ok           | good swedish fish | nice  |              |             |                   |
