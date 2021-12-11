@@ -110,4 +110,4 @@ Commands in _italic_ do not have any consequences / information to say about the
 | _:joinlogs_           | No information. | No information.  |   No information.           |     No information.        |                   |
 | _:exploitlogs_           | No information. | No information.  |   No information.           |     No information.        |                   |
 | _:shutdownlogs_           | No information. | No information.  |   No information.           |     No information.        |                   |
-| :shutdown (Head Moderator+ ONLY).           | Only users who are Head Moderator+ may use this. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | Using it if you are not a Head Moderator+.  |   N/A.          |     No.       |                   |
+| :shutdown (Head Moderator+ ONLY).           | Only users who are Head Moderator+ may use this. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+.         |     N/A.       |    No.               |
