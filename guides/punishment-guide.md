@@ -22,6 +22,7 @@ Some things to note:
 - All of the listed punishments are subject to change based on the severity of the user's actions.
 
 ## Punishments
+{: .text-red-300 } 
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
@@ -36,6 +37,7 @@ Some things to note:
 
 
 ## Staff Punishments
+{: .text-red-300 } 
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
