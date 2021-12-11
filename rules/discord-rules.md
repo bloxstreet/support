@@ -52,4 +52,4 @@ Violation of any rules will result in sanctions depending on the severity.
 2. Kick from server.
 3. Moderation ban.
 
-Receiving a ban from the server as staff will result in immediate termination and blacklist from our staff team.
+Receiving a ban from the server as staff will result in an immediate termination and blacklist from our staff team.
