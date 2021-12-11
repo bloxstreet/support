@@ -12,6 +12,10 @@ This page outlines all changes made to the store, displaying the build number (v
 Added:
 - Sandwich shop (Currently open to staff and premium only)
 
+Fixed:
+- Fixed wall issues
+- Fixed light issues
+
 ### Build 8164 (05/12/2021)
 Added:
 - Extra furnishings to premium hotel rooms
