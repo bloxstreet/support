@@ -101,3 +101,6 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ~~:h (SHOULD NOT BE USED BY ANYONE)~~           |  |   |              |             |                   |
 | :sm / :m (Junior Moderator+ in-store ONLY).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
 | _:pm (Junior Moderator+)._           |  |   |              |             |                   |
+| _:admins_           |  |   |              |             |                   |
+| :mod / :admin / :superadmin (DEV+).           |  |   |              |             |                   |
+| :unadmin (Head Moderator+ ONLY.)           | A player |   |              |             |                   |
