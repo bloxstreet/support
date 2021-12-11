@@ -92,4 +92,4 @@ Commands in _italic_ do not have any consequences / information to say about the
 | ok           | good swedish fish | nice  |              |             |                   |
 | ok           | good swedish fish | nice  |              |             |                   |
 | ok           | good swedish fish | nice  |              |             |                   |
-| ok           | good swedish fish | nice  |              |             |                   |
+| ok           | good swedish fish | nice  |              |             |                   | 
