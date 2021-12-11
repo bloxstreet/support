@@ -87,10 +87,9 @@ All major admin abuse (running ;pban all etc.) is **logged** and will result in 
 
 Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
 
-_###### :cmds_
-{: .no_toc }
+_:cmds_
 
-###### :respawn | :res | :refresh | :ref 
+**:respawn | :res | :refresh | :ref**
 {: .no_toc }
 **Arguments** = A player.
 
