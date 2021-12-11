@@ -222,7 +222,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *To dispense a Slush, simply place the COLD CUP up to the slush dispenser of your choice.*
 
-**Trainer:** *You cannot use the handto system in the Training Center. In the store, click the H key if you are on a PC.*
+**Trainer:** *If you want to use the handto system, click the H key if you are on a PC.*
 
 **Trainer:** *If you are on mobile, click the button on the left side of your screen to begin the process.*
 
@@ -230,7 +230,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *We will now begin this test. Please state your greetings.*
 
-**Trainer:**  *Hi! Could I get a Regular Coffee and a Blox Fizz?*
+**Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
 **Wait for a response and the order.**
 
