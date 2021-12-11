@@ -15,7 +15,6 @@ nav_order: 3
 {:toc}
 
 ## TSA Info 
-{: .text-red-300 }
 A modified version of the Basic Admin Essentials command system. This system is modified to allow for HTTP actions, anti-exploit, and more. Basic Admin Essentials created by **TheFuryFish**. Modified by **Axcracy**. Assisted by **TheCakeChicken**.
 
 ### 1 - Commands
