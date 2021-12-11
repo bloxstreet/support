@@ -19,6 +19,7 @@ This guide is intended for HRs.
 This guide is to assist shift hosts with tasks needed to host a successful shift. Please be sure to read **all** of this guide before hosting your first shift.
 
 ## Shift times
+{: .text-red-300 }
 Shifts can be hosted at **7** different times throughout the day (all times are in EST):
 - 12am
 - 11am
@@ -30,7 +31,8 @@ Shifts can be hosted at **7** different times throughout the day (all times are 
 
 Shifts can only be hosted at the above times. Hosting at any other time will make the shift unauthorized.
 
-## Claiming, roles & ranking
+## Claiming, Roles & Ranking
+{: .text-red-300 }
 - HRs should be claiming shifts with the appropriate process at 4:30pm EST.
 - There can only be **one** host for each shift.
 - Arguing over shifts is not allowed.
@@ -40,6 +42,8 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 - All players that are promoted at a shift should be checked to see if they're on cooldown.
 
 ### Rank cooldowns
+{: .text-grey-dk-000 } 
+{: .no_toc }
 <dl>
   <dt>Store Intern</dt>
   <dd>No cooldown</dd>
@@ -52,11 +56,13 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 </dl>
 
 ## Step-by-step claiming
+{: .text-red-300 }
 1. On the GUI at the top of the screen, click the settings icon.
 2. Once the Staff Panel has opened, click "Shifts" from the menu on the left.
 3. To claim a shift, click the "Start Shift" button within the Shifts menu.
 
 ## Joining & Leaving during a shift
+{: .text-red-300 }
 - Before claiming a shift, make sure you have a good internet connection and can remain at the store for at least 35 minutes.
 - Each shift lasts for 30 minutes, if you know you cannot stay for the entire shift, do not claim it.
 - If you lose connection or disconnect, the shift will be announced as concluded within #session-notice. However, the shift can continue once you rejoin.
