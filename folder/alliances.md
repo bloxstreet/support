@@ -3,7 +3,7 @@ layout: default
 title: Alliances
 nav_order: 5
 has_children: true
-permalink: /alliances
+permalink: /alliances.md 
 ---
 
 # Alliances
