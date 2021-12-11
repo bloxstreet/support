@@ -7,4 +7,4 @@ permalink: /changelogs
 ---
 
 # Important Links
-Here you will find all links that are directly related to BloxStreet. 
+Here you will find all links that are directly related to BloxStreet.
