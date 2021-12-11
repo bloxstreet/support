@@ -90,6 +90,9 @@ Commands in _italic_ do not have any consequences / information to say about the
 | Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
 |:-------------|:------------------|:------|:-------------|:------------|:------------------|
 | _:cmds_           |  |   |              |             |                   |
-| :respawn / :res / :refresh / :ref          | A player | You can respawn yourself and anybody who may request it.  |  You may NOT do :respawn all, or respawn users who **do not** request a resapawn.           |  Ranges from a warning to permanent ban, depending on the severity           |  No.                 |
-| ok           | good swedish fish | nice  |              |             |                   |
-| ok           | good swedish fish | nice  |              |             |                   |
+| :respawn / :res / :refresh / :ref          | A player | You can respawn yourself and anybody who may request it.  |  You may NOT do :respawn all, or respawn users who **do not** request a resapawn.           |  Ranges from a warning to permanent ban, depending on the severity.          |  No.                 |
+| _:bans / pbans_           |  |   |              |             |                   |
+| _:info_         |  |   |              |             |                   |
+| :kick (Assistant Director+).           | A player, a reason. | Anyone with 3 or more warnings or for a valid reason.  |  Anyone with 3 or less warnings and for an invalid reason.  | Ranges from a blacklist to a permanent ban, depending on the severity.            |    Yes.               |
+| :ban (Assistant Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
+| :unban (Assistant Director).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   | 
