@@ -89,7 +89,7 @@ Commands in _italic_ do not have any consequences / information to say about the
 
 _:cmds_
 
-**:respawn | :res | :refresh | :ref**
+**:respawn / :res / :refresh / :ref**
 {: .no_toc }
 **Arguments** = A player.
 
