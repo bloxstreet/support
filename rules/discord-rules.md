@@ -37,7 +37,7 @@ Our communications server has specific rules for all community members to abide 
 
 **14.** Malicious communication is strictly prohibited.
 
-**15.** Opening more then 1 support ticket at a time will result in a sanction. 
+**15.** Opening more than 1 support ticket at a time will result in a punishment.
 
 **16.** Not responding to support after opening a ticket will result in your ticket being closed.
 
