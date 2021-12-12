@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alliance Form
-parent: alliances
+parent: Alliances
 nav_order: 2
 ---
 
