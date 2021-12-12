@@ -7,4 +7,4 @@ permalink: /appeals
 ---
 
 # Appeals 
-This section contains information regarding all appeals made for blacklists, permanent bans, and Discord bans. 
+This section contains information regarding all appeals made for blacklists, permanent bans, and Discord bans.
