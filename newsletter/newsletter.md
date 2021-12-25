@@ -8,4 +8,4 @@ permalink: /newsletter
 
 # NewsLetter 
 
-In this section, you will find all editions of the BloxStreet newsletter! 
+In this section, you will find all editions of the BloxStreet newsletter!
