@@ -23,3 +23,5 @@ In this section, you will find the December 2021 Edition!
 ![12](https://user-images.githubusercontent.com/93451050/147391212-412481f0-4c59-4f3d-ab9a-4dead35d5b85.png)
 ![13](https://user-images.githubusercontent.com/93451050/147391214-90ff050f-8fd4-414d-aba3-28e57cd694be.png)
 ![14](https://user-images.githubusercontent.com/93451050/147391215-6cb55a46-19d0-4c1f-ae8c-158370f112ee.png)
+
+[Feedback form!](https://bit.ly/bloxstreetnewsletterfeedback)
