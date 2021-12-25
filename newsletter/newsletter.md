@@ -4,7 +4,6 @@ title: Newsletters
 nav_order: 7
 has_children: true
 permalink: /newsletter
-has_toc: true
 ---
 
 # NewsLetter 
