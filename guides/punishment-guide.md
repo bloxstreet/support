@@ -53,7 +53,7 @@ Some things to note:
 | Free ranking | Permanent ban | Staff |
 | Reclaiming a rank once blacklisted | Permanent ban | Staff |
 | Abuse of admin commands (:to, :bring, etc) | Blacklist | Staff |
-| Trolling at alliance events | Demotion to customer | Staff |
+| Trolling/unprofessionalism at alliances | Demotion to customer | Staff |
 | Using :view on a SHR | Verbal warning | Staff |
 | Disrespect, arguing or ignoring a HR | Demotion to customer | Staff |
 | Trolling, spamming or caps abuse | Blacklist | Staff |
