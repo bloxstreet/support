@@ -8,12 +8,13 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8231 (25/12/2021) - Unreleased
+### Build 8236 (25/12/2021) - Unreleased
 Added:
 - Character scale button & gamepass - Become small!
 
 Fixed:
 - DataStore module failing to display data for some players on join
+- Morph cooldown & gamepass messages not displaying
 
 Removed:
 - Build number GUI display (Use the Esc menu > Help or the Dev Console (F9) to see the current build)
