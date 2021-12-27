@@ -34,6 +34,7 @@ Some things to note:
 | Inappropriate roleplay | Permanent ban | Everyone |
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Bypassing | Permanent ban | Everyone |
+| Playing inappropriate or loud audio | Permanent ban | Everyone |
 
 
 ## Staff Punishments
