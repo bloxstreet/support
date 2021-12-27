@@ -52,7 +52,7 @@ Some things to note:
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
 | Free ranking | Permanent ban | Staff |
-| Reclaiming a rank once blacklisted | Permanent ban | Staff |
+| Reclaiming a rank once fired or blacklisted | Permanent ban | Staff |
 | Abuse of admin commands (:to, :bring, etc) | Blacklist | Staff |
 | Trolling/unprofessionalism at alliances | Demotion to customer | Staff |
 | Using :view on a SHR | Verbal warning | Staff |
