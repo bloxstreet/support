@@ -62,3 +62,5 @@ Some things to note:
 | Unprofessional behaviour | Blacklist | Staff |
 | Leaking chats | Blacklist / permanent ban | Staff |
 | Advertising on the group wall | Blacklist | Staff |
+| Hosting an unofficial shift or training session | Permanent ban | Staff | 
+| Abusing the group shout | Permanent ban | Staff 
