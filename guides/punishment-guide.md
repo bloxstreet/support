@@ -18,8 +18,9 @@ This guide is intended for everyone.
 Below is a list of rules and the punishment that is given for breaking them. Some rules may only apply to staff, some may apply to everyone.
 
 Some things to note:
-- Higher ranks may receive more severe punishments
+- Higher ranks may receive more severe punishments.
 - All of the listed punishments are subject to change based on the severity of the user's actions.
+- Not all punishments are listed here. Use common sense.
 
 ## Punishments
 {: .text-red-300 } 
