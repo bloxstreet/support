@@ -10,8 +10,8 @@ Members of the Public Relations Department are listed below. If you have any que
 
 | Public Relations Department Members      | 
 |:-------------|
-| unsightvls           | 
-| sinfulsvaint | 
-| rqvdnn           |
-| Eclipselcy           |
-| Ser0ton1xn |
+| sinfuIsvaint - Head Moderator           | 
+| unsightvls - Head Moderator | 
+| rqvdnn - Senior Moderator         |
+| Ser0ton1xn - Senior Moderator           |
+| EclipseIcy - Junior Moderator |
