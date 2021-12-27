@@ -61,3 +61,4 @@ Some things to note:
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Leaking chats | Blacklist / permanent ban | Staff |
+| Advertising on the group wall | Blacklist | Staff |
