@@ -44,12 +44,3 @@ Our communications server has specific rules for all community members to abide 
 **17.** Failure to put a reason in the support box will result in a warning.
 
 
-Violation of any rules will result in sanctions depending on the severity.
-
-
-**_Moderation Strikes._**
-1. Warning / mute.
-2. Kick from server.
-3. Moderation ban.
-
-Receiving a ban from the server as staff will result in an immediate termination and blacklist from our staff team.
