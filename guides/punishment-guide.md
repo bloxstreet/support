@@ -67,4 +67,5 @@ Some things to note:
 | Leaking chats | Blacklist / permanent ban | Staff |
 | Advertising on the group wall | Blacklist | Staff |
 | Hosting an unofficial shift or training session | Permanent ban | Staff | 
-| Abusing the group shout | Permanent ban | Staff 
+| Abusing the group shout | Permanent ban | Staff |
+| Handing random items to a player or multiple players | Blacklist | Staff |
