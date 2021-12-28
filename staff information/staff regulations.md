@@ -16,13 +16,13 @@ nav_order: 1
       • Any BloxStreet hoodie
       • Any BloxStreet hoodie with the LR badge
       • Any pants
-
-Assistant Supervisor - Store Manager:
-• MR/HR uniform
-• MR/HR uniform with the MR badge
-• Any BloxStreet hoodie
-• Any BloxStreet hoodie with the MR badge
-• Any pants
+  * Assistant Supervisor - Store Manager:
+  {: .text-grey-dk-000}
+      • MR/HR uniform
+      • MR/HR uniform with the MR badge
+      • Any BloxStreet hoodie
+      • Any BloxStreet hoodie with the MR badge
+      • Any pants
 
 Assistant Director - Store Executive:
 • Any appropriate clothing with the HR badge
