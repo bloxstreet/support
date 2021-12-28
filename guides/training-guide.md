@@ -47,6 +47,7 @@ Trainings can only be hosted at the following times:
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should be seated/standing near the large monitors. 
 * Hosts are required to select a trusted HR to announce training at the store.
 * Trainers should not rush through the script. Allow your Trainees to have time to read the information you’re providing them.
+* The limit is five excess trainers. Do not cause arguments.
 
 ## Rank Information
 {: .text-red-300 }
