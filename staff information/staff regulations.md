@@ -53,3 +53,10 @@ nav_order: 1
   *  **Store Manager+ can train at training sessions**
   *  **Assistant Director+ can host shifts**
   *  **Store Director+ can supervise the store**
+* Please respect all decisions made by SHRs.
+* Do not instigate drama. If you have an issue with a fellow staff member, please report it to a Junior Moderator+. Keep all personal drama **OUT** of the staff team.
+* Do not make unnecessary announcements with the announcement feature on the staff panel.
+* Don't intervene with Junior Moderator+ moderation. We know what we're doing, and minimods are not needed nor appreciated.
+* Hinting for a promotion for yourself or another staff member is prohibited.
+* Simping for Junior Moderator+ will not be tolerated. Please don't suck up to Junior Moderator+ staff for promotions.
+* Don't try to find ways to avoid these rules. Use common sense at all times.
