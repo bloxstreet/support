@@ -13,37 +13,37 @@ nav_order: 1
 * All staff need to wear their uniform while at the store.
   * **Trainee Team Member - Store Intern:**
   {: .text-grey-dk-000}
-      * Any BloxStreet hoodie
+      - Any BloxStreet hoodie
       {:.fs-2}
-      * Any BloxStreet hoodie with the LR badge
+      - Any BloxStreet hoodie with the LR badge
       {:.fs-2}
-      * Any pants
+      - Any pants
       {:.fs-2}
   * **Assistant Supervisor - Store Manager:**
   {: .text-grey-dk-000}
-      * MR/HR uniform
+      - MR/HR uniform
       {:.fs-2}
-      * MR/HR uniform with the MR badge
+      - MR/HR uniform with the MR badge
       {:.fs-2}
-      * Any BloxStreet hoodie
+      - Any BloxStreet hoodie
       {:.fs-2}
-      * Any BloxStreet hoodie with the MR badge
+      - Any BloxStreet hoodie with the MR badge
       {:.fs-2}
-      * Any pants
+      - Any pants
       {:.fs-2}
   * Assistant Director - Store Executive:
   {: .text-grey-dk-000}
-      * Any appropriate clothing with the HR badge
+      - Any appropriate clothing with the HR badge
       {:.fs-2}
-      * MR/HR uniform
+      - MR/HR uniform
       {:.fs-2}
-      * MR/HR uniform with the HR badge
+      - MR/HR uniform with the HR badge
       {:.fs-2}
-      * Any BloxStreet hoodie
+      - Any BloxStreet hoodie
       {:.fs-2}
-      * Any BloxStreet hoodie with HR badge
+      - Any BloxStreet hoodie with HR badge
       {:.fs-2}
-      * Any pants
+      - Any pants
       {:.fs-2}
 * Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
 * Professionalism is required while in public eye. Assistant Supervisor+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
