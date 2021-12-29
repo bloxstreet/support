@@ -42,6 +42,21 @@ The registers are the main job at the store. All staff must be able to know how 
 
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
+### Hotel
+{:.text-blue-000}
+
+The Hotel is one of our many store departments. Customers can rent a suite of their preference. Keep in mind that **Store Intern+** may run the hotel.
+
+**Step 1:** Customers will approach you with their order. You should greet them with a friendly greeting.
+
+**Step 2:** Click the "Check in" GUI in the register in front of you. 
+
+**Step 3:** Go through the tutorial if you haven't already. 
+
+**Step 4:** From the home screen, press the check in button (left), then enter your target's name and select the **Room Type** they prefer. Finally, click **Confirm.** To check someone out, press the check out button (right), then enter your target's name and click **Confirm.**
+
+**Step 5:** Wish the customer to have a great day.
+
 ### Pharmacy
 {:.text-blue-000}
 
