@@ -30,6 +30,7 @@ There are multiple factors the administration team looks at when promoting a Sto
 If you are a Store Manager+, you should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication in order to have a chance of a promotion. Junior Moderator+ can promote Store Managers at random times every day. These promotions are more difficult than Store Intern - Assistant Manager ones and often require time and effort.
 
 ## Cooldowns 
+{:.text-red-300}
 Most BloxStreet ranks have cooldowns. A cooldown is a period of time when you cannot be promoted.
 
 | Cooldowns | 
