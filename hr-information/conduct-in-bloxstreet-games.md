@@ -19,4 +19,4 @@ nav_order: 1
 
 # Rule Breaking at Other Establishments
 
-Please remember that trolling, exploiting or some sort of rule breaking at other establishments, no matter if it’s an alliance group or not, will not be tolerated. If you’re caught doing so, you will be demoted/fired/blacklisted/pbanned depending on the severity of your actions. You have to follow all rules and regulations when joining Roblox games other than BloxStreet games. Please remember to behave as it could damage our group’s reputation when breaking rules at other establishments.
+Please remember that trolling, exploiting, or some sort of rule breaking at other establishments, no matter if it’s an alliance group or not, will not be tolerated. If you’re caught doing so, you will be punished. You have to follow all rules and regulations when joining Roblox games other than BloxStreet games. Please remember to behave, as it could damage our group’s reputation when breaking rules at other establishments.
