@@ -19,4 +19,4 @@ Members of the Staffing Department are listed below. If you have any questions, 
 | leahvs - Senior Moderator |
 | lilywan - Senior Moderator |
 | vaenuh - Senior Moderator |
-| rysphobia - Senior Moderator | 
+| rysphobia - Senior Moderator |
