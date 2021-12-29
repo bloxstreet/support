@@ -28,7 +28,7 @@ These commands are available for you to use while in-game:
 While you are on the Employees team, you are on-duty and are expected to work. While on the Customers team, you can play as a customer. All staff members are allowed to do this.
 
 ### Register
-{:.text-yellow-300}
+{:.text-blue-000}
 
 The registers are the main job at the store. All staff must be able to know how the registers function.
 
@@ -43,7 +43,7 @@ The registers are the main job at the store. All staff must be able to know how 
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
 ### Pharmacy
-{:.text-yellow-300}
+{:.text-blue-000}
 
 The pharmacy is one of our many store departments. Customers can get medicine here.
 
@@ -54,7 +54,7 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 **Step 3:** After you've given the customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
 
 ### Electronics Department
-{:.text-yellow-300}
+{:.text-blue-000}
 
 The technology department is one of our many store departments. At this department, guests can check out any **electronics.** If a guest desires to check out an item that is not an electronic, inform them to head over to the main registers.
 
@@ -69,4 +69,4 @@ The technology department is one of our many store departments. At this departme
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
 ### Cleaining
-{:.text-yellow-300}
+{:.text-blue-000}
