@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conduct in BloxStreet Games
+title: Conduct
 parent: HR Information
 nav_order: 1
 ---
