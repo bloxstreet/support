@@ -58,8 +58,11 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 ## Step-by-step claiming
 {: .text-red-300 }
 1. On the GUI at the top of the screen, click the settings icon.
+![Untitled design (1)](https://user-images.githubusercontent.com/93451050/147700076-04846343-1593-4dc0-badb-3c1bd9c77a93.png)
 2. Once the Staff Panel has opened, click "Shifts" from the menu on the left.
+![Untitled design (2)](https://user-images.githubusercontent.com/93451050/147700092-895521eb-c6a4-4ce4-a6ef-a3feb16fa4ee.png)
 3. To claim a shift, click the "Start Shift" button within the Shifts menu.
+![Untitled design (3)](https://user-images.githubusercontent.com/93451050/147700105-02f5e424-a85a-4e2a-89de-2a10b1b2705e.png)
 
 ## Joining & Leaving during a shift
 {: .text-red-300 }
