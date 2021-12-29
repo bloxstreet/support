@@ -5,7 +5,14 @@ parent: Staff Information
 nav_order: 2
 ---
 # Store Jobs
+{: .no_toc }
 Here you will find all the ways at which you can work at BloxStreet! 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Information 
 {:.text-red-300} 
