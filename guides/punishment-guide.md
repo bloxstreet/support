@@ -69,3 +69,4 @@ Some things to note:
 | Hosting an unofficial shift or training session | Permanent ban | Staff | 
 | Abusing the group shout | Permanent ban | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
+| Using the :to command unnecessarily or multiple times | Demotion one rank down | Staff |
