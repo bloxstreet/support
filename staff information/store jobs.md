@@ -93,3 +93,11 @@ Items around the store will randomly go out of stock. It will be your job to ens
 **Step 4:** Click or touch the empty product notification. Your box should be unequipped.
 
 **Step 5:** The item will automatically restock once you click the shelf.
+
+### Supervision
+{:.text-blue-000}
+
+Supervision is the process where Store Director+ oversee the store to ensure all operations are smooth.
+
+* Only **Store Director+** can supervise
+* Store Directors, Executive Assistants, and Store Executives should be overseeing all store departments and answering any questions that guests and staff members might have
