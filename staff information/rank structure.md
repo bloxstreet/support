@@ -27,3 +27,10 @@ Here you will find all the ranks at which you can be promoted to in BloxStreet.
 * Floor Supervisor
 * Assistant Manager
 * Store Manager
+
+## High Ranks
+{:.text-red-300}
+* Assistant Director
+* Store Director
+* Executive Assistant
+* Store Executive
