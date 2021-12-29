@@ -5,6 +5,7 @@ parent: HR Information
 nav_order: 1
 ---
 
+
 # Conduct in BloxStreet Games
 
 *  While in a BloxStreet game, behavior matters! Acting unprofessionally has a bad look on our group and HR team.
