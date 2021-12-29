@@ -14,4 +14,7 @@ Members of the Public Relations Department are listed below. If you have any que
 | unsightvls - Head Moderator | 
 | rqvdnn - Senior Moderator         |
 | Ser0ton1xn - Senior Moderator           |
-| EclipseIcy - Junior Moderator |
+| EclipseIcy - Senior Moderator |
+| ovllie - Senior Moderator |
+| Chvvrlie - Senior Moderator |
+| truelywillow - Senior Moderator |
