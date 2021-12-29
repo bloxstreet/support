@@ -10,7 +10,7 @@ Thank you for wanting to alliance with BloxStreet! Before you continue, please r
 
 ## Requirements
 {: .text-red-300 } 
-- Your group must have at least **15,000** nonbotted members.
+- Your group must have at least **30,000** nonbotted members.
 - Your group must have professional staff members and be professional.
 - Your group must be a company. We do not allow fan groups, etc. as alliances.
 - Your group must be active, meaning it has a steady player count of **20** or more players.
