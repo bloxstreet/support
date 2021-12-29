@@ -27,8 +27,12 @@ These commands are available for you to use while in-game:
 
 While you are on the Employees team, you are on-duty and are expected to work. While on the Customers team, you can play as a customer. All staff members are allowed to do this.
 
+## Store Departments 
+{:.text-red-300} 
+
 ### Register
 {:.text-blue-000}
+{: .no_toc }
 
 The registers are the main job at the store. All staff must be able to know how the registers function.
 
@@ -44,6 +48,7 @@ The registers are the main job at the store. All staff must be able to know how 
 
 ### Hotel
 {:.text-blue-000}
+{: .no_toc }
 
 The Hotel is one of our many store departments. Customers can rent a suite of their preference. Keep in mind that **Store Intern+** may run the hotel.
 
@@ -59,6 +64,7 @@ The Hotel is one of our many store departments. Customers can rent a suite of th
 
 ### Pharmacy
 {:.text-blue-000}
+{: .no_toc }
 
 The pharmacy is one of our many store departments. Customers can get medicine here.
 
@@ -70,6 +76,7 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 
 ### Electronics Department
 {:.text-blue-000}
+{: .no_toc }
 
 The technology department is one of our many store departments. At this department, guests can check out any **electronics.** If a guest desires to check out an item that is not an electronic, inform them to head over to the main registers.
 
@@ -85,6 +92,8 @@ The technology department is one of our many store departments. At this departme
 
 ### Cafe
 {:.text-blue-000}
+{: .no_toc }
+
 The cafe is a department in the store. Customers can come here to relax and enjoy a delectable treat after a long shopping trip. It'll be your job to ensure they're in good hands!
 
 **Step 1:** Customers will approach you at your cafe register. You should greet them with a friendly greeting.
@@ -95,34 +104,9 @@ The cafe is a department in the store. Customers can come here to relax and enjo
 
 **Step 4:** After you've given the customer their requested items, thank them for shopping at BloxStreet and remind them to come again soon.
 
-### Cleaning
-{:.text-blue-000}
-
-Spills will randomly appear around the store. Customers have been leaving litter, and it's up to you to ensure our store is appealing and welcoming for new visitors.
-
-**Step 1:** Grab a mop from the staff room or storage room. Simply walk up to the mop giver, hold "E" (or touch on Mobile), and you'll be given a mop.
-
-**Step 2:** Walk up to a spill with your mop equipped. Hold "E" or hold the button on Mobile, and then you'll start cleaning.
-
-**Step 3:** You will be frozen in place for 20 seconds while you clean. Afterwards, you'll be given one point and the spill will disappear.
-
-### Restocking
-{:.text-blue-000}
-
-Items around the store will randomly go out of stock. It will be your job to ensure that all items have been restocked so guests can enjoy their experiences.
-
-**Step 1:** Find an empty product that needs to be restocked.
-
-**Step 2:** Grab a box from the staff room. The storage room can be found near the Vision Center.
-
-**Step 3:** Go back to the empty product.
-
-**Step 4:** Click or touch the empty product notification. Your box should be unequipped.
-
-**Step 5:** The item will automatically restock once you click the shelf.
-
 ### SubShoppe
 {:.text-blue-000}
+{: .no_toc }
 
 The SubShoppe is one of our many store departments. Customers & staff members will be able to purchase a variety of sandwiches. 
 
@@ -136,6 +120,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 ### Vision Center
 {:.text-blue-000}
+{: .no_toc }
 
 The Vision Center is one of our many store departments. Customers can conduct an eye exam and recieve a consultation on vision wear. 
 
@@ -147,8 +132,40 @@ The Vision Center is one of our many store departments. Customers can conduct an
 
 **Step 4:** Wish the customer to have a great day. 
 
+## Staff Tasks
+{:.text-red-300} 
+
+### Cleaning
+{:.text-blue-000}
+{: .no_toc }
+
+Spills will randomly appear around the store. Customers have been leaving litter, and it's up to you to ensure our store is appealing and welcoming for new visitors.
+
+**Step 1:** Grab a mop from the staff room or storage room. Simply walk up to the mop giver, hold "E" (or touch on Mobile), and you'll be given a mop.
+
+**Step 2:** Walk up to a spill with your mop equipped. Hold "E" or hold the button on Mobile, and then you'll start cleaning.
+
+**Step 3:** You will be frozen in place for 20 seconds while you clean. Afterwards, you'll be given one point and the spill will disappear.
+
+### Restocking
+{:.text-blue-000}
+{: .no_toc }
+
+Items around the store will randomly go out of stock. It will be your job to ensure that all items have been restocked so guests can enjoy their experiences.
+
+**Step 1:** Find an empty product that needs to be restocked.
+
+**Step 2:** Grab a box from the staff room. The storage room can be found near the Vision Center.
+
+**Step 3:** Go back to the empty product.
+
+**Step 4:** Click or touch the empty product notification. Your box should be unequipped.
+
+**Step 5:** The item will automatically restock once you click the shelf.
+
 ### Supervision
 {:.text-blue-000}
+{: .no_toc }
 
 Supervision is the process where Store Director+ oversee the store to ensure all operations are smooth.
 
