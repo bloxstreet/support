@@ -107,6 +107,18 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 4:** Hand the sandwich to the customer by clicking on H and entering their username. Wish the customer to have a great day.
 
+### Vision Center
+{:.text-blue-000}
+
+The Vision Center is one of our many store departments. Customers can conduct an eye exam and recieve a consultation on vision wear. 
+
+**Step 1:** Customers will approach you with their vision issues. You should greet them with a friendly greeting.
+
+**Step 2:** Direct them to the eye exam of their choosing. Have them read out all the letters/shapes from the exam that they pick.
+
+**Step 3:** After the eye exam, lead the customer to the glasses aisle. Have them choose which glasses they prefer best. 
+
+**Step 4:** Wish the customer to have a great day. 
 
 ### Supervision
 {:.text-blue-000}
