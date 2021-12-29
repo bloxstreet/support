@@ -11,42 +11,12 @@ nav_order: 1
 {: .text-red-300 } 
 * All staff members must abide by the regulations in [#rules & info](https://discord.gg/bloxstreet)
 * All staff need to wear their uniform while at the store.
-  * **Trainee Team Member - Store Intern:**
-  {: .text-grey-dk-000}
-  
-      *Any BloxStreet hoodie*
-      
-      *Any BloxStreet hoodie with the LR badge*
-      
-      *Any pants*
-      
-  * **Assistant Supervisor - Store Manager:**
-  {: .text-grey-dk-000}
-  
-      *MR/HR uniform*
-      
-      *MR/HR uniform with the MR badge*
-      
-      *Any BloxStreet hoodie*
-      
-      *Any BloxStreet hoodie with the MR badge*
-      
-      *Any pants*
-      
-  * **Assistant Director - Store Executive:**
-  {: .text-grey-dk-000}
-  
-      *Any appropriate clothing with the HR badge*
-      
-      *MR/HR uniform*
-      
-      *MR/HR uniform with the HR badge*
-      
-      *Any BloxStreet hoodie*
-      
-      *Any BloxStreet hoodie with the MR badge*
-      
-      *Any pants*
+ 
+ | Ranks       | Any BloxStreet hoodie    | Any BloxStreet hoodie with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
+|:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
+| Trainee Team Member-Store Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
+| Assistant Supervisor-Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
+| Assistant Director-Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
       
 * Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
 * Professionalism is required while in public eye. Assistant Supervisor+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
