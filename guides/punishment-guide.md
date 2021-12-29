@@ -36,7 +36,7 @@ Some things to note:
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Bypassing or attempting to bypass| Permanent ban | Everyone |
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
-| Death threats | Permanent ban | Everyone |
+| Major death threats - saying "die" is not major | Permanent ban | Everyone |
 | Alternate account of a banned user | Server ban | Everyone |
 | Spreading false rumors | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
