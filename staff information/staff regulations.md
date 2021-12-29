@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Staff Regulations 
+Here you will find all regulations for staff members in-game and in the communications server.
 
 ## Rules
 {: .text-red-300 } 
