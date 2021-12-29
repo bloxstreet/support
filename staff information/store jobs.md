@@ -68,6 +68,18 @@ The technology department is one of our many store departments. At this departme
 
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
+### Cafe
+{:.text-blue-000}
+The cafe is a department in the store. Customers can come here to relax and enjoy a delectable treat after a long shopping trip. It'll be your job to ensure they're in good hands!
+
+**Step 1:** Customers will approach you at your cafe register. You should greet them with a friendly greeting.
+
+**Step 2:** After the customer selects their items, it will be your job to prepare them. Head over to the counter located behind the cafe registers and make the requested items.
+
+**Step 3:** Hand the customer their requested items. To give an order, hold out the item, and then click the letter H and follow the instructions. If you are on mobile, click the button on the left side of your screen to begin the process.
+
+**Step 4:** After you've given the customer their requested items, thank them for shopping at BloxStreet and remind them to come again soon.
+
 ### Cleaning
 {:.text-blue-000}
 
