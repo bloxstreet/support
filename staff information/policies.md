@@ -29,4 +29,5 @@ Thank you for purchasing a rank at BloxStreet - your donation is appreciated. As
 {:.text-red-300}
 If you are **demoted** or **blacklisted** for any reason, reclaiming a rank immediately after facing consequences will lead to a **permanent ban.** If you would like to appeal a staff blacklist, you may read more [here](https://docs.google.com/forms/d/e/1FAIpQLSeP_tOjFug8pv5pd31Yf5JHdCKfwJi1cgx2pLFKd67W5w2r-A/viewform).
 
-
+## Strike Policy
+{:.text-red-300}
