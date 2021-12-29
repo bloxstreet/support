@@ -7,4 +7,5 @@ nav_order: 2
 # Store Jobs
 Here you will find all the ways at which you can work at BloxStreet! 
 
-# Information 
+## Information 
+{:.text-red-300} 
