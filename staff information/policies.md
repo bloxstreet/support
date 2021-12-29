@@ -37,3 +37,8 @@ If you are **demoted** or **blacklisted** for any reason, reclaiming a rank imme
 * Strikes are **permanent.** Once assigned, they can not be removed.
 * Recieving **three** strikes is a demotion. 
 * If you get demoted, you are free to work your way back up! 
+
+## Resignation Policy
+{:.text-red-300}
+Resignations are **FINAL**. No reranks will be offered if you change your mind. Please think over resignations carefully. They are a big thing and you need to be certain. You **WON'T** be ranked back after you resign. Reranks are also not given to users who are demoted. 
+
