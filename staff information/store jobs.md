@@ -94,6 +94,20 @@ Items around the store will randomly go out of stock. It will be your job to ens
 
 **Step 5:** The item will automatically restock once you click the shelf.
 
+### SubShoppe
+{:.text-blue-000}
+
+The SubShoppe is one of our many store departments. Customers & staff members will be able to purchase a variety of sandwiches. 
+
+**Step 1:** Customers will approach you with their order. You should greet them with a friendly greeting.
+
+**Step 2:** Press the cutting board to recieve access to the bread. 
+
+**Step 3:** Place whatever toppings the customer desires. Finish the sub by pressing on the cutting board again. 
+
+**Step 4:** Hand the sandwich to the customer by clicking on H and entering their username. Wish the customer to have a great day.
+
+
 ### Supervision
 {:.text-blue-000}
 
