@@ -61,3 +61,5 @@ The technology department is one of our many store departments. At this departme
 
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
+### Cleaining
+{:.text-yellow-300}
