@@ -23,11 +23,14 @@ nav_order: 2
 
 Co-hosts should use these group shouts.
 
+### IF YOU DON’T HAVE SAFECHAT:
 ```
-IF YOU DON’T HAVE SAFECHAT: (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center in () minutes. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
+(TRAINING) | Hosted by (username) | A training session will be starting at the Training Center in () minutes. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
 ```
+
+### IF YOU HAVE SAFECHAT:
 ```
-IF YOU HAVE SAFECHAT: (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
+(TRAINING) | Hosted by (username) | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
 ```
 ```
 (TRAINING) | Hosted by (username) | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the cafe and purchase a refreshing drink?
