@@ -25,7 +25,7 @@ These commands are available for you to use while in-game:
 
 * **!stopwork** -> Joins you to the Customers team and prevents you from working.
 
-While you are on the Employees team, you are on-duty and are expected to work. While on the Customers team, you can play as a customer. All staff members are allowed to do this.
+While you are on the Employees team, you are on-duty and are expected to work. While on the Customers team, you can play as a customer. All staff members **except** High Ranks are allowed to do this.
 
 ## Store Departments 
 {:.text-red-300} 
