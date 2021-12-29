@@ -6,7 +6,7 @@ nav_order: 5
 ---
 # Rank Structure
 {: .no_toc }
-Here you will find all the ranks at which you can be promoted to in BloxStreet.
+Here you will find all the ranks offered at BloxStreet!
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -34,3 +34,11 @@ Here you will find all the ranks at which you can be promoted to in BloxStreet.
 * Store Director
 * Executive Assistant
 * Store Executive
+
+## Administrative Ranks
+{:.text-red-300}
+* Junior Moderator
+* Senior Moderator
+* Head Moderator
+* Store Developer
+* Group Holder
