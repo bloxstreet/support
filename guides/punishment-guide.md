@@ -37,7 +37,7 @@ Some things to note:
 | Bypassing or attempting to bypass| Permanent ban | Everyone |
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
 | Death threats | Permanent ban | Everyone |
-| Alternate account of a banned user | Permanent ban | Everyone |
+| Alternate account of a banned user | Server ban | Everyone |
 | Spreading false rumors | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
 
