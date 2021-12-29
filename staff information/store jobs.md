@@ -68,7 +68,7 @@ The technology department is one of our many store departments. At this departme
 
 **Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
-### Cleaining
+### Cleaning
 {:.text-blue-000}
 
 Spills will randomly appear around the store. Customers have been leaving litter, and it's up to you to ensure our store is appealing and welcoming for new visitors.
@@ -76,3 +76,8 @@ Spills will randomly appear around the store. Customers have been leaving litter
 **Step 1:** Grab a mop from the staff room or storage room. Simply walk up to the mop giver, hold "E" (or touch on Mobile), and you'll be given a mop.
 
 **Step 2:** Walk up to a spill with your mop equipped. Hold "E" or hold the button on Mobile, and then you'll start cleaning.
+
+**Step 3:** You will be frozen in place for 20 seconds while you clean. Afterwards, you'll be given one point and the spill will disappear.
+
+### Restocking
+{:.text-blue-000}
