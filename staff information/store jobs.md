@@ -81,3 +81,15 @@ Spills will randomly appear around the store. Customers have been leaving litter
 
 ### Restocking
 {:.text-blue-000}
+
+Items around the store will randomly go out of stock. It will be your job to ensure that all items have been restocked so guests can enjoy their experiences.
+
+**Step 1:** Find an empty product that needs to be restocked.
+
+**Step 2:** Grab a box from the staff room. The storage room can be found near the Vision Center.
+
+**Step 3:** Go back to the empty product.
+
+**Step 4:** Click or touch the empty product notification. Your box should be unequipped.
+
+**Step 5:** The item will automatically restock once you click the shelf.
