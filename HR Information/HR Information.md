@@ -11,7 +11,28 @@ permalink: /hr information
 This guide is intended for high ranks.
 Below is some important information you need to know as a HR.
 
-## Conduct on BloxStreet Games
+##Communication in BloxStreet
+{: .text-red-300 }
+
+### Leaking
+
+Leaking will result in consequences and can lead to a pban. If you find someone leaking, report that in a ticket to a SHR immediately.
+Leaking includes referencing chat names, sending screenshots or information from chats, sharing confidential information, and sharing links to documents that lower ranks can not access normally in public chats.
+
+### Gossiping
+
+•   Gossiping is when someone talks about an individual negatively behind their backs.
+•   Gossiping about SHRs or staff members is prohibited.
+•   If caught, gossiping will result in an instant termination and unappealable permanent ban. 
+
+### Suicidal Thoughts/Actions
+
+•  Please refrain from discussing suicide or self-harm in the BloxStreet Discord or in DMs with a community member. Some may find this upsetting or distressing.
+• We are mostly teenagers and not qualified to help with these issues. Please talk to a professional or someone you trust instead.
+• You may go on inactivity notice to take a break from BloxStreet. 
+
+
+# Conduct on BloxStreet Games
 {: .text-red-300 }
 
 •  While in a BloxStreet game, behavior matters! Acting unprofessionally has a bad look on our group and HR team.
@@ -27,29 +48,6 @@ Below is some important information you need to know as a HR.
 {: .text-red-300 }
 
 Please remember that trolling, exploiting or some sort of rule breaking at other establishments, no matter if it’s an alliance group or not, will not be tolerated. If you’re caught doing so, you will be demoted/fired/blacklisted/pbanned depending on the severity of your actions. You have to follow all rules and regulations when joining Roblox games other than BloxStreet games. Please remember to behave as it could damage our group’s reputation when breaking rules at other establishments.
-
-
-
-## Leaking
-{: .text-red-300 }
-
-Leaking will result in consequences and can lead to a pban. If you find someone leaking, report that in a ticket to a SHR immediately.
-Leaking includes referencing chat names, sending screenshots or information from chats, sharing confidential information, and sharing links to documents that lower ranks can not access normally in public chats.
-
-
-## Gossiping
-{: .text-red-300 }
-
-•   Gossiping is when someone talks about an individual negatively behind their backs.
-•   Gossiping about SHRs or staff members is prohibited.
-•   If caught, gossiping will result in an instant termination and unappealable permanent ban. 
-
-## Suicidal Thoughts/Actions
-{: .text-red-300 }
-
-•  Please refrain from discussing suicide or self-harm in the BloxStreet Discord or in DMs with a community member. Some may find this upsetting or distressing.
-• We are mostly teenagers and not qualified to help with these issues. Please talk to a professional or someone you trust instead.
-• You may go on inactivity notice to take a break from BloxStreet. 
 
 
 ## Rank Purchasing
