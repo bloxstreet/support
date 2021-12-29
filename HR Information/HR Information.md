@@ -11,7 +11,7 @@ permalink: /hr information
 This guide is intended for high ranks.
 Below is some important information you need to know as a HR.
 
-##Communication in BloxStreet
+## Communication in BloxStreet
 {: .text-red-300 }
 
 ### Leaking
