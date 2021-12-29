@@ -34,8 +34,8 @@ If you are **demoted** or **blacklisted** for any reason, reclaiming a rank imme
 **Please note the following:**
 {:.text-red-000}
 * Only **Junior Moderator+** can hand out strikes. 
-* Strikes are **permanent.** Once assigned, they can not be removed.
-* Recieving **three** strikes is a demotion. 
+* Strikes are **permanent.** Once assigned, they cannot be removed.
+* Receiving **three** strikes is a demotion. 
 * If you get demoted, you are free to work your way back up! 
 
 ## Resignation Policy
