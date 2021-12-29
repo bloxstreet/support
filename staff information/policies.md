@@ -27,7 +27,7 @@ Thank you for purchasing a rank at BloxStreet - your donation is appreciated. As
 
 ## Reclaiming Policy
 {:.text-red-300}
-If you are **demoted** or **blacklisted** for any reason, reclaiming a rank immediately after facing consequences will lead to a **permanent ban.** If you would like to appeal a staff blacklist, you may read more [here](https://docs.google.com/forms/d/e/1FAIpQLSeP_tOjFug8pv5pd31Yf5JHdCKfwJi1cgx2pLFKd67W5w2r-A/viewform).
+If you are **demoted** or **blacklisted** for any reason, reclaiming a rank immediately after facing consequences will lead to a **permanent ban.** If you would like to appeal a staff blacklist, you may read more [here](https://support.bloxstreet.store/appeals/pbanandblacklist.html).
 
 ## Strike Policy
 {:.text-red-300}
@@ -48,3 +48,9 @@ Resignations are **FINAL**. No reranks will be offered if you change your mind. 
 As a staff member, you're allowed to transfer your rank onto another account. If you wish to do so, create a ticket in the BloxStreet communications server. 
 
 You cannot transfer your rank onto another account if you are hacked or banned by Roblox. 
+
+## Hacked Policy 
+{:.text-red-300}
+BloxStreet does not offer rank transfers if your account has been hacked. We expect you to keep your account safe and secure. Your account is **100%** your responsibility.
+
+If you're an MR or HR and your account is hacked, you **must** inform an SHR immediately.
