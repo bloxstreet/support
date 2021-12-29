@@ -21,3 +21,9 @@ Here you will find all the ranks at which you can be promoted to in BloxStreet.
 * Senior Team Member
 * Store Intern
 
+## Middle Ranks
+{:.text-red-300} 
+* Assistant Supervisor
+* Floor Supervisor
+* Assistant Manager
+* Store Manager
