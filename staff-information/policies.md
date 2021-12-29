@@ -14,9 +14,9 @@ Here you will find all enforced policies at BloxStreet.
 1. TOC
 {:toc}
 
-## Rank Purchase Policy
+## Points Policy
 {:.text-red-300}
-Thank you for purchasing a rank at BloxStreet - your donation is appreciated. As a thank you from us, you receive a rank, depending on the amount of points you used. 
+Thank you for purchasing points at BloxStreet - your donation is appreciated. As a thank you from us, you receive a rank, depending on the amount of points you used. 
 
 **Please note the following:**
 {:.text-red-000}
