@@ -9,9 +9,10 @@ nav_order: 2
 
 ## Shift Shouts
 
-```
+~~~
 (SHIFT) | Hosted by (username) | Hello, everyone! I’m elated to announce that I’ll be hosting a shift at the store. Store Interns, Assistant Supervisors, Floor Supervisors, and Assistant Managers have a chance of getting promoted. 
-```
+~~~
+
 ```
 (SHIFT) Hosted by (username) | The shift has unfortunately concluded. Congratulations to everyone who was promoted! The store is still open for both guests and staff members.
 ```
