@@ -49,3 +49,6 @@ Most BloxStreet ranks have cooldowns. A cooldown is a period of time when you ca
 | Store Executive: None |
 
 Working at the store while on cooldown will increase your chances of a promotion.
+
+## Points 
+{:.text-red-300}
