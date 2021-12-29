@@ -8,7 +8,7 @@ nav_order: 6
 {: .no_toc }
 Here you will find all enforced policies at BloxStreet. 
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
