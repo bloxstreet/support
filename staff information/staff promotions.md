@@ -52,3 +52,16 @@ Working at the store while on cooldown will increase your chances of a promotion
 
 ## Points 
 {:.text-red-300}
+Another way to rank up at BloxStreet is by earning points! Earning a certain amount of in-game points means you will be ranked to a certain rank using the **Shop** GUI. Photoshopping evidence of your points or/and cheating is strictly prohibited and will result in severe consequences. The amounts of points you must acquire for each rank can be found below.
+
+| Points | 
+|:----------|
+| **Store Intern:** 400 |
+| **Assistant Supervisor:** 800 |
+| **Floor Supervisor:** 1,000 |
+| **Assistant Manager:** 2,000 |
+| **Store Manager:** 5,000 |
+| **Assistant Director:** 8,000 |
+| **Store Director:** 10,000 |
+**Executive Assistant:** 14,000
+**Store Executive:** 18,000
