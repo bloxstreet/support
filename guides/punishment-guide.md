@@ -71,3 +71,4 @@ Some things to note:
 | Handing random items to a player or multiple players | Blacklist | Staff |
 | Using the :to command unnecessarily or multiple times | Demotion one rank down | Staff |
 | Failing to hide TSA commands | Three verbal warnings and then a demotion one rank down | Staff | 
+| Faking a resignation | One verbal warning | Staff |
