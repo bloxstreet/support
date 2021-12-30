@@ -57,8 +57,9 @@ In this section, you will see an overview of each rank’s job at training sessi
 |:-------------|:------------------|:------|:-------------------|
 | Host | Leads the training and states the Host Intro. The Host also claims the training and ranks trainees (Executive Assistant). | Anybody ranked **Store Director or Higher**.  | **1** Host per training. |
 | Co-Host | Helps lead the training. The Co-Host also ranks trainees (Exeuctive Assisant+), administer group shouts, and takes training attendance. | Anybody ranked **Store Director or Higher**.  | **1** Host per training. |
-| Ranker           | Ranks all Low Ranks that pass. | Anybody ranked **Executive Assisant or Higher**. | **2-3** Rankers per training. 
-| Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their trainees and deterimines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher**. | Maximum of **15 trainers** (1 trainer per counter).  |
+| Ranker           | Ranks all Low Ranks that pass. | Anybody ranked **Executive Assistant or Higher**. | **2-3** Rankers per training. 
+| Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their trainees and deterimines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **15 trainers** (1 trainer per counter).  |
+| Excess Trainers | Anyone ranked **Store Manager or Higher** | Maximum of **5 excess trainers** |
 | Trainees | Attends training and follows all instructions to recieve a possible promotion. | **Trainee Team Members - Senior Team Members**. | No maximum. | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a Spectator arrives, they can not be turned down by the Host or Co-host). | No maximum. | 
 
