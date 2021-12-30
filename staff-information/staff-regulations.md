@@ -10,8 +10,8 @@ Here you will find all regulations for staff members in-game and in the communic
 
 ## Rules
 {: .text-red-300 } 
-1.  All staff members must abide by the regulations in [#rules & info](https://discord.gg/bloxstreet)
-2.  All staff need to wear their uniform while at the store.
+>  All staff members must abide by the regulations in [#rules & info](https://discord.gg/bloxstreet)
+>  All staff need to wear their uniform while at the store.
  
  | Ranks       | Any BloxStreet hoodie    | Any BloxStreet hoodie with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
