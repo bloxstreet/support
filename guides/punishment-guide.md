@@ -70,3 +70,4 @@ Some things to note:
 | Abusing the group shout | Permanent ban | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
 | Using the :to command unnecessarily or multiple times | Demotion one rank down | Staff |
+| Failing to hide TSA commands | Three verbal warnings and then a demotion one rank down | Staff | 
