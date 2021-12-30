@@ -55,6 +55,7 @@ Some things to note:
 | Lack of Grammar | 3 verbal warnings and then a demotion one rank down | Assistant Supervisor - Store Manager |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Floor Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
+| Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Trolling/unprofessionalism at alliances | Demotion to Customer | Staff |
 | Disrespect, arguing or ignoring an HR | Demotion to Customer | Staff |
