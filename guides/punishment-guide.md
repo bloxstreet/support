@@ -39,7 +39,8 @@ Some things to note:
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
 | Major death threats - saying "die" is not major | Permanent ban | Everyone |
 | Spreading false rumors | Permanent ban | Everyone | 
-| Inappropriate avatar or username | Permanent ban | Everyone | 
+| Inappropriate avatar or username | Permanent ban | Everyone |
+| Joking about serious topics or suicidal thoughts | Permanent ban | Everyone |
 
 ## Staff Punishments
 {: .text-red-300 } 
