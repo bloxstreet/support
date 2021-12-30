@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-TSA is BloxStreet's administrative system and anti-exploit. Custom developed by axcracy and TheCakeChicken. TSA takes the form of a Discord bot, Roblox module and administrative web panel. Those with TSA permissions can utilise these to perform their duties.
+TSA is BloxStreet's administrative system and anti-exploit, custom developed by axcracy and TheCakeChicken. TSA takes the form of a Discord bot, Roblox module, and administrative web panel. Those with TSA permissions can utilize these to perform their duties.
 
 ### Commands
 {: .text-red-300 }
