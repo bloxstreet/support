@@ -47,7 +47,7 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Hinting for promotion | Verbal warning | Staff |
+| Hinting for a promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
 | Using :view on a SHR | Verbal warning | Floor Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
