@@ -8,7 +8,14 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8236 (25/12/2021) - Unreleased
+### Build 8248 (30/12/2021)
+Added:
+- Added ranking sticks for administrators
+
+Fixed:
+- Morph button can no longer be spammed to make yourself really, really small.
+
+### Build 8236 (25/12/2021)
 Added:
 - Character scale button & gamepass - Become small!
 
