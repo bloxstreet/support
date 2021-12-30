@@ -30,16 +30,16 @@ Some things to note:
 | Trolling | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Caps abuse (5+ sentences entirely in caps) | Server ban | Everyone |
+| Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
+| Alternate account of a banned user | Server ban | Everyone | 
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
 | Inappropriate roleplay | Permanent ban | Everyone |
-| Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Bypassing or attempting to bypass| Permanent ban | Everyone |
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
 | Major death threats - saying "die" is not major | Permanent ban | Everyone |
-| Alternate account of a banned user | Server ban | Everyone |
 | Spreading false rumors | Permanent ban | Everyone | 
-| Inappropriate avatar or username | Permanent ban | Everyone |
+| Inappropriate avatar or username | Permanent ban | Everyone | 
 
 ## Staff Punishments
 {: .text-red-300 } 
