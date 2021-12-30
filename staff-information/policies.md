@@ -27,7 +27,7 @@ Thank you for purchasing points at BloxStreet - your donation is appreciated. As
 
 ## Reclaiming Policy
 {:.text-red-300}
-If you are **demoted** or **blacklisted** for any reason, reclaiming a rank immediately after facing consequences will lead to a **permanent ban.** If you would like to appeal a staff blacklist, you may read more [here](https://support.bloxstreet.store/appeals/pbanandblacklist.html).
+If you have been **demoted** or **blacklisted** for any reason, reclaiming a rank immediately after facing consequences will lead to a **permanent ban.** If you would like to appeal a staff blacklist, you may read more [here](https://support.bloxstreet.store/appeals/pbanandblacklist.html).
 
 ## Strike Policy
 {:.text-red-300}
