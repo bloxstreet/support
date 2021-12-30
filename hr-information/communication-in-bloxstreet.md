@@ -25,5 +25,5 @@ Leaking includes referencing chat names, sending screenshots or information from
 {: .text-red-300 }
 
 * Please refrain from discussing suicide or self-harm in the BloxStreet Discord or in DMs with a community member. Some may find this upsetting or distressing.
-* We are mostly teenagers and not qualified to help with these issues. Please talk to a professional or someone you trust instead.
+* We are mostly teenagers and are not qualified to help with these issues. Please talk to a professional or someone you trust instead.
 * You may go on inactivity notice to take a break from BloxStreet. 
