@@ -31,8 +31,8 @@ Trainings can only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
-| 10AM EST (Only on weekends)           | 
-| 12PM EST (Only on weekends) | 
+| 10AM EST            | 
+| 12PM EST           | 
 | 2PM EST           | 
 | 4PM EST           | 
 | 7PM EST          |
