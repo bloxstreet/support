@@ -42,7 +42,7 @@ Added:
 - Build number display (bottom-left of the screen)
 
 Fixed:
-- Bloxbiz will now delay it's load to avoid overusing HTTP requests
+- Bloxbiz will now delay its load to avoid overusing HTTP requests
 - Blacklisted people can no longer redeem ranks
 - Webhooks will no longer cause spam issues
 - Build number display will no longer overlap "Current Shift" info UI
