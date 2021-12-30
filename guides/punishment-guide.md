@@ -51,13 +51,13 @@ Some things to note:
 | Incorrect uniform | Verbal warning | Staff |
 | Using :view on a SHR | Verbal warning | Floor Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
-| Lack of Grammar | 1 verbal warning then report to an SHR | High Ranks |
+| Lack of Grammar | Verbal warning and then report to an SHR | High Ranks |
 | Lack of Grammar | 3 verbal warnings then a demotion one rank down | Assistant Supervisor - Store Manager |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Floor Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
-| Refusal to wear correct uniform | Demotion to customer | Staff |
-| Trolling/unprofessionalism at alliances | Demotion to customer | Staff |
-| Disrespect, arguing or ignoring an HR | Demotion to customer | Staff |
+| Refusal to wear correct uniform | Demotion to Customer | Staff |
+| Trolling/unprofessionalism at alliances | Demotion to Customer | Staff |
+| Disrespect, arguing or ignoring an HR | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
