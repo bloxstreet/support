@@ -49,27 +49,27 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Hinting for promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
-| Refusal to wear correct uniform | Demotion to customer | Staff |
+| Using :view on a SHR | Verbal warning | Floor Supervisor+ |
+| Faking a resignation | Verbal warning | Staff |
+| Lack of Grammar | 1 verbal warning then report to an SHR | High Ranks |
 | Lack of Grammar | 3 verbal warnings then a demotion one rank down | Assistant Supervisor - Store Manager |
-| Lack of Grammar | 1 verbal warning then report to SHR | High Ranks |
+| Failing to hide TSA commands | Three verbal warnings and then a demotion one rank down | Floor Supervisor+ |
+| Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | Three verbal warnings and then a demotion to Customer |
+| Refusal to wear correct uniform | Demotion to customer | Staff |
+| Trolling/unprofessionalism at alliances | Demotion to customer | Staff |
+| Disrespect, arguing or ignoring an HR | Demotion to customer | Staff |
 | Cuff abuse | Blacklist | Staff |
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
-| Free ranking | Permanent ban | Executive Assistant+ |
-| Reclaiming a rank once fired or blacklisted | Permanent ban | Staff |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Floor Supervisor+ |
-| Trolling/unprofessionalism at alliances | Demotion to customer | Staff |
-| Using :view on a SHR | Verbal warning | Floor Supervisor+ |
-| Disrespect, arguing or ignoring an HR | Demotion to customer | Staff |
 | Trolling, spamming or caps abuse | Blacklist | Staff |
-| Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
-| Leaking chats | Blacklist / permanent ban | Staff |
 | Advertising on the group wall | Blacklist | Staff |
-| Hosting an unofficial shift or training session | Permanent ban | High Ranks | 
-| Abusing the group shout | Permanent ban | High Ranks |
 | Handing random items to a player or multiple players | Blacklist | Staff |
-| Failing to hide TSA commands | Three verbal warnings and then a demotion one rank down | Floor Supervisor+ | 
-| Faking a resignation | One verbal warning | Staff |
-| Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | Three verbal warnings and then a demotion to Customer
+| Reclaiming a rank once fired or blacklisted | Permanent ban | Staff |
+| Hosting an unofficial shift or training session | Permanent ban | High Ranks |
+| Abusing the group shout | Permanent ban | High Ranks |
+| Free ranking | Permanent ban | Executive Assistant+ |
+| Simping for a higher rank | Blacklist / permanent ban | Staff |
+| Leaking chats | Blacklist / permanent ban | Staff |
