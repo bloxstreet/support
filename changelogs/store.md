@@ -8,12 +8,13 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8248 (30/12/2021)
+### Build 8250 (30/12/2021)
 Added:
 - Added ranking sticks for administrators
 
 Fixed:
 - Morph button can no longer be spammed to make yourself really, really small.
+- Debounce on shelf items (2 second wait between taking any item)
 
 ### Build 8236 (25/12/2021)
 Added:
