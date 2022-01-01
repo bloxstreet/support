@@ -68,10 +68,10 @@ Some things to note:
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
+| Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
 | Reclaiming a rank once fired or blacklisted | Permanent ban | Staff |
 | Hosting an unofficial shift or training session | Permanent ban | High Ranks |
 | Abusing the group shout | Permanent ban | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Leaking chats | Blacklist / permanent ban | Staff |
-| Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
