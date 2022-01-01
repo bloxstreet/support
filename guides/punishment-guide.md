@@ -74,3 +74,4 @@ Some things to note:
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Leaking chats | Blacklist / permanent ban | Staff |
+| Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
