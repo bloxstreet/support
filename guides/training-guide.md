@@ -172,7 +172,7 @@ If the Trainee passes, you must use the :ff command on them, and take them to th
 
 This section will provide the script for Trainers to use. Please try to stick to this layout. You may add emojis. 
 
-**Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I am your trainer for today.*
+**Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I will be your trainer for today.*
 
 **Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
 
@@ -206,7 +206,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations, you have passed the Greeting Test! We will now move on to the Cafe Test.*
+**Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
 
 **Trainer:** *In this test, treat me as a guest who has approached your cafe register. Make sure to say your greeting when I approach you.*
 
@@ -214,7 +214,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 
 **Trainer:** *Before we begin, I will show you how to make a Coffee. Please pay attention, and avoid going AFK, as the information is for your success.*
 
-**Trainer:** *1st, click on the Cup/Mug. When you have the cup, put in the type of coffee the guest told you to make. I’ll show you an example, please watch closely.*
+**Trainer:** *Firstly, click on the Cup/Mug. When you have the cup, put in the type of coffee the guest told you to make. I’ll show you an example, please watch closely.*
 
 **At this point, you will show them how to make a simple coffee, by placing the mug on the dispenser.**
 
@@ -242,7 +242,7 @@ At this point, you must conduct the grammar test. Read Section **Grammar/Greetin
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations, you have passed the Cafe Test. We will now begin the Register Test.*
+**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Register Test.*
 
 **AT THIS POINT, PLEASE MOVE TO THE REGISTERS ON THE OTHER SIDE OF THE TRAINING ROOM.**
 
@@ -271,7 +271,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-**Trainer:** *Congratulations, you have passed the Register Test! You have completed all tests, meaning we can now conclude this training.*
+**Trainer:** *Congratulations, you have all passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
 
 **Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
