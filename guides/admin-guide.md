@@ -38,7 +38,7 @@ All members who are ranked Floor Supervisor+ will gain access to various command
 | Store Developer          | Creator | 
 | Group Owner           | Creator | 
 
-Depending on the role, you will only be able to perform certain commands. For examples, users with Moderator commands **cannot** run ;pban, but users with Super Admin commands can. 
+Depending on the role, you will only be able to perform certain commands. For example, users with Moderator commands **cannot** run ;pban, but users with Super Admin commands can. 
 
 #### 1B - Executing Commands
 {: .text-grey-dk-000 }
@@ -46,7 +46,7 @@ Depending on the role, you will only be able to perform certain commands. For ex
 When executing commands, you must take care to ensure you are doing it correctly. 
 
 * TSA allows you to run a command by typing "/e" in front of a command. 
-  * To run a command privately with the "/e" method, you need to first open up chat to run a command like you usually would. Before running the command, however, you need to type "/e."
+  * To run a command privately with the "/e" method, you need to first open up the chat to run a command like you usually would. Before running the command, however, you need to type "/e."
     * EX:  **_/e :m Hello!_**
   * This will make the command private, and this hidden from the chat. 
 * You may also use the console to carry out a command. 
@@ -59,19 +59,19 @@ When executing commands, you must take care to ensure you are doing it correctly
       
 ### Anti-Exploit
 {: .text-red-300 }
-As mentioned at the start of this document, TSA features a built in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the serverity. 
+As mentioned at the start of this document, TSA features a built-in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the severity. 
 
-* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system can not detect everything, and only logs when an exploiter is automatically banned.** 
-* If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for a SHR unless they are able to rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
+* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
+* If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for an SHR unless they can rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
 
 ### Downtime
 {: .text-red-300 }
-Downtime is a time in which a critical error has occured within the code, stopping all commands being run, and by extension, your admin being given.
+Downtime is a time in which a critical error has occurred within the code, stopping all commands being run, and by extension, your admin being given.
 
 Click [here](https://status.bloxstreet.store) to view the status of various TSA services.
 
-* In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, dm us repeatedly or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems, and are likely fixing them as you worry. 
-* A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
+* In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, DM us repeatedly, or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems and are likely fixing them as you worry. 
+* A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
 
 ### Acceptable Usage
 {: .text-red-300 }
@@ -93,7 +93,7 @@ All major admin abuse (running ;pban all etc.) is **logged** and will result in 
 
 **Logs All Attempts:** Whether or not doing all as a player logs.
 
-Commands in _italic_ do not have any consequences / information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
+Commands in _italic_ do not have any consequences/information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
 
 | Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
 |:-------------|:------------------|:------|:-------------|:------------|:------------------|
@@ -152,4 +152,4 @@ Commands in _italic_ do not have any consequences / information to say about the
 
 ### Conclusion
 {: .text-red-300 }
-You reached the end of the Admin Guide! Please ensure that you read **all** the information thoroughly before you use your commands. If you have any questions, please refer back to this Guide or contact a Junior Moderator+.
+You reached the end of the Admin Guide! Please ensure that you read **all** the information thoroughly before you use your commands. If you have any questions, please refer back to this guide or contact a Junior Moderator+.
