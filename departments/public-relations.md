@@ -14,7 +14,7 @@ Members of the Public Relations Department are listed below. If you have any que
 | aIvornes - Head Moderator | 
 | dyIusive - Senior Moderator         |
 | auhqvrs - Senior Moderator           |
-| ecliqvrss - Senior Moderator |
+| EclipseIcy - Senior Moderator |
 | ovllie - Senior Moderator |
 | Chvvrlie - Senior Moderator |
 | svruls - Senior Moderator |
