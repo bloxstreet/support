@@ -15,8 +15,8 @@ Members of the Staffing Department are listed below. If you have any questions, 
 | sincerelyyryan - Head Moderator | 
 | Schelley - Senior Moderator         |
 | KAIT0_KlD - Senior Moderator           |
-| fatou_rocks - Senior Moderator |
-| leahvs - Senior Moderator |
+| alqvring - Senior Moderator |
+| acruvse - Senior Moderator |
 | lilywan - Senior Moderator |
 | vaenuh - Senior Moderator |
 | rysphobia - Senior Moderator |
