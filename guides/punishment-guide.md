@@ -35,7 +35,7 @@ Some things to note:
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
 | Inappropriate roleplay | Permanent ban | Everyone |
-| Bypassing or attempting to bypass| Permanent ban | Everyone |
+| Bypassing or attempting to bypass | Permanent ban | Everyone |
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
 | Major death threats - saying "die" is not major | Permanent ban | Everyone |
 | Spreading false rumors | Permanent ban | Everyone | 
@@ -51,20 +51,20 @@ Some things to note:
 | Incorrect uniform | Verbal warning | Staff |
 | Using :view on an SHR | Verbal warning | Floor Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
-| Lack of Grammar | Verbal warning and then report to an SHR | High Ranks |
-| Lack of Grammar | 3 verbal warnings and then a demotion one rank down | Assistant Supervisor - Store Manager |
+| Lack of grammar | Verbal warning and then report to an SHR | High Ranks |
+| Lack of grammar | 3 verbal warnings and then a demotion one rank down | Assistant Supervisor - Store Manager |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Floor Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
 | Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Trolling/unprofessionalism at alliances | Demotion to Customer | Staff |
-| Disrespect, arguing or ignoring an HR | Demotion to Customer | Staff |
+| Disrespect, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Floor Supervisor+ |
-| Trolling, spamming or caps abuse | Blacklist | Staff |
+| Trolling, spamming, or caps abuse | Blacklist | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
