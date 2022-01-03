@@ -13,7 +13,7 @@ Here you will find all regulations for staff members in-game and in the communic
 - All staff members must abide by the regulations in [#rules & info](https://discord.gg/bloxstreet)
 - All staff need to wear their uniform while at the store.
  
- | Ranks       | Any BloxStreet hoodie    | Any BloxStreet hoodie with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
+ | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
 | Trainee Team Member-Store Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
 | Assistant Supervisor-Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
