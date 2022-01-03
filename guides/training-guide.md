@@ -44,7 +44,7 @@ Trainings can only be hosted at the following times:
 * To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :30. Trainers (Store Managers and HRs) should not join until :40. When in-game, make sure to use the GUI to set yourself as the Host. 
     - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
-* Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should be seated/standing near the large monitors. 
+* Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store.
 * Trainers should not rush through the script. Allow your Trainees to have time to read the information you’re providing them.
 * The limit is five excess trainers. Do not cause arguments.
@@ -84,25 +84,22 @@ At :40, the Co-Host should do the first shout on the group page. The group shout
 **_NOTE: AFTER YOU HAVE CLAIMED IN-GAME, YOU CANNOT LEAVE THE SERVER, OR YOU WILL RECEIVE CONSEQUENCES! DO NOT CLAIM IF YOU KNOW YOU ARE HAVING INTERNET RELATED ISSUES, THAT MIGHT MEAN YOU GET DISCONNECTED, ETC._** 
 
 
-### Host: After claiming
+### Host: After Claiming
 {: .text-yellow-200 }
 {: .no_toc }
 
-As the LRs join the server, be sure to encourage them to find a seat at a table.**
+As the LRs join the server, be sure to encourage them to enter the building and stand on the red lines.
 
-**Host:** *Welcome to all of our staff members joining! Please find a seat at a table and sit down while you wait.*
+**Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions that you might have.*
 
+You should keep saying the line above until the start time. Do not spam it… use it when necessary.
+The Host and Co-Host will stand in front of the red lines. LRs are expected to enter the building and stand on the red lines.
 
-**Host:** *All LRs should be sitting at any of the available tables. Your trainer will answer any questions that you might have.*
-
-You should keep saying the lines above until the start time. Do not spam them… use them when necessary.
-The Host and Co-Host will stand towards the front of the Training Center. LRs are expected to find a seat at a table or stand near a table.
-
-### Host/Co-host: Training Starts
+### Host/Co-Host: Training Starts
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :00, the LRs should quietly stand/sit at any of the available tables, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
+At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
@@ -118,7 +115,7 @@ The host and co-host will stand and monitor the Trainees and the presentation to
 
 To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once. Be sure to inform the LRs that they can click on the monitors to get a better view.**
 
-### Host/co-host: After Presentation
+### Host/Co-Host: After Presentation
 {: .text-yellow-200 }
 {: .no_toc }
 
@@ -126,17 +123,16 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 
 **Host:** *Thank you for paying attention during the presentation. You will now receive further instructions about this training.*
 
-**TRAINERS WILL CONTINUE SITTING AT A TABLE OR STANDING NEAR ONE AFTER THE PRESENTATION HAS ENDED.**
+**LRs WILL CONTINUE STANDING ON THE RED LINES AFTER THE PRESENTATION HAS ENDED.**
 
-**Co-Host:** *LRs, please stand and form a line facing me. Your order in the line does not matter. You will be teleported when a trainer is available.*
+**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available.*
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
 **At this point, the Host will teleport LRs to trainers. Try to keep an eye on where the LRs are to ensure you don’t teleport someone currently being trained.**
 
-**Anybody who decides to idle during training should be kicked._**
+**Anybody who decides to idle during training should be kicked.**
 
-**_The LRs are to start at the CAFE section of the training room, then groups may move onto the registers._** 
 
 ## Trainer Scripts
 {: .text-red-300 }
@@ -154,6 +150,18 @@ For the Grammar/Greeting Test, as a trainer, you must explain how this test work
 
 The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. Wait for them to make it and say “Of course," or something related to that. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and the fact it has different flavors that can be selected once a COLD CUP is touched.
 
+### Restocking Explanation
+{: .text-purple-100 }
+{: .no_toc }
+
+The next part of training is the Restocking Explanation. In this explanation, you will be responsible for informing your LRs about the restocking process at BloxStreet.
+
+### Pharmacy Explanation
+{: .text-purple-100 }
+{: .no_toc }
+
+The next part of training is the Pharmacy Explanation. In this explanation, you will be responsible for informing your LRs about the pharmacy in BloxStreet.
+
 ### Register Test
 {: .text-purple-100 }
 {: .no_toc }
@@ -166,7 +174,7 @@ The final part of training is the Register Test. Please go through a roleplay of
 
 If your LRs pass, you must use the :ff command on them, and take them to the green line in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game.
 
-### Training process
+### Training Process
 {: .text-blue-000 }
 {: .no_toc }
 
@@ -240,19 +248,61 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
+### Restocking Explanation Script
+{: .text-blue-000 }
+{: .no_toc }
+
+**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Restocking Explanation.
+
+**Trainer:** *In BloxStreet's store, items can run out of stock. As a staff member, it is your responsibility to restock items so guests can have a wonderful experience at the store.
+
+**Trainer:** *The first step to restock an item is to find an empty shelf.*
+
+**Trainer:** *The second step to restock an item is to grab a box from the staff room and then head back to the empty shelf.*
+
+**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.
+
+**Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking. If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
+
+**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them.*
+
+**Wait for your LRs to speak.**
+
+**__If an LR responds, pass them for this explanation. If an LR does not respond, fail them.__**
+
+### Pharmacy Explanation Script
+{: .text-blue-000 }
+{: .no_toc }
+
+**Trainer:** *As there are no more questions, we will now move on to the Pharmacy Explanation.*
+
+**Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy. The pharmacy is located near the main registers. At the pharmacy, customers can receive medicine.*
+
+**Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.
+
+**Trainer:** *Once the customer has selected which medicine they want, it will be your responsibility to find it. Click on the medicine behind you and hand it to the customer by pressing 'H' and entering their username.*
+
+**Trainer:** *If you are on mobile, use the handto system, which is located on the left side of your screen.*
+
+**Trainer:** *After you have given your customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.*
+
+**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them.*
+
+**Wait for your LRs to speak.**
+
+**__If an LR responds, pass them for this explanation. If an LR does not respond, fail them.__**
+
 ### Register Test Script
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Register Test.*
-
-**AT THIS POINT, PLEASE MOVE TO THE REGISTERS ON THE OTHER SIDE OF THE TRAINING ROOM.**
+**Trainer:** *As there are no more questions, we will now move on to the Register Test.*
 
 **Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
 
-**Trainer:** *When they ask to be checked out, click “Open Sale” on the register.*
+**Trainer:** *When they ask to be checked out, click “Start Sale” on the register.*
 
-**Trainer:** *Type in their username, then click “Finalize Sale.”*
+**Trainer:** *Select the customer's username, then click “Finalize Sale.”*
 
 **Trainer:** *Click "Robux Payment" or "Card Payment," depending on the guest's preference.*
 
