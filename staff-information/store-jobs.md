@@ -50,7 +50,7 @@ The registers are the main job at the store. All staff must be able to know how 
 {:.text-blue-000}
 {: .no_toc }
 
-The Hotel is one of our many store departments. Customers can rent a suite of their preference. Keep in mind that **Store Intern+** may run the hotel.
+The Hotel is one of our many store departments. Customers can rent a suite of their preference.
 
 **Step 1:** Customers will approach you with their order. You should greet them with a friendly greeting.
 
