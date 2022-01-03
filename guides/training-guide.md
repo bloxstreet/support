@@ -8,7 +8,7 @@ nav_order: 3
 # Training Guide
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -46,7 +46,7 @@ Trainings can only be hosted at the following times:
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store.
-* Trainers should not rush through the script. Allow your Trainees to have time to read the information you’re providing them.
+* Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them.
 * The limit is five excess trainers. Do not cause arguments.
 
 ## Rank Information
@@ -60,7 +60,7 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Ranker           | Ranks all LRs who pass. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
 | Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **12 trainers** (1 trainer per counter)  |
 | Excess Trainers | Replaces a trainer in case a trainer disconnects or has to leave during a training. | Anyone ranked **Store Manager or Higher** | Maximum of **5 excess trainers** | 
-| Trainees | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
+| Lower Ranks | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
@@ -93,7 +93,7 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 **Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions that you might have.*
 
 You should keep saying the line above until the start time. Do not spam it… use it when necessary.
-The Host and Co-Host will stand in front of the red lines. LRs are expected to enter the building and stand on the red lines.
+The Host and Co-Host near the escalator... on their designated line. LRs are expected to enter the building and stand on the red lines.
 
 ### Host/Co-Host: Training Starts
 {: .text-yellow-200 }
@@ -111,7 +111,7 @@ At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be
 
 **Co-Host:** *Please note that speaking or distracting others is prohibited during this time, and you will be removed from the server if caught doing so.* 
 
-The host and co-host will stand and monitor the Trainees and the presentation to ensure everything runs smoothly.
+The host and co-host will stand and monitor the LRs and the presentation to ensure everything runs smoothly.
 
 To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once. Be sure to inform the LRs that they can click on the monitors to get a better view.**
 
@@ -168,11 +168,11 @@ The next part of training is the Pharmacy Explanation. In this explanation, you 
 
 The final part of training is the Register Test. Please go through a roleplay of your LRs checking you out (including their greetings). If they don’t know how to send a payment request, explain the process to them! Make sure they use understandable grammar and effort. If they fail, explain why when kicking them from the server.
 
-### Passing Trainees
+### Passing LRs
 {: .text-purple-100 }
 {: .no_toc }
 
-If your LRs pass, you must use the :ff command on them, and take them to the green line in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game.
+If your LRs pass, you must use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game.
 
 ### Training Process
 {: .text-blue-000 }
@@ -327,7 +327,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
-**Trainer:** *Please follow me to the ranking lines so you can be ranked. Congratulations on passing!*
+**Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
 
 **Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.*
 
