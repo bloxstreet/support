@@ -96,7 +96,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 1:** Customers will approach you with their order. You should greet them with a friendly greeting.
 
-**Step 2:** Press the cutting board to recieve access to the bread. 
+**Step 2:** Press the cutting board to receive access to the bread. 
 
 **Step 3:** Place whatever toppings the customer desires. Finish the sub by pressing on the cutting board again. 
 
@@ -106,7 +106,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 {:.text-blue-000}
 {: .no_toc }
 
-The Vision Center is one of our many store departments. Customers can conduct an eye exam and recieve a consultation on vision wear. 
+The Vision Center is one of our many store departments. Customers can conduct an eye exam and receive a consultation on vision wear. 
 
 **Step 1:** Customers will approach you with their vision issues. You should greet them with a friendly greeting.
 
