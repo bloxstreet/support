@@ -280,7 +280,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.*
 
-**Trainer:** *Once the customer has selected which medicine they want, it will be your responsibility to find it. Click on the medicine behind you and hand it to the customer by pressing 'H' and entering their username.*
+**Trainer:** *Once the customer has selected which medicine they want, it will be your responsibility to find it.*
+
+**Trainer:** *Click on the medicine behind you and hand it to the customer by pressing 'H' and entering their username.*
 
 **Trainer:** *If you are on mobile, use the handto system, which is located on the left side of your screen.*
 
