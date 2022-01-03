@@ -41,7 +41,7 @@ Trainings can only be hosted at the following times:
 
 
 * Hosting at any other time is prohibited (unless you have permission from a Head Moderator+), and will result in the appropriate disciplinary actions.
-* To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :30. When in-game, make sure to use the GUI to set yourself as the Host. 
+* To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :30. Trainers (Store Managers and HRs) should not join until :40. When in-game, make sure to use the GUI to set yourself as the Host. 
     - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should be seated/standing near the large monitors. 
@@ -75,7 +75,7 @@ This section outlines what the duties the host has and what they should say. Do 
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :30, the Host, the Co-Host, and the rankers should join the Training Center to prepare for the session.
+At :30, the Host, the Co-Host, and the rankers should join the Training Center to prepare for the session. Trainers (Store Managers and HRs) should not join until :40.
 
 To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once you have pressed "Claim," the message that says “No training is being hosted right now. Check back later!” on the screen will be removed, and the session will become active. 
 
