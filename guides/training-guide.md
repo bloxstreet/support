@@ -268,7 +268,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.**
 
-**_If an LR responds, pass them for this explanation. If an LR does not respond, fail them._**
+**_If an LR has a question, answer it. All LRs must reply when asked if they have any questions._**
 
 ### Pharmacy Explanation Script
 {: .text-blue-000 }
@@ -290,7 +290,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.**
 
-**_If an LR responds, pass them for this explanation. If an LR does not respond, fail them._**
+**_If an LR has a question, answer it. All LRs must reply when asked if they have any questions._**
 
 ### Register Test Script
 {: .text-blue-000 }
