@@ -38,7 +38,7 @@ The registers are the main job at the store. All staff must be able to know how 
 
 **Step 1:** Customers will approach you with their items. You should greet them with a friendly greeting.
 
-**Step 2:** When they ask to be checked out, click “Open Sale” on the register.
+**Step 2:** When they ask to be checked out, click “Start Sale” on the register.
 
 **Step 3:** Type in their username, then click “Finalize Sale.”
 
