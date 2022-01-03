@@ -125,7 +125,7 @@ The Vision Center is one of our many store departments. Customers can conduct an
 
 Spills will randomly appear around the store. Customers have been leaving litter, and it's up to you to ensure our store is appealing and welcoming for new visitors.
 
-**Step 1:** Grab a mop from the staff room or storage room. Simply walk up to the mop giver, hold "E" (or touch on Mobile), and you'll be given a mop.
+**Step 1:** Grab a mop from the staff room. Simply walk up to the mop giver, hold "E" (or touch on Mobile), and you'll be given a mop.
 
 **Step 2:** Walk up to a spill with your mop equipped. Hold "E" or hold the button on Mobile, and then you'll start cleaning.
 
