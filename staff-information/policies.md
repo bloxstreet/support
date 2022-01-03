@@ -42,6 +42,7 @@ If you have been **demoted** or **blacklisted** for any reason, reclaiming a ran
 {:.text-red-300}
 Resignations are **FINAL**. No reranks will be offered if you change your mind. Please think over resignations carefully. They are a big thing and you need to be certain. You **WON'T** be ranked back after you resign. Reranks are also not given to users who are demoted. 
 
+Please keep in mind that SHRs **can** return to BloxStreet in certain circumstances.
 
 ## Rank Transfer Policy 
 {:.text-red-300}
