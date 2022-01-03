@@ -70,7 +70,7 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 
 **Step 1:** Customers will approach you at your pharmacy register. You should greet them with a friendly greeting.
 
-**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to them by pressing H and entering their username.
+**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to them by pressing H and entering their username. If you are on mobile, use the handto system, which is located on the left side of your screen.
 
 **Step 3:** After you've given the customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
 
@@ -139,13 +139,13 @@ Items around the store will randomly go out of stock. It will be your job to ens
 
 **Step 1:** Find an empty product that needs to be restocked.
 
-**Step 2:** Grab a box from the staff room. The storage room can be found near the Vision Center.
+**Step 2:** Grab a box from the staff room.
 
 **Step 3:** Go back to the empty product.
 
-**Step 4:** Click or touch the empty product notification. Your box should be unequipped.
+**Step 4:** Equip your box. Hold "E" for a few seconds after you've equipped your box.
 
-**Step 5:** The item will automatically restock once you click the shelf.
+**Step 5:** The item will automatically restock, and you will earn one point for restocking.
 
 ### Supervision
 {:.text-blue-000}
