@@ -252,15 +252,15 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Restocking Explanation.
+**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Restocking Explanation.*
 
-**Trainer:** *In BloxStreet's store, items can run out of stock. As a staff member, it is your responsibility to restock items so guests can have a wonderful experience at the store.
+**Trainer:** *In BloxStreet's store, items can run out of stock. As a staff member, it is your responsibility to restock items so guests can have a wonderful experience at the store.*
 
 **Trainer:** *The first step to restock an item is to find an empty shelf.*
 
 **Trainer:** *The second step to restock an item is to grab a box from the staff room and then head back to the empty shelf.*
 
-**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.
+**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
 
 **Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking. If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
 
@@ -268,7 +268,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.**
 
-**__If an LR responds, pass them for this explanation. If an LR does not respond, fail them.__**
+**_If an LR responds, pass them for this explanation. If an LR does not respond, fail them._**
 
 ### Pharmacy Explanation Script
 {: .text-blue-000 }
@@ -278,7 +278,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy. The pharmacy is located near the main registers. At the pharmacy, customers can receive medicine.*
 
-**Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.
+**Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.*
 
 **Trainer:** *Once the customer has selected which medicine they want, it will be your responsibility to find it. Click on the medicine behind you and hand it to the customer by pressing 'H' and entering their username.*
 
@@ -290,7 +290,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.**
 
-**__If an LR responds, pass them for this explanation. If an LR does not respond, fail them.__**
+**_If an LR responds, pass them for this explanation. If an LR does not respond, fail them._**
 
 ### Register Test Script
 {: .text-blue-000 }
@@ -312,7 +312,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **_THE REGISTERS IN THE TRAINING CENTER WORK!_** 
 {: .text-red-100 }
-If they say yes, begin.  If they say no, answer any questions until they are ready.*
+If they say yes, begin.  If they say no, answer any questions until they are ready.
 
 
 **Note: This part is the in-test script.**
