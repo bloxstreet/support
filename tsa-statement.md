@@ -30,5 +30,6 @@ All restored services are subject to change depending on how the situation conti
 
 - All chats are now reopened.
 - All shifts and trainings have been resumed.
+- Most channels are now restored. #official-photos and another private channel cannot be restored. #start-here will soon be updated with accurate verification instructions.
 
 **This webpage will be updated with new developments as we get them, keep an eye out!**
