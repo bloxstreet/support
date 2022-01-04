@@ -21,15 +21,16 @@ The administration team has been working diligently in order to restore regular 
 {:.text-blue-000}
 At the moment, we have taken the following steps:
 - TSA's token has been regenerated.
-- TSA will be offline for a short while whilst we sort out a few things on the backend.
-- Support ticket and verification services will be suspended during this time.
+- Access to TSA's server has been restricted and resecured.
 
 ### What's restored?
 {:.text-blue-000}
 All restored services are subject to change depending on how the situation continues to develop.
 
+- All ticket and verification services are now available again.
 - All chats are now reopened.
 - All shifts and trainings have been resumed.
-- Most channels are now restored. #official-photos and another private channel cannot be restored. #start-here will soon be updated with accurate verification instructions.
+- Most channels are now restored. #official-photos and another private channel cannot be restored.
+- #start-here will soon be updated with accurate verification instructions.
 
 **This webpage will be updated with new developments as we get them, keep an eye out!**
