@@ -25,8 +25,9 @@ At the moment, we have taken the following steps:
 - Support ticket and verification services will be suspended during this time.
 
 ### What's restored?
-All restored services are subject to change depending on how the situation continues to develop.
 {:.text-blue-000}
+All restored services are subject to change depending on how the situation continues to develop.
+
 - All chats are now reopened.
 - All shifts and trainings have been resumed.
 
