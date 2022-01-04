@@ -4,10 +4,12 @@
 {:.text-red-300}
 
 ### What's happened?
+{:.text-blue-000}
 As many know, TSA has currently been compromised due to an unauthorized attack. 
 The administration team has been working diligently in order to restore regular operations. 
 
 ### What are we doing?
+{:.text-blue-000}
 At the moment, we have taken the following steps:
 - Postly and Ax have both been informed of the incident and will be able to deal with it once they are online.
 - All public chats have temporarily closed.
