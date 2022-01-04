@@ -8,9 +8,10 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8308 (03/02/2022)
+### Build 8310 (03/02/2022)
 Fixed:
 - Hole in cafe wall
+- Cafe machines
 
 ### Build 8298 (02/01/2022)
 Added:
