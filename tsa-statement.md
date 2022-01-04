@@ -13,7 +13,7 @@ permalink: /tsa-update
 
 ### What's happened?
 {:.text-blue-000}
-As many know, the TSA Discord bot has currently been compromised due to an unauthorized attack.
+As many know, the TSA Discord bot has currently been compromised due to an attack.
 All in-game TSA services remain operational as usual.
 The administration team has been working diligently in order to restore regular operations. 
 
