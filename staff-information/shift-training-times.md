@@ -21,6 +21,8 @@ Here you will find all session times that occur at BloxStreet and the Training C
 
 | Training Times | 
 |:------------| 
+| 6 AM EST |
+| 8 AM EST |
 | 10 AM EST |
 | 12 PM EST |
 | 2 PM EST |
