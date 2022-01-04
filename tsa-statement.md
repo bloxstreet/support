@@ -22,6 +22,7 @@ The administration team has been working diligently in order to restore regular 
 At the moment, we have taken the following steps:
 - TSA's token has been regenerated.
 - TSA will be offline for a short while whilst we sort out a few things on the backend.
+- Support ticket and verification services will be suspended during this time.
 
 ### What's restored?
 All restored services are subject to change depending on how the situation continues to develop.
