@@ -6,7 +6,7 @@ has_children: false
 permalink: /tsa-update
 ---
 
-# ℹ️ | TSA UPDATES
+# ℹ️ | TSA UPDATE
 
 ## As of January 3rd, 2022
 {:.text-red-300}
