@@ -8,7 +8,7 @@ permalink: /tsa-update
 
 # ℹ️ | TSA UPDATE
 
-## As of January 4rd, 2022
+## As of January 4th, 2022
 {:.text-red-300}
 
 ### What's happened?
