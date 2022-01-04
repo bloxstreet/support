@@ -21,6 +21,8 @@ The administration team has been working diligently in order to restore regular 
 {:.text-blue-000}
 At the moment, we have taken the following steps:
 - Postly and Ax have both been informed of the incident and will be able to deal with it once they are online.
+- All public channels have been locked.
+- Support ticket creation is currently limited to MRs and HRs.
 - Ticket handling is currently running a reduced service as SHRs work to resolve this issue.
 - Verification into the Discord server is currently suspended.
 - The BloxStreet store and group remain open for all!
@@ -32,8 +34,6 @@ At the moment, we have taken the following steps:
 ### What's restored?
 All restored services are subject to change depending on how the situation continues to develop.
 {:.text-blue-000}
-- Full support ticket service is now available.
-- All chats are unlocked.
 - All shifts and trainings have been resumed.
 
 **This webpage will be updated with new developments as we get them, keep an eye out!**
