@@ -1,3 +1,11 @@
+---
+layout: default
+title: TSA UPDATE
+nav_order: 0
+has_children: false
+permalink: /tsa-update
+---
+
 # ℹ️ | TSA UPDATES
 
 ## As of January 3rd, 2022
