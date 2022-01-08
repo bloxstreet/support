@@ -8,6 +8,19 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
+### Build 8321 (08/01/2021)
+Fixed:
+- Staff schedule board has been updated with new timings
+- Chat system will get normal Roblox updates
+- Donation boards now operate as normal again
+- Store Intern+ will now be awarded points as expected when serving at a register
+- Points will no longer be awarded in private servers
+- The 'i' button on the topbar will no longer remove your chat
+- The wallet button on the topbar will no longer remove your chat
+- Those tools with collisions enabled have now had them disabled to prevent glitching
+- Extended the hitbox for the stealing scanners to prevent bypassing
+- Renamed "Expresso" to "Espresso" in the cafe
+
 ### Build 8310 (03/02/2022)
 Fixed:
 - Hole in cafe wall
