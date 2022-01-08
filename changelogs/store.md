@@ -13,6 +13,9 @@ Fixed:
 - Hole in cafe wall
 - Cafe machines
 
+Removed:
+- Ranking sticks for administrators
+
 ### Build 8298 (02/01/2022)
 Added:
 - New registers
