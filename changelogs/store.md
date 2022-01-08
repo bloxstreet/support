@@ -28,6 +28,7 @@ Fixed:
 
 Removed:
 - Ranking sticks for administrators
+- Reverted new registers
 
 ### Build 8298 (02/01/2022)
 Added:
