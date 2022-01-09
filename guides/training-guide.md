@@ -270,7 +270,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking. If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
 
-**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every trainee is required.*
+**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every LR is required.*
 
 **Wait for your LRs to speak.**
 
@@ -294,7 +294,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *After you have given your customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.*
 
-**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every trainee is required.*
+**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every LR is required.*
 
 **Wait for your LRs to speak.**
 
@@ -316,7 +316,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Remind the customer to scan their BloxStreet Cash Card on the payment screen, and after doing so, inform the guest to enjoy the rest of their day.*
 
-**Trainer:** *Is everyone here ready to begin the test? A response from every trainee is mandatory.*
+**Trainer:** *Is everyone here ready to begin the test? A response from every LR is mandatory.*
 
 **_THE REGISTERS IN THE TRAINING CENTER WORK!_** 
 {: .text-red-100 }
