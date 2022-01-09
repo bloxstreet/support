@@ -9,4 +9,4 @@ permalink: /hr-information
 # HR Information
 
 This guide is intended for high ranks.
-Below is some important information you need to know as a HR.
+Below is some important information you need to know as an HR.
