@@ -8,6 +8,10 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
+### Build 8335 (09/01/2021)
+Changed:
+- Shift pings in #session-notice will no longer ping @here. Instead, @Shift Ping will be pinged. 
+
 ### Build 8321 (08/01/2021)
 Fixed:
 - Staff schedule board has been updated with new timings
