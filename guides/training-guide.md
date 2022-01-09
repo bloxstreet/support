@@ -188,7 +188,7 @@ This section will provide the script for trainers to use. Please try to stick to
 
 **Trainer:** *If you need to go AFK for any reason, please make sure to tell me. Failure to do so, will result in a removal from the server.*
 
-**Trainer:** *If I happen to disconnect, please wait until I rejoin. Do **NOT** move to a different station.*
+**Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
 
 **Trainer:** *If you disconnect from the server, you may attend the next training session. The schedule of our training sessions can be found in the staff room, which is located in the store.*
 
