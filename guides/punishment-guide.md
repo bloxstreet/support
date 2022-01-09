@@ -74,4 +74,4 @@ Some things to note:
 | Abusing the group shout | Permanent ban | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
-| Leaking chats | Blacklist / permanent ban | Staff |
+| Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat | Blacklist / permanent ban | Staff |
