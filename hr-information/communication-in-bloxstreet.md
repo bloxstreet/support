@@ -12,7 +12,7 @@ nav_order: 5
 
 
 Leaking will result in consequences and can lead to a permanent ban. If you find someone leaking, report the player in a ticket immediately.
-Leaking includes referencing chat names, sending screenshots or information from chats, sharing confidential information, and sharing links to documents that lower ranks cannot access normally in public chats.
+Leaking includes sending screenshots or information from chats, sharing confidential information, and sharing links to documents that lower ranks cannot access normally in public chats. Leaking does not include referencing a confidential chat name in a public chat.
 
 ## Gossiping
 {: .text-red-300 }
