@@ -10,7 +10,7 @@ Members of the Public Relations Department are listed below. If you have any que
 
 | Public Relations Department Members      | 
 |:-------------|
-| MAIN CONTACT: avnemone - Head Moderator | 
+| avnemone - Head Moderator (main contact) | 
 | unsightvls - Head Moderator | 
 | KAIT0_KlD - Senior Moderator |
 | dyIusive - Senior Moderator |
