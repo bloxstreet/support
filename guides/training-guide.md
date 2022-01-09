@@ -186,7 +186,7 @@ This section will provide the script for trainers to use. Please try to stick to
 
 **Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
 
-**Trainer:** *If you need to go AFK for any reason, please make sure to tell me. Failure to do so, will result in a removal from the server.*
+**Trainer:** *If you need to go AFK for any reason, please make sure to tell me. Failure to do so will result in a removal from the server.*
 
 **Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
 
