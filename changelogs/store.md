@@ -8,6 +8,20 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
+### Build 8347 (11/01/2021)
+{:.text-blue-000}
+
+Added:
+- Two new shift times (7am & 9am EST)
+
+Fixed:
+- Cafe foods will no longer set off the security scanners
+- Some vital ClickDetectors and ProximityPrompts are no longer vulnerable to exploits
+- Tiramisu is now spelled correctly
+- Pepperoni is now spelled correctly
+- Glasses will now equip as their displayed colour
+- SHRs will no longer collide with the part intended to prevent people standing on shelves
+
 ### Build 8337 (10/01/2021)
 {:.text-blue-000}
 
