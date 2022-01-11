@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Staff Blacklist and Permanent Ban Appeal 
-All information regarding Discord appeals can be found here! Before you fill out an appeal, please read the requirements below. 
+All information regarding staff blacklist & permanent ban appeals can be found here! Before you fill out an appeal, please read the requirements below. 
 
 ## Requirements 
 {: .text-red-300 }
