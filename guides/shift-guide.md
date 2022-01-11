@@ -22,6 +22,8 @@ This guide is to assist shift hosts with tasks needed to host a successful shift
 {: .text-red-300 }
 Shifts can be hosted at **7** different times throughout the day (all times are in EST):
 - 12 AM
+- 7 AM 
+- 9 AM
 - 11 AM
 - 1 PM
 - 3 PM
