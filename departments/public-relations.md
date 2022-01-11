@@ -14,7 +14,6 @@ Members of the Public Relations Department are listed below. If you have any que
 | unsightvls - Head Moderator | 
 | KAIT0_KlD - Senior Moderator |
 | dyIusive - Senior Moderator |
-| ScheIIey - Senior Moderator |
 | auhqvrs - Senior Moderator |
 | ovllie - Senior Moderator |
 | Chvvrlie - Senior Moderator |
