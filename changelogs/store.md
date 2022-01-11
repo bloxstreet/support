@@ -9,14 +9,20 @@ nav_order: 1
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
 ### Build 8337 (10/01/2021)
+{:.text-blue-000}
+
 Fixed:
 - Money and point purchases made in Private servers will now save correctly.
 
 ### Build 8335 (09/01/2021)
+{:.text-blue-000}
+
 Changed:
 - Shift pings in #session-notice will no longer ping @here. Instead, @Shift Ping will be pinged. 
 
 ### Build 8321 (08/01/2021)
+{:.text-blue-000}
+
 Fixed:
 - Staff schedule board has been updated with new timings
 - Chat system will get normal Roblox updates
@@ -30,6 +36,8 @@ Fixed:
 - Renamed "Expresso" to "Espresso" in the cafe
 
 ### Build 8310 (03/02/2022)
+{:.text-blue-000}
+
 Fixed:
 - Hole in cafe wall
 - Cafe machines
@@ -39,6 +47,8 @@ Removed:
 - Reverted new registers
 
 ### Build 8298 (02/01/2022)
+{:.text-blue-000}
+
 Added:
 - New registers
 - New Cash Card
@@ -47,11 +57,15 @@ Fixed:
 - Register Bugs
 
 ### Build 8293 (02/01/2022)
+{:.text-blue-000}
+
 Fixed:
 - Trainees can now pick up boxes
 - Staff can no longer glitch multiple boxes into their inventory (We are working on something to let people take multiple - stay tuned!)
 
 ### Build 8250 (30/12/2021)
+{:.text-blue-000}
+
 Added:
 - Added ranking sticks for administrators
 
@@ -60,6 +74,8 @@ Fixed:
 - Debounce on shelf items (2 second wait between taking any item)
 
 ### Build 8236 (25/12/2021)
+{:.text-blue-000}
+
 Added:
 - Character scale button & gamepass - Become small!
 
@@ -71,11 +87,15 @@ Removed:
 - Build number GUI display (Use the Esc menu > Help or the Dev Console (F9) to see the current build)
 
 ### Build 8209 (19/12/2021)
+{:.text-blue-000}
+
 Fixed:
 - Sandwich shop will no longer allow players to create sandwiches
 - Sandwich shop will now destroy an in-progress sandwich if the staff member making it leaves
 
 ### Build 8207 (11/12/2021)
+{:.text-blue-000}
+
 Added:
 - Sandwich shop (Currently open to staff and premium only)
 
@@ -85,10 +105,14 @@ Fixed:
 - Migrated more scripts over to Apollo
 
 ### Build 8164 (05/12/2021)
+{:.text-blue-000}
+
 Added:
 - Extra furnishings to premium hotel rooms
 
 ### Build 8159 (05/12/2021)
+{:.text-blue-000}
+
 Added:
 - Build number display (bottom-left of the screen)
 
