@@ -40,18 +40,18 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 - Arguing over shifts is not allowed.
 - No shifts should be claimed 10 minutes after their designated start time.
 - Executive Assistant or higher may rank for shifts.
-- There can only be a maximum of 5 Store Interns, Assistant Supervisors, Floor Supervisors, and Assistant Managers promoted at each shift.
+- There can only be a maximum of 5 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers promoted at each shift.
 - All players that are promoted at a shift should be checked to see if they're on cooldown.
 
 ### Rank Cooldowns
 {: .text-grey-dk-000 } 
 {: .no_toc }
 <dl>
-  <dt>Store Intern</dt>
+  <dt>Management Intern</dt>
   <dd>No cooldown</dd>
-  <dt>Assistant Supervisor</dt>
+  <dt>Team Leader</dt>
   <dd>3 Days</dd>
-  <dt>Floor Supervisor</dt>
+  <dt>Store Supervisor</dt>
   <dd>3 Days</dd>
   <dt>Assistant Manager</dt>
   <dd>5 Days</dd>
