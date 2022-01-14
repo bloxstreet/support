@@ -23,21 +23,21 @@ nav_order: 2
 
 Co-hosts should use these group shouts.
 
-### If You Don't Have Safechat:
+#### If You Don't Have Safechat:
 ```
 (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center in () minutes. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
 ```
 
-### If You Have Safechat:
+#### If You Have Safechat:
 ```
 (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
 ```
 
-### Training is Locked:
+#### Training is Locked:
 ```
 (TRAINING) | Hosted by (username) | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the cafe and purchase a refreshing drink?
 ```
-### Training is Concluded:
+#### Training is Concluded:
 ```
 (TRAINING) | Hosted by (username) | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? (APPLY) | Interested in working at our establishment? Visit the Quiz Center.
 ```
