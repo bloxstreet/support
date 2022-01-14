@@ -5,8 +5,10 @@ parent: HR Information
 nav_order: 1
 ---
 
+# Conduct as an HR
 
-# Conduct in BloxStreet Games
+## Conduct in BloxStreet Games
+{:.text-red-300}
 
 *  While in a BloxStreet game, behavior matters! Acting unprofessionally has a bad look on our group and HR team.
 *  All HRs are expected to utilize proper grammar on BloxStreet games.
@@ -17,6 +19,7 @@ nav_order: 1
 *  These rules apply to public and private servers.
 
 
-# Rule Breaking at Other Establishments
+## Rule Breaking at Other Establishments
+{:.text-red-300}
 
 Please remember that trolling, exploiting, or some sort of rule breaking at other establishments, no matter if it’s an alliance group or not, will not be tolerated. If you’re caught doing so, you will be punished. You have to follow all rules and regulations when joining Roblox games other than BloxStreet games. Please remember to behave, as it could damage our group’s reputation when breaking rules at other establishments.
