@@ -49,11 +49,11 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Hinting for a promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
-| Using :view on an SHR | Verbal warning | Floor Supervisor+ |
+| Using :view on an SHR | Verbal warning | Store Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
 | Lack of grammar | Verbal warning and then report to an SHR | High Ranks |
-| Lack of grammar | 3 verbal warnings and then a demotion one rank down | Assistant Supervisor - Store Manager |
-| Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Floor Supervisor+ |
+| Lack of grammar | 3 verbal warnings and then a demotion one rank down | Team Leader - Store Manager |
+| Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
 | Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
@@ -63,7 +63,7 @@ Some things to note:
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Floor Supervisor+ |
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Store Supervisor+ |
 | Trolling, spamming, or caps abuse | Blacklist | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
