@@ -7,7 +7,7 @@ nav_order: 4
 
 # Staff Promotions
 {: .no_toc }
-Here you will find imformation regarding promotions at BloxStreet! 
+Here you will find information regarding promotions at BloxStreet! 
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,13 +21,13 @@ In order to receive a promotion as a Trainee Team Member, Junior Team Member, or
 
 ## Management Intern-Assistant Manager
 {:.text-red-300}
-In order to receive a promotion as a **Store Intern, Assistant Supervisor, Floor Supervisor, or Assistant Manager**, you should attend and be noticed at a shift. Utilizing proper grammar, behaving professionally, and showing dedication will increase your chances of a promotion. Attending a shift does not guarantee a promotion.
+In order to receive a promotion as a **Management Intern, Team Leader, Store Supervisor, or Assistant Manager**, you should attend and be noticed at a shift. Utilizing proper grammar, behaving professionally, and showing dedication will increase your chances of a promotion. Attending a shift does not guarantee a promotion.
 
 ## Store Manager-Store Executive
 {:.text-red-300}
 There are multiple factors the administration team looks at when promoting a Store Manager to Assistant Director. The same applies when we do HR promotions.
 
-If you are a Store Manager+, you should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication in order to have a chance of a promotion. Junior Moderator+ can promote Store Managers at random times every day. These promotions are more difficult than Store Intern - Assistant Manager ones and often require time and effort.
+If you are a Store Manager+, you should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication in order to have a chance of a promotion. Junior Moderator+ can promote Store Managers at random times every day. These promotions are more difficult than Management Intern - Assistant Manager ones and often require time and effort.
 
 ### **Store Manager Promotion Guide:**
 {:.text-blue-000}
