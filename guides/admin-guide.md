@@ -29,7 +29,7 @@ All members who are ranked Store Supervisor+ will gain access to various command
 | Assistant Manager | Moderator   | 
 | Store Manager           | Moderator     | 
 | Store Director          | Admin | 
-| Board of Director          | Admin | 
+| Board of Directors          | Admin | 
 | Executive Assistant           | Admin | 
 | Store Executive         | Admin | 
 | Junior Moderator           | Super Admin | 
