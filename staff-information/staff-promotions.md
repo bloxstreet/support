@@ -19,7 +19,7 @@ Here you will find imformation regarding promotions at BloxStreet!
 {:.text-red-300}
 In order to receive a promotion as a Trainee Team Member, Junior Team Member, or Senior Team Member, you must attend and pass a training session. Attending and passing one training session will rank you up once.
 
-## Store Intern-Assistant Manager
+## Management Intern-Assistant Manager
 {:.text-red-300}
 In order to receive a promotion as a **Store Intern, Assistant Supervisor, Floor Supervisor, or Assistant Manager**, you should attend and be noticed at a shift. Utilizing proper grammar, behaving professionally, and showing dedication will increase your chances of a promotion. Attending a shift does not guarantee a promotion.
 
@@ -55,13 +55,13 @@ Most BloxStreet ranks have cooldowns. A cooldown is a period of time when you ca
 | Trainee Team Member: None |
 | Junior Team Member: None |
 | Senior Team Member: None |
-| Store Intern: None |
-| Assistant Supervisor: 3 days |
-| Floor Supervisor: 3 days |
+| Management Intern: None |
+| Team Leader: 3 days |
+| Store Supervisor: 3 days |
 | Assistant Manager: 5 days |
 | Store Manager: 2 weeks |
-| Assistant Director: 2 weeks |
-| Store Director: 1 month |
+| Store Director: 2 weeks |
+| Board of Directors: 1 month |
 | Executive Assistant: 1 month |
 | Store Executive: None |
 
@@ -73,12 +73,12 @@ Another way to rank up at BloxStreet is by earning points! Earning a certain amo
 
 | Points | 
 |:----------|
-| Store Intern: 400 |
-| Assistant Supervisor: 800 |
-| Floor Supervisor: 1,000 |
+| Management Intern: 400 |
+| Team Leader: 800 |
+| Store Supervisor: 1,000 |
 | Assistant Manager: 2,000 |
 | Store Manager: 5,000 |
-| Assistant Director: 8,000 |
-| Store Director: 10,000 |
+| Store Director: 8,000 |
+| Board of Directors: 10,000 |
 | Executive Assistant: 14,000 |
 | Store Executive: 18,000 |
