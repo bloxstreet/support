@@ -19,19 +19,19 @@ Here you will find all the ranks offered at BloxStreet!
 * Trainee Team Member
 * Junior Team Member
 * Senior Team Member
-* Store Intern
+* Management Intern
 
 ## Middle Ranks
 {:.text-red-300} 
-* Assistant Supervisor
-* Floor Supervisor
+* Team Leader
+* Store Supervisor
 * Assistant Manager
 * Store Manager
 
 ## High Ranks
 {:.text-red-300}
-* Assistant Director
 * Store Director
+* Board of Directors
 * Executive Assistant
 * Store Executive
 
