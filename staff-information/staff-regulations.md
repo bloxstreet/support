@@ -15,18 +15,18 @@ Here you will find all regulations for staff members in-game and in the communic
  
  | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
-| Trainee Team Member-Store Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
-| Assistant Supervisor-Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
-| Assistant Director-Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
+| Trainee Team Member-Management Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
+| Store Supervisor-Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
+| Store Director-Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
       
 3.  Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
 4.  Professionalism is required while in public eye. Assistant Supervisor+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
 5.  Please remember to **work** while at the store. Messing around looks bad, and also leads to an increase in unsatisfied guests. Staff members who mess around at the store will not be promoted.
 6.  For hosting shifts and trainings:
-  *  **Store Director+ can host training sessions**
+  *  **Board of Director+ can host training sessions**
   *  **Store Manager+ can train at training sessions**
-  *  **Assistant Director+ can host shifts**
-  *  **Store Director+ can supervise the store**
+  *  **Store Director+ can host shifts**
+  *  **Board of Director+ can supervise the store**
 7.  Please respect all decisions made by SHRs.
 8.  Do not instigate drama. If you have an issue with a fellow staff member, please report it to a Junior Moderator+. Keep all personal drama **OUT** of the staff team.
 9.  Do not make unnecessary announcements with the announcement feature on the staff panel.
