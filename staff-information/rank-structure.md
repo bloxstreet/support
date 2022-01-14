@@ -40,5 +40,5 @@ Here you will find all the ranks offered at BloxStreet!
 * Junior Moderator
 * Senior Moderator
 * Head Moderator
-* Store Developer
+* Group Developer
 * Group Holder
