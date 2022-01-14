@@ -57,17 +57,17 @@ In this section, you will see an overview of each rank’s job at training sessi
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host | Leads the training and states the Host Intro. The Host also claims the training and ranks LRs (Executive Assistant+). The Host is also responsible for whitelisting trainers when teleporting LRs. | Anybody ranked **Store Director or Higher**  | **1** Host per training |
+| Host | Leads the training and states the Host Intro. The Host also claims the training and ranks LRs (Executive Assistant+). The Host is also responsible for whitelisting trainers when teleporting LRs. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
 | Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Store Director or Higher**  | **1** Host per training |
 | Ranker           | Ranks all LRs who pass. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
-| Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **12 trainers** (1 trainer per counter)  |
+| Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
 | Excess Trainers | Replaces a trainer in case a trainer disconnects or has to leave during a training. | Anyone ranked **Store Manager or Higher** | Maximum of **5 excess trainers** | 
 | Lower Ranks | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
 {: .no_toc }
-(Customer, Allied Representative, Noted Customer, Store Intern, Assistant Supervisor, Floor Supervisor, Assistant Manager)
+(Customer, Allied Representative, Noted Customer, Management Intern, Team Leader, Store Supervisor, Assistant Manager)
 
 ## Host Scripts
 {: .text-red-300 }
@@ -333,7 +333,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Congratulations, you have all passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
 
-**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Store Intern. Store Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
+**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. Management Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
 **Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
 
