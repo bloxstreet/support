@@ -21,15 +21,15 @@ TSA is BloxStreet's administrative system and anti-exploit, custom developed by 
 #### 1A - Permission Levels
 {: .text-grey-dk-000 }
 {: .no_toc }
-All members who are ranked Floor Supervisor+ will gain access to various commands. Ranks and their respective admin levels are shown below. 
+All members who are ranked Store Supervisor+ will gain access to various commands. Ranks and their respective admin levels are shown below. 
 
 | Rank        | Admin Level         | 
 |:-------------|:------------------|
-| Floor Supervisor           | Moderator | 
+| Store Supervisor           | Moderator | 
 | Assistant Manager | Moderator   | 
 | Store Manager           | Moderator     | 
-| Assistant Director          | Admin | 
-| Store Director           | Admin | 
+| Store Director          | Admin | 
+| Board of Director          | Admin | 
 | Executive Assistant           | Admin | 
 | Store Executive         | Admin | 
 | Junior Moderator           | Super Admin | 
@@ -98,9 +98,9 @@ Commands in _italic_ do not have any consequences/information to say about them.
 | Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
 |:-------------|:------------------|:------|:-------------|:------------|:------------------|
 | :respawn / :res / :refresh / :ref          | A player | You can respawn yourself and anybody who may request it.  |  You may NOT do :respawn all, or respawn users who **do not** request a resapawn.           |  Ranges from a warning to permanent ban, depending on the severity.          |  No.                 |
-| :kick (Assistant Director+).           | A player, a reason. | Anyone with 3 or more warnings or for a valid reason.  |  Anyone with 3 or less warnings and for an invalid reason.  | Ranges from a blacklist to a permanent ban, depending on the severity.            |    Yes.               |
-| :ban (Assistant Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
-| :unban (Assistant Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
+| :kick (Store Director+).           | A player, a reason. | Anyone with 3 or more warnings or for a valid reason.  |  Anyone with 3 or less warnings and for an invalid reason.  | Ranges from a blacklist to a permanent ban, depending on the severity.            |    Yes.               |
+| :ban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
+| :unban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
 | :pban (Junior Moderator+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide).  |  Anyone with an invalid reason.            |  Ranges from a warning to a permanent ban, depending on the severity.           |   Yes.                |
 | :sm / :m (Junior Moderator+ in-store ONLY).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
 | :mod / :admin / :superadmin (DEV+).           | N/A.  | N/A.  |    N/A.          | N/A.            |    N/A.               |
