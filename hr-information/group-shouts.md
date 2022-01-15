@@ -11,7 +11,7 @@ nav_order: 2
 {: .text-red-300 }
 
 ~~~
-(SHIFT) | Hosted by (username) | Hello, everyone! I’m elated to announce that I’ll be hosting a shift at the store. Store Interns, Assistant Supervisors, Floor Supervisors, and Assistant Managers have a chance of getting promoted. 
+(SHIFT) | Hosted by (username) | Hello, everyone! I’m elated to announce that I’ll be hosting a shift at the store. Management Interns, Team Leaders, Store Supervisors, and Assistant Managers have a chance of getting promoted. 
 ~~~
 
 ```
