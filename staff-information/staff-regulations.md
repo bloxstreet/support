@@ -20,7 +20,7 @@ Here you will find all regulations for staff members in-game and in the communic
 | Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
       
 3.  Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
-4.  Professionalism is required while in public eye. Assistant Supervisor+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
+4.  Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
 5.  Please remember to **work** while at the store. Messing around looks bad, and also leads to an increase in unsatisfied guests. Staff members who mess around at the store will not be promoted.
 6.  For hosting shifts and trainings:
   *  **Board of Directors+ can host training sessions**
