@@ -15,9 +15,9 @@ Here you will find all regulations for staff members in-game and in the communic
  
  | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
-| Trainee Team Member-Management Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
-| Team Leader-Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
-| Store Director-Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
+| Trainee Team Member - Management Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
+| Team Leader - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
+| Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
       
 3.  Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
 4.  Professionalism is required while in public eye. Assistant Supervisor+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
