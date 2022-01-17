@@ -9,6 +9,8 @@ nav_order: 1
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
 ### Build 8384 (16/01/2021)
+{:.text-blue-000}
+
 Fixed:
 - Bloxbiz ads (yay! /s)
 - HR rank claiming
