@@ -20,16 +20,16 @@ __Host:__ (username)
 __Co-Host:__ (username)  
 
 __Store Manager:__  
-(list names)
+(list names)  
 
 __Store Director:__  
-(list names)
+(list names)  
 
 __Board of Directors:__  
-(list names)
+(list names)  
 
 __Executive Assistant:__  
-(list names)
+(list names)  
 
-__Store Executive:__
-(list names)
+__Store Executive:__  
+(list names)  
