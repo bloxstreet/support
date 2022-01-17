@@ -8,14 +8,14 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8384 (16/01/2021)
+### Build 8384 (16/01/2022)
 {:.text-blue-000}
 
 Fixed:
 - Bloxbiz ads (yay! /s)
 - HR rank claiming
 
-### Build 8347 (11/01/2021)
+### Build 8347 (11/01/2022)
 {:.text-blue-000}
 
 Added:
@@ -29,19 +29,19 @@ Fixed:
 - Glasses will now equip as their displayed colour
 - SHRs will no longer collide with the part intended to prevent people standing on shelves
 
-### Build 8337 (10/01/2021)
+### Build 8337 (10/01/2022)
 {:.text-blue-000}
 
 Fixed:
 - Money and point purchases made in Private servers will now save correctly.
 
-### Build 8335 (09/01/2021)
+### Build 8335 (09/01/2022)
 {:.text-blue-000}
 
 Changed:
 - Shift pings in #session-notice will no longer ping @here. Instead, @Shift Ping will be pinged. 
 
-### Build 8321 (08/01/2021)
+### Build 8321 (08/01/2022)
 {:.text-blue-000}
 
 Fixed:
@@ -56,7 +56,7 @@ Fixed:
 - Extended the hitbox for the stealing scanners to prevent bypassing
 - Renamed "Expresso" to "Espresso" in the cafe
 
-### Build 8310 (03/02/2022)
+### Build 8310 (03/01/2022)
 {:.text-blue-000}
 
 Fixed:
