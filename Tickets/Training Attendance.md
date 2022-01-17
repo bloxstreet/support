@@ -11,7 +11,6 @@ nav_order: 2
 When subbmitting training attendance in tickets the format below should be used.
 
 
-
 ## Training Attendance Format:
 {:.text-red-300}
 
