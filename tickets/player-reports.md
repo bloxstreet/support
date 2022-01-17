@@ -13,7 +13,7 @@ When you create a ticket for a player report, please use the format that is foun
 __Their Username:  
 Their Rank:  
 Reason for Report:  
-Evidence:__  
+Evidence:__   
 
 
 Reasons should be brief and limited to a few words. Do not write sentences for the reason.
