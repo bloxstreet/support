@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Player Reports
-parent: tickets
+parent: Tickets
 nav_order: 1
 ---
 
