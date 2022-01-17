@@ -11,6 +11,10 @@ nav_order: 2
 When subbmitting training attendance in tickets the format below should be used.
 
 
+
+## Training Attendance Format:
+{:.text-red-300}
+
 __mm/dd/yyyy @ x PM EST Training Session Attendance__  
 
 __Host:__ (username)  
