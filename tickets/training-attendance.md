@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Training Attendance
-parent: Tickets
+parent: tickets
 nav_order: 2
 ---
 
 
 # Training Attendance
-
-When subbmitting training attendance in tickets the format below should be used.
-
+When submitting training attendance in tickets the below format should be used.
 
 ## Training Attendance Format:
 {:.text-red-300}
