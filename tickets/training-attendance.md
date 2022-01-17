@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Attendance
-parent: tickets
+parent: Tickets
 nav_order: 2
 ---
 
