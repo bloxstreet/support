@@ -1,0 +1,32 @@
+---
+layout: default
+title: Training Attendance
+parent: Tickets
+nav_order: 2
+---
+
+
+# Training Attendance
+
+When subbmitting training attendance in tickets the format below should be used.
+
+
+__mm/dd/yyyy @ x PM EST Training Session Attendance__  
+
+__Host:__ (username)  
+__Co-Host:__ (username)  
+
+__Store Manager:__  
+(list names)
+
+__Store Director:__  
+(list names)
+
+__Board of Directors:__  
+(list names)
+
+__Executive Assistant:__  
+(list names)
+
+__Store Executive:__
+(list names)
