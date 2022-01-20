@@ -8,6 +8,24 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
+### Build 8422 (20/01/2022)
+{:.text-blue-000}
+
+Added:
+- Fun automatic doors
+- MRs can now create server announcements via the Staff Panel. (These announcements are subject to certain guidelines, ensure you're aware of the rules before making an announcement.)
+
+Fixed:
+- Players can no longer be spam-warned via the Staff Panel.
+- Players can no longer be spam-kicked via the Staff Panel.
+- Players can no longer be spam-banned via the Staff Panel.
+- You can no longer punish anyone that is a higher rank than yourself via the Staff Panel.
+- Staff Panel kicks/bans will now display as "TSP" rather than "TSA" to differentiate them from SHR actions.
+- Staff Panel kick messages will now display "BloxStreet" instead of "Target"
+- Staff Panel internal logs have had some typos fixed
+- The shift end webhook message has been changed to display "BloxStreet" instead of "Target"
+- The shift timer will now always display two digits (e.g. 12:1 remaining => 12:01 remaining)
+
 ### Build 8384 (16/01/2022)
 {:.text-blue-000}
 
