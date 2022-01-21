@@ -8,12 +8,8 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
-### Build 8423 (20/01/2022)
+### Build 8426 (21/01/2022)
 {:.text-blue-000}
-
-Added:
-- Fun automatic doors
-- MRs can now create server announcements via the Staff Panel. (These announcements are subject to certain guidelines, ensure you're aware of the rules before making an announcement.)
 
 Fixed:
 - Players can no longer be spam-warned via the Staff Panel.
