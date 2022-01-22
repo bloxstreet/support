@@ -40,13 +40,7 @@ If you have been **demoted** or **blacklisted** for any reason, reclaiming a ran
 
 ## Resignation Policy
 {:.text-red-300}
-Resignations are **FINAL** for Middle Ranks and Low Ranks. No reranks will be offered if you change your mind. Please think over resignations carefully. They are a big thing and you need to be certain. You **WON'T** be ranked back after you resign. Reranks are also not given to users who are demoted. 
-
-**Please note the following:**
-{:.text-red-000}
-* **High Ranks** are allowed to be reranked under certain conditions using the resignation appeal form. 
-* The submission of the form will only be allowed for up to *72* hours after the departure. 
-* Reranks are **not** given if an HR is reranked and chooses to resign a second time. 
+Resignations are **FINAL** for ALL ranks. No reranks will be offered if you change your mind. Please think over resignations carefully. They are a big thing and you need to be certain. You **WON'T** be ranked back after you resign. Reranks are also not given to users who are demoted. 
 
 Please keep in mind that SHRs **can** return to BloxStreet in certain circumstances.
 
