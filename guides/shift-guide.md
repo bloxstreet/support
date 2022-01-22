@@ -28,7 +28,7 @@ Shifts can be hosted at **7** different times throughout the day (all times are 
 - 1 PM
 - 3 PM
 - 6 PM
-- 8 PM
+- 8 PM (not hosted on Fridays)
 - 10 PM
 
 Shifts can only be hosted at the above times. Hosting at any other time will make the shift unauthorized.
