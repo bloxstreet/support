@@ -19,4 +19,4 @@ Members of the Staffing Department are listed below. If you have any questions, 
 | fatou_rocks - Senior Moderator |
 | blcsseds - Senior Moderator |
 | svruls - Senior Moderator |
-| pastxlmoonlixht - Junior Moderator |
+| KAIT0_KlD - Senior Moderator |
