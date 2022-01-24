@@ -8,6 +8,13 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable at the bottom-left of the game) and release date (DD/MM/YYYY)
 
+### Build 8441 (24/01/2022)
+{:.text-blue-000}
+
+Fixed:
+- Staff panel kick now runs with correct permissions
+- Warning cooldown reduced to 15 seconds
+
 ### Build 8426 (21/01/2022)
 {:.text-blue-000}
 
