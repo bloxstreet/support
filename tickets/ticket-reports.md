@@ -47,7 +47,7 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | Trolling, spamming, capitals abuse, or unprofessionalism from STAFF MEMBERS |
 | Advertising on the group wall | 
 | Handing random items to a player or multiple players |
-| Dancing/standing on in-game shelves, counters, etc... | 
+| Dancing/standing on in-game shelves, counters, etc. from STAFF MEMBERS | 
 | Reclaiming a rank once fired or blacklisted | 
 | Simping for a higher rank | 
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat |
