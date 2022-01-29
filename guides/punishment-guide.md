@@ -15,7 +15,7 @@ nav_order: 2
 
 This guide is intended for everyone.
 
-Below is a list of rules and the punishment that is given for breaking them. Some rules may only apply to staff, some may apply to everyone. If an action is in yellow text and a player violates the action, you should create a ticket.
+Below is a list of rules and the punishment that is given for breaking them. Some rules may only apply to staff, some may apply to everyone.
 
 Some things to note:
 - Higher ranks may receive more severe punishments.
