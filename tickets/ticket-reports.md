@@ -60,21 +60,20 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 
 | Unacceptable Reasons | 
 | ------ | 
-| Trolling Guests/Customers |
-| LRs or MRs hinting for a promotion | 
-| Using :view on an SHR | 
-| Faking a resignation | 
-| Lack of grammar for MR and LR ranks | 
-| MRs failing to hide TSA commands | 
-| Refusing to wear the correct uniform | 
-| Questions that can be answered by HRs (training times, shift times, etc.) | 
-| Suggestions | 
+| Trolling Guests/Customers - contact an available HR |
+| LRs or MRs hinting for a promotion - contact an available HR | 
+| Using :view on an SHR - for MRs, contact an available HR; for HRs, contact an available SHR through Direct Messages| 
+| Lack of grammar for MR and LR ranks - contact an available HR | 
+| MRs failing to hide TSA commands - contact an available HR | 
+| Refusing to wear the correct uniform - contact an available HR | 
+| Questions that can be answered by HRs (training times, shift times, etc.) - contact an available HR | 
+| Suggestions - not accepted at this moment| 
 | Asking if your appeal has been read | 
-| Not being ranked after passing a training - contact an available SHR through direct messages | 
-| Urgent in-game or group issues - contact an available SHR through direct messages | 
-| Hosting an unofficial shift or training session |
-| Abusing the group shout | 
-| Free ranking |
-| Rank transfers | 
-| Force verification |
+| Not being ranked after passing a training - contact an available SHR through Direct Messages | 
+| Urgent in-game or group issues - contact an available SHR through Direct Messages | 
+| Hosting an unofficial shift or training session - contact an available SHR through Direct Messages |
+| Abusing the group shout - contact an available SHR through Direct Messages |
+| Free ranking - contact an available SHR through Direct Messages |
+| Rank transfers - contact an available SHR through Direct Messages| 
+| Force verification - contact an available SHR through Direct Messages|
 {:.text-red-200} 
