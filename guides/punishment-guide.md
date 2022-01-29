@@ -33,31 +33,14 @@ Some things to note:
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Alternate account of a banned user | Server ban | Everyone | 
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Discrimination | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Inappropriate roleplay | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Bypassing or attempting to bypass | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Playing inappropriate or loud audio | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Major death threats - saying "die" is not major | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Spreading false rumors | Permanent ban | Everyone | 
-{: .text-yellow-200 }
-
 | Inappropriate avatar or username | Permanent ban | Everyone |
-{: .text-yellow-200 }
-
 | Joking about serious topics or suicidal thoughts | Permanent ban | Everyone |
-{: .text-yellow-200 }
 
 
 ## Staff Punishments
