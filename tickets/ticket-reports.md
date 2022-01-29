@@ -53,6 +53,7 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat |
 | Major bug reports | 
 | HR reports |
+| Training attendance (HR+ only) |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
