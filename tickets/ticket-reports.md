@@ -62,7 +62,7 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
-{:..text-grey-dk-000}
+{:.text-grey-dk-000}
 
 | Unacceptable Reasons | 
 | ------ | 
