@@ -37,7 +37,6 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | Inappropriate avatar or username | 
 | Joking about serious topics or suicidal thoughts | 
 | Lack of grammar for High Ranks | 
-| Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 
 | Playing with ranking sticks or misusing them | 
 | Trolling/unprofessionalism at alliances | 
 | Cuff abuse | 
@@ -45,20 +44,14 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | False kicks | 
 | Announcement abuse | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | 
-| Trolling, spamming, or caps abuse | 
-| Unprofessional behaviour | 
+| Trolling, spamming, capitals abuse, or unprofessionalism from STAFF MEMBERS |
 | Advertising on the group wall | 
 | Handing random items to a player or multiple players |
 | Dancing/standing on in-game shelves, counters, etc... | 
-| Hosting an unofficial shift or training session | 
 | Reclaiming a rank once fired or blacklisted | 
-| Abusing the group shout | 
-| Free ranking | 
 | Simping for a higher rank | 
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat |
 | Major bug reports | 
-| Rank transfers | 
-| Force verification | 
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
@@ -66,16 +59,21 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 
 | Unacceptable Reasons | 
 | ------ | 
-| Trolling Guests/Customers | 
+| Trolling Guests/Customers |
 | LRs or MRs hinting for a promotion | 
 | Using :view on an SHR | 
 | Faking a resignation | 
 | Lack of grammar for MR and LR ranks | 
-| Failing to hide TSA commands | 
+| MRs failing to hide TSA commands | 
 | Refusing to wear the correct uniform | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Suggestions | 
 | Asking if your appeal has been read | 
 | Not being ranked after passing a training - contact an available SHR through direct messages | 
-| Urgent in-game issues - contact an available SHR through direct messages | 
+| Urgent in-game or group issues - contact an available SHR through direct messages | 
+| Hosting an unofficial shift or training session |
+| Abusing the group shout | 
+| Free ranking |
+| Rank transfers | 
+| Force verification |
 {:.text-red-200} 
