@@ -76,3 +76,4 @@ Some things to note:
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat | Blacklist / permanent ban | Staff |
+| Trolling or behaving unprofessionally on an alternate account | Demotion or/and staff blacklist, depending on the severity of the user's actions | Staff |
