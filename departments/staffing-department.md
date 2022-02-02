@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Staffing Department
-Members of the Staffing Department are listed below. If you have any questions, please refer to them in our communications server.
+Members of the Staffing Department are listed below. If you have any questions, feel free to Direct Message one of the members.
 
 | Staffing Department Members      | 
 |:-------------|
