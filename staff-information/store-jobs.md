@@ -78,7 +78,7 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 {:.text-blue-000}
 {: .no_toc }
 
-The Vision Center is one of our many store departments. Customers can conduct an eye exam and receive a consultation on vision wear. 
+The Vision Center is one of our many store departments. Customers can receive a consultation on vision wear. 
 
 **Step 1:** Customers will approach you with their vision issues. You should greet them with a friendly greeting.
 
