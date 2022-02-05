@@ -114,6 +114,18 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 4:** Hand the sandwich to the customer by clicking on H and entering their username. Wish the customer to have a great day.
 
+### Security
+{:.text-blue-000}
+{: .no_toc }
+
+**Step 1:** Once you spawn in the staff room, head over to the security uniform. Wear the uniform by stepping on the rectangle below it.
+
+**Step 2:** Security staff members can cuff players who steal items from the store. If you find a player stealing an item, equip your cuffs and click on the player. Doing this will send the player to the jail.
+
+**Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another one is located at the back.
+
+**Step 4:** If a staff member calls for security by pressing the button near a register, an alert will appear on the monitor. Head over to the register and solve the issue. If the issue requires an HR, contact one.
+
 ## Staff Tasks
 {:.text-red-300} 
 
@@ -144,18 +156,6 @@ Items around the store will randomly go out of stock. It will be your job to ens
 **Step 4:** Equip your box. Hold "E" for a few seconds after you've equipped your box.
 
 **Step 5:** The item will automatically restock, and you will earn one point for restocking.
-
-### Security
-{:.text-blue-000}
-{: .no_toc }
-
-**Step 1:** Once you spawn in the staff room, head over to the security uniform. Wear the uniform by stepping on the rectangle below it.
-
-**Step 2:** Security staff members can cuff players who steal items from the store. If you find a player stealing an item, equip your cuffs and click on the player. Doing this will send the player to the jail.
-
-**Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another one is located at the back.
-
-**Step 4:** If a staff member calls for security by pressing the button near a register, an alert will appear on the monitor. Head over to the register and solve the issue. If the issue requires an HR, contact one.
 
 ### Supervision
 {:.text-blue-000}
