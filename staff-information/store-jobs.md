@@ -124,7 +124,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another one is located at the back.
 
-**Step 4:** If a staff member calls for security by pressing the button near a register, an alert will appear on the monitor. Head over to the register and solve the issue. If the issue requires an HR, contact one.
+**Step 4:** If a staff member calls for security by pressing the button near a register, an alert will appear on the monitor and over the register. Head over to the register and solve the issue. If the issue requires an HR, contact one.
 
 ## Staff Tasks
 {:.text-red-300} 
