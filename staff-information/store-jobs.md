@@ -27,6 +27,8 @@ These commands are available for you to use while in-game:
 
 While you are on the Employees team, you are on-duty and are expected to work. While on the Customers team, you can play as a customer. All staff members **except** High Ranks are allowed to do this.
 
+Keep in mind that BloxStreet's Pharmacy and Vision Center are combined. Both are located at the back of the store.
+
 ## Store Departments 
 {:.text-red-300} 
 
@@ -38,13 +40,11 @@ The registers are the main job at the store. All staff must be able to know how 
 
 **Step 1:** Customers will approach you with their items. You should greet them with a friendly greeting.
 
-**Step 2:** When they ask to be checked out, click “Start Sale” on the register.
+**Step 2:** When they ask to be checked out, click “Open Session” on the register.
 
-**Step 3:** Type in their username, then click “Finalize Sale.”
+**Step 3:** Type in their username, then click “Submit Payment.”
 
-**Step 4:** Click “Robux Payment” or “Card Payment,” depending on the customer’s preference.
-
-**Step 5:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
+**Step 4:** Remind the customer to scan their Cash Card on the payment screen, and after doing so, inform the customer to enjoy the rest of their day.
 
 ### Hotel
 {:.text-blue-000}
@@ -74,6 +74,18 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 
 **Step 3:** After you've given the customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
 
+### Vision Center
+{:.text-blue-000}
+{: .no_toc }
+
+The Vision Center is one of our many store departments. Customers can conduct an eye exam and receive a consultation on vision wear. 
+
+**Step 1:** Customers will approach you with their vision issues. You should greet them with a friendly greeting.
+
+**Step 2:** Lead the customer to the glasses aisle. Have them choose which glasses they prefer best. 
+
+**Step 3:** Wish the customer to have a great day. 
+
 ### Cafe
 {:.text-blue-000}
 {: .no_toc }
@@ -102,20 +114,6 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 4:** Hand the sandwich to the customer by clicking on H and entering their username. Wish the customer to have a great day.
 
-### Vision Center
-{:.text-blue-000}
-{: .no_toc }
-
-The Vision Center is one of our many store departments. Customers can conduct an eye exam and receive a consultation on vision wear. 
-
-**Step 1:** Customers will approach you with their vision issues. You should greet them with a friendly greeting.
-
-**Step 2:** Direct them to the eye exam of their choosing. Have them read out all the letters/shapes from the exam that they pick.
-
-**Step 3:** After the eye exam, lead the customer to the glasses aisle. Have them choose which glasses they prefer best. 
-
-**Step 4:** Wish the customer to have a great day. 
-
 ## Staff Tasks
 {:.text-red-300} 
 
@@ -139,13 +137,25 @@ Items around the store will randomly go out of stock. It will be your job to ens
 
 **Step 1:** Find an empty product that needs to be restocked.
 
-**Step 2:** Grab a box from the staff room.
+**Step 2:** Grab a box from the staff room or from the three restocking carts located near the shelves.
 
 **Step 3:** Go back to the empty product.
 
 **Step 4:** Equip your box. Hold "E" for a few seconds after you've equipped your box.
 
 **Step 5:** The item will automatically restock, and you will earn one point for restocking.
+
+### Security
+{:.text-blue-000}
+{: .no_toc }
+
+**Step 1:** Once you spawn in the staff room, head over to the security uniform. Wear the uniform by stepping on the rectangle below it.
+
+**Step 2:** Security staff members can cuff players who steal items from the store. If you find a player stealing an item, equip your cuffs and click on the player. Doing this will send the player to the jail.
+
+**Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another one is located at the back.
+
+**Step 4:** If a staff member calls for security by pressing the button near a register, an alert will appear on the monitor. Head over to the register and solve the issue. If the issue requires an HR, contact one.
 
 ### Supervision
 {:.text-blue-000}
@@ -154,4 +164,4 @@ Items around the store will randomly go out of stock. It will be your job to ens
 Supervision is the process where Board of Directors+ oversee the store to ensure all operations are smooth.
 
 * Only **Board of Directors+** can supervise
-* Board of Directors, Executive Assistants, and Store Executives should be overseeing all store departments and answering any questions that guests and staff members might have.
+* Board of Directors, Executive Assistants, and Store Executives should be overseeing all store departments and answering any questions that guests and staff members might have
