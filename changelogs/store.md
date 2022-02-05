@@ -10,6 +10,7 @@ This page outlines all changes made to the store, displaying the build number (v
 
 ### Build 8511 (05/02/2022)
 {:.text-blue-000}
+
 Added:
 - Security call buttons
 - Box carts
