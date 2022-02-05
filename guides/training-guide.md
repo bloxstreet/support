@@ -264,9 +264,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *The first step to restock an item is to find an empty shelf.*
 
-**Trainer:** *The second step to restock an item is to grab a box from the staff room and then head back to the empty shelf.*
+**Trainer:** *The second step to restock an item is to grab a box from the staff room or from the three restocking carts located near the shelves. Then, head back to the empty shelf.*
 
-**Trainer:** Keep in mind that you may only grab one box at a time. If you wish to grab a maximum of three boxes, feel free to purchase our Triple Boxes gamepass.
+**Trainer:** *Keep in mind that you may only grab one box at a time. If you wish to grab a maximum of three boxes, feel free to purchase our Triple Boxes gamepass.*
 
 **Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
 
