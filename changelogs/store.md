@@ -8,6 +8,12 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8526 (13/02/2022)
+{:.text-blue-000}
+
+Added:
+- More anti-exploit detections
+
 ### Build 8512 (05/02/2022)
 {:.text-blue-000}
 
