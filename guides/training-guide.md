@@ -284,7 +284,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *As there are no more questions, we will now move on to the Pharmacy Explanation.*
 
-**Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy. The pharmacy is located behind the cafe and towards the back of the store. At the pharmacy, customers can receive medicine.*
+**Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy.*
+
+**Trainer:** *The pharmacy is located behind the cafe and towards the back of the store. At the pharmacy, customers can receive medicine.*
 
 **Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.*
 
