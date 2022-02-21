@@ -8,6 +8,12 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8541 (21/02/2022)
+{:.text-blue-000}
+
+Fixed:
+- Flaw with the cuff system, allowing exploiters to mass jail (Reported and fixed within 15 minutes.)
+
 ### Build 8532 (15/02/2022)
 {:.text-blue-000}
 
