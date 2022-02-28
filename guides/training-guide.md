@@ -270,7 +270,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
 
-**Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking. If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
+**Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking.*
+
+**Trainer:** *If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
 
 **Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every LR is required.*
 
