@@ -63,7 +63,7 @@ Most BloxStreet ranks have cooldowns. A cooldown is a period of time when you ca
 | Store Director: 2 weeks |
 | Board of Directors: 1 month |
 | Executive Assistant: 1 month |
-| Store Executive: None |
+| Store Executive: 3 months |
 
 Working at the store while on cooldown will increase your chances of a promotion.
 
