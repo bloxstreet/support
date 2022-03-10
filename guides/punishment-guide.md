@@ -32,6 +32,7 @@ Some things to note:
 | Caps abuse (5+ sentences entirely in caps) | Server ban | Everyone |
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Alternate account of a banned user | Server ban | Everyone | 
+| Crowding or refusing to disperse | Server ban | Everyone |
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
 | Inappropriate roleplay | Permanent ban | Everyone |
@@ -60,6 +61,7 @@ Some things to note:
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Trolling/unprofessionalism at alliances | Demotion to Customer | Staff |
 | Disrespect, arguing, or ignoring an HR | Demotion to Customer | Staff |
+| Crowding or refusing to disperse | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
 | False warnings | Blacklist | Staff |
 | False kicks | Blacklist | Staff |
