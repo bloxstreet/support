@@ -73,12 +73,10 @@ Another way to rank up at BloxStreet is by earning points! Earning a certain amo
 
 | Points | 
 |:----------|
-| Management Intern: 400 |
+| Management Intern: 500 |
 | Team Leader: 800 |
 | Store Supervisor: 1,000 |
 | Assistant Manager: 2,000 |
 | Store Manager: 5,000 |
 | Store Director: 8,000 |
 | Board of Directors: 10,000 |
-| Executive Assistant: 14,000 |
-| Store Executive: 18,000 |
