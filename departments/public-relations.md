@@ -16,4 +16,4 @@ Members of the Public Relations Department are listed below. If you have any que
 | ovllie - Senior Moderator |
 | Chvvrlie - Senior Moderator |
 | EclipseIcy - Senior Moderator |
-| pastxlmoonlixht - Junior Moderator |
+| pastxlmoonlixht - Senior Moderator |
