@@ -8,8 +8,11 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
-### Build 8617 (28/03/2022)
+### Build 8618 (28/03/2022)
 {:.text-blue-000}
+
+Added:
+- A neat lil' sign in the staff room
 
 Fixed:
 - TSA punishments
