@@ -26,6 +26,7 @@ Fixed:
 - Chai Latte and Cappuccino are now spelled correctly
 - Self Checkouts now show BloxStreet instead of Target Store
 - Mops no longer give you a higher jump power
+- People no longer get kicked when going off/on duty
 
 ### Build 8619 (28/03/2022)
 {:.text-blue-000}
