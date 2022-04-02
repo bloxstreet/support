@@ -8,6 +8,25 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8658 (02/04/2022)
+{:.text-blue-000}
+
+Added:
+- New topbar menu GUI
+- New bottom-left options list
+
+Fixed:
+- Changed the player loading logic to improve performance
+- Nametags now load correctly
+- Bloxbiz now loads 2D adverts 60 seconds after server start to attempt to prevent HTTP errors
+- The music mute button now operates correctly
+- The handto approval GUI now times out after 60 seconds
+- The info section of the main menu now says BloxStreet instead of Target Store
+- The Rainbow Unicorn now has a price
+- Chai Latte and Cappuccino are now spelled correctly
+- Self Checkouts now show BloxStreet instead of Target Store
+- Mops no longer give you a higher jump power
+
 ### Build 8619 (28/03/2022)
 {:.text-blue-000}
 
