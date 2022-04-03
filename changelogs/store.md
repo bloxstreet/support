@@ -8,6 +8,17 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8676 (03/04/2022)
+{:.text-blue-000}
+
+Fixed:
+- Hand to will now time out after 60 seconds of no response
+- Hand to now works without resetting your character
+- Repeatedly pressing H will no longer glitch out the state of the hand to GUI
+- Somehow dying no longer leaves you in a state of purgatory
+- The top message UI has been moved down to fit with the new UI
+- The restart GUI no longer states that there is an update, just that servers are restarting
+
 ### Build 8672 (02/04/2022)
 {:.text-blue-000}
 
