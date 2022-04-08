@@ -12,7 +12,7 @@ Members of the Staffing Department are listed below. If you have any questions, 
 |:-------------|
 | f1reworks - Head Moderator |
 | ZenobiaBaryanou - Head Moderator |
-| Iovims - Senior Moderator |
+| Ieahvs - Senior Moderator |
 | fatou_rocks - Senior Moderator |
 | rysphobia - Senior Moderator |
 | svruls - Senior Moderator |
