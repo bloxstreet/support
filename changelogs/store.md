@@ -8,6 +8,13 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8709 (10/04/2022)
+{:.text-blue-000}
+
+Fixed:
+- Cuffs are no longer embedded in the floor outside
+- Nametags should be finally working? (pls for the love of god)
+
 ### Build 8677 (03/04/2022)
 {:.text-blue-000}
 
