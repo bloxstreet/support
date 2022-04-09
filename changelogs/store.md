@@ -14,6 +14,7 @@ This page outlines all changes made to the store, displaying the build number (v
 Fixed:
 - Cuffs are no longer embedded in the floor outside
 - Nametags should be finally working? (pls for the love of god)
+- The $500 given every 5 minutes works again
 
 ### Build 8677 (03/04/2022)
 {:.text-blue-000}
