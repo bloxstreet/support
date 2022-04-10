@@ -8,6 +8,18 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
+### Build 8711 (10/04/2022)
+{:.text-blue-000}
+
+Added:
+- One-way barriers to the registers exit (JSM ITAB barriers)
+
+Fixed:
+- Postly Figures underneath the floor are now gone
+- Stealing nametag now shows
+- Staff panel warnings now show correctly
+- The AFK tag now appears correctly when you are in the menu
+
 ### Build 8709 (10/04/2022)
 {:.text-blue-000}
 
