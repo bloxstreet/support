@@ -13,6 +13,7 @@ This page outlines all changes made to the store, displaying the build number (v
 
 Added:
 - One-way barriers to the registers exit (JSM ITAB barriers)
+-- (cos why ask a dev to make something when you can just find them!)
 
 Fixed:
 - Postly Figures underneath the floor are now gone
