@@ -55,3 +55,7 @@ You cannot transfer your rank onto another account if you are hacked or banned b
 BloxStreet does not offer rank transfers if your account has been hacked. We expect you to keep your account safe and secure. Your account is **100%** your responsibility.
 
 If you're an MR or HR and your account is hacked, you **must** inform an SHR immediately.
+
+## Investigation Policy
+{:.text-red-300}
+If an SHR is investigating a staff member or a community member, the SHR has the right to demote that staff member or community member to Customer until the investigation is complete. Additionally, the SHR has the right to remove any Discord role(s) from the staff member or community member while the investigation is on-going. The SHR can also take any action which is deemed necessary. Once the investigation is complete, the SHR will either rerank or take appropriate action on the player(s) involved. Additionally, SHRs who are investigating staff members or community members have the right to ask questions, which the staff member or community member must answer truthfully.
