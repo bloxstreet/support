@@ -14,6 +14,5 @@ Members of the Staffing Department are listed below. If you have any questions, 
 | ZenobiaBaryanou - Head Moderator |
 | Ieahvs - Senior Moderator |
 | fatou_rocks - Senior Moderator |
-| rysphobia - Senior Moderator |
-| svruls - Senior Moderator |
 | KAIT0_KlD - Senior Moderator |
+| rysphobia - Junior Moderator |
