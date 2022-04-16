@@ -10,7 +10,7 @@ Members of the Public Relations Department are listed below. If you have any que
 
 | Public Relations Department Members      | 
 |:-------------|
-| avnemone - Head of Public Relations | 
+| avnemone - Lead of Public Relations | 
 | unsightvls - Assistant of Public Relations |
 | Chvvrlie - Assistant of Public Relations |
 | EclipseIcy - Assistant of Public Relations |
