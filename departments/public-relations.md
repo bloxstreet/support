@@ -10,7 +10,7 @@ Members of the Public Relations Department are listed below. If you have any que
 
 | Public Relations Department Members      | 
 |:-------------|
-| avnemone - Head Moderator | 
-| fwauIts - Senior Moderator |
-| EclipseIcy - Senior Moderator |
-| pastxlmoonlixht - Senior Moderator |
+| avnemone - Head of Public Relations | 
+| EclipseIcy - Assistant of Public Relations |
+| fwauIts - Assistant of Public Relations |
+| pastxlmoonlixht - Assistant of Public Relations |
