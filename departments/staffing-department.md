@@ -10,9 +10,9 @@ Members of the Staffing Department are listed below. If you have any questions, 
 
 | Staffing Department Members      | 
 |:-------------|
-| f1reworks - Head Moderator |
-| ZenobiaBaryanou - Head Moderator |
-| Ieahvs - Senior Moderator |
-| fatou_rocks - Senior Moderator |
-| KAIT0_KlD - Senior Moderator |
-| rysphobia - Junior Moderator |
+| f1reworks - Lead of Staffing |
+| ZenobiaBaryanou - Co-Lead of Staffing |
+| Ieahvs - Assistant of Staffing |
+| fatou_rocks - Assistant of Staffing |
+| KAIT0_KlD - Assistant of Staffing |
+| rysphobia - Assistant of Staffing |
