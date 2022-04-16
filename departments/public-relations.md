@@ -11,11 +11,10 @@ Members of the Public Relations Department are listed below. If you have any que
 | Public Relations Department Members      | 
 |:-------------|
 | avnemone - Lead of Public Relations | 
-| unsightvls - Assistant of Public Relations |
 | Chvvrlie - Assistant of Public Relations |
 | EclipseIcy - Assistant of Public Relations |
 | fwauIts - Assistant of Public Relations |
 | ovllie - Assistant of Public Relations |
 | pastxlmoonlixht - Assistant of Public Relations |
 
-Please keep in mind that unsightvls only handles BloxStreet's social media platforms.
+unsightvls handles BloxStreet's social media platforms. unsightvls is not considered a member of the Public Relations Department.
