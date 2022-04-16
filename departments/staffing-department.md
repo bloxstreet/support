@@ -12,6 +12,7 @@ Members of the Staffing Department are listed below. If you have any questions, 
 |:-------------|
 | f1reworks - Lead of Staffing |
 | ZenobiaBaryanou - Co-Lead of Staffing |
+| sincerelyyryan - Assistant of Staffing |
 | fatou_rocks - Assistant of Staffing |
 | Ieahvs - Assistant of Staffing |
 | KAIT0_KlD - Assistant of Staffing |
