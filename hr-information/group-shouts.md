@@ -41,3 +41,5 @@ Co-hosts should use these group shouts.
 ```
 (TRAINING) | Hosted by (username) | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? (APPLY) | Interested in working at our establishment? Visit the Quiz Center.
 ```
+
+**You may add appropriate emojis to the group shouts and in-store announcements.**
