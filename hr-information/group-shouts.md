@@ -11,7 +11,7 @@ nav_order: 2
 {: .text-red-300 }
 
 ~~~
-🛍️ SHIFT | Hi, everyone! I am now hosting a shift at the store! Customers, head down to shop and get a refreshing beverage! Additionally, this is an opportunity for staff to get promoted and earn points! I look forward to seeing everyone there! 🛍️
+🛍️ SHIFT | Hello, everyone! I am now hosting a shift at the store! Customers, head down to shop and get a refreshing beverage. Additionally, this is an opportunity for staff to get promoted and earn points. I look forward to seeing everyone there! 🛍️
 ~~~
 
 ```
