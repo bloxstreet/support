@@ -11,11 +11,11 @@ nav_order: 2
 {: .text-red-300 }
 
 ~~~
-(SHIFT) | Hosted by (username) | Hello, everyone! I’m elated to announce that I’ll be hosting a shift at the store. Management Interns, Team Leaders, Store Supervisors, and Assistant Managers have a chance of getting promoted. 
+🛍️ SHIFT | Hi, everyone! I am now hosting a shift at the store! Customers, head down to shop and get a refreshing beverage! Additionally, this is an opportunity for staff to get promoted and earn points! I look forward to seeing everyone there! 🛍️
 ~~~
 
 ```
-(SHIFT) Hosted by (username) | The shift has unfortunately concluded. Congratulations to everyone who was promoted! The store is still open for both guests and staff members.
+🛒 SHIFT | The shift has concluded. If you were unable to attend, do not fret, as there will be several more in the future. The store is still open for all players, and our staff members are ready to assist you! 🛒
 ```
 
 ## Training Shouts
@@ -25,21 +25,19 @@ Co-hosts should use these group shouts.
 
 #### If You Don't Have Safechat:
 ```
-(TRAINING) | Hosted by (username) | A training session will be starting at the Training Center in () minutes. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
+📋 (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center in () minutes. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted. 📋
 ```
 
 #### If You Have Safechat:
 ```
-(TRAINING) | Hosted by (username) | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted.
+📋 (TRAINING) | Hosted by (username) | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance of getting promoted. 📋
 ```
 
 #### Training is Locked:
 ```
-(TRAINING) | Hosted by (username) | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the cafe and purchase a refreshing drink?
+🔒 (TRAINING) | Hosted by (username) | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the pharmacy and grab some medicine? 🔒
 ```
 #### Training is Concluded:
 ```
-(TRAINING) | Hosted by (username) | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? (APPLY) | Interested in working at our establishment? Visit the Quiz Center.
+📋 (TRAINING) | Hosted by (username) | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? (APPLY) | Interested in working at our establishment? Visit the Quiz Center. 📋
 ```
-
-**You may add appropriate emojis to the group shouts and in-store announcements.**
