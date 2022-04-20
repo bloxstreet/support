@@ -37,7 +37,7 @@ If you are a Store Manager+, you should remain active on all BloxStreet games an
 > 2.   Store Managers must possess a certain number of characteristics (professionalism, maturity, respect, etc.) 
 > 3.   Having past moderation history (warnings, kicks, server bans, blacklists, etc.) significantly decreases your chance of a promotion.  
 > 4.   Store Managers should be in the communications server. Talking in channels and attending events does help! 
-> 5.   Store Managers should frequently work at the store and attend training sessions. It is highly recommended to spend more than 120 minutes at the store each week and attend  a reasonable number of training sessions. Be sure to WORK when you’re at the store. Going off-duty or supervising will not increase your chances of a promotion. 
+> 5.   Store Managers should frequently work at the store and attend training sessions. It is highly recommended to spread your time out at the store each week. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to WORK when you’re at the store. Going off-duty or supervising will not increase your chances of a promotion. 
 > 6.   Please do NOT suck up to SHRs for a promotion. Store Managers may be blacklisted from obtaining Store Director if caught simping. 
 > 7.   Hinting for a promotion will not benefit you in any way. 
 > 8.   If you encounter a disruptive customer, deal with them calmly and professionally. Follow the procedures for handling a disruptive customer. 
