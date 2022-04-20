@@ -17,4 +17,4 @@ Members of the Public Relations Department are listed below. If you have any que
 | ovllie - Assistant of Public Relations |
 | pastxlmoonlixht - Assistant of Public Relations |
 
-unsightvls handles BloxStreet's social media platforms. unsightvls is not considered a member of the Public Relations Department.
+blackclvrr handles BloxStreet's social media platforms. blackclvrr is not considered a member of the Public Relations Department.
