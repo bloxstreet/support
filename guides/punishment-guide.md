@@ -33,6 +33,7 @@ Some things to note:
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Alternate account of a banned user | Server ban | Everyone | 
 | Crowding or refusing to disperse | Server ban | Everyone |
+| Advertising in-game | Server ban | Everyone |
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
 | Inappropriate roleplay | Permanent ban | Everyone |
@@ -70,6 +71,7 @@ Some things to note:
 | Trolling, spamming, or caps abuse | Blacklist | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
+| Advertising in-game | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
 | Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
