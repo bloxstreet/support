@@ -49,7 +49,6 @@ Trainings can only be hosted at the following times:
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store.
 * Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them.
-* The limit is five excess trainers. Do not cause arguments.
 
 ## Rank Information
 {: .text-red-300 }
@@ -61,7 +60,6 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
 | Ranker           | Ranks all LRs who pass. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
 | Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
-| Excess Trainers | Replaces a trainer in case a trainer disconnects or has to leave during a training. | Anyone ranked **Store Manager or Higher** | Maximum of **5 excess trainers** | 
 | Lower Ranks | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
