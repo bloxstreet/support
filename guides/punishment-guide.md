@@ -32,7 +32,7 @@ Some things to note:
 | Caps abuse (5+ sentences entirely in caps) | Server ban | Everyone |
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Alternate account of a banned user | Server ban | Everyone | 
-| Crowding or refusing to disperse | Server ban | Everyone |
+| Crowding (5 or more players) or refusing to disperse | Server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
