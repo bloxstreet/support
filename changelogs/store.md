@@ -8,7 +8,7 @@ nav_order: 1
 # Store Changelog
 This page outlines all changes made to the store, displaying the build number (viewable in the client dev console, and the help section of the Roblox 'esc' menu) and release date (DD/MM/YYYY)
 
-### Build 8733 (30/04/2022)
+### Build 8734 (30/04/2022)
 {:.text-blue-000}
 
 Added:
@@ -18,7 +18,7 @@ Fixed:
 - Many backend things(tm)
 
 Removed:
-- Herobrine
+- CheckMeIn (91% script activity w/ 30 players -- not good, leading to severe server lag)
 - "psstttt ur in here for 3 mins" text from the jail box
 
 ### Build 8712 (10/04/2022)
