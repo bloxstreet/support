@@ -339,7 +339,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. Management Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
-**Trainer:** *Management Interns can also get promoted by earning or purchasing 500 points.*
+**Trainer:** *Management Interns can also get promoted by earning or purchasing 800 points.*
 
 **Trainer:** *The final way Management Interns can get promoted is by getting noticed by an SHR at the store. These promotions happen at random times, even when shifts are not hosted.*
 
