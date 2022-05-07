@@ -50,7 +50,6 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Hinting for a promotion | Verbal warning | Staff |
 | Incorrect uniform | Verbal warning | Staff |
 | Using :view on an SHR | Verbal warning | Store Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
@@ -58,6 +57,7 @@ Some things to note:
 | Lack of grammar | 3 verbal warnings and then a demotion one rank down | Team Leader - Store Manager |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
+| Hinting for a promotion | Demotion one rank down | Staff |
 | Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Trolling/unprofessionalism at alliances | Demotion to Customer | Staff |
