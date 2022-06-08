@@ -14,6 +14,7 @@ Members of the Staffing Department are listed below. If you have any questions, 
 | ZenobiaBaryanou - Co-Lead of Staffing |
 | sincerelyyryan - Assistant of Staffing |
 | fatou_rocks - Assistant of Staffing |
-| Ieahvs - Assistant of Staffing |
+| Ieahdelrey - Assistant of Staffing |
 | KAIT0_KlD - Assistant of Staffing |
-| rysphobia - Assistant of Staffing |
+| azalealuvr - Assistant of Staffing |
+| discentted - Assistant of Staffing |
