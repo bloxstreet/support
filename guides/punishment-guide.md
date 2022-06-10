@@ -76,7 +76,7 @@ Some things to note:
 | Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Reclaiming a rank once fired, blacklisted, or demoted | Permanent ban | Staff |
-| Claiming the same rank more than once | Permanent ban | Staff
+| Claiming the same rank more than once/using the same points to do so | Permanent ban | Staff
 | Abusing the group shout | Permanent ban | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Simping for a higher rank | Blacklist / permanent ban | Staff |
