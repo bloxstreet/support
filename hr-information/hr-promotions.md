@@ -19,3 +19,5 @@ If you purchased your rank (bought points, worked your way up by points, or anot
 {: .text-red-300 }
 
 If you see someone getting demoted by an SHR, do not attempt to question us or anyone. Additionally, do not comment on the demotion. This is unprofessionalism and lowers your chances of getting a promotion.
+
+If an HR purchases a rank through points and gets demoted, the HR cannot use the same points to redeem a rank. Doing so will result in a permanent ban. The same applies to all staff members.
