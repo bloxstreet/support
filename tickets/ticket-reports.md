@@ -51,7 +51,6 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | Reclaiming a rank once fired or blacklisted | 
 | Simping for a higher rank | 
 | Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat |
-| Major bug reports | 
 | HR reports |
 | Training attendance (HR+ only) |
 {:.text-green-100} 
@@ -68,7 +67,6 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | MRs failing to hide TSA commands - contact an available HR | 
 | Refusing to wear the correct uniform - contact an available HR | 
 | Questions that can be answered by HRs (training times, shift times, etc.) - contact an available HR | 
-| Suggestions - not accepted at this moment| 
 | Asking if your appeal has been read | 
 | Not being ranked after passing a training - contact an available SHR through Direct Messages | 
 | Urgent in-game or group issues - contact an available SHR through Direct Messages | 
