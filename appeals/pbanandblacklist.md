@@ -20,6 +20,8 @@ All information regarding staff blacklist & permanent ban appeals can be found h
 - You are only allowed **1** appeal per blacklisted or banned account. 
 - You cannot appeal for another person other than yourself. 
 - You may only appeal staff blacklists and permanent bans through this form, not Discord bans, etc.
+- You may only appeal 24 hours after being blacklisted or permanently banned.
+- You may only appeal a second time 6 months after the first appeal was declined.
 
 ## Link 
 {: .text-red-300 }
