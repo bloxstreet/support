@@ -20,7 +20,7 @@ This guide is to assist shift hosts with tasks needed to host a successful shift
 
 ## Shift Times
 {: .text-red-300 }
-Shifts can be hosted at **7** different times throughout the day (all times are in EST):
+Shifts can be hosted at **9** different times throughout the day (all times are in EST):
 - 12 AM
 - 7 AM 
 - 9 AM
@@ -28,7 +28,7 @@ Shifts can be hosted at **7** different times throughout the day (all times are 
 - 1 PM
 - 3 PM
 - 6 PM
-- 8 PM (not hosted on Fridays)
+- 8 PM 
 - 10 PM
 
 Shifts can only be hosted at the above times. Hosting at any other time will make the shift unauthorized.
