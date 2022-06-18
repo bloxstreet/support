@@ -102,19 +102,17 @@ Commands in _italic_ do not have any consequences/information to say about them.
 | :ban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
 | :unban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
 | :pban (Junior Moderator+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide).  |  Anyone with an invalid reason.            |  Ranges from a warning to a permanent ban, depending on the severity.           |   Yes.                |
-| :sm / :m (Junior Moderator+ in-store ONLY).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
+| :sm / :m (Junior Moderator+).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
 | :mod / :admin / :superadmin (DEV+).           | N/A.  | N/A.  |    N/A.          | N/A.            |    N/A.               |
 | :unadmin (Head Moderator+ ONLY.)           | A player. | Only users who are Head Moderator+ may use this command. This can be used for users who are undergoing admin abuse, but do not warrant for a ban.  |   Using this if you are not a Head Moderator+.           |     Permanent ban.        |        Yes.           |
 | :s (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
-| :shutdown (Head Moderator+ ONLY & Host/Co-Host in trainings).           | Only users who are Head Moderator+ may use this in-store. Use if there is a serious scripting bug & with authorization from Developers/Group Owner. | N/A.  |   Using it if you are not a Head Moderator+ in-store.         |     N/A.       |    N/A.               |
+| :shutdown (Junior Moderator+ ONLY & Host/Co-Host in trainings).           | Only users who are Junior Moderator+ may use this in-store. | N/A.  |  N/A.        |     N/A.       |    N/A.               |
 | :slock / unslock (Not to be used at the store. May be used at trainings.        | N.A. | N/A.  |   N/A.           |     N/A.        |       N/A            |
-| :time (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |       N/A.            |
 | :tp / :bring (Store Director+). | Player(s) | Only if a player is stuck somewhere and needs to be freed. | Any other invalid reason. | Warning. If continued, may lead to a demotion. | Yes. 
 | :to | Player. | Needing to be teleported to a certain situation, and any other valid reason. | Unnecessary reasons. | Demotion. | Yes. | 
 | :btools (DEV+ ONLY). | Player. | N/A. | N/A. | Instant termination if used by a user who is not a Developer. | Yes. | 
 | :view / :unview | Player. | To watch suspicious players (Ex: exploiters). | Stalking SHRs (Junior Moderator+). | Warning. | Yes. |
 | :ff / :unff | Player. | To be used for Low Ranks at training. | Any other reason. | Warning. | Yes. | 
-| :jump (Junior Moderator+). | Player. | If a player is stuck in a seat and can not get out. | Any other reason. | Warning. | Yes. | 
 | :fly (Junior Moderator+). | Player. | If a Junior Moderator needs to supervise. | Any other player using the command. | Warning. | Yes. | 
 
 
