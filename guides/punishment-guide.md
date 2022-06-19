@@ -43,6 +43,7 @@ Some things to note:
 | Spreading false rumors | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Joking about serious topics or suicidal thoughts | Permanent ban | Everyone |
+| Threatening an SHR | Permanent ban | Everyone
 
 
 ## Staff Punishments
