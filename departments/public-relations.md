@@ -11,10 +11,8 @@ Members of the Public Relations Department are listed below. If you have any que
 | Public Relations Department Members      | 
 |:-------------|
 | avnemone - Lead of Public Relations | 
-| Chvvrlie - Assistant of Public Relations |
 | EclipseIcy - Assistant of Public Relations |
 | fwauIts - Assistant of Public Relations |
-| ovllie - Assistant of Public Relations |
 | pastxlmoonlixht - Assistant of Public Relations |
 
 blackclvrr handles BloxStreet's social media platforms. blackclvrr is not considered a member of the Public Relations Department.
