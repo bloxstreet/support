@@ -38,7 +38,7 @@ All members who are ranked Store Supervisor+ will gain access to various command
 | Store Developer          | Creator | 
 | Group Owner           | Creator | 
 
-Depending on the role, you will only be able to perform certain commands. For example, users with Moderator commands **cannot** run ;pban, but users with Super Admin commands can. 
+Depending on the role, you will only be able to perform certain commands. For example, users with Moderator commands **cannot** run :pban. However, players with Super Admin may.
 
 #### 1B - Executing Commands
 {: .text-grey-dk-000 }
@@ -61,7 +61,7 @@ When executing commands, you must take care to ensure you are doing it correctly
 {: .text-red-300 }
 As mentioned at the start of this document, TSA features a built-in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the severity. 
 
-* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
+* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
 * If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for an SHR unless they can rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
 
 ### Downtime
@@ -75,78 +75,49 @@ Click [here](https://status.bloxstreet.store) to view the status of various TSA 
 
 ### Acceptable Usage
 {: .text-red-300 }
-This is the main section of the document. It will outline everything that you can and not do with your commands. 
+This is the main section of the document. It will outline everything you can and cannot do with your admin commands.
 
-All major admin abuse (running ;pban all etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and developers are notified. 
+All major admin abuse (running :pban all, etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and developers are notified. 
 
-#### 4A - All commands Usage
+#### 4A - All Commands Usage
 {: .text-grey-dk-000 }
 {: .no_toc }
 
-**Arguments** = What you need to supply to run the command. 
-
-**Allowed** = What you may use this command for. 
-
-**Not Allowed** = What you may not use this command for. 
-
-**Punishment** = What happens if you use it inappropriately. 
-
-**Logs All Attempts:** Whether or not doing all as a player logs.
-
-Commands in _italic_ do not have any consequences/information to say about them. You may use them! Commands with a ~~strikethrough~~ must not be used AT ALL! Using them could lead to severe consequences.
-
-| Command Name        | Arguments  | Allowed | Not Allowed | Punishment | Logs All Attempts |
-|:-------------|:------------------|:------|:-------------|:------------|:------------------|
-| :respawn / :res / :refresh / :ref          | A player | You can respawn yourself and anybody who may request it.  |  You may NOT do :respawn all, or respawn users who **do not** request a respawn.           |  Ranges from a warning to permanent ban, depending on the severity.          |  No.                 |
-| :kick (Store Director+).           | A player, a reason. | Anyone with 3 or more warnings or for a valid reason.  |  Anyone with 3 or less warnings and for an invalid reason.  | Ranges from a blacklist to a permanent ban, depending on the severity.            |    Yes.               |
-| :ban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     Yes.              |
-| :unban (Store Director+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide). | Anyone with an invalid reason.             |  Ranges from a warning to a permanent ban, depending on the severity.       |     No.   |
-| :pban (Junior Moderator+).           | A player, a reason. | Anyone with a valid reason (read the Punishment Guide).  |  Anyone with an invalid reason.            |  Ranges from a warning to a permanent ban, depending on the severity.           |   Yes.                |
-| :sm / :m (Junior Moderator+).           | A message. | Announcements that everyone needs to see.  | Messages that are unimportant / do not need to be seen by anyone. | Ranges from a warning to a permanent ban, depending on the severity.          |  No.                 |
-| :mod / :admin / :superadmin (DEV+).           | N/A.  | N/A.  |    N/A.          | N/A.            |    N/A.               |
-| :unadmin (Head Moderator+ ONLY.)           | A player. | Only users who are Head Moderator+ may use this command. This can be used for users who are undergoing admin abuse, but do not warrant for a ban.  |   Using this if you are not a Head Moderator+.           |     Permanent ban.        |        Yes.           |
-| :s (DEV+ ONLY).           | N/A. | N/A.  |   N/A.           |     N/A.        |                   |
-| :shutdown (Junior Moderator+ ONLY & Host/Co-Host in trainings).           | Only users who are Junior Moderator+ may use this in-store. | N/A.  |  N/A.        |     N/A.       |    N/A.               |
-| :slock / unslock (Not to be used at the store. May be used at trainings.        | N.A. | N/A.  |   N/A.           |     N/A.        |       N/A            |
-| :tp / :bring (Store Director+). | Player(s) | Only if a player is stuck somewhere and needs to be freed. | Any other invalid reason. | Warning. If continued, may lead to a demotion. | Yes. 
-| :to | Player. | Needing to be teleported to a certain situation, and any other valid reason. | Unnecessary reasons. | Demotion. | Yes. | 
-| :btools (DEV+ ONLY). | Player. | N/A. | N/A. | Instant termination if used by a user who is not a Developer. | Yes. | 
-| :view / :unview | Player. | To watch suspicious players (Ex: exploiters). | Stalking SHRs (Junior Moderator+). | Warning. | Yes. |
-| :ff / :unff | Player. | To be used for Low Ranks at training. | Any other reason. | Warning. | Yes. | 
-| :fly (Junior Moderator+). | Player. | If a Junior Moderator needs to supervise. | Any other player using the command. | Warning. | Yes. | 
+| Command Name | Description |
+|:-------------|:------------|
+| :respawn / :res / :refresh / :ref | You can respawn yourself and anybody who may request it. You may NOT do :respawn all or respawn users who do not request a respawn. |
+| :kick (Store Director+) | Updating in-game ranks, kicking failed or passed LRs at a training session, or any other valid reason |
+| :ban (Store Director+) | Used for trollers, rule violators, removing a blacklisted or permanently banned user, or any other valid reason |
+| :unban (Store Director+) | Used if an HR accidentally bans the wrong person or if an invalid ban reason was put. | 
+| :pban (Junior Moderator+) | Used to permanently ban players (valid reasons are on the Punishment Guide). | 
+| :sm / :m  / :fm (Junior Moderator+) | Used to make announcements in the store or at training sessions. | 
+| :shutdown (Junior Moderator+ & the host of a training) | Used to conclude a training session after everyone is finished. SHRs may use this command if several players are banned from a server as a result of an admin abuse attack, for development updates, or if a server is lagging and nonfunctional. Not allowed for shutting down during a training session or shutting down for no reason. |
+| :slock / unslock (Host of a training session) | Used for locking a training session at :00. Not allowed for unlocking a server during a training session. |
+| :tp / :bring (Store Director+) | Used if a player is stuck somewhere and needs to be freed. |
+| :to | Needing to be teleported to a certain situation, as well as other valid reasons. |
+| :view / :unview | To watch suspicious players (example: exploiters). Not allowed to stalk SHRs or view shift hosts. | 
+| :ff / :unff | To be used for LRs who pass a training session and need to be taken to the ranking line. | 
+| :fly (Junior Moderator+). | Used if an SHR needs to supervise the store or a training session. | 
 
 
 
 | Command Names That Can Be Used (No information needed)       |
 |:-------------|
 | _:cmds_ |
-| _:bans / pbans_           |
+| _:bans_           |
 | _:info_         |
 | _:pm (Junior Moderator+)._           |
 | _:admins_           |
 | _:chatlogs_           |
 | _:logs_           |
-| _:joinlogs_           | 
 | _:exploitlogs_           | 
-| _:shutdownlogs_           |
-| _:viewtools_ | 
+| _:showtools_ | 
 
 
-| Command Names that CAN NOT Be Used (No information needed)       |
+| Command Names that CANNOT Be Used (No information needed)       |
 |:-------------|
-| ~~:crash~~           |
-| ~~:h (SHOULD NOT BE USED BY ANYONE AT THE STORE, NON-HOSTS AND CO-HOSTS AT TRAINING)~~           | 
-| ~~:change~~  |
-| ~~:ws / :speed~~ |
-| ~~:jumppower~~ | 
-| ~~:god / :ungod / :heal~~ | 
-| ~~:sit~~ | 
-| ~~:team~~ | 
-| ~~:insert~~ |
-| ~~:clear / :clr~~ | 
-| ~~:tools~~ | 
-| ~~:removetools~~ | 
-| ~~:startergear / :clearstartergear~~ |
+| :crash |
+| :h |
 
 ### Conclusion
 {: .text-red-300 }
