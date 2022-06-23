@@ -62,12 +62,12 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 
 ## Step-By-Step Claiming
 {: .text-red-300 }
-1. On the GUI at the top of the screen, click the settings icon.
-![Untitled design (1)](https://user-images.githubusercontent.com/93451050/147700076-04846343-1593-4dc0-badb-3c1bd9c77a93.png)
-2. Once the Staff Panel has opened, click "Shifts" from the menu on the left.
-![Untitled design (2)](https://user-images.githubusercontent.com/93451050/147700092-895521eb-c6a4-4ce4-a6ef-a3feb16fa4ee.png)
-3. To claim a shift, click the "Start Shift" button within the Shifts menu.
-![Untitled design (4)](https://user-images.githubusercontent.com/93451050/147700180-0224c8d8-9fb1-417e-ba80-dc817b642705.png)
+1. Click the third icon on the bottom left corner of your screen.
+![Untitled design (1)](https://cdn.discordapp.com/attachments/927754887461236757/989636114878980136/something.png)
+2. Once the BloxStreet Staff Panel has opened, click "Shifts" from the menu on the left.
+![Untitled design (2)](https://cdn.discordapp.com/attachments/927754887461236757/989636115277447208/something_1.png)
+3. To claim a shift, click the "Start Shift" button within the 'Shifts' menu.
+![Untitled design (4)](https://cdn.discordapp.com/attachments/927754887461236757/989636115646541895/something_2.png)
 
 ## Joining & Leaving during a Shift
 {: .text-red-300 }
