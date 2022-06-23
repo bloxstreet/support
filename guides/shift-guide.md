@@ -39,13 +39,13 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 - There can only be **one** host for each shift.
 - Arguing over shifts is not allowed.
 - No shifts should be claimed 10 minutes after their designated start time.
-- Executive Assistant or higher may rank for shifts.
+- Store Director+ may host shifts, and Executive Assistant+ may rank at shifts. Rankers are not required to be in-game.
 - At the beginning of a shift, the host is responsible for making an announcement in-game using the BloxStreet Staff Panel. The announcement should be the group shout.
 - During shifts, hosts should not have helpers or spectators following them.
 - There is a maximum of 5 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers promoted at each shift.
 - Store Managers cannot receive a promotion during a shift, but they are still encouraged to work during them.
 - All players who may be promoted at a shift should be checked to see if they are on cooldown.
-- Please make sure to promote players who present outstanding grammar. Staff members who do not utilize proper grammar should not be considered for a promotion. Be sure to check the chatlogs and see the player's grammar.
+- Make sure to promote players who present outstanding grammar. Staff members who do not utilize proper grammar should not be considered for a promotion. Be sure to check the chatlogs and see the player's grammar.
 
 ### Rank Cooldowns
 {: .text-grey-dk-000 } 
