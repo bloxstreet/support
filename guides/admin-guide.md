@@ -95,12 +95,12 @@ When executing commands, be sure to type at least 50% of the player's username.
 | :pban (Junior Moderator+) | Use this command to permanently ban players (valid reasons are on the Punishment Guide). | 
 | :sm / :m  / :fm (Junior Moderator+) | Use this command to make announcements in the store or at training sessions. | 
 | :shutdown (Junior Moderator+ & the host of a training) | Use this command to conclude a training session after everyone is finished. SHRs may use this command if several players are banned from a server as a result of an admin abuse attack, for development updates, or if a server is lagging and nonfunctional. This command is not allowed for shutting down during a training session or shutting down for no reason. |
-| :slock / unslock (Host of a training session) | This command is used for locking a training session at :00. This command is not allowed for unlocking a server during a training session. |
-| :tp / :bring (Store Director+) | This command is used if a player is stuck somewhere and needs to be freed. |
-| :to | This command is used to be teleported to a certain situation, as well as for other valid reasons. |
-| :view / :unview | This command is used to watch suspicious players (example: exploiters). Do not use this command to stalk SHRs or view shift hosts. | 
-| :ff / :unff | This command is used for LRs who pass a training session and need to be taken to the ranking line. | 
-| :fly (Junior Moderator+) | This command is used if an SHR needs to supervise the store or a training session. | 
+| :slock / unslock (Host of a training session) | Use this command to lock a training session at :00. This command is not allowed for unlocking a server during a training session. |
+| :tp / :bring (Store Director+) | Use this command if a player is stuck somewhere and needs to be freed. |
+| :to | Use this command to be teleported to a certain situation, as well as for other valid reasons. |
+| :view / :unview | Use this command to watch suspicious players (example: exploiters). Do not use this command to stalk SHRs or view shift hosts. | 
+| :ff / :unff | Use this command for LRs who pass a training session and need to be taken to the ranking line. | 
+| :fly (Junior Moderator+) | SHRs should use this command to supervise the store or a training session. | 
 
 
 
