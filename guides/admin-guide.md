@@ -100,7 +100,7 @@ When executing commands, be sure to type at least 50% of the player's username.
 | :to | Needing to be teleported to a certain situation, as well as other valid reasons. |
 | :view / :unview | To watch suspicious players (example: exploiters). Not allowed to stalk SHRs or view shift hosts. | 
 | :ff / :unff | To be used for LRs who pass a training session and need to be taken to the ranking line. | 
-| :fly (Junior Moderator+). | Used if an SHR needs to supervise the store or a training session. | 
+| :fly (Junior Moderator+) | Used if an SHR needs to supervise the store or a training session. | 
 
 
 
