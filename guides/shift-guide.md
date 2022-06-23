@@ -35,15 +35,15 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 
 ## Claiming, Roles, Ranking, & Other Information
 {: .text-red-300 }
-- HRs should be claiming shifts with the appropriate process at 4:30 PM EST.
+- HRs should be claiming shifts through the appropriate process at 4:30 PM EST.
 - There can only be **one** host for each shift.
 - Arguing over shifts is not allowed.
 - No shifts should be claimed 10 minutes after their designated start time.
 - Executive Assistant or higher may rank for shifts.
 - During shifts, hosts should not have helpers or spectators following them.
-- There can only be a maximum of 5 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers promoted at each shift.
+- There is a maximum of 5 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers promoted at each shift.
 - Store Managers cannot receive a promotion during a shift, but they are still encouraged to work during them.
-- All players that are promoted at a shift should be checked to see if they're on cooldown.
+- All players who may be promoted at a shift should be checked to see if they are on cooldown.
 - Please make sure to promote players who present outstanding grammar. Staff members who do not utilize proper grammar should not be considered for a promotion. Be sure to check the chatlogs and see the player's grammar.
 
 ### Rank Cooldowns
