@@ -45,24 +45,24 @@ Depending on the role, you will only be able to perform certain commands. For ex
 {: .no_toc }
 When executing commands, you must take care to ensure you are doing it correctly. 
 
-* TSA allows you to run a command by typing "/e" in front of a command. 
+* TSA allows you to run a command by typing "/e" in front of it.
   * To run a command privately with the "/e" method, you need to first open up the chat to run a command like you usually would. Before running the command, however, you need to type "/e."
     * EX:  **_/e :m Hello!_**
-  * This will make the command private, and this hidden from the chat. 
+  * This will make the command private. This also makes the command hidden from the chat.
 * You may also use the console to carry out a command. 
-  * To use the console, you need to first press ";" or "'" on your keyboard. This will cause a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
+  * To use the console, you need to first press ";" or "'" on your keyboard. This will result in a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
     * EX: ; (Console Opens) 
       
-      **_exploit logs_**
+      **_exploitlogs_**
 
-      ( Exploit logs GUI is then shown as expected) 
+      (Exploit logs GUI is then shown as expected) 
       
 ### Anti-Exploit
 {: .text-red-300 }
-As mentioned at the start of this document, TSA features a built-in Anti-Exploit system, which keeps out exploiters, and automatically bans/kicks depending on the severity. 
+As mentioned at the start of this document, TSA features a built-in anti-exploit system, which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
 
 * All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
-* If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for an SHR unless they can rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced!** 
+* If you are hosting a shift, and you notice that an exploiter gets banned, **please do not call for an SHR unless they can rejoin. It may take up to 30 seconds for them to be kicked again, as the HTTP API needs to be re-synced.** 
 
 ### Downtime
 {: .text-red-300 }
@@ -70,14 +70,14 @@ Downtime is a time in which a critical error has occurred within the code, stopp
 
 Click [here](https://status.bloxstreet.store) to view the status of various TSA services.
 
-* In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, DM us repeatedly, or anything of the sort when this occurs.** Doing so is **_punishable,_** and could get you possibly demoted. Axcracy and TheCakeChicken are aware of the problems and are likely fixing them as you worry. 
-* A simple fix may be just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
+* In this scenario, the Head Moderators+ kindly request that **you do not spam ping us, DM us repeatedly, or anything of the sort when this occurs.** Doing so is **_punishable_** and could get you possibly demoted. Group Developers have likely been informed of the problems and are fixing them as you worry. 
+* A simple fix may just be rejoining. If a server shuts down, many people rejoining exactly at the same time can overload the system and may cause your admin loading to be delayed. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin.**
 
 ### Acceptable Usage
 {: .text-red-300 }
 This is the main section of the document. It will outline everything you can and cannot do with your admin commands.
 
-All major admin abuse (running :pban all, etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and developers are notified. 
+All major admin abuse (running :pban all, etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and SHRs are notified. 
 
 #### 4A - All Commands Usage
 {: .text-grey-dk-000 }
@@ -88,19 +88,19 @@ When executing commands, be sure to type at least 50% of the player's username.
 
 | Command Name | Description |
 |:-------------|:------------|
-| :respawn / :res / :refresh / :ref | You can respawn yourself and anybody who may request it. You may NOT do :respawn all or respawn users who do not request a respawn. |
-| :kick (Store Director+) | Updating in-game ranks, kicking failed or passed LRs at a training session, or any other valid reason |
-| :ban (Store Director+) | Used for trollers, rule violators, removing a blacklisted or permanently banned user, or any other valid reason |
-| :unban (Store Director+) | Used if an HR accidentally bans the wrong person or if an invalid ban reason was put. | 
-| :pban (Junior Moderator+) | Used to permanently ban players (valid reasons are on the Punishment Guide). | 
-| :sm / :m  / :fm (Junior Moderator+) | Used to make announcements in the store or at training sessions. | 
-| :shutdown (Junior Moderator+ & the host of a training) | Used to conclude a training session after everyone is finished. SHRs may use this command if several players are banned from a server as a result of an admin abuse attack, for development updates, or if a server is lagging and nonfunctional. Not allowed for shutting down during a training session or shutting down for no reason. |
-| :slock / unslock (Host of a training session) | Used for locking a training session at :00. Not allowed for unlocking a server during a training session. |
-| :tp / :bring (Store Director+) | Used if a player is stuck somewhere and needs to be freed. |
-| :to | Needing to be teleported to a certain situation, as well as other valid reasons. |
-| :view / :unview | To watch suspicious players (example: exploiters). Not allowed to stalk SHRs or view shift hosts. | 
-| :ff / :unff | To be used for LRs who pass a training session and need to be taken to the ranking line. | 
-| :fly (Junior Moderator+) | Used if an SHR needs to supervise the store or a training session. | 
+| :respawn / :res / :refresh / :ref | Use this command to respawn yourself and anybody who may request it. You may NOT do :respawn all or respawn users who do not request a respawn. |
+| :kick (Store Director+) | Use this command to update in-game ranks, kick failed or passed LRs at a training session, or for any other valid reason. |
+| :ban (Store Director+) | Use this command for trollers, rule violators, removing a blacklisted or permanently banned user, or for  other valid reason. |
+| :unban (Store Director+) | Use this command if an HR accidentally bans the wrong person or if an invalid ban reason was put. | 
+| :pban (Junior Moderator+) | Use this command to permanently ban players (valid reasons are on the Punishment Guide). | 
+| :sm / :m  / :fm (Junior Moderator+) | Use this command to make announcements in the store or at training sessions. | 
+| :shutdown (Junior Moderator+ & the host of a training) | Use this command to conclude a training session after everyone is finished. SHRs may use this command if several players are banned from a server as a result of an admin abuse attack, for development updates, or if a server is lagging and nonfunctional. This command is not allowed for shutting down during a training session or shutting down for no reason. |
+| :slock / unslock (Host of a training session) | This command is used for locking a training session at :00. This command is not allowed for unlocking a server during a training session. |
+| :tp / :bring (Store Director+) | This command is used if a player is stuck somewhere and needs to be freed. |
+| :to | This command is used to be teleported to a certain situation, as well as for other valid reasons. |
+| :view / :unview | This command is used to watch suspicious players (example: exploiters). Do not use this command to stalk SHRs or view shift hosts. | 
+| :ff / :unff | This command is used for LRs who pass a training session and need to be taken to the ranking line. | 
+| :fly (Junior Moderator+) | This command is used if an SHR needs to supervise the store or a training session. | 
 
 
 
