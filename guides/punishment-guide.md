@@ -62,16 +62,16 @@ Some things to note:
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer | High Ranks |
 | Hinting for a promotion | Demotion one rank down with no verbal warning | Staff |
-| Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
+| Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Team Leader+ |
 | Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Team Leader+ |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Disrespect, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Crowding or refusing to disperse | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
-| False warnings | Blacklist | Staff |
-| False kicks | Blacklist | Staff |
-| Announcement abuse | Blacklist | Staff |
+| False warnings | Blacklist | Store Supervisor+ |
+| False kicks | Blacklist | Assistant Manager+ |
+| Announcement abuse | Blacklist | High Ranks |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Store Supervisor+ |
 | Trolling, spamming, or capitals abuse | Blacklist | Staff |
 | Unprofessionalism | Blacklist | Staff |
