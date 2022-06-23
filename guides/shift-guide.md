@@ -64,7 +64,7 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 ## Step-By-Step Claiming
 {: .text-red-300 }
 1. Click the third icon on the bottom left corner of your screen.
-![Untitled design (1)](https://cdn.discordapp.com/attachments/927754887461236757/989641575086817351/something2_1.png)
+![Untitled design (1)](https://media.discordapp.net/attachments/927754887461236757/989641575086817351/something2_1.png?width=131&height=587)
 2. Once the BloxStreet Staff Panel has opened, click "Shifts" from the menu on the left.
 ![Untitled design (2)](https://cdn.discordapp.com/attachments/927754887461236757/989636115277447208/something_1.png)
 3. To claim a shift, click the "Start Shift" button within the 'Shifts' menu.
