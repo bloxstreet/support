@@ -73,7 +73,7 @@ Some things to note:
 | False kicks | Blacklist | Staff |
 | Announcement abuse | Blacklist | Staff |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Store Supervisor+ |
-| Trolling, spamming, or caps abuse | Blacklist | Staff |
+| Trolling, spamming, or capitals abuse | Blacklist | Staff |
 | Unprofessional behaviour | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
 | Advertising in-game | Blacklist | Staff |
