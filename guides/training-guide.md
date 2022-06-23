@@ -48,7 +48,11 @@ Trainings can only be hosted at the following times:
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store.
-* Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them.
+* Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them. 
+* Trainers and hosts should not be chatting or joking around with each other during the training session and before LRs join. 
+* If trainers and hosts need to chat, they should do so in the communications server, not in-game.
+* Each LR may only go AFK for up to three minutes. Each LR may only go AFK up to two times per training session.
+* LRs should use the handto system during the Cafe Test.
 
 ## Rank Information
 {: .text-red-300 }
@@ -58,7 +62,7 @@ In this section, you will see an overview of each rank’s job at training sessi
 |:-------------|:------------------|:------|:-------------------|
 | Host | Leads the training and states the Host Intro. The Host also claims the training and ranks LRs (Executive Assistant+). The Host is also responsible for whitelisting trainers when teleporting LRs. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
 | Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
-| Ranker           | Ranks all LRs who pass. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
+| Ranker           | Ranks all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
 | Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
 | Lower Ranks | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
 | Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
@@ -142,13 +146,13 @@ This section will outline each of the tests the trainers are expected to perform
 {: .text-purple-100 }
 {: .no_toc }
 
-For the Grammar/Greeting Test, as a trainer, you must explain how this test works. Have your group of LRs show their greetings to you. **IMPORTANT: Do not fail LRs for minor grammatical errors. If you can understand their greetings easily, you should pass them.** You are always welcome to give out tips if needed. Make sure to give them a tip on copying and pasting their greeting every time, as it makes things much quicker on their behalf. If they pass, continue to the next test.  If they fail, kick them from the server and explain why.
+For the Grammar/Greeting Test, as a trainer, you must explain how this test works. Have your group of LRs show their greetings to you. **IMPORTANT: Do not fail LRs for minor grammatical errors. If you can understand their greetings easily, you should pass them.** You are always welcome to give out tips if needed. Make sure to give them a tip on copying and pasting their greeting every time, as it makes things much quicker on their behalf. If an LR spells ‘BloxStreet’ incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, continue to the next test. If they fail, kick them from the server and explain why. 
 
 ### Cafe Test
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. Wait for them to make it and say “Of course," or something related to that. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and the fact it has different flavors that can be selected once a COLD CUP is touched.
+The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. Wait for them to make it and say “Of course," or something related to that. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and the fact it has different flavors that can be selected once a COLD CUP is touched. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, you may fail them. For this test, LRs should use the handto system.
 
 ### Restocking Explanation
 {: .text-purple-100 }
@@ -172,7 +176,7 @@ The final part of training is the Register Test. Please go through a roleplay of
 {: .text-purple-100 }
 {: .no_toc }
 
-If your LRs pass, you must use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game.
+If your LRs pass, you must use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game. If a player disconnects before getting ranked but has passed the training, the host should ask an available SHR for ranking permission.
 
 ### Training Process
 {: .text-blue-000 }
@@ -185,6 +189,12 @@ This section will provide the script for trainers to use. Please try to stick to
 **Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
 
 **Trainer:** *If you need to go AFK for any reason, please make sure to tell me. Failure to do so will result in a removal from the server.*
+
+**Trainer:** *Please keep in mind that you may go AFK for up to three minutes. You cannot go AFK for a period of time longer than three minutes.*
+
+**Trainer:** *If you do not return after three minutes, you will be removed from the server.*
+
+**Trainer:** *You may only go AFK up to two times this training session.*
 
 **Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
 
@@ -212,7 +222,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.** 
 
-**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must kick the LR from the game, saying they failed._**
+**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must kick the LR from the game, saying they failed. If an LR spells 'BloxStreet' _**
 
 ### Cafe Test Script
 {: .text-blue-000 }
@@ -236,19 +246,19 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *To dispense a slush, simply place the COLD CUP up to the slush dispenser of your choice.*
 
-**Trainer:** *If you want to use the handto system, click the H key if you are on a PC.*
+**Trainer:** *To use the handto system, click the H key if you are on a PC.*
 
 **Trainer:** *If you are on mobile, click the button on the left side of your screen to begin the process.*
 
 **Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
 
-**Trainer:** *We will now begin this test. Please state your greetings.*
+**Trainer:** *We will now begin this test. Once you have gotten your items, do NOT hand them to me. Please state your greetings.*
 
 **Wait for all LRs to state their greetings before stating the order.**
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
-**Wait for a response and the order.**
+**Wait for a response and the order. Once everyone has gotten the order, go up to each LR and ask for it to be handed to you using the handto system. Follow the procedure under 'Cafe Test' if an LR gives you the wrong order.**
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
