@@ -18,6 +18,11 @@ This guide is intended for HRs.
 
 This guide is to assist shift hosts with tasks needed to host a successful shift. Please be sure to read **all** of this guide before hosting your first shift.
 
+## What Happens at a Shift?
+{: .text-red-300 }
+Shifts are opportunities for Management Interns, Team Leaders, Store Supervisors, and Assistant Managers to receive a promotion. Additionally, shifts are opportunities for guests to visit the store and explore, get served by staff members, and enjoy an experience at BloxStreet. Shift hosts are responsible for viewing staff members, going around the store, checking greetings and grammar, and promoting players who exceed expectations. During a shift, all staff members should be working at a station.
+
+
 ## Shift Times
 {: .text-red-300 }
 Shifts can be hosted at **9** different times throughout the day (all times are in EST):
