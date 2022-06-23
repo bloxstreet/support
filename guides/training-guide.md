@@ -222,7 +222,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.** 
 
-**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must kick the LR from the game, saying they failed. If an LR spells 'BloxStreet' _**
+**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must kick the LR from the game, saying they failed. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
 
 ### Cafe Test Script
 {: .text-blue-000 }
