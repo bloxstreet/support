@@ -33,15 +33,18 @@ Shifts can be hosted at **9** different times throughout the day (all times are 
 
 Shifts can only be hosted at the above times. Hosting at any other time will make the shift unauthorized.
 
-## Claiming, Roles & Ranking
+## Claiming, Roles, Ranking, & Other Information
 {: .text-red-300 }
 - HRs should be claiming shifts with the appropriate process at 4:30 PM EST.
 - There can only be **one** host for each shift.
 - Arguing over shifts is not allowed.
 - No shifts should be claimed 10 minutes after their designated start time.
 - Executive Assistant or higher may rank for shifts.
+- During shifts, hosts should not have helpers or spectators following them.
 - There can only be a maximum of 5 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers promoted at each shift.
+- Store Managers cannot receive a promotion during a shift, but they are still encouraged to work during them.
 - All players that are promoted at a shift should be checked to see if they're on cooldown.
+- Please make sure to promote players who present outstanding grammar. Staff members who do not utilize proper grammar should not be considered for a promotion. Be sure to check the chatlogs and see the player's grammar.
 
 ### Rank Cooldowns
 {: .text-grey-dk-000 } 
@@ -70,6 +73,7 @@ Shifts can only be hosted at the above times. Hosting at any other time will mak
 {: .text-red-300 }
 - Before claiming a shift, make sure you have a good internet connection and can remain at the store for at least 35 minutes.
 - Each shift lasts for 30 minutes. If you know you cannot stay for the entire shift, do not claim it.
+- Leaving a shift after you promote five players will lead to consequences. You may only leave a shift after it officially concludes.
 - If you lose connection or disconnect, the shift will be announced as concluded within #session-notice. However, the shift can continue once you rejoin.
 - **Do not reclaim the shift if you disconnect.** Reclaiming will send another announcement and restart the shift timer.
 - If you reclaim a shift, there may be consequences for the disruption it can cause.
