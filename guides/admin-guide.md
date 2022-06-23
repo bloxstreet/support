@@ -83,6 +83,9 @@ All major admin abuse (running :pban all, etc.) is **logged** and will result in
 {: .text-grey-dk-000 }
 {: .no_toc }
 
+When executing commands, be sure to type at least 50% of the player's username.
+
+
 | Command Name | Description |
 |:-------------|:------------|
 | :respawn / :res / :refresh / :ref | You can respawn yourself and anybody who may request it. You may NOT do :respawn all or respawn users who do not request a respawn. |
@@ -112,6 +115,7 @@ All major admin abuse (running :pban all, etc.) is **logged** and will result in
 | _:logs_           |
 | _:exploitlogs_           | 
 | _:showtools_ | 
+
 
 
 | Command Names that CANNOT Be Used (No information needed)       |
