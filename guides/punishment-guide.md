@@ -62,7 +62,7 @@ Some things to note:
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Team Leader+ |
 | Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Team Leader+ |
-| Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer |
+| Failing to inform HRs before a shift or training starts - if you cannot attend - for hosts | 3 verbal warnings and then a demotion to Customer | High Ranks |
 | Hinting for a promotion | Demotion one rank down with no verbal warning | Staff |
 | Playing with ranking sticks or misusing them | Demotion one rank down | High Ranks |
 | Refusal to wear correct uniform | Demotion to Customer | Staff |
