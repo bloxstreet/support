@@ -35,7 +35,7 @@ Some things to note:
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Crowding (5 or more players) or refusing to disperse | Server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
-| Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
+| Alternate account of a server banned, blacklisted, or permanently banned user | Permanent ban | Everyone | 
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Discrimination | Permanent ban | Everyone |
 | Inappropriate roleplay | Permanent ban | Everyone |
