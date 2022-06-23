@@ -55,7 +55,7 @@ Some things to note:
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
 | Incorrect uniform | Verbal warning | Staff |
-| Using :view on an SHR | Verbal warning | Store Supervisor+ |
+| Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
 | Faking a resignation | Verbal warning | Staff |
 | Lack of grammar | Verbal warning and then report to an SHR | High Ranks |
 | Lack of grammar | 3 verbal warnings and then a demotion one rank down | Team Leader - Store Manager |
