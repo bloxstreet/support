@@ -28,6 +28,10 @@ Thank you for wanting to ally with BloxStreet! Before you continue, please read 
 - If your group was terminated by BloxStreet, you must wait for at least **3** months before reapplying.
 - If your group was blacklisted from becoming an affiliate by BloxStreet, contact an SHR for further details.
 
+
+If you have any inquiries regarding this application, feel free to contact avnemone.
+
+
 ## Link
 {: .text-red-300 } 
 [Partnership Application](https://docs.google.com/forms/d/e/1FAIpQLSfsBiP-g1zbS1BcIHQAgvFQkx12XM0eRLd3-eJYWmHg_Fz-Vw/viewform)
