@@ -21,7 +21,7 @@ nav_order: 2
 ## Training Shouts
 {: .text-red-300 }
 
-Co-hosts should use these group shouts.
+Co-Hosts should use these group shouts.
 
 #### If You Don't Have Safechat:
 ```
