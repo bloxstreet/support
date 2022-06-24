@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Staffing Department
+title: Staffing
 parent: Departments
 nav_order: 2
 ---
