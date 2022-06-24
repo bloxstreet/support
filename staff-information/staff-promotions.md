@@ -27,7 +27,7 @@ In order to receive a promotion as a **Management Intern, Team Leader, Store Sup
 {:.text-red-300}
 There are multiple factors the administration team looks at when promoting a Store Manager to Store Director. The same applies when we do HR promotions.
 
-If you are a Store Manager+, you should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication in order to have a chance of a promotion. Junior Moderator+ can promote Store Managers at random times every day. These promotions are more difficult than Management Intern - Assistant Manager ones and often require time and effort.
+If you are a Store Manager+, you should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication in order to have a chance of a promotion. Junior Moderator+ can promote Store Managers at random times every day. These promotions are more difficult than Management Intern - Assistant Manager ones and often require time and effort. Additionally, purchasing ranks decreases your chances to earn an HR rank.
 
 ### **Store Manager Promotion Guide:**
 {:.text-blue-000}
