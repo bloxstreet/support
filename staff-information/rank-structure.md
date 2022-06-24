@@ -35,7 +35,7 @@ Here you will find all the ranks offered at BloxStreet!
 * Executive Assistant
 * Store Executive
 
-## Administrative Ranks
+## Administrative/Senior High Ranks
 {:.text-red-300}
 * Junior Moderator
 * Senior Moderator
