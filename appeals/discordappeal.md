@@ -17,11 +17,11 @@ All information regarding Discord appeals can be found here! Before you fill out
 - Each Discord ban will be examined on a **case-by-case** basis. 
 - Your appeal must be sincere and genuine for it to possibly be accepted.
 - Complaining about your appeal being declined will result in further consequences.
-- You are only allowed **1** appeal per banned account.
 - You cannot appeal for another person other than yourself.
 - This form can only be used for appealing bans on the BloxStreet communications server.
 - You may only appeal **24 hours** after being banned from the communications server.
 - You may only appeal a second time **6 months** after the first appeal was declined.
+- The length requirement **must be met**. Failing to meet the length requirement or spamming in order to submit the form will result in an automatic decline.
 
 ## Link 
 {: .text-red-300 }
