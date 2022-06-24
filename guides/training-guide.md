@@ -353,6 +353,8 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *The final way Management Interns can get promoted is by getting noticed by an SHR at the store. These promotions happen at random times, even when shifts are not hosted.*
 
+**Please avoid jokes about passing or failing a training.**
+
 **Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
 
 **Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.*
