@@ -19,7 +19,7 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 **Note:**
 {:.text-red-000} 
 - Text highlighted in **green** are acceptable reasons to make a ticket. For these reasons, you should **not** ping an SHR or message them. Instead, create a ticket.
-- Text highlighted in **red** are *not* acceptable reasons. 
+- Text highlighted in **red** are *not* acceptable reasons. Creating a ticket for an unacceptable reason will lead to it being closed. 
 - If you'd like a more depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html)
 
 ## Acceptable Reasons
