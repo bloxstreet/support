@@ -45,7 +45,7 @@ Please keep in mind that SHRs **can** return to BloxStreet in certain circumstan
 
 ## Rank Transfer Policy 
 {:.text-red-300}
-As a staff member, you are allowed to transfer your rank onto another account. If you wish to do so, create a ticket in the BloxStreet communications server. 
+As a staff member, you are allowed to transfer your rank onto another account. You may only do this once. If you wish to do so, create a ticket in the BloxStreet communications server. 
 
 You cannot transfer your rank onto another account if you are hacked or banned by Roblox. 
 
