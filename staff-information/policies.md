@@ -20,7 +20,7 @@ Thank you for purchasing points at BloxStreet - your donation is appreciated. As
 
 **Please note the following:**
 {:.text-red-000}
-* Lying about rank purchases through points will result in a **staff blacklist.** 
+* Lying about rank purchases through points will result in a **permanent ban.** 
 * Abusing will result in consequences. 
 * You still need to follow all of our rules. If you don't, you'll be subject to the same moderation action as everyone else, including demotions, blacklists, and permanent bans.
 
