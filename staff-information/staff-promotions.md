@@ -7,7 +7,7 @@ nav_order: 4
 
 # Staff Promotions
 {: .no_toc }
-Here you will find information regarding promotions at BloxStreet! 
+Here you will find information regarding promotions at BloxStreet! Keep in mind that promotions are a **privilege**, not a **right**.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,7 +21,7 @@ In order to receive a promotion as a Trainee Team Member, Junior Team Member, or
 
 ## Management Intern-Assistant Manager
 {:.text-red-300}
-In order to receive a promotion as a **Management Intern, Team Leader, Store Supervisor, or Assistant Manager**, you should attend and be noticed at a shift. Utilizing proper grammar, behaving professionally, and showing dedication will increase your chances of a promotion. Attending a shift does not guarantee a promotion.
+In order to receive a promotion as a **Management Intern, Team Leader, Store Supervisor, or Assistant Manager**, you should attend and be noticed at a shift. Utilizing proper grammar, behaving professionally, and showing dedication will increase your chances of a promotion. Attending a shift does not guarantee a promotion. Team Leaders, Store Supervisors, and Assistant Managers are required to be off cooldown in order to receive a promotion. Another way to get promoted is by being noticed by an SHR outside of a shift. Staff members may NOT recommend other staff members to an SHR for a promotion.
 
 ## Store Manager-Store Executive
 {:.text-red-300}
