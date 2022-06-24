@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Shift & Training Times
-Here you will find all session times that occur at BloxStreet and the Training Center.
+Here you will find all session times that occur at BloxStreet and the Training Center. These times can be found in the staff room on the BloxStreet Staff Information Board.
 
 | Shift Times | 
 |:------------| 
