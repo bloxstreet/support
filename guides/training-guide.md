@@ -42,7 +42,7 @@ Trainings can only be hosted at the following times:
 | 11PM EST           |
 
 
-* Hosting at any other time is prohibited (unless you have permission from a Head Moderator+), and will result in the appropriate disciplinary actions.
+* Hosting at any other time is prohibited (unless you have permission from a Head Moderator+). Hosting at another time will result in the appropriate disciplinary actions.
 * To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, make sure to use the GUI to set yourself as the Host. 
     - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
@@ -60,12 +60,12 @@ In this section, you will see an overview of each rank’s job at training sessi
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host | Leads the training and states the Host Intro. The Host also claims the training and ranks LRs (Executive Assistant+). The Host is also responsible for whitelisting trainers when teleporting LRs. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
-| Co-Host | Helps lead the training. The Co-Host also ranks LRs (Executive Assistant+), administers group shouts, and takes training attendance. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
-| Ranker           | Ranks all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
-| Trainer           | Follows instructions laid out in this guide. The trainer performs a series of tests to their LRs and determines whether or not they pass based on criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
-| Lower Ranks | Attends training and follows all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
-| Spectators | Supervises training and ensures everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
+| Host |The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Anybody ranked **Board of Directors or Higher** | **1** Host per training |
+| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
+| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
+| Trainer           | Trainers follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
+| Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
+| Spectators | Spectators supervise training and ensure everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
 {: .no_toc }
