@@ -120,7 +120,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 1:** Once you spawn in the staff room, head over to the security uniform. Wear the uniform by stepping on the rectangle below it.
 
-**Step 2:** Security staff members can cuff players who steal items from the store. If you find a player stealing an item, equip your cuffs and click on the player. Doing this will send the player to the jail.
+**Step 2:** Security staff members can cuff players who steal items from the store. If you find a player stealing an item, equip your cuffs and click on the player. After you that, select the 'Stealing' option. Doing this will send the player to the jail.
 
 **Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another one is located at the back.
 
