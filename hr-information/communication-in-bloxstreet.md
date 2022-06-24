@@ -26,4 +26,4 @@ Leaking includes sending screenshots or information from chats, sharing confiden
 
 * Please refrain from discussing suicide or self-harm in the BloxStreet Discord or in DMs with a community member. Some may find this upsetting or distressing.
 * We are mostly teenagers and are not qualified to help with these issues. Please talk to a professional or someone you trust instead.
-* You may go on inactivity notice to take a break from BloxStreet. 
+* You may go on an inactivity notice to take a break from BloxStreet. 
