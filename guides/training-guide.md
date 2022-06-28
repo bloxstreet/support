@@ -278,7 +278,11 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
 
-**Trainer:** *The shelf should now be restocked. All staff members will earn one point for restocking.*
+**Trainer:** *The shelf should now be restocked. If you are on a mobile device, tap and hold the button that appears when you approach the shelf.*
+
+**Trainer:** *Once you do that, the red box around the shelf will disappear, and the shelf should be restocked.*
+
+**Trainer:** *All staff members will receive one point for restocking a shelf.*
 
 **Trainer:** *If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
 
