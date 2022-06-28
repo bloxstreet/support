@@ -25,4 +25,4 @@ All information regarding staff blacklist & permanent ban appeals can be found h
 
 ## Link 
 {: .text-red-300 }
-[Ban & Blacklist Appeal Form](https://docs.google.com/forms/d/e/1FAIpQLSeP_tOjFug8pv5pd31Yf5JHdCKfwJi1cgx2pLFKd67W5w2r-A/viewform)
+[Permanent Ban & Blacklist Appeal Form](https://docs.google.com/forms/d/e/1FAIpQLSeP_tOjFug8pv5pd31Yf5JHdCKfwJi1cgx2pLFKd67W5w2r-A/viewform)
