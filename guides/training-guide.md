@@ -348,7 +348,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.**
 
-**_If an LR has a question, answer it. ALL LRs must reply when asked if they have any questions._*
+**_If an LR has a question, answer it. ALL LRs must reply when asked if they have any questions._**
 
 ### Register Test Script
 {: .text-blue-000 }
