@@ -70,7 +70,7 @@ The pharmacy is one of our many store departments. Customers can get medicine he
 
 **Step 1:** Customers will approach you at your pharmacy register. You should greet them with a friendly greeting.
 
-**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to them by pressing H and entering their username. If you are on mobile, use the handto system, which is located on the left side of your screen.
+**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to them by pressing 'H' and entering their username. If you are on mobile, use the handto system, which is located on the left side of your screen.
 
 **Step 3:** After you've given the customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
 
@@ -96,7 +96,7 @@ The cafe is a department in the store. Customers can come here to relax and enjo
 
 **Step 2:** After the customer selects their items, it will be your job to prepare them. Head over to the counter located behind the cafe registers and make the requested items.
 
-**Step 3:** Hand the customer their requested items. To give an order, hold out the item, and then click the letter H and follow the instructions. If you are on mobile, click the button on the left side of your screen to begin the process.
+**Step 3:** Hand the customer their requested items. To give an order, hold out the item, and then click the letter 'H' and follow the instructions. If you are on mobile, click the button on the left side of your screen to begin the process.
 
 **Step 4:** After you've given the customer their requested items, thank them for shopping at BloxStreet and remind them to come again soon.
 
@@ -112,7 +112,7 @@ The SubShoppe is one of our many store departments. Customers & staff members wi
 
 **Step 3:** Place whatever toppings the customer desires. Finish the sub by pressing on the cutting board again. 
 
-**Step 4:** Hand the sandwich to the customer by clicking on H and entering their username. Wish the customer to have a great day.
+**Step 4:** Hand the sandwich to the customer by clicking on 'H' and entering their username. Wish the customer a great day.
 
 ### Security
 {:.text-blue-000}
