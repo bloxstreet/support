@@ -157,6 +157,8 @@ Items around the store will randomly go out of stock. It will be your job to ens
 
 **Step 5:** The item will automatically restock, and you will earn one point for restocking.
 
+If you are on a mobile device, tap and hold the button that appears when you approach the shelf. Once you do that, the red box around the shelf will disappear, and the shelf should be restocked.
+
 ### Supervision
 {:.text-blue-000}
 {: .no_toc }
