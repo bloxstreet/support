@@ -60,12 +60,12 @@ In this section, you will see an overview of each rank’s job at training sessi
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host |The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Anybody ranked **Board of Directors or Higher** | **1** Host per training |
-| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Anybody ranked **Board of Directors or Higher**  | **1** Host per training |
-| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Anybody ranked **Executive Assistant or Higher** | **2-3** Rankers per training
-| Trainer           | Trainers follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. | Anyone ranked **Store Manager or Higher** | Maximum of **20 trainers** (1 trainer per counter)  |
-| Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | **Trainee Team Members - Senior Team Members** | No maximum | 
-| Spectators | Spectators supervise training and ensure everything is running smoothly. | Anyone ranked **Junior Moderator or Higher** (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
+| Host |The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** Host per training |
+| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** Co-Host per training |
+| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Executive Assistant+ | **2-3** Rankers per training
+| Trainer           | Trainers follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. | Store Manager+ | Maximum of **20 trainers** (1 trainer per counter)  |
+| Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
+| Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
 {: .no_toc }
