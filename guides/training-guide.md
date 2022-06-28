@@ -166,6 +166,12 @@ The next part of training is the Restocking Explanation. In this explanation, yo
 
 The next part of training is the Pharmacy Explanation. In this explanation, you will be responsible for informing your LRs about the pharmacy in BloxStreet.
 
+### SubShoppe Explanation
+{: .text-purple-100 }
+{: .no_toc }
+
+The SubShoppe Explanation is after the Pharmacy Explanation. In this explanation, you will be responsible for informing your LRs about BloxStreet's SubShoppe.
+
 ### Register Test
 {: .text-purple-100 }
 {: .no_toc }
@@ -317,6 +323,32 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 **Wait for your LRs to speak.**
 
 **_If an LR has a question, answer it. All LRs must reply when asked if they have any questions._**
+
+### SubShoppe Explanation Script
+{: .text-blue-000 }
+{: .no_toc }
+
+**Trainer:** *As there are no more questions, we will move on to the explanation relating to BloxStreet's sandwich shop.*
+
+**Trainer:** *The sandwich shop is located near the pharmacy and towards the back of the store. At the sandwich shop, customers can receive delectable sandwiches.*
+
+**Trainer:** *If you are working at the sandwich shop and a customer approaches you, be sure to greet them with a welcoming greeting.*
+
+**Trainer:** *Once the customer has selected their toppings for their sandwich, it will be your responsibility to create it.*
+
+**Trainer:** *Firstly, press the cutting board once to receive access to the bread.*
+
+**Trainer:** *Secondly, place the desired toppings. You can do this by clicking on them individually.*
+
+**Trainer:** *Finish creating the sandwich by pressing on the cutting board once more.*
+
+**Trainer:** *Lastly, hand the sandwich to the customer by using the handto and entering their username. Wish the customer a great day.*
+
+**Trainer:** *Does anyone have questions about this explanation? Now is the time to ask them. A response from every LR is required.*
+
+**Wait for your LRs to speak.**
+
+**_If an LR has a question, answer it. ALL LRs must reply when asked if they have any questions._*
 
 ### Register Test Script
 {: .text-blue-000 }
