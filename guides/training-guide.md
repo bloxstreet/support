@@ -272,6 +272,8 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 {: .text-blue-000 }
 {: .no_toc }
 
+**This explanation takes place at the cafe station.**
+
 **Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Restocking Explanation.*
 
 **Trainer:** *In BloxStreet's store, items can run out of stock. As a staff member, it is your responsibility to restock items so guests can have a wonderful experience at the store.*
@@ -302,6 +304,8 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 {: .text-blue-000 }
 {: .no_toc }
 
+**This explanation takes place at the pharmacy section.**
+
 **Trainer:** *As there are no more questions, we will now move on to the Pharmacy Explanation.*
 
 **Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy.*
@@ -327,6 +331,8 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 ### SubShoppe Explanation Script
 {: .text-blue-000 }
 {: .no_toc }
+
+**This explanation takes place at the pharmacy section. There is no SubShoppe in the Training Center.**
 
 **Trainer:** *As there are no more questions, we will move on to the explanation relating to BloxStreet's sandwich shop.*
 
