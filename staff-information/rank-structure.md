@@ -14,32 +14,39 @@ Here you will find all the ranks offered at BloxStreet!
 1. TOC
 {:toc}
 
-## **Customer**
-{:.text-blue-300}
+### **Customer**
+{: .text-purple-100 }
+{: .no_toc }
 Customer is the first rank at BloxStreet. Customers are the lowest rank in the group and are regular players who may explore the store, shop, and order items from staff members. Customers must abide by all BloxStreet regulations, including in our group's games and our communications server.
 
 ## **Allied Representative** 
-{:.text-blue-300}
+{: .text-purple-100 }
+{: .no_toc }
 Allied Representative is the second rank at BloxStreet. Allied Representatives are members who represent BloxStreet’s alliances. This rank is not obtainable and is reserved for partnership representatives only.
 
 **Noted Customer**
-{:.text-blue-300}
+{: .text-purple-100 }
+{: .no_toc }
 Noted Customer is the third rank at BloxStreet. Noted Customers have contributed to BloxStreet in some way, shape, or form. Noted Customers consist of former SHRs, developers, and graphic designers. This rank is not obtainable and is reserved for specific community members only. 
 
 **Trainee Team Member** 
-{:.text-yellow-300}
+{: .text-yellow-300 }
+{: .no_toc }
 Trainee Team Member is the fourth rank at BloxStreet, and it is considered an **LR** rank. Trainee Team Members have successfully passed their quiz and are new staff members who are not yet trained. Trainee Team Members may work at the store in all departments. Additionally, they may help restock items and clean spills. In order to receive a promotion, Trainee Team Members must attend and pass a training session.
 
 **Junior Team Member**
-{:.text-yellow-300}
+{: .text-yellow-300 }
+{: .no_toc }
 Junior Team Member is the fifth rank at BloxStreet, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. Junior Team Members are allowed to work at all departments and serve our customers. Additionally, they may help restock items and clean spills. In order to receive a promotion, Junior Team Members must attend and pass a training session.
 
 **Senior Team Member**
-{:.text-yellow-300}
+{: .text-yellow-300 }
+{: .no_toc }
 Senior Team Member is the sixth rank at BloxStreet, and it is considered an **LR** rank. Senior Team Members have attended and passed two training sessions. They are allowed to work at all departments and serve our customers. Additionally, they may help restock items and clean spills. Senior Team Members are also more experienced than Trainee Team Members and Junior Team Members. In order to receive a promotion, they must attend and pass a training session.
 
 **Management Intern**
-{:.text-yellow-300}
+{: .text-yellow-300 }
+{: .no_toc }
 Management Intern is the seventh rank at BloxStreet, and it is considered an **LR** rank. Management Interns have attended and passed three training sessions. Another way to obtain this rank is by working for or purchasing 500 points. Management Interns are tasked with working at all departments and serving our customers to the best of their ability. Additionally, they may help restock items and clean spills. In order to receive a promotion, Management Interns must get noticed by the host of a shift, by an SHR outside of a shift, or work for/purchase 800 points.
 
 **Team Leader** 
