@@ -44,22 +44,22 @@ Senior Team Member is the sixth rank at BloxStreet, and it is considered an **LR
 Management Intern is the seventh rank at BloxStreet, and it is considered an **LR** rank. Management Interns have attended and passed three training sessions. Another way to obtain this rank is by working for or purchasing 500 points. Management Interns are tasked with working at all departments and serving our customers to the best of their ability. Additionally, they may help restock items and clean spills. In order to receive a promotion, Management Interns must get noticed by the host of a shift, by an SHR outside of a shift, or work for/purchase 800 points.
 
 **Team Leader** 
-{:.text-fuchsia-300}
+{:.text-blue-200}
 {: .no_toc }
 Team Leader is the eighth rank at BloxStreet, and it is considered the first **MR** rank. Team Leaders have successfully been noticed by the host of a shift, by an SHR, or have worked for/purchased 800 points. Team Leaders are tasked with working at departments, serving our customers, restocking items, and cleaning spills. In order to receive a promotion, Team Leaders must be off their three-day cooldown. Additionally, they must get noticed by the host of a shift, by an SHR outside of a shift, or work for/purchase 1,000 points.
 
 **Store Supervisor** 
-{:.text-fuchsia-300}
+{:.text-blue-200}
 {: .no_toc }
 Store Supervisor is the ninth rank at BloxStreet, and it is considered an **MR** rank. Store Supervisors have successfully been noticed by the host of a shift, by an SHR, or have worked for/purchased 1,000 points. Store Supervisors are tasked with working at departments, serving our customers, restocking items, cleaning spills, and warning and kicking trollers if no available HRs can be contacted. Store Supervisors receive access to Moderator commands and must use them responsibly. In order to receive a promotion, they must be off their three-day cooldown. Additionally, they must get noticed by the host of a shift, by an SHR outside of a shift, or work for/purchase 2,000 points.
 
 **Assistant Manager** 
-{:.text-fuchsia-300}
+{:.text-blue-200}
 {: .no_toc }
 Assistant Manager is the tenth rank at BloxStreet, and it is considered an **MR** rank. Assistant Managers have successfully been noticed by the host of a shift, by an SHR, or have worked for/purchased 2,000 points. Assistant Managers are tasked with working at departments, serving our customers, restocking items, cleaning spills, and warning and kicking trollers if no available HRs can be contacted. Assistant Managers receive access to Moderator commands and must use them responsibly. In order to receive a promotion, they must be off their five-day cooldown. Additionally, they must get noticed by the host of a shift, by an SHR outside of a shift, or work for/purchase 5,000 points.
 
 **Store Manager**
-{:.text-fuchsia-300}
+{:.text-blue-200}
 {: .no_toc }
 Store Manager is the eleventh rank at BloxStreet, and it is considered an **MR** rank. Store Managers have successfully been noticed by the host of a shift, by an SHR, or have worked for/purchased 5,000 points. Store Managers are tasked with working at departments, serving our customers, restocking items, cleaning spills, warning and kicking trollers if no available HRs can be contacted, and attending training sessions to help train LRs. Store Managers receive access to Moderator commands and must use them responsibly. In order to be eligible for a promotion, they must be off their two-week cooldown. Additionally, they must get noticed by an SHR or work for/purchase 8,000 points. Store Manager promotions occur at random times.
 
