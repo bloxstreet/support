@@ -83,6 +83,7 @@ Some things to note:
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Gossiping | Permanent ban | Staff |
 | Reclaiming a rank after being demoted, fired, or blacklisted | Permanent ban | Staff |
+| Reclaiming the same rank more than once | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
 | Claiming a rank using points once used | Permanent ban | High Ranks |
 | Abusing the group shout | Permanent ban | High Ranks |
