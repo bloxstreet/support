@@ -6,7 +6,7 @@ nav_order: 5
 ---
 # Rank Structure
 {: .no_toc }
-Here you will find all the ranks offered at BloxStreet!
+All of BloxStreet's ranks and rank descriptions are found here.
 
 ### **Customer**
 {: .text-purple-100 }
