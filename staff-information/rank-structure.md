@@ -8,12 +8,6 @@ nav_order: 5
 {: .no_toc }
 Here you will find all the ranks offered at BloxStreet!
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ### **Customer**
 {: .text-purple-100 }
 {: .no_toc }
