@@ -66,7 +66,6 @@ Some things to note:
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Team Leader+ |
 | Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Team Leader+ |
-| Refusal to wear correct uniform | Demotion to Customer | Staff |
 | Disrespect, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Crowding or refusing to disperse | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
@@ -80,6 +79,7 @@ Some things to note:
 | Advertising in-game | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
 | Dancing/standing on in-game shelves, counters, etc... | Blacklist | Staff |
+| Refusal to wear correct uniform | Blacklist | Staff |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Gossiping | Permanent ban | Staff |
 | Reclaiming a rank after being demoted, fired, or blacklisted | Permanent ban | Staff |
