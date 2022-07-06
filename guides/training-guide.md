@@ -339,7 +339,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *All LRs are required to answer the questions by typing the answers in the chat. Copying off someone else’s answers does not always lead you to the correct answer.*
 
-**Trainer:** *Signs of plagiarism in answers will result in automatic fail.*
+**Trainer:** *Signs of plagiarism in answers will result in an automatic fail.*
 
 **Trainer:** *All LRs must correctly answer at least four out of the six questions. Additionally, you are welcome to use any BloxStreet sources.*
 
