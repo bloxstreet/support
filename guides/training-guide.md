@@ -108,7 +108,7 @@ The Host should say the line above at :57.
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
+At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host should approach each trainer and ask if they have the correct/updated version of the training guide.**
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
@@ -122,7 +122,10 @@ At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be
 
 The host and co-host will stand and monitor the LRs and the presentation to ensure everything runs smoothly.
 
-To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once. Be sure to inform the LRs that they can click on the monitors to get a better view.**
+To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once.**
+
+**Host:** The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.
+
 
 ### Host/Co-Host: After Presentation
 {: .text-yellow-200 }
@@ -328,6 +331,8 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 **Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All topics you are being quizzed on were covered during the presentation or during this training.*
 
 **Trainer:** *All LRs are required to answer the questions by typing the answers in the chat. Copying off someone else’s answers does not always lead you to the correct answer.*
+
+**Trainer:** *Signs of plagiarism in answers will result in automatic fail.*
 
 **Trainer:** *All LRs must correctly answer at least four out of the six questions. Additionally, you are welcome to use any BloxStreet sources.*
 
