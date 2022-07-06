@@ -154,24 +154,6 @@ For the Grammar/Greeting Test, as a trainer, you must explain how this test work
 
 The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. Wait for them to make it and say “Of course," or something related to that. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and the fact it has different flavors that can be selected once a COLD CUP is touched. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, you may fail them. For this test, LRs should use the handto system.
 
-### Restocking Explanation
-{: .text-purple-100 }
-{: .no_toc }
-
-The next part of training is the Restocking Explanation. In this explanation, you will be responsible for informing your LRs about the restocking process at BloxStreet.
-
-### Pharmacy Explanation
-{: .text-purple-100 }
-{: .no_toc }
-
-The next part of training is the Pharmacy Explanation. In this explanation, you will be responsible for informing your LRs about the pharmacy in BloxStreet.
-
-### SubShoppe Explanation
-{: .text-purple-100 }
-{: .no_toc }
-
-The SubShoppe Explanation is after the Pharmacy Explanation. In this explanation, you will be responsible for informing your LRs about BloxStreet's SubShoppe.
-
 ### Register Test
 {: .text-purple-100 }
 {: .no_toc }
@@ -268,93 +250,6 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-### Restocking Explanation Script
-{: .text-blue-000 }
-{: .no_toc }
-
-**This explanation takes place at the cafe station.**
-
-**Trainer:** *Congratulations, you have all passed the Cafe Test. We will now begin the Restocking Explanation.*
-
-**Trainer:** *In BloxStreet's store, items can run out of stock. As a staff member, it is your responsibility to restock items so guests can have a wonderful experience at the store.*
-
-**Trainer:** *The first step to restock an item is to find an empty shelf.*
-
-**Trainer:** *The second step to restock an item is to grab a box from the staff room or from the three restocking carts located near the shelves. Then, head back to the empty shelf.*
-
-**Trainer:** *Keep in mind that you may only grab one box at a time. If you wish to grab a maximum of three boxes, feel free to purchase our Triple Boxes gamepass.*
-
-**Trainer:** *The third step to restock an item is to equip your box. Once you have equipped your box, hold "E" for a few seconds.*
-
-**Trainer:** *The shelf should now be restocked. If you are on a mobile device, tap and hold the button that appears when you approach the shelf.*
-
-**Trainer:** *Once you do that, the red box around the shelf will disappear, and the shelf should be restocked.*
-
-**Trainer:** *All staff members will receive one point for restocking a shelf.*
-
-**Trainer:** *If you wish to earn more points for restocking, feel free to purchase one of our point multiplier gamepasses.*
-
-**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every LR is required.*
-
-**Wait for your LRs to speak.**
-
-**_If an LR has a question, answer it. All LRs must reply when asked if they have any questions._**
-
-### Pharmacy Explanation Script
-{: .text-blue-000 }
-{: .no_toc }
-
-**This explanation takes place at the pharmacy section.**
-
-**Trainer:** *As there are no more questions, we will now move on to the Pharmacy Explanation.*
-
-**Trainer:** *BloxStreet's store has several departments, and one of them is the pharmacy.*
-
-**Trainer:** *The pharmacy is located behind the cafe and towards the back of the store. At the pharmacy, customers can receive medicine.*
-
-**Trainer:** *If you are working at the pharmacy and a customer approaches you, be sure to greet them with a friendly greeting.*
-
-**Trainer:** *Once the customer has selected which medicine they want, it will be your responsibility to find it.*
-
-**Trainer:** *Click on the medicine behind you and hand it to the customer by pressing 'H' and entering their username.*
-
-**Trainer:** *If you are on mobile, use the handto system, which is located on the left side of your screen.*
-
-**Trainer:** *After you have given your customer their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.*
-
-**Trainer:** *Does anyone have any questions about this explanation? Now is the time to ask them. A response from every LR is required.*
-
-**Wait for your LRs to speak.**
-
-**_If an LR has a question, answer it. All LRs must reply when asked if they have any questions._**
-
-### SubShoppe Explanation Script
-{: .text-blue-000 }
-{: .no_toc }
-
-**This explanation takes place at the pharmacy section. There is no SubShoppe in the Training Center.**
-
-**Trainer:** *As there are no more questions, we will move on to the explanation relating to BloxStreet's sandwich shop.*
-
-**Trainer:** *The sandwich shop is located near the pharmacy and towards the back of the store. At the sandwich shop, customers can receive delectable sandwiches.*
-
-**Trainer:** *If you are working at the sandwich shop and a customer approaches you, be sure to greet them with a welcoming greeting.*
-
-**Trainer:** *Once the customer has selected their toppings for their sandwich, it will be your responsibility to create it.*
-
-**Trainer:** *Firstly, press the cutting board once to receive access to the bread.*
-
-**Trainer:** *Secondly, place the desired toppings. You can do this by clicking on them individually.*
-
-**Trainer:** *Finish creating the sandwich by pressing on the cutting board once more.*
-
-**Trainer:** *Lastly, hand the sandwich to the customer by using the handto and entering their username. Wish the customer a great day.*
-
-**Trainer:** *Does anyone have questions about this explanation? Now is the time to ask them. A response from every LR is required.*
-
-**Wait for your LRs to speak.**
-
-**_If an LR has a question, answer it. ALL LRs must reply when asked if they have any questions._**
 
 ### Register Test Script
 {: .text-blue-000 }
