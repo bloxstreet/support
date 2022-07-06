@@ -130,7 +130,7 @@ Once the presentation concludes, LRs are required to remain silent for the hostâ
 
 **LRs WILL CONTINUE STANDING ON THE RED LINES AFTER THE PRESENTATION HAS ENDED.**
 
-**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available.*
+**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
@@ -327,7 +327,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *All LRs must correctly answer at least four out of the six questions. Additionally, you are welcome to use any BloxStreet sources.*
 
-**Trainer:** *All LRs are required to answer each question in a maximum of 30 seconds. If you do not answer a question within 30 seconds, you will receive no point for the question.*
+**Trainer:** *All LRs are required to answer each question in a maximum of 30 seconds. If you do not answer a question within 30 seconds, you will not receive a point for the question.*
 
 **Trainer:** *Before I begin, does anyone have any questions? This is your final opportunity to ask questions related to Trivia.*
 
@@ -387,7 +387,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
 
-**Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if a photo will be taking place, trainers should not leave and instead head to the lobby.**
+**Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if an SHR decides a photo will be taking place, trainers should not leave and instead head to the lobby.**
 
 
 ## Training Conclusion
