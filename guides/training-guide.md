@@ -100,7 +100,9 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 You should keep saying the line above until the start time. Do not spam it.
 The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
-**Host:** *We will commence in approximately five minutes. All LRs should refrain from dancing and talking.* 
+**Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
+
+The Host should say the line above at :57. 
 
 ### Host/Co-Host: Training Starts
 {: .text-yellow-200 }
@@ -323,7 +325,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Take your LRs to your station’s cafe counter.**
 
-**Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All questions were covered during the presentation at the beginning of this training session or during this training.*
+**Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All topics you are being quizzed on were covered during the presentation or during this training.*
 
 **Trainer:** *All LRs are required to answer the questions by typing the answers in the chat. Copying off someone else’s answers does not always lead you to the correct answer.*
 
