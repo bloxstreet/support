@@ -172,6 +172,8 @@ If your LRs pass, you must use the :ff command on them, and take them to one of 
 
 This section will provide the script for trainers to use. Please try to stick to this layout. You may add emojis. 
 
+**The introduction takes place at the cafe counter.**
+
 **Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I will be your trainer for today.*
 
 **Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
@@ -196,6 +198,8 @@ At this point, you must wait for the Trainee to respond. If they reply with a po
 {: .text-blue-000 }
 {: .no_toc }
 
+**This test takes place at the cafe counter.**
+
 At this point, you must conduct the Grammar/Greeting Test. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
 
 **Trainer:** *We will start this training with the Grammar/Greeting Test.*
@@ -216,7 +220,17 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 {: .text-blue-000 }
 {: .no_toc }
 
+**This test takes place at the cafe counter.**
+
 **Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
+
+**Trainer:** *However, before we begin this test, I'd like to remind you about our sandwich shop.
+
+**Trainer:** *In order to create a sandwich at BloxStreet's sandwich stop, click on the cutting board. After doing so, add the desired toppings.*
+
+**Trainer:** *To grab the sandwich, click on the cutting board a second time.*
+
+**Trainer:** *We will now resume with the cafe part.*
 
 **Trainer:** *In this test, treat me as a guest who has approached your cafe register. Make sure to say your greeting when I approach you.*
 
@@ -234,7 +248,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *To dispense a slush, simply place the COLD CUP up to the slush dispenser of your choice.*
 
-**Trainer:** *To use the handto system, click the H key if you are on a PC.*
+**Trainer:** *To use the handto system, click the H key if you are on a PC. The handto system is also used for handing medicine and sandwiches.*
 
 **Trainer:** *If you are on mobile, click the button on the left side of your screen to begin the process.*
 
@@ -255,7 +269,11 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 {: .text-blue-000 }
 {: .no_toc }
 
+**This test takes place at the register.**
+
 **Trainer:** *As there are no more questions, we will now move on to the Register Test.*
+
+**Take your LRs to your station's register.**
 
 **Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
 
