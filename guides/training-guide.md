@@ -353,7 +353,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **__click ‘H’ on their keyboard__** and enter the player’s username.*
+**Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **_click ‘H’ on their keyboard_** and enter the player’s username.*
 
 **Keep in mind the players who got the question correct or incorrect.**
 
@@ -361,7 +361,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should **__click on the cutting board__** once.*
+**Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should **_click on the cutting board_** once.*
 
 **Keep in mind the players who got the question correct or incorrect.**
 
@@ -369,7 +369,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **__hold on ‘E’__** for a few seconds to restock.*
+**Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **_hold on ‘E’_** for a few seconds to restock.*
 
 **Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
@@ -377,7 +377,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *The mops are located in **__the staff room__**.*
+**Trainer:** *The mops are located in **_the staff room_**.*
 
 **Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
@@ -385,7 +385,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *Trollers must be **__server banned__**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
+**Trainer:** *Trollers must be **_server banned_**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
 
 **Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
@@ -393,7 +393,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR’S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **__the communications server__**.*
+**Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **_the communications server_**.*
 
 **Kick any LRs who got three or more questions incorrect. If all have been kicked, proceed to the next step below.**
 
