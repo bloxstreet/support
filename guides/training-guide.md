@@ -97,7 +97,7 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 
 **Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions that you might have.*
 
-You should keep saying the line above until the start time. Do not spam it… use it when necessary.
+You should keep saying the line above until the start time. Do not spam it.
 The Host and Co-Host near the escalator... on their designated line. LRs are expected to enter the building and stand on the red lines.
 
 ### Host/Co-Host: Training Starts
@@ -245,9 +245,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention, and avoid going AFK, as the information is vital for your success.*
 
-**Trainer:** *Firstly, click on the mug. When you have the mug, put in the type of coffee the guest told you to make. I’ll show you an example, please watch closely.*
+**Trainer:** *Firstly, click on the mug. Once you have equipped the mug, dispense the type of coffee the customer ordered. I’ll show you an example, please watch closely.*
 
-**At this point, you will show them how to make a simple coffee... by placing the mug on the dispenser.**
+**At this point, you will show them how to make a simple coffee.**
 
 **Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from a variety of different flavored slushies.*
 
@@ -358,7 +358,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *The mops for cleaning spills are located in the staff room.*
+**Trainer:** *The mops are located in the staff room.*
 
 **Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
 
@@ -366,7 +366,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
 
-**Trainer:** *Trolling guests are required to be server banned. Trollers do not receive warnings or kicks.*
+**Trainer:** *Trolling guests are required to be server banned. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
 
 **Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
 
@@ -380,7 +380,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
 
-**Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
+**Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
 
