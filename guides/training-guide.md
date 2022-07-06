@@ -100,6 +100,8 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 You should keep saying the line above until the start time. Do not spam it.
 The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
+**Host:** *We will commence in approximately five minutes. All LRs should refrain from dancing and talking.* 
+
 ### Host/Co-Host: Training Starts
 {: .text-yellow-200 }
 {: .no_toc }
