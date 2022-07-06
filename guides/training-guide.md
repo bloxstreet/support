@@ -158,7 +158,13 @@ The next part of training is the Cafe Test. In this test, you will ask your LRs 
 {: .text-purple-100 }
 {: .no_toc }
 
-The final part of training is the Register Test. Please go through a roleplay of your LRs checking you out (including their greetings). If they don’t know how to send a payment request, explain the process to them! Make sure they use understandable grammar and effort. If they fail, explain why when kicking them from the server.
+The next part of training is the Register Test. Please go through a roleplay of your LRs checking you out (including their greetings). If they don’t know how to send a payment request, explain the process to them! Make sure they use understandable grammar and effort. If they fail, explain why when kicking them from the server.
+
+### Trivia
+{: .text-purple-100 }
+{: .no_toc }
+
+The final part of training is Trivia. In this section of the training, trainers are required to quiz their LRs on topics covered in the presentation and in the training itself. This part tests an LR’s knowledge on BloxStreet, and it also proves whether or not the LR was paying attention during the presentation.
 
 ### Passing LRs
 {: .text-purple-100 }
