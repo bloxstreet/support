@@ -230,9 +230,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
 
-**Trainer:** *However, before we begin this test, I'd like to remind you about our sandwich shop.
+**Trainer:** *However, before we begin this test, I'd like to remind you about our sandwich shop.*
 
-**Trainer:** *In order to create a sandwich at BloxStreet's sandwich stop, click on the cutting board. After doing so, add the desired toppings.*
+**Trainer:** *In order to get the bread at BloxStreet's sandwich stop, click on the cutting board. After doing so, add the desired toppings.*
 
 **Trainer:** *To grab the sandwich, click on the cutting board a second time.*
 
@@ -277,7 +277,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **This test takes place at the register.**
 
-**Trainer:** *We will now move on to the Register Test.*
+**Trainer:** *Congratulations, you have all passed the Cafe  Test! We will now move on to the Register Test.*
 
 **Take your LRs to your station's register.**
 
@@ -306,8 +306,6 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-**Trainer:** *Congratulations, you have all passed the Register Test! We will now move on to the final section of this training, Trivia.*
-
 
 ### Trivia Script
 {: .text-blue-000 }
@@ -315,7 +313,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **This test takes place at the cafe station.**
 
-**Trainer:** *As there are no more questions, we will move on to the final section of this training, Trivia.*
+**Trainer:** *Congratulations, you have all passed the Register Test! As there are no more questions, we will move on to the final section of this training, Trivia.*
 
 **Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All questions were covered during the presentation at the beginning of this training session or during this training.*
 
