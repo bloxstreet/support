@@ -98,7 +98,7 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 **Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions that you might have.*
 
 You should keep saying the line above until the start time. Do not spam it.
-The Host and Co-Host near the escalator... on their designated line. LRs are expected to enter the building and stand on the red lines.
+The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
 ### Host/Co-Host: Training Starts
 {: .text-yellow-200 }
