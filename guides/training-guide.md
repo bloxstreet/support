@@ -232,7 +232,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *However, before we begin this test, I'd like to remind you about our sandwich shop.*
 
-**Trainer:** *In order to get the bread at BloxStreet's sandwich stop, click on the cutting board. After doing so, add the desired toppings.*
+**Trainer:** *In order to get the bread at BloxStreet's sandwich shop, click on the cutting board. After doing so, add the desired toppings.*
 
 **Trainer:** *To grab the sandwich, click on the cutting board a second time.*
 
