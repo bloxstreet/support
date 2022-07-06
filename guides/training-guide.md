@@ -68,6 +68,7 @@ In this section, you will see an overview of each rank’s job at training sessi
 | Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
+{: .text-yellow-200 }
 {: .no_toc }
 (Customer, Allied Representative, Noted Customer, Management Intern, Team Leader, Store Supervisor, Assistant Manager)
 
