@@ -228,7 +228,10 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for your LRs to speak.** 
 
-**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must kick the LR from the game, saying they failed. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
+**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
+
+**Trainer:** *Unfortunately, you have failed this training session due to a lack of understandable grammar in your greeting. You are always welcome to attend another session.*
+
 
 ### Cafe Test Script
 {: .text-blue-000 }
@@ -270,7 +273,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Wait for a response and the order. Once everyone has gotten the order, go up to each LR and ask for it to be handed to you using the handto system. Follow the procedure under 'Cafe Test' if an LR gives you the wrong order.**
 
-**_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
+**_If they pass, proceed. If they fail, use the line below._**
+
+**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
 
 
@@ -315,7 +320,9 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Wait for them to say.** *Thank you!*
 
-**_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
+**_If they pass, proceed. If they fail, use the line below._**
+
+**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
 
 ### Trivia Script
