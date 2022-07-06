@@ -31,15 +31,15 @@ Trainings can only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
-| 6AM EST           |
-| 8AM EST            |
-| 10AM EST            | 
-| 12PM EST           | 
-| 2PM EST           | 
-| 4PM EST           | 
-| 7PM EST          |
-| 9PM EST           |
-| 11PM EST           |
+| 6 AM EST           |
+| 8 AM EST            |
+| 10 AM EST            | 
+| 12 PM EST           | 
+| 2 PM EST           | 
+| 4 PM EST           | 
+| 7 PM EST          |
+| 9 PM EST           |
+| 11 PM EST           |
 
 
 * Hosting at any other time is prohibited (unless you have permission from a Head Moderator+). Hosting at another time will result in the appropriate disciplinary actions.
