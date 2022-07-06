@@ -389,6 +389,11 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
+**Trainer:** If no HR is in-game to handle a troller, what is the best way to contact one? Keep in mind that the group wall is not the best way.
+
+**Trainer:** If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through the communications server.
+
+**Kick any LRs who got three or more questions incorrect. If all have been kicked, proceed to the next step below.*
 
 
 ### Passing LRs
