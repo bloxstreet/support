@@ -42,7 +42,7 @@ Trainings can only be hosted at the following times:
 | 11 PM EST           |
 
 
-* Hosting at any other time is prohibited (unless you have permission from a Head Moderator+). Hosting at another time will result in the appropriate disciplinary actions.
+* Hosting at any other time is prohibited. Hosting at another time will result in the appropriate disciplinary actions.
 * To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, make sure to use the GUI to set yourself as the Host. 
     - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
