@@ -370,6 +370,20 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 **Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
 
 
+
+### Passing LRs
+{: .text-blue-000 }
+{: .no_toc }
+
+**Trainer:** *Congratulations to everyone who passed the Trivia Test! You have each completed all tests, meaning we can now conclude this training.*
+
+**Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
+
+**Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
+
+**Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
+
+
 ## Training Conclusion
 {: .text-red-300 }
 Once the training has ended, there should be no LRs left in the server and very few MRs or HRs. All trainers **should’ve left the server** after they’ve finished training. If there are people left, encourage them to leave to go to the store. **Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server or just shutdown.**
