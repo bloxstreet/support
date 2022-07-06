@@ -242,7 +242,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *You must utilize understandable grammar in this test. I will determine if your grammar is understandable or not.*
 
-**Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention, and avoid going AFK, as the information is for your success.*
+**Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention, and avoid going AFK, as the information is vital for your success.*
 
 **Trainer:** *Firstly, click on the mug. When you have the mug, put in the type of coffee the guest told you to make. I’ll show you an example, please watch closely.*
 
