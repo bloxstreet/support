@@ -315,6 +315,8 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Congratulations, you have all passed the Register Test! As there are no more questions, we will move on to the final section of this training, Trivia.*
 
+**Take your LRs to your station’s cafe counter.**
+
 **Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All questions were covered during the presentation at the beginning of this training session or during this training.*
 
 **Trainer:** *All LRs are required to answer the questions by typing the answers in the chat. Copying off someone else’s answers does not always lead you to the correct answer.*
