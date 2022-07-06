@@ -335,7 +335,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Take your LRs to your station’s cafe counter.**
 
-**Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All topics you are being quizzed on were covered during the presentation or during this training.*
+**Trainer:** *In this section, you will be required to answer six questions. All topics you are being quizzed on were covered during the presentation or during this training.*
 
 **Trainer:** *All LRs are required to answer by typing in the chat. Copying someone else’s answers will not always lead you to the correct answer.*
 
