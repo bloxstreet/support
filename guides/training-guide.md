@@ -306,21 +306,15 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-**Trainer:** *Congratulations, you have all passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
+**Trainer:** *Congratulations, you have all passed the Register Test! We will now move on to the next section of this training, Trivia.*
 
-**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. Management Interns are required to attend shifts to rank up. Shifts are hosted at the store daily.*
 
-**Trainer:** *Management Interns can also get promoted by earning or purchasing 800 points.*
+### Trivia Script
+{: .text-blue-000 }
+{: .no_toc }
 
-**Trainer:** *The final way Management Interns can get promoted is by getting noticed by an SHR at the store. These promotions happen at random times, even when shifts are not hosted.*
 
-**Please avoid jokes about passing or failing a training.**
 
-**Trainer:** *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
-
-**Trainer:** *Stay online until the ranker dismisses you, saying that you have been ranked. It has been a pleasure training you.*
-
-**:ff them and take them to the ranking line.**
 
 ## Training Conclusion
 {: .text-red-300 }
