@@ -231,14 +231,6 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
 
-**Trainer:** *However, before we begin this test, I'd like to remind you about our sandwich shop.*
-
-**Trainer:** *In order to get the bread at BloxStreet's sandwich shop, click on the cutting board. After doing so, add the desired toppings.*
-
-**Trainer:** *Once the sandwich has been prepared, click on the cutting board once again.*
-
-**Trainer:** *We will now resume with the cafe part.*
-
 **Trainer:** *In this test, treat me as a guest who has approached your cafe register. Make sure to say your greeting when I approach you.*
 
 **Trainer:** *You must utilize understandable grammar in this test. I will determine if your grammar is understandable or not.*
@@ -249,11 +241,11 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **At this point, you will show them how to make a simple coffee.**
 
-**Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from a variety of different flavored slushies.*
+**Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from two flavored slushies.*
 
 **Trainer:** *This machine requires a COLD CUP.*
 
-**Trainer:** *To dispense a slush, simply place the COLD CUP up to the slush dispenser of your choice.*
+**Trainer:** *To dispense a slush, simply place the COLD CUP under the desired flavor.*
 
 **Trainer:** *To use the handto system, click the H key if you are on a PC. The handto system is also used for handing medicine and sandwiches.*
 
@@ -261,7 +253,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
 
-**Trainer:** *We will now begin this test. Once you have gotten your items, do NOT hand them to me. Please state your greetings.*
+**Trainer:** *We will now begin this test. Once you have acquired your items, do NOT hand them to me.*
+
+**Trainer:** *Please state your greetings.*
 
 **Wait for all LRs to state their greetings before stating the order.**
 
@@ -270,6 +264,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 **Wait for a response and the order. Once everyone has gotten the order, go up to each LR and ask for it to be handed to you using the handto system. Follow the procedure under 'Cafe Test' if an LR gives you the wrong order.**
 
 **_If they pass, proceed. If they fail, tell them why they’ve failed and kick them. Be sure to remind them that they can always attend the next session!_**
+
 
 
 ### Register Test Script
@@ -281,6 +276,14 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 **Trainer:** *Congratulations, you have all passed the Cafe  Test! We will now move on to the Register Test.*
 
 **Take your LRs to your station's register.**
+
+**Trainer:** *However, before we begin this test, I’d like to remind you about our sandwich shop.*
+
+**Trainer:** *In order to get the bread at BloxStreet’s sandwich shop, click on the cutting board. After doing so, add the desired toppings.*
+
+**Trainer:** *To grab the sandwich, click on the cutting board a second time.*
+
+**Trainer:** *We will now resume with the register part.*
 
 **Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
 
@@ -383,6 +386,8 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
+
+**Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if a photo will be taking place, trainers should not leave and instead head to the lobby.**
 
 
 ## Training Conclusion
