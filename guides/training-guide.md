@@ -235,7 +235,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *In order to get the bread at BloxStreet's sandwich shop, click on the cutting board. After doing so, add the desired toppings.*
 
-**Trainer:** *To grab the sandwich, click on the cutting board a second time.*
+**Trainer:** *Once the sandwich has been prepared, click on the cutting board once again.*
 
 **Trainer:** *We will now resume with the cafe part.*
 
