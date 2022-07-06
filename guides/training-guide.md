@@ -277,7 +277,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **This test takes place at the register.**
 
-**Trainer:** *As there are no more questions, we will now move on to the Register Test.*
+**Trainer:** *We will now move on to the Register Test.*
 
 **Take your LRs to your station's register.**
 
@@ -306,14 +306,68 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **_If they pass, proceed. If they fail, tell them why they failed and kick them. Be sure to remind them that they can always attend the next session!_**
 
-**Trainer:** *Congratulations, you have all passed the Register Test! We will now move on to the next section of this training, Trivia.*
+**Trainer:** *Congratulations, you have all passed the Register Test! We will now move on to the final section of this training, Trivia.*
 
 
 ### Trivia Script
 {: .text-blue-000 }
 {: .no_toc }
 
+**This test takes place at the cafe station.**
 
+**Trainer:** *As there are no more questions, we will move on to the final section of this training, Trivia.*
+
+**Trainer:** *In this section, you will be required to answer six BloxStreet-related questions. All questions were covered during the presentation at the beginning of this training session or during this training.*
+
+**Trainer:** *All LRs are required to answer the questions by typing the answers in the chat. Copying off someone else’s answers does not always lead you to the correct answer.*
+
+**Trainer:** *All LRs must correctly answer at least four out of the six questions. Additionally, you are welcome to use any BloxStreet sources.*
+
+**Trainer:** *All LRs are required to answer each question in a maximum of 30 seconds. If you do not answer a question within 30 seconds, you will receive no point for the question.*
+
+**Trainer:** *Before I begin, does anyone have any questions? This is your final opportunity to ask questions related to Trivia.*
+
+**Answer any and all questions related to Trivia.**
+
+**Trainer:** *Great! We will now begin. Firstly, when you are on a computer, how do you hand medicine to a guest?*
+
+**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+
+**Trainer:** *In order to hand medicine to a guest when on a computer, staff members should click ‘H’ on their keyboard and enter the player’s username.*
+
+**Keep in mind the players who got the question correct or incorrect.**
+
+**Trainer:** *In BloxStreet’s sandwich shop, how do you receive access to the bread?*
+
+**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+
+**Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should click on the cutting board once.*
+
+**Keep in mind the players who got the question correct or incorrect.**
+
+**Trainer:** *When you are on a computer, how do you restock an empty shelf after equipping a box?*
+
+**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+
+**Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, hold on ‘E’ for a few seconds to restock.*
+
+**Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
+
+**Trainer:** *In order to clean spills, you are required to grab a mop. Where in the store are the mops located?*
+
+**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+
+**Trainer:** *The mops for cleaning spills are located in the staff room.*
+
+**Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
+
+**Trainer:** *What punishment do trolling guests receive?*
+
+**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+
+**Trainer:** *Trolling guests are required to be server banned. Trollers do not receive warnings or kicks.*
+
+**Keep in mind the players who got the question correct or incorrect. If a player has gotten three or more questions incorrect, you may remove them from the server.**
 
 
 ## Training Conclusion
