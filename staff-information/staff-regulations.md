@@ -20,8 +20,7 @@ Here you will find all regulations for staff members in-game and in the communic
 | Team Leader - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 | Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
 
-All staff members should wear the appropriate uniform at the correct department. Staff members should wear the cafe/pharmacy/SubShoppe uniform only at one of those three locations. The cafe/pharmacy/SubShoppe uniform should not be worn at another department, such as the registers or the hotel. The security uniform should only be worn if a staff member is actively cuffing stealing players. BloxStreet hoodies and the MR/HR uniform may be worn at all departments.
-      
+2.  All staff members should wear the appropriate uniform at the correct department. Staff members should wear the cafe/pharmacy/SubShoppe uniform only at one of those three locations. The cafe/pharmacy/SubShoppe uniform should not be worn at another department, such as the registers or the hotel. The security uniform should only be worn if a staff member is actively cuffing stealing players. BloxStreet hoodies and the MR/HR uniform may be worn at all departments.    
 3.  Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
 4.  Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
 5.  Please remember to **work** while at the store. Messing around looks bad, and also leads to an increase in unsatisfied guests. Staff members who mess around at the store will not be promoted.
