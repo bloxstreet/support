@@ -31,6 +31,8 @@ Trainings can only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
+| 2 AM EST |
+| 4 AM EST |
 | 6 AM EST           |
 | 8 AM EST            |
 | 10 AM EST            | 
