@@ -12,9 +12,9 @@ The Staffing Department handles appeals, reforms, human relations, and staff act
 |:-------------|
 | f1reworks - Lead of Staffing |
 | ZenobiaBaryanou - Co-Lead of Staffing |
-| sincerelyyryan - Assistant of Staffing |
 | fatou_rocks - Assistant of Staffing |
 | Ieahdelrey - Assistant of Staffing |
 | KAIT0_KlD - Assistant of Staffing |
 | azalealuvr - Assistant of Staffing |
 | discentted - Assistant of Staffing |
+| sincerelyyryan - Assistant of Staffing |
