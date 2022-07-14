@@ -49,7 +49,7 @@ Trainings can only be hosted at the following times:
     - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
-* Hosts are required to select a trusted HR to announce training at the store.
+* Hosts are required to select a trusted HR to announce training at the store. The announcer should announce the training session in **all** large servers of the store.
 * Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them. 
 * Trainers and hosts should not be chatting or joking around with each other during the training session and before LRs join. 
 * If trainers and hosts need to chat, they should do so in the communications server, not in-game.
@@ -62,9 +62,9 @@ In this section, you will see an overview of each rank’s job at training sessi
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host |The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** Host per training |
-| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** Co-Host per training - an Executive Assistant+ may choose to host by themselves |
-| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. | Executive Assistant+ | **2-3** Rankers per training
+| Host | The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, asking trainers if they have the correct version of the guide, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** Host per training |
+| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** Co-Host per training - an Executive Assistant+ may choose to host by themselves |
+| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. Rankers are also responsible for running the :info command on each LR and ensuring that they have been ranked successfully. | Executive Assistant+ | **2-3** Rankers per training
 | Trainer           | Trainers follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. | Store Manager+ | Maximum of **20 trainers** (1 trainer per counter)  |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
 | Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
@@ -110,7 +110,7 @@ The Host should say the line above at :57.
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host should approach each trainer and ask if they have the correct/updated version of the training guide.**
+At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test and removal of the explanations).**
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
@@ -397,7 +397,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **_the communications server_**.*
 
-**Kick any LRs who got three or more questions incorrect. If all have been kicked, proceed to the next step below.**
+**Kick any LRs who didn't get at least four out of the six questions correct. If all have been kicked, proceed to the next step below.**
 
 
 ### Passing LRs
@@ -410,7 +410,11 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
+**Trainers should FF their LRs by executing the command :ff (username). Trainers should hide their commands.**
+
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
+
+**Rankers should run the :info command on each LR after ranking and before kicking. Running the command ensures each LR has been ranked correctly.**
 
 **Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if an SHR decides a photo will be taking place, trainers should not leave and head to the lobby instead.**
 
