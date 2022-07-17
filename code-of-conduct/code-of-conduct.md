@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
-nav_order: 9
+nav_order: 7
 has_children: true
 permalink: /Code-of-Conduct 
 ---
