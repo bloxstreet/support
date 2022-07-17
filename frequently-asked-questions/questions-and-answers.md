@@ -67,7 +67,7 @@ In order to learn more about admin commands, we encourage you to read our [Admin
 BloxStreet does not offer refunds for any purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
 
 **Where do I report bugs and provide suggestions?**
-In order to report bugs and provide suggestions, visit [this website](https://support.bloxstreet.store/).
+In order to report bugs and provide suggestions, visit [this website](https://feedback.bloxstreet.store/).
 
 **Where can I find the format for player reports?**
 The format for player reports can be found [here](https://support.bloxstreet.store/tickets/player-reports.html).
