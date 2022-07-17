@@ -9,7 +9,7 @@ nav_order: 1
 
 Here, you will find answers to frequently asked questions that may help you.
 
-**I am currently a Customer. How do I work at BloxStreet?**
+**I am currently a Customer. How do I work at BloxStreet?**  
 In order to work at BloxStreet, visit the [Quiz Center](https://www.roblox.com/games/652098479/Quiz-Center) and pass the quiz. Doing this will rank you to Trainee Team Member, the first LR rank.
 
 **I am currently a Trainee Team Member, Junior Team Member, or Senior Team Member. How do I receive a promotion?**
