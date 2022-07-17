@@ -8,4 +8,4 @@ permalink: /Frequently-Asked-Questions
 
 # Frequently Asked Questions
 
-Here, you will find frequently asked questions that may help you.
+Here, you will find answers to frequently asked questions that may help you.
