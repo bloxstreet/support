@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Alliances
+title: Frequently Asked Questions
 nav_order: 5
 has_children: true
-permalink: /alliances  
+permalink: /frequentlyaskedquestions
 ---
 
 # Alliances
-This section contains all information regarding alliances with BloxStreet.
+This section contains several frequently asked questions at BloxStreet.
