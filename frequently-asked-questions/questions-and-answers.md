@@ -129,7 +129,7 @@ To create a ticket, run the command **;new (reason)** in #bot-commands.
 {: .no_toc }
 The acceptable and unacceptable reasons to create a ticket can be found [here](https://support.bloxstreet.store/tickets/ticket-reports.html).
 
-### **How do I update my roles in the Discord server?**
+### How do I update my roles in the Discord server?
 {: .text-red-300 }
 {: .no_toc }
 To update your roles in the Discord server, run the command **;getroles** in #bot-commands.
