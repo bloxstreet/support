@@ -84,6 +84,11 @@ In order to go off-duty, run the command !stopwork in the chat. In order to go o
 {: .no_toc }
 If you are on a desktop device, click **H** on your keyboard and follow the instructions. If you are on a mobile device, click the **HANDTO** button on the left side of your screen and follow the instructions.
 
+### How do I hide my commands?
+{: .text-red-300 }
+{: .no_toc }
+To hide commands, run **/e (command)**. You may also press **’** or **;** and then enter the command.
+
 ### I am a new HR, and I would like to know how to host a shift. Where can I find information about shifts? 
 {: .text-red-300 }
 {: .no_toc }
@@ -114,10 +119,20 @@ In order to report bugs and provide suggestions, visit [this website](https://fe
 {: .no_toc }
 The format for player reports can be found [here](https://support.bloxstreet.store/tickets/player-reports.html).
 
+### How do I create a ticket?
+{: .text-red-300 }
+{: .no_toc }
+To create a ticket, run the command **;new (reason)** in #bot-commands.
+
 ### What are the acceptable and unacceptable reasons to create a ticket?
 {: .text-red-300 }
 {: .no_toc }
 The acceptable and unacceptable reasons to create a ticket can be found [here](https://support.bloxstreet.store/tickets/ticket-reports.html).
+
+### **How do I update my roles in the Discord server?**
+{: .text-red-300 }
+{: .no_toc }
+To update your roles in the Discord server, run the command **;getroles** in #bot-commands.
 
 ### TSA is currently not functional. Where do I find the status of all TSA services?
 {: .text-red-300 }
