@@ -322,6 +322,8 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Wait for them to say.** *Thank you!*
 
+**_If an LR claims that their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If they are not, have them roleplay the simulation._**
+
 **_If they pass, proceed. If they fail, use the line below._**
 
 **Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
