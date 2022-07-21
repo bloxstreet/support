@@ -25,7 +25,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 
 ## Training Information
 {: .text-red-300 }
-If you decide to host a training, you must consider the following information:
+If you decide to host a training, you must consider the following information. Interested in knowing how to host a BloxStreet training? Watch this video: https://vimeo.com/731831175.
 
 Trainings can only be hosted at the following times:
 
