@@ -79,4 +79,4 @@ Another way to rank up at BloxStreet is by earning points! Earning a certain amo
 | Assistant Manager: 2,000 |
 | Store Manager: 5,000 |
 | Store Director: 8,000 |
-| Board of Directors: 10,000 |
+| Board of Directors: 12,000 |
