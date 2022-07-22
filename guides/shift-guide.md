@@ -27,6 +27,7 @@ Shifts are opportunities for Management Interns, Team Leaders, Store Supervisors
 {: .text-red-300 }
 Shifts can be hosted at **9** different times throughout the day (all times are in EST):
 - 12 AM
+- 3 AM
 - 7 AM 
 - 9 AM
 - 11 AM
