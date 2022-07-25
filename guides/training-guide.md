@@ -21,7 +21,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 * The text in *italic* is meant for you to say in-game. 
   * (Copy and paste in-game).
 * The text in **bold** or normal are instructions of what you should do during training. 
-  * (**DO NOT** copy and paste in-game).
+  * (**Do not** copy and paste in-game).
 
 ## Training Information
 {: .text-red-300 }
@@ -88,7 +88,7 @@ To claim the session, click the message at the top of the screen that says “Cl
 
 At :45, the Co-Host should do the first shout on the group page. The group shout templates are located in a designated area. 
 
-**_NOTE: AFTER YOU HAVE CLAIMED IN-GAME, YOU CANNOT LEAVE THE SERVER, OR YOU WILL RECEIVE CONSEQUENCES! DO NOT CLAIM IF YOU KNOW YOU ARE HAVING INTERNET RELATED ISSUES, THAT MIGHT MEAN YOU GET DISCONNECTED, ETC._** 
+**_Note: After you have claimed in-game, you cannot leave the server, or you will receive consequences! Do not claim if you know you are having internet related issues, that might mean you get disconnected, etc._** 
 
 
 ### Host: After Claiming
@@ -137,7 +137,7 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 
 **Host:** *Thank you for paying attention during the presentation. You will now receive further instructions about this training.*
 
-**LRs WILL CONTINUE STANDING ON THE RED LINES AFTER THE PRESENTATION HAS ENDED.**
+**LRs will continue standing on the red lines after the presentation has concluded.**
 
 **Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
 
@@ -162,7 +162,7 @@ For the Grammar/Greeting Test, as a trainer, you must explain how this test work
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and that it has two flavors that can be selected with a COLD CUP. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, you may fail them. For this test, LRs should use the handto system.
+The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, you may fail them. For this test, LRs should use the handto system.
 
 ### Register Test
 {: .text-purple-100 }
@@ -355,7 +355,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Great! We will now begin. Firstly, when you are on a computer, how do you hand medicine to a guest?*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **_click ‘H’ on their keyboard_** and enter the player’s username.*
 
@@ -363,7 +363,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In BloxStreet’s sandwich shop, how do you receive access to the bread?*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should **_click on the cutting board_** once.*
 
@@ -371,7 +371,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *When you are on a computer, how do you restock an empty shelf after equipping a box?*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **_hold on ‘E’_** for a few seconds to restock.*
 
@@ -379,7 +379,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to clean spills, you are required to grab a mop. Where in the store are the mops located?*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *The mops are located in **_the staff room_**.*
 
@@ -387,7 +387,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *What punishment do trollers receive?*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR'S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *Trollers must be **_server banned_**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
 
@@ -395,7 +395,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *If no HR is in-game to handle a troller, what is the best way to contact one? Keep in mind that the group wall is not the best way.*
 
-**STATE THE ANSWER LINE ONCE EVERYONE HAS FINISHED ANSWERING, NOT AFTER EACH LR HAS ANSWERED. EACH LR’S ANSWER DOES NOT NEED TO BE EXACT.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
 **Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **_the communications server_**.*
 
@@ -423,7 +423,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 ## Training Conclusion
 {: .text-red-300 }
-Once the training has ended, there should be no LRs remaining and very few HRs. All trainers **must leave the server** after they have finished training. If there are people left, encourage them to go to the store. **Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server or just shutdown.**
+Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are people left, encourage them to go to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server or just shutdown.
 
 
 Leave the game when finished training or once you have been ranked. Do not do anything else.
@@ -432,4 +432,4 @@ Leave the game when finished training or once you have been ranked. Do not do an
 At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area. 
 
 
-**_If a Junior Moderator+ chooses to take a photo at the conclusion of the session, follow their directions._**
+If a Junior Moderator+ chooses to take a photo at the conclusion of the session, follow their directions.
