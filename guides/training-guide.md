@@ -387,7 +387,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *What punishment do trollers receive?*
 
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
+**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact. However, LRs must indicate that a server ban is the punishment for trollers, not a permanent ban. If an LR is not specific, please request them to state which type of ban trollers receive.**
 
 **Trainer:** *Trollers must be **_server banned_**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
 
