@@ -31,7 +31,6 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Trolling | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
-| Caps abuse (5+ sentences entirely in caps) | Server ban | Everyone |
 | Dancing/standing on in-game shelves, counters, etc... | Server ban | Everyone |
 | Crowding (5 or more players) or refusing to disperse | Server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
@@ -73,7 +72,7 @@ Some things to note:
 | False kicks | Blacklist | Assistant Manager+ |
 | Announcement abuse | Blacklist | High Ranks |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | Blacklist | Store Supervisor+ |
-| Trolling, spamming, or capitals abuse | Blacklist | Staff |
+| Trolling or spamming | Blacklist | Staff |
 | Unprofessionalism | Blacklist | Staff |
 | Advertising on the group wall | Blacklist | Staff |
 | Advertising in-game | Blacklist | Staff |
