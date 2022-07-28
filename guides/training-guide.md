@@ -150,7 +150,7 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 
 ## Trainer Scripts
 {: .text-red-300 }
-This section will outline each of the tests the trainers are expected to perform.
+This section will outline each of the tests the trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed.
 
 ### Grammar/Greeting Test
 {: .text-purple-100 }
@@ -359,7 +359,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **_click ‘H’ on their keyboard_** and enter the player’s username.*
 
-**Keep in mind the players who got the question correct or incorrect.**
+**Mobile answers are allowed. Keep in mind the players who got the question correct or incorrect.**
 
 **Trainer:** *In BloxStreet’s sandwich shop, how do you receive access to the bread?*
 
@@ -375,7 +375,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **_hold on ‘E’_** for a few seconds to restock.*
 
-**Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
+**Mobile answers are allowed. Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
 **Trainer:** *In order to clean spills, you are required to grab a mop. Where in the store are the mops located?*
 
