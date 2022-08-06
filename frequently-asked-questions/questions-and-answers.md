@@ -167,7 +167,7 @@ The Public Relations Department handles events and alliances at BloxStreet. [avn
 ### What is the Staffing Department, and who are the members of it?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles appeals, reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaBaryanou](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [sincerelyyryan](https://www.roblox.com/users/376897159/profile), [fatou_rocks](https://www.roblox.com/users/350253773/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile), [rysphobia](https://www.roblox.com/users/366227557/profile), and [discentted](https://www.roblox.com/users/84690789/profile) are Assistants of Staffing.
+The Staffing Department handles appeals, reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaBaryanou](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [sincerelyyryan](https://www.roblox.com/users/376897159/profile), [fatou_rocks](https://www.roblox.com/users/350253773/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile), [lucyhalesfangirl](https://www.roblox.com/users/366227557/profile), and [discentted](https://www.roblox.com/users/84690789/profile) are Assistants of Staffing.
 
 
 
