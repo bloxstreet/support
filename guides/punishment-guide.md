@@ -46,6 +46,7 @@ Some things to note:
 | Joking about serious topics or suicidal thoughts | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
 | Discussing inappropriate subjects | Permanent ban | Everyone |
+| Offensive language | Permanent ban | Everyone |
 
 
 ## Staff Punishments
