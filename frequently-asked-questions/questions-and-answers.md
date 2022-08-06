@@ -159,12 +159,12 @@ To potentially become an alliance of BloxStreet, fill out [this form](https://bi
 {: .no_toc }
 No.
 
-### What is the Public Relations Department, and who are the members of it?
+### What is the Public Relations Department?
 {: .text-red-300 }
 {: .no_toc }
 The Public Relations Department handles events and alliances at BloxStreet. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile), [fwauIts](https://www.roblox.com/users/72553571/profile), and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
 
-### What is the Staffing Department, and who are the members of it?  
+### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
 The Staffing Department handles appeals, reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaBaryanou](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [sincerelyyryan](https://www.roblox.com/users/376897159/profile), [fatou_rocks](https://www.roblox.com/users/350253773/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile), [lucyhalesfangirl](https://www.roblox.com/users/366227557/profile), and [discentted](https://www.roblox.com/users/84690789/profile) are Assistants of Staffing.
