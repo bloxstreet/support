@@ -73,7 +73,6 @@ Some things to note:
 | Reclaiming the same rank more than once | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
 | Simping for a higher rank | Permanent ban | Staff |
-| Leaking chats or confidential information | Permanent ban | Staff |
 
 
 ## MR+ Punishments
@@ -89,6 +88,7 @@ Some things to note:
 | False warnings | Blacklist | Store Supervisor+ |
 | Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
 | False kicks | Blacklist | Assistant Manager+ |
+| Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
 
 ## HR+ Punishments
 {: .text-red-300 } 
