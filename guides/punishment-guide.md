@@ -54,7 +54,6 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-
 | Incorrect uniform | Verbal warning | Staff |
 | Faking a resignation | Verbal warning | Staff |
 | Hinting for a promotion | Demotion one rank down with no verbal warning | Staff |
