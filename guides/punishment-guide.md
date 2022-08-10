@@ -62,7 +62,6 @@ Some things to note:
 | Cuff abuse | Blacklist | Staff |
 | Trolling or spamming | Blacklist | Staff |
 | Unprofessionalism | Blacklist | Staff |
-| Advertising on the group wall | Blacklist | Staff |
 | Advertising in-game | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
 | Dancing/standing on in-game shelves, counters, or objects | Blacklist | Staff |
