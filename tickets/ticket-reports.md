@@ -45,7 +45,6 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | Announcement abuse | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | 
 | Trolling, spamming, capitals abuse, or unprofessionalism from STAFF MEMBERS |
-| Advertising on the group wall | 
 | Handing random items to a player or multiple players |
 | Dancing/standing on in-game shelves, counters, etc. from STAFF MEMBERS | 
 | Reclaiming a rank once fired or blacklisted | 
