@@ -89,16 +89,6 @@ If you are on a desktop device, click **H** on your keyboard and follow the inst
 {: .no_toc }
 To hide commands, run **/e (command)**. You may also press **’** or **;** and then enter the command.
 
-### I am a new HR, and I would like to know how to host a shift. Where can I find information about shifts? 
-{: .text-red-300 }
-{: .no_toc }
-In order to learn more about BloxStreet shifts, we encourage you to read our [Shift Guide](https://support.bloxstreet.store/guides/shift-guide.html).
-
-### I am a new HR, and I would like to know how to host or train at a training session. Where can I find information about training sessions?
-{: .text-red-300 }
-{: .no_toc }
-In order to learn more about BloxStreet training sessions, we encourage you to read our [Training Guide](https://support.bloxstreet.store/guides/training-guide.html).
-
 ### What are the acceptable and unacceptable reasons to use admin commands?
 {: .text-red-300 }
 {: .no_toc }
