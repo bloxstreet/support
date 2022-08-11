@@ -20,7 +20,7 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 {:.text-red-000} 
 - Text highlighted in **green** are acceptable reasons to make a ticket. For these reasons, community members should create a ticket.
 - Text highlighted in **red** are unacceptable reasons. Tickets made for these reasons will be closed.
-- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html)
+- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html).
 
 ## Acceptable Reasons
 {:.text-grey-dk-000}
