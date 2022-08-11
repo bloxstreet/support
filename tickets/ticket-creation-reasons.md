@@ -14,13 +14,13 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in BloxStreet to report various punishments, reports, and more. Below, you will find acceptable and nonacceptable reasons to make a ticket.
+Tickets are used in BloxStreet to report various punishments, request clarifications, and more. Below, community members can find acceptable and nonacceptable reasons to make a ticket.
 
 **Note:**
 {:.text-red-000} 
-- Text highlighted in **green** are acceptable reasons to make a ticket. For these reasons, you should **not** ping an SHR or message them. Instead, create a ticket.
-- Text highlighted in **red** are *not* acceptable reasons. Creating a ticket for an unacceptable reason will lead to it being closed. 
-- If you'd like a more depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html)
+- Text highlighted in **green** are acceptable reasons to make a ticket. For these reasons, community members should create a ticket.
+- Text highlighted in **red** are unacceptable reasons. Tickets made for these reasons will be closed.
+- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html)
 
 ## Acceptable Reasons
 {:.text-grey-dk-000}
@@ -29,30 +29,29 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 | ------ | 
 | Exploiting, hacking, or glitching | 
 | Discrimination |
-| Inappropriate roleplay | 
+| Inappropriate roleplay or behavior | 
 | Bypassing or attempting to bypass | 
-| Playing inappropriate or loud audio | 
-| Major death threats - saying "die" is not major | 
+| Playing inappropriate or loud audios | 
+| Major death threats | 
 | Spreading false rumors | 
 | Inappropriate avatar or username | 
-| Joking about serious topics or suicidal thoughts | 
-| Lack of grammar for High Ranks | 
+| Joking about serious topics | 
+| Suicidal thoughts |
+| Lack of grammar - High Ranks | 
 | Playing with ranking sticks or misusing them | 
 | Trolling/unprofessionalism at alliances or non-affiliated establishments | 
 | Cuff abuse | 
-| False warnings |
-| False kicks | 
+| Abuse of the warning, kick, or ban systems | 
 | Announcement abuse | 
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or many times | 
-| Trolling, spamming, capitals abuse, or unprofessionalism from STAFF MEMBERS |
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | 
+| Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
 | Handing random items to a player or multiple players |
-| Dancing/standing on in-game shelves, counters, etc. from STAFF MEMBERS | 
+| Dancing/standing on elevated surfaces - STAFF MEMBERS | 
 | Reclaiming a rank once fired or blacklisted | 
 | Simping for a higher rank | 
-| Leaking chats - saying the name of a private chat is allowed, but staff members cannot leak messages from a chat |
+| Leaking chats |
 | HR reports |
-| Training attendance (HR+ only) |
-| Using :view on an SHR - for HRs |
+| Using :view on an SHR - HRs |
 | Refusing to wear the correct uniform |
 | Not being ranked after passing a training |
 | Rank transfers | 
@@ -66,17 +65,17 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 
 | Unacceptable Reasons | 
 | ------ | 
-| Trolling Guests/Customers - contact an available HR |
-| LRs or MRs hinting for a promotion - contact an available HR | 
+| Trolling Guests/Customers |
+| LRs or MRs hinting for a promotion | 
 | Using :view on an SHR - for MRs |
-| Lack of grammar for MR and LR ranks - contact an available HR | 
-| MRs failing to hide TSA commands - contact an available HR | 
-| Questions that can be answered by HRs (training times, shift times, etc.) - contact an available HR | 
-| Asking if your appeal has been read | 
-| Urgent in-game or group issues - contact an available SHR through Direct Messages | 
-| Hosting an unofficial shift or training session - contact an available SHR through Direct Messages |
-| Abusing the group shout - contact an available SHR through Direct Messages |
-| Free ranking - contact an available SHR through Direct Messages |
+| Lack of grammar for MR and LR ranks | 
+| MRs failing to hide TSA commands | 
+| Questions that can be answered by HRs (training times, shift times, etc.) | 
+| Asking if an appeal has been read | 
+| Urgent in-game or group issues | 
+| Hosting an unofficial shift or training session |
+| Abusing the group shout |
+| Free ranking |
 | Development suggestions |
 | Development bugs |
 {:.text-red-200} 
