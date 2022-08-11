@@ -265,7 +265,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
 
-**Trainer:** *We will now begin this test. Once you have prepared your items, do NOT hand them to me.*
+**Trainer:** *We will now begin this test. Once you have prepared your items, do NOT hand them to me until I provide additional instructions.*
 
 **Trainer:** *You may now state your greetings.*
 
