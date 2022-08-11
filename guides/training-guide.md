@@ -393,7 +393,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
 
-**Trainer:** *If no HR is in-game to handle a troller, what is the best way to contact one? Keep in mind that the group wall is not the best way.*
+**Trainer:** *If no HR is in-game to handle a troller, what is the best way to contact one?*
 
 **State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
 
