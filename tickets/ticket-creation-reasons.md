@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ticket Reports
+title: Ticket Creation Reasons
 parent: Tickets
 nav_order: 3
 ---
