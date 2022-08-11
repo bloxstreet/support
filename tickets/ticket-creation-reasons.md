@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in BloxStreet to report various punishments, request clarifications, and more. Below, community members can find acceptable and nonacceptable reasons to make a ticket.
+Tickets are used in BloxStreet to report various punishments, request clarifications, and more. Below, community members can find the acceptable and nonacceptable reasons to create a ticket.
 
 **Note:**
 {:.text-red-000} 
