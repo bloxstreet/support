@@ -62,3 +62,7 @@ If an SHR is investigating a staff member or a community member, the SHR has the
 ## Refund Policy
 {:.text-red-300}
 BloxStreet does not offer refunds for **any** purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
+
+## Alternate Account Policy
+{:.text-red-300}
+Staff members may use alternate accounts to become a Customer, LR, or MR. However, staff members may not obtain HR in any way on an alternate account. Players who are server banned, blacklisted, or permanently banned and use an alternate account will be punished.
