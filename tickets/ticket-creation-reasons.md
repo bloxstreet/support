@@ -27,72 +27,72 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 
 | Acceptable Reasons | 
 | ------ | 
-| Exploiting, hacking, or glitching | 
-| Discrimination |
-| Racism |
-| Homophobia |
-| Sexism |
-| Inappropriate roleplay or behavior | 
-| Bypassing or attempting to bypass | 
-| Playing inappropriate or loud audios | 
-| Alternate account of a server banned, blacklisted, or permanently banned player |
-| Major death threats | 
-| Spreading false rumors | 
-| Inappropriate avatar or username | 
-| Joking about serious topics | 
-| Suicidal thoughts |
-| Point grinding or cheating |
-| Lack of grammar - HIGH RANKS | 
-| Playing with ranking sticks or misusing them | 
-| Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANKS+ | 
-| Cuff abuse | 
-| Abuse of the warning, kick, or ban systems | 
-| Announcement abuse | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | 
-| Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
+| Abuse of the warning, kick, or ban systems | 
 | Advertising in-game - STAFF MEMBERS |
-| Dancing/standing on elevated surfaces - STAFF MEMBERS | 
-| Handing random items to a player or multiple players |
-| Reclaiming the same rank more than once |
-| Claiming a rank while blacklisted |
-| Reclaiming a rank using old points after being demoted |
-| Claiming Board of Directors after claiming Store Director |
+| Alternate account of a server banned, blacklisted, or permanently banned player |
+| Announcement abuse | 
+| Bypassing or attempting to bypass | 
 | Claiming a rank after a blacklist/permanent ban appeal is accepted |
+| Claiming a rank while blacklisted |
 | Claiming an HR rank after resigning or being reformed |
-| Trolling or behaving unprofessionally on an alternate account |
-| Simping for a higher rank | 
-| Leaking chats or confidential information |
-| HR reports |
-| Using :view on an SHR - HRs |
-| Refusing to wear the correct uniform |
-| Rank transfers | 
+| Claiming Board of Directors after claiming Store Director |
+| Clarification regarding a rule that can only be answered by a Senior Administration member |
+| Cuff abuse | 
+| Dancing/standing on elevated surfaces - STAFF MEMBERS | 
+| Discrimination |
+| Exploiting, hacking, or glitching | 
 | Force verification |
 | Gossiping |
-| Raiding |
+| Handing random items to a player or multiple players |
+| Homophobia |
+| HR reports |
+| Inappropriate avatar or username | 
+| Inappropriate roleplay or behavior | 
 | Inciting a raid |
 | Issues with redeeming points or point issues |
-| Clarification regarding a rule that can only be answered by a Senior Administration member |
+| Joking about serious topics | 
+| Lack of grammar - HIGH RANKS | 
+| Leaking chats or confidential information |
+| Major death threats | 
+| Playing inappropriate or loud audios | 
+| Playing with ranking sticks or misusing them | 
+| Point grinding or cheating |
+| Racism |
+| Raiding |
+| Rank transfers | 
+| Reclaiming a rank using old points after being demoted |
+| Reclaiming the same rank more than once |
+| Refusing to wear the correct uniform |
+| Sexism |
+| Simping for a higher rank | 
+| Spreading false rumors | 
+| Suicidal thoughts |
+| Trolling or behaving unprofessionally on an alternate account |
+| Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
+| Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANKS+ | 
+| Using :view on an SHR - HRs |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
 {:.text-grey-dk-000}
 
 | Unacceptable Reasons | 
-| ------ | 
-| Trolling Guests/Customers - contact an available HR |
+| ------ |
 | Crowding or refusing to disperse - contact an available HR |
-| Urgent in-game or group issues - contact an HR | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
+| Trolling Guests/Customers - contact an available HR |
+| Urgent in-game or group issues - contact an available HR | 
 | Abusing the warning or kick systems - contact an available Board of Directors+ |
 | Disrespecting, arguing, or ignoring an HR - contact an available Executive Assistant+ |
-| LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
-| Using :view on an SHR - for MRs - contact an available Executive Assistant+ |
 | Lack of grammar for MR ranks - contact an available Executive Assistant+ | 
+| LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
 | MRs failing to hide TSA commands - contact an available Executive Assistant+ | 
+| Using :view on an SHR - for MRs - contact an available Executive Assistant+ |
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
-| Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
-| Development suggestions - suggest features through the [BloxStreet Feedback Website](https://feedback.bloxstreet.store/) |
+| Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
 | Development bugs - report game bugs through the [BloxStreet Feedback Website](https://feedback.bloxstreet.store/) |
+| Development suggestions - suggest features through the [BloxStreet Feedback Website](https://feedback.bloxstreet.store/) |
 {:.text-red-200} 
