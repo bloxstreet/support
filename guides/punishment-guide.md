@@ -34,9 +34,11 @@ Some things to note:
 | Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Crowding (5+ players) or refusing to disperse | Server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
+| Disrespecting others | Server ban | Everyone |
+| Failure to comply by an HR's orders | Server ban | Everyone |
 | Alternate account of a server banned, blacklisted, or permanently banned user | Permanent ban | Everyone | 
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
-| Discrimination | Permanent ban | Everyone |
+| Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
 | Inappropriate roleplay or behavior | Permanent ban | Everyone |
 | Bypassing or attempting to bypass | Permanent ban | Everyone |
 | Playing inappropriate or loud audios | Permanent ban | Everyone |
@@ -48,6 +50,10 @@ Some things to note:
 | Threatening an SHR | Permanent ban | Everyone |
 | Discussing inappropriate subjects | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
+| Racism | Permanent ban | Everyone |
+| Homophobia | Permanent ban | Everyone |
+| Sexism | Permanent ban | Everyone |
+
 
 
 ## LR+ Punishments
@@ -65,7 +71,7 @@ Some things to note:
 | Unprofessionalism | Blacklist | Staff |
 | Advertising in-game | Blacklist | Staff |
 | Handing random items to a player or multiple players | Blacklist | Staff |
-| Dancing/standing on in-game shelves, counters, or objects | Blacklist | Staff |
+| Dancing/standing on elevated surfaces | Blacklist | Staff |
 | Refusal to wear correct uniform | Blacklist | Staff |
 | Gossiping | Permanent ban | Staff |
 | Reclaiming a rank using old points after being demoted | Permanent ban | Staff |
