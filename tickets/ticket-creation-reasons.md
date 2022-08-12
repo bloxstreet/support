@@ -50,9 +50,9 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Announcement abuse | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | 
 | Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
-| Handing random items to a player or multiple players |
 | Advertising in-game - STAFF MEMBERS |
 | Dancing/standing on elevated surfaces - STAFF MEMBERS | 
+| Handing random items to a player or multiple players |
 | Reclaiming the same rank more than once |
 | Claiming a rank while blacklisted |
 | Reclaiming a rank using old points after being demoted |
