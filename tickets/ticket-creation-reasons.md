@@ -42,9 +42,9 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Joking about serious topics | 
 | Suicidal thoughts |
 | Point grinding or cheating |
-| Lack of grammar - High Ranks | 
+| Lack of grammar - HIGH RANKS | 
 | Playing with ranking sticks or misusing them | 
-| Trolling/unprofessionalism at alliances or non-affiliated establishments - Middle Ranks+ | 
+| Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANKS+ | 
 | Cuff abuse | 
 | Abuse of the warning, kick, or ban systems | 
 | Announcement abuse | 
@@ -81,15 +81,15 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | ------ | 
 | Trolling Guests/Customers - contact an available HR |
 | Crowding or refusing to disperse - contact an available HR |
+| Urgent in-game or group issues - contact an HR | 
+| Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Abusing the warning or kick systems - contact an available Board of Directors+ |
 | Disrespecting, arguing, or ignoring an HR - contact an available Executive Assistant+ |
 | LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
 | Using :view on an SHR - for MRs - contact an available Executive Assistant+ |
 | Lack of grammar for MR ranks - contact an available Executive Assistant+ | 
 | MRs failing to hide TSA commands - contact an available Executive Assistant+ | 
-| Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
-| Urgent in-game or group issues - contact an HR | 
 | Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
