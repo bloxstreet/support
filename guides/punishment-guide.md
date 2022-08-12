@@ -53,6 +53,7 @@ Some things to note:
 | Racism | Permanent ban | Everyone |
 | Homophobia | Permanent ban | Everyone |
 | Sexism | Permanent ban | Everyone |
+| Raiding | Permanent ban | Everyone |
 
 
 
