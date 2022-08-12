@@ -7,7 +7,7 @@ nav_order: 1
 
 
 # Player Report Format
-When creating a ticket for a player report, community members should use the format found below. Any player report not in the format will be ignored.
+When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
 
 
 - [ ] **Their Username:**
