@@ -8,5 +8,5 @@ permalink: /tickets
 
 
 # Tickets
-Here, you will find information on making tickets on our communications server at BloxStreet!
+Here, community members can find information on creating tickets in BloxStreet's Discord server.
  
