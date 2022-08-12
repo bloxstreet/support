@@ -423,7 +423,7 @@ If they say yes, begin. If they say no, answer any questions until they are read
 
 ## Training Conclusion
 {: .text-red-300 }
-Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server. .
+Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server.
 
 
 Leave the game when finished training or once you have been ranked. Trainers should not do anything else.
