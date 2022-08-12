@@ -152,7 +152,7 @@ Once the presentation concludes, LRs are required to remain silent for the hostâ
 
 ## Trainer Scripts
 {: .text-red-300 }
-This section will outline each of the tests the trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed. If all LRs disconnect or fail the training, leave the server immediately. There is no need to notify the Host or Co-Host. 
+This section will outline each of the tests the trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed. If all LRs disconnect or fail the training session, leave the server immediately. There is no need to notify the Host or Co-Host. 
 
 
 ### Grammar/Greeting Test
