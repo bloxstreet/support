@@ -291,7 +291,7 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *Congratulations, you have all passed the Cafe  Test! We will now move on to the Register Test.*
 
-**Take all LRs to your station's cash register.**
+**Take all LRs to the station's cash register.**
 
 **Trainer:** *However, before we begin this test, I’d like to remind you about our sandwich shop.*
 
@@ -324,7 +324,7 @@ If they say yes, begin. If they say no, answer any questions until they are read
 
 **Wait for them to say.** *Thank you!*
 
-**_If an LR claims that their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If they are not, have them roleplay the simulation. Trainers may not fail their LRs if the register is not functioning properly._**
+**_If an LR claims their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If not, have them roleplay the simulation. Trainers may not fail their LRs if the register is not functioning properly._**
 
 **_If they pass, proceed. If they fail, use the line below._**
 
@@ -401,7 +401,7 @@ If they say yes, begin. If they say no, answer any questions until they are read
 
 **Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **_the communications server_**.*
 
-**Kick any LRs who didn't get at least four out of the six questions correct. If all have been kicked, proceed to the next step below.**
+**Kick any LRs who failed to get at least four out of the six questions correct. Once those who failed have been kicked, proceed to the next step below.**
 
 
 ### Passing LRs
@@ -418,17 +418,15 @@ If they say yes, begin. If they say no, answer any questions until they are read
 
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
 
-**Rankers should run the :info command on each LR after ranking and before kicking. Running the command ensures each LR has been ranked correctly.**
+**Rankers should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.**
 
 **Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if an SHR decides a photo will be taking place, trainers may head to the lobby and follow their directions.**
 
 
 ## Training Conclusion
 {: .text-red-300 }
-Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server.
+Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Nothing else should be happening after training sessions. Providing in-game feedback is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server.
 
-
-Leave the game when finished training or once you have been ranked. Trainers should not do anything else.
-
+Leave the server when finished training. Trainers should not do anything else unless instructed otherwise by an SHR. 
 
 At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area.
