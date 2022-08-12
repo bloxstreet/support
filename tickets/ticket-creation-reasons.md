@@ -5,7 +5,7 @@ parent: Tickets
 nav_order: 3
 ---
 
-# Ticket Reports
+# Ticket Creation Reasons
 {: .no_toc }
 
 ## Table of contents
