@@ -43,6 +43,7 @@ Some things to note:
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Homophobia | Permanent ban | Everyone |
 | Inappropriate avatar or username | Permanent ban | Everyone |
+| Inappropriate behavior or roleplay | Permanent ban | Everyone |
 | Inciting a raid | Permanent ban | Everyone |
 | Joking about serious topics | Permanent ban | Everyone | 
 | Major death threats | Permanent ban | Everyone |
