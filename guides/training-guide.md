@@ -18,9 +18,9 @@ This guide is intended for Store Manager+.
 
 The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when teaching Low Ranks. 
 
-* The text in *italic* is meant for you to say in-game. 
+* The text in *italic* is meant for trainers to say in-game. 
   * (Copy and paste in-game).
-* The text in **bold** or normal are instructions of what you should do during training. 
+* The text in **bold** or normal are instructions of what trainers should do during training sessions. 
   * (**Do not** copy and paste in-game).
 
 ## Training Information
@@ -76,7 +76,7 @@ Below is an overview of each rank's job at training sessions.
 
 ## Host Scripts
 {: .text-red-300 }
-This section outlines what the duties the host has and what they should say. Do not follow this section if you are not the Host/Co-Host.
+This section outlines the duties the Host has and what they should say.
 
 ### Host: Claiming
 {: .text-yellow-200 }
