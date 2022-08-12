@@ -25,7 +25,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 
 ## Training Information
 {: .text-red-300 }
-If you decide to host a training, you must consider the following information. Interested in knowing how to host a BloxStreet training? Watch [this video](https://vimeo.com/731831175).
+Before hosting a training session, consider the following information. Interested in knowing how to host a BloxStreet training? Watch [this video](https://vimeo.com/731831175).
 
 Trainings can only be hosted at the following times:
 
@@ -44,13 +44,13 @@ Trainings can only be hosted at the following times:
 | 11 PM EST           |
 
 
-* Hosting at any other time is prohibited. Hosting at another time will result in the appropriate disciplinary actions.
-* To host a training, you must claim a session one day before the day you want to host. You do not need to be in the game until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, make sure to use the GUI to set yourself as the Host. 
-    - **If you go into the training game and claim Host powers, and you are _not_ the scheduled host, you will receive consequences.** 
+* Hosting at any other time is prohibited and will result in the appropriate disciplinary actions.
+* Hosts should not be in the Training Center until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, the training host should use the GUI to set themself as the host. 
+    - **If an HR goes into the training game and claims Host powers, and they are not the scheduled host, they will receive consequences for hosting an unofficial training session.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store. The announcer should announce the training session in **all** large servers of the store.
-* Trainers should not rush through the script. Allow your LRs to have time to read the information you’re providing them. 
+* Trainers should not rush through the script. Allow LRs to have time to read the information being provided to them. 
 * Trainers and hosts should not be chatting or joking around with each other during the training session and before LRs join. 
 * If trainers and hosts need to chat, they should do so in the communications server, not in-game.
 * Each LR may only go AFK for up to three minutes. Each LR may only go AFK up to two times per training session.
@@ -58,7 +58,7 @@ Trainings can only be hosted at the following times:
 
 ## Rank Information
 {: .text-red-300 }
-In this section, you will see an overview of each rank’s job at training sessions. 
+Below is an overview of each rank's job at training sessions.
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
@@ -82,13 +82,13 @@ This section outlines what the duties the host has and what they should say. Do 
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :35, the Host, the Co-Host, and the rankers should join the Training Center to prepare for the session. Trainers (Store Managers and HRs) should not join until :45.
+At :35, the Host and the Co-Host should join the Training Center to prepare for the session. Trainers (Store Managers and HRs) may not join until :45.
 
-To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once you have pressed "Claim," the message that says “No training is being hosted right now. Check back later!” on the screen will be removed, and the session will become active. 
+To claim the session, click the message at the top of the screen that says “Click here to host one!”. A GUI will pop up with a button that says “Claim” on it. **Please read the information first on that GUI.** Once the “Claim” button is activated, the message that says “No training is being hosted right now. Check back later!” on the screen will be removed, and the session will become active.
 
 At :45, the Co-Host should do the first shout on the group page. The group shout templates are located in a designated area. 
 
-**_Note: After you have claimed in-game, you cannot leave the server, or you will receive consequences! Do not claim if you know you are having internet related issues, that might mean you get disconnected, etc._** 
+**_Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties._** 
 
 
 ### Host: After Claiming
@@ -99,7 +99,7 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 
 **Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions that you might have.*
 
-You should keep saying the line above until the start time. Do not spam it.
+Make sure to state the line above until the start time. Do not spam it.
 The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
 **Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
@@ -156,19 +156,19 @@ This section will outline each of the tests the trainers are expected to perform
 {: .text-purple-100 }
 {: .no_toc }
 
-For the Grammar/Greeting Test, as a trainer, you must explain how this test works. Have your group of LRs show their greetings to you. **IMPORTANT: Do not fail LRs for minor grammatical errors. If you can understand their greetings easily, you should pass them.** You are always welcome to give out tips if needed. Make sure to remind them to copy and paste their greeting every time, as it makes things much quicker on their behalf. If an LR spells ‘BloxStreet’ incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, move on to the next test. If they fail, kick them from the server and explain why. 
+For the Grammar/Greeting Test, trainers must explain how this test works. Make sure to have all LRs state their greetings. **IMPORTANT: Do not fail LRs for minor grammatical errors. If their greetings are understandable, pass them.** Feel free to give out tips if needed. Make sure to remind them to copy and paste their greeting, as it makes things much quicker on their behalf. If an LR spells ‘BloxStreet’ incorrectly during the Greeting Test, the trainer should tell the LR to repeat their greeting. If they pass, move on to the next test. If they fail, state the fail prompt and kick them from the server with the reason "Failed." 
 
 ### Cafe Test
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Cafe Test. In this test, you will ask your LRs for any available drink. LRs must have understandable grammar in this test. Ensure that LRs know about the slush machine and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, you may fail them. For this test, LRs should use the handto system.
+The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the handto system.
 
 ### Register Test
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Register Test. In this test, you will go through a roleplay of your LRs checking you out. If they don’t know how to send a payment request, explain the process to them. Make sure they state a greeting and outro, ask what your payment preference is, and remind you to scan your card, all while utilizing understandable grammar. If they fail, explain why when kicking them from the server.
+The next part of training is the Register Test. In this test, LRs will roleplay a series of steps required in order to check someone out. If they do not know how to send a payment request, explain the process to them. Make sure they state a greeting and outro, ask what the desired form of payment is, and remind the trainer to scan their card, all while utilizing understandable grammar. If they fail, state the fail prompt and kick them from the server with the reason "Failed."
 
 ### Trivia
 {: .text-purple-100 }
@@ -180,13 +180,13 @@ The final part of training is Trivia. In this section of the training, trainers 
 {: .text-purple-100 }
 {: .no_toc }
 
-If your LRs pass, you must use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game. If a player disconnects before getting ranked but has passed the training, the host should ask an available SHR for ranking permission.
+If the group of LRs pass, the trainer should use the :ff command on them, and take them to one of the purple/pink lines in the training room. The Host/Co-Host will rank them accordingly and then kick them from the game. If a player disconnects before getting ranked but has passed the training, contact an available Executive Assistant+. The ranker should ask an available SHR for ranking permission.
 
 ### Training Process
 {: .text-blue-000 }
 {: .no_toc }
 
-This section will provide the script for trainers to use. Please try to stick to this layout. You may add emojis. 
+This section will provide trainers with the training script. Do not modify this script. The use of emojis is permitted.
 
 **The introduction takes place at the cafe counter.**
 
@@ -208,7 +208,7 @@ This section will provide the script for trainers to use. Please try to stick to
 
 **Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
 
-At this point, you must wait for the Trainee to respond. If they reply with a positive answer, implying that they are ready to proceed, move on. If not, answer any questions they may have until they are ready to begin. 
+At this point, all LRs must respond. If they reply with a positive answer, implying that they are ready to proceed, move on. If not, answer any questions they may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down. 
 
 ### Grammar / Greeting Test Script
 {: .text-blue-000 }
@@ -216,7 +216,7 @@ At this point, you must wait for the Trainee to respond. If they reply with a po
 
 **This test takes place at the cafe counter.**
 
-At this point, you must conduct the Grammar/Greeting Test. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
+At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
 
 **Trainer:** *We will start this training with the Grammar/Greeting Test.*
 
@@ -228,9 +228,9 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
 
-**Wait for your LRs to speak.** 
+**Wait for all LRs to state their greetings.** 
 
-**_If you can understand their greetings, pass them. Do not be strict. If they lack understandable grammar, you must use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
+**_If their greetings are understandable, pass them. Do not be strict. If they lack understandable grammar, use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
 
 **Trainer:** *Unfortunately, you have failed this training session due to a lack of understandable grammar in your greeting. You are always welcome to attend another session.*
 
@@ -251,7 +251,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Firstly, click on the mug. Once you have equipped the mug, dispense the type of coffee the customer ordered. I’ll show you an example, please watch closely.*
 
-**At this point, you will show them how to make a simple coffee.**
+**At this point, show them how to make a simple coffee.**
 
 **Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from two flavored slushies.*
 
@@ -273,7 +273,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
-**Wait for a response and the order. Once everyone has prepared the items, go up to each LR and ask for it to be handed using the handto system. Follow the procedure under ‘Cafe Test’ if an LR gives you the wrong order. If an LR is unable to hand their items, you may run the :showtools command.**
+**Wait for a response and the order. Once everyone has prepared the items, go up to each LR and ask for it to be handed using the handto system. Follow the procedure under ‘Cafe Test’ if an LR gives the wrong order. If an LR is unable to hand their items, run the :showtools or :viewtools command.**
 
 **_If they pass, proceed. If they fail, use the line below._**
 
@@ -289,7 +289,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **Trainer:** *Congratulations, you have all passed the Cafe  Test! We will now move on to the Register Test.*
 
-**Take your LRs to your station's register.**
+**Take all LRs to your station's cash register.**
 
 **Trainer:** *However, before we begin this test, I’d like to remind you about our sandwich shop.*
 
@@ -313,7 +313,7 @@ At this point, you must conduct the Grammar/Greeting Test. Read Section **Gramma
 
 **_THE REGISTERS IN THE TRAINING CENTER WORK!_** 
 {: .text-red-100 }
-If they say yes, begin.  If they say no, answer any questions until they are ready.
+If they say yes, begin. If they say no, answer any questions until they are ready. Note that trainers have a right to proceed if the questions are slowing the group down.
 
 
 **Note: This part is the in-test script.**
@@ -337,7 +337,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Congratulations, you have all passed the Register Test! As there are no more questions, we will move on to the final section of this training, Trivia.*
 
-**Take your LRs to your station’s cafe counter.**
+**Take all LRs to the station's cafe counter.**
 
 **Trainer:** *In this section, you will be required to answer six questions. All topics you are being quizzed on were covered during the presentation or during this training.*
 
@@ -351,7 +351,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Before I begin, does anyone have any questions? This is your final opportunity to ask questions related to Trivia.*
 
-**Answer any and all questions related to Trivia.**
+**Answer any questions related to Trivia.**
 
 **Trainer:** *Great! We will now begin. Firstly, when you are on a computer, how do you hand medicine to a guest?*
 
@@ -359,7 +359,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **_click ‘H’ on their keyboard_** and enter the player’s username.*
 
-**Mobile answers are allowed. Keep in mind the players who got the question correct or incorrect.**
+**Mobile answers are allowed. Keep the players who got each question incorrect in mind.**
 
 **Trainer:** *In BloxStreet’s sandwich shop, how do you receive access to the bread?*
 
@@ -367,7 +367,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should **_click on the cutting board_** once.*
 
-**Keep in mind the players who got the question correct or incorrect.**
+**Keep the players who got each question incorrect in mind.**
 
 **Trainer:** *When you are on a computer, how do you restock an empty shelf after equipping a box?*
 
@@ -375,7 +375,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **_hold on ‘E’_** for a few seconds to restock.*
 
-**Mobile answers are allowed. Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
+**Mobile answers are allowed. Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
 
 **Trainer:** *In order to clean spills, you are required to grab a mop. Where in the store are the mops located?*
 
@@ -383,7 +383,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *The mops are located in **_the staff room_**.*
 
-**Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
+**Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
 
 **Trainer:** *What punishment do trollers receive?*
 
@@ -391,7 +391,7 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Trollers must be **_server banned_**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
 
-**Keep in mind the players who got the question correct or incorrect. If a player gets three or more questions incorrect, you may remove them from the server.**
+**Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
 
 **Trainer:** *If no HR is in-game to handle a troller, what is the best way to contact one?*
 
@@ -412,24 +412,21 @@ If they say yes, begin.  If they say no, answer any questions until they are rea
 
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
-**Trainers should FF their LRs by executing the command :ff (username). Trainers should hide their commands.**
+**Trainers should FF their LRs by executing the command :ff (username). Trainers must hide their commands by utilizing the command bar or placing a "/e" before any command.**
 
 **Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
 
 **Rankers should run the :info command on each LR after ranking and before kicking. Running the command ensures each LR has been ranked correctly.**
 
-**Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if an SHR decides a photo will be taking place, trainers should not leave and head to the lobby instead.**
+**Trainers should leave the Training Center after taking their LRs to a purple ranking line. Trainers should not wait until after their LRs have been ranked. However, if an SHR decides a photo will be taking place, trainers may head to the lobby and follow their directions.**
 
 
 ## Training Conclusion
 {: .text-red-300 }
-Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are people left, encourage them to go to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR do :place all if there are a lot of people still in the server or just shutdown.
+Once the training has ended, there should be no LRs remaining and very few HRs. All trainers must leave the server after they have finished training. If there are players left, encourage them to head to the store. Absolutely nothing else should be happening after training sessions. Do not sit around giving feedback as it is unnecessary. Have an SHR shutdown or run :place all if there are many players remaining in the server. .
 
 
-Leave the game when finished training or once you have been ranked. Do not do anything else.
+Leave the game when finished training or once you have been ranked. Trainers should not do anything else.
 
 
-At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area. 
-
-
-If a Junior Moderator+ chooses to take a photo at the conclusion of the session, follow their directions.
+At the end of training, the Co-Host should post the last group shout. The group shout templates are located in a designated area.
