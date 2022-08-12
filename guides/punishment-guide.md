@@ -29,33 +29,31 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Trolling | Server ban | Everyone |
-| Spamming | Server ban | Everyone |
-| Dancing/standing on elevated surfaces | Server ban | Everyone |
-| Crowding (5+ players) or refusing to disperse | Server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
+| Crowding (5+ players) or refusing to disperse | Server ban | Everyone |
+| Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Disrespecting others | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
+| Spamming | Server ban | Everyone |
+| Trolling | Server ban | Everyone |
 | Alternate account of a server banned, blacklisted, or permanently banned user | Permanent ban | Everyone | 
-| Exploiting, hacking, or glitching | Permanent ban | Everyone |
-| Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
-| Inappropriate roleplay or behavior | Permanent ban | Everyone |
 | Bypassing or attempting to bypass | Permanent ban | Everyone |
-| Playing inappropriate or loud audios | Permanent ban | Everyone |
-| Major death threats | Permanent ban | Everyone |
-| Spreading false rumors | Permanent ban | Everyone | 
+| Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
+| Discussing inappropriate subjects | Permanent ban | Everyone |
+| Exploiting, hacking, or glitching | Permanent ban | Everyone |
+| Homophobia | Permanent ban | Everyone |
 | Inappropriate avatar or username | Permanent ban | Everyone |
-| Joking about serious topics | Permanent ban | Everyone |
+| Inciting a raid | Permanent ban | Everyone |
+| Joking about serious topics | Permanent ban | Everyone | 
+| Major death threats | Permanent ban | Everyone |
+| Offensive language | Permanent ban | Everyone |
+| Playing inappropriate or loud audios | Permanent ban | Everyone |
+| Racism | Permanent ban | Everyone |
+| Raiding | Permanent ban | Everyone |
+| Sexism | Permanent ban | Everyone |
+| Spreading false rumors | Permanent ban | Everyone |
 | Suicidal thoughts | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
-| Discussing inappropriate subjects | Permanent ban | Everyone |
-| Offensive language | Permanent ban | Everyone |
-| Racism | Permanent ban | Everyone |
-| Homophobia | Permanent ban | Everyone |
-| Sexism | Permanent ban | Everyone |
-| Inciting a raid | Permanent ban | Everyone |
-| Raiding | Permanent ban | Everyone |
-
 
 
 ## LR+ Punishments
