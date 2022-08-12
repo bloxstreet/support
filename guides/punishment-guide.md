@@ -62,24 +62,24 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Wearing the incorrect uniform | Verbal warning | Staff |
 | Faking a resignation | Verbal warning | Staff |
+| Wearing the incorrect uniform | Verbal warning | Staff |
 | Hinting for a promotion | Demotion one rank down with no verbal warning | Staff |
-| Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Crowding or refusing to disperse | Demotion to Customer | Staff |
+| Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
+| Advertising in-game | Blacklist | Staff |
 | Cuff abuse | Blacklist | Staff |
+| Dancing/standing on elevated surfaces | Blacklist | Staff |
+| Handing random items to a player or multiple players | Blacklist | Staff |
+| Refusal to wear correct uniform | Blacklist | Staff |
 | Trolling or spamming | Blacklist | Staff |
 | Unprofessionalism | Blacklist | Staff |
-| Advertising in-game | Blacklist | Staff |
-| Handing random items to a player or multiple players | Blacklist | Staff |
-| Dancing/standing on elevated surfaces | Blacklist | Staff |
-| Refusal to wear correct uniform | Blacklist | Staff |
 | Gossiping | Permanent ban | Staff |
+| Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
+| Point grinding or cheating | Permanent ban | Staff |
 | Reclaiming a rank using old points after being demoted | Permanent ban | Staff |
 | Reclaiming a rank while blacklisted | Permanent ban | Staff |
 | Reclaiming the same rank more than once | Permanent ban | Staff |
-| Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
-| Point grinding or cheating | Permanent ban | Staff |
 | Simping for a higher rank | Permanent ban | Staff |
 
 
