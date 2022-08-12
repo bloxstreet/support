@@ -110,7 +110,7 @@ The Host should say the line above at :57.
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test and removal of the explanations).**
+At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test, removal of the explanations, and recent updates).**
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
