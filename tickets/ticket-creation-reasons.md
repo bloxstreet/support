@@ -88,7 +88,7 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Lack of grammar for MR ranks - contact an available Executive Assistant+ | 
 | MRs failing to hide TSA commands - contact an available Executive Assistant+ | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
-| Asking for an appeal status - check the BloxStreet Staffing Support Discord for an appeal status | 
+| Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
 | Urgent in-game or group issues - contact an HR | 
 | Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
 | Abusing the group shout - contact an SHR through Direct Messages |
