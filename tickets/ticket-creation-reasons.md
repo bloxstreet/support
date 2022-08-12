@@ -83,7 +83,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Trolling Guests/Customers - contact an available HR |
 | Urgent in-game or group issues - contact an available HR | 
-| Abusing the warning or kick systems - contact an available Board of Directors+ |
 | Disrespecting, arguing, or ignoring an HR - contact an available Executive Assistant+ |
 | Lack of grammar for MR ranks - contact an available Executive Assistant+ | 
 | LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
