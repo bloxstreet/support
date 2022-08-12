@@ -102,6 +102,8 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 Make sure to state the line above until the start time. Do not spam it.
 The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
+Between claiming the session (:45) and the commencement of it (:00), the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test, removal of the explanations, and any recent updates).
+
 **Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
 
 The Host should say the line above at :57. 
@@ -110,7 +112,7 @@ The Host should say the line above at :57.
 {: .text-yellow-200 }
 {: .no_toc }
 
-At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area. **Additionally, the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test, removal of the explanations, and recent updates).**
+At :00, the LRs should quietly stand on the red lines, and the MRs/HRs should be at their stations. The Host should use /e :slock to stop more LRs from joining, and the Co-Host should post the second group shout. The group shout templates are located in a designated area.
 
 **Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
 
