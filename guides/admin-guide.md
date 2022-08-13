@@ -61,7 +61,7 @@ When executing commands, ensure they are being utilized correctly.
 {: .text-red-300 }
 As mentioned at the start of this document, TSA features a built-in anti-exploit system, which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
 
-* All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
+* All detected exploits can be viewed with the :exploitlogs command. Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.
 * If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter has more than likely been banned by TSA's anti-exploit. If an exploiter is present, contact an available HR, attempt to gather sufficient evidence, and open a ticket.
 
 ### Downtime
@@ -70,14 +70,14 @@ Downtime is a time in which a critical error has occurred within the code, stopp
 
 Click [here](https://status.bloxstreet.store) to view the status of various TSA services.
 
-* In this scenario, the Head Moderators+ kindly request that **players do not spam ping us, DM us repeatedly, or anything of the sort when this occurs.** Doing so is **_punishable_** and can lead to consequences. Group Developers have likely been informed of the problems and are working diligently to fix them. 
-* A simple fix may just be rejoining. If a server shuts down, many players rejoining at the same time can overload the system and may cause admin loading to be delayed. For this reason, we request that players **wait a few minutes** before rejoining.
+* In this scenario, the Head Moderators+ kindly request that players do not spam ping us, DM us repeatedly, or anything of the sort when this occurs. Doing so can lead to consequences. Group Developers have likely been informed of the problems and are working diligently to fix them. 
+* A simple fix may just be rejoining. If a server shuts down, many players rejoining at the same time can overload the system and may cause admin loading to be delayed. For this reason, we request that players wait a few minutes before rejoining.
 
 ### Acceptable Usage
 {: .text-red-300 }
 This is the main section of the document. It will outline the acceptable and unacceptable usages of admin commands.
 
-All major admin abuse (running :pban all, etc.) is **logged** and will result in an instant punishment! The command will be immediately canceled, and SHRs will be notified.
+All major admin abuse (running :pban all, etc.) is logged and will result in an instant punishment! The command will be immediately canceled, and SHRs will be notified.
 
 #### 4A - All Commands Usage
 {: .text-grey-dk-000 }
@@ -104,12 +104,12 @@ When executing commands, be sure to type at least 50% of the player's username.
 
 
 
-| Command Names That Can Be Used (No information needed)       |
+| Acceptable Commands       |
 |:-------------|
 | _:cmds_ |
 | _:bans_           |
 | _:info_         |
-| _:pm (Junior Moderator+)._           |
+| _:pm (Junior Moderator+)_           |
 | _:admins_           |
 | _:chatlogs_           |
 | _:logs_           |
@@ -118,7 +118,7 @@ When executing commands, be sure to type at least 50% of the player's username.
 
 
 
-| Command Names that CANNOT Be Used (No information needed)       |
+| Unacceptable Commands       |
 |:-------------|
 | :crash |
 | :h |
