@@ -102,7 +102,7 @@ Players who plan to claim a rank with points do not have a cooldown. If a player
 ### Are demoted MRs allowed to use previously-used points to claim a rank that is above the rank they were demoted from?
 {: .text-red-300 }
 {: .no_toc }
-No, demoted MRs may not use previously-used points to claim a rank that is above the rank they were demoted from. However, they are more than welcome work their way back up or purchase completely new points to claim any rank above the rank they were demoted from.
+No, demoted MRs may not use previously-used points to claim a rank that is above the rank they were demoted from. However, they are more than welcome to work their way back up or purchase completely new points to claim any rank above the rank they were demoted from.
 
 ### If a player’s blacklist or permanent ban appeal is accepted, can they claim a rank through points?
 {: .text-red-300 }
