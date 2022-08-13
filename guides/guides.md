@@ -8,6 +8,4 @@ permalink: /guides
 
 # Guides
 
-Here you will find all the guides you need to carry out your duties at BloxStreet.
-
-Some guides may only apply to certain ranks! Ensure you know what your duties are.
+Here, staff members can find some of the guides they need.
