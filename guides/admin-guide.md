@@ -62,7 +62,7 @@ When executing commands, ensure they are being utilized correctly.
 As mentioned at the start of this document, TSA features a built-in anti-exploit system, which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
 
 * All detected exploits can be viewed with the :exploitlogs command. **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.** 
-* If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter may have already been banned by TSA's anti-exploit. However, if an exploiter is present, contact an available HR. If possible, gather sufficient evidence and open a ticket as well. 
+* If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter has more than likely been banned by TSA's anti-exploit. If an exploiter is present, contact an available HR, attempt to gather sufficient evidence, and open a ticket.
 
 ### Downtime
 {: .text-red-300 }
