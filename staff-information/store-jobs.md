@@ -17,7 +17,7 @@ This guide will outline the many departments BloxStreet staff members are permit
 ## Information 
 {:.text-red-300} 
 
-While in-game, uniforms must be visible while on duty. Professionalism to a certain degree is required at all times, regardless of whether a staff member is on or off duty.
+While on duty, uniforms must be visible. Professionalism to a certain degree is required at all times, regardless of whether a staff member is on or off duty.
 
 Utilize the following commands to go off and back on duty.
 
@@ -69,7 +69,7 @@ The pharmacy is one of the many store departments. Customers can get medicine at
 
 **Step 1:** Customers will approach the pharmacist at their pharmacy station. Make sure to welcome them with a detailed and polite greeting. 
 
-**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to the guest by pressing 'H' and entering their username. If you are on mobile, use the handto system, which is located on the left side of your screen.
+**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to the guest by pressing 'H' and entering their username. On mobile, use the handto system, which is located on the left side of your screen.
 
 **Step 3:** After you have given the guest their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
 
