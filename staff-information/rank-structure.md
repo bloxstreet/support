@@ -66,7 +66,7 @@ Store Manager is the eleventh rank at BloxStreet, and it is considered an **MR**
 ### **Store Director** 
 {:.text-red-300}
 {: .no_toc }
-Store Director is the twelfth rank at BloxStreet, and it is considered the first **HR** rank. Store Directors have successfully been noticed by an SHR or have worked for/purchased 8,000 points. Store Directors are tasked with working at departments, serving our customers, banning any rule violators in the store, attending training sessions to help train LRs, and hosting shifts. Store Directors receive access to Admin commands and must use them responsibly. In order to be eligible for a promotion, they must be off their two-week cooldown. Additionally, they must get noticed by an SHR. Store Directors may not purchase or obtain points to earn Board of Directors.
+Store Director is the twelfth rank at BloxStreet, and it is considered the first **HR** rank. Store Directors have successfully been noticed by an SHR or have worked for/purchased 8,000 points. Store Directors are tasked with working at departments, serving our customers, attending training sessions to help train LRs, banning any rule violators in the store, and hosting shifts. Store Directors receive access to Admin commands and must use them responsibly. In order to be eligible for a promotion, they must be off their two-week cooldown. Additionally, they must get noticed by an SHR. Store Directors may not purchase or obtain points to earn Board of Directors.
 
 ### **Board of Directors**
 {:.text-red-300}
