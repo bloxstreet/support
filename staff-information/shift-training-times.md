@@ -6,14 +6,12 @@ nav_order: 3
 ---
 
 # Shift & Training Times
-Here you will find all session times that occur at BloxStreet and the Training Center. These times can be found in the staff room on the BloxStreet Staff Information Board.
+Here, staff members can find all of BloxStreet's shift and training session times.
 
 | Shift Times | 
 |:------------| 
 | 12 AM EST | 
-| 3 AM EST |
 | 7 AM EST |
-| 9 AM EST |
 | 11 AM EST |
 | 1 PM EST |
 | 3 PM EST |
@@ -24,10 +22,7 @@ Here you will find all session times that occur at BloxStreet and the Training C
 
 | Training Times | 
 |:------------| 
-| 2 AM EST |
-| 4 AM EST |
 | 6 AM EST |
-| 8 AM EST |
 | 10 AM EST |
 | 12 PM EST |
 | 2 PM EST |
