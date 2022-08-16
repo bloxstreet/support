@@ -30,13 +30,14 @@ Some things to note:
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
 | Advertising in-game | Server ban | Everyone |
+| Alternate account of a server banned user | Server ban | Everyone |
 | Crowding (5+ players) or refusing to disperse | Server ban | Everyone |
 | Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Disrespecting others | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Trolling | Server ban | Everyone |
-| Alternate account of a server banned, blacklisted, or permanently banned user | Permanent ban | Everyone | 
+| Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
 | Bypassing or attempting to bypass | Permanent ban | Everyone |
 | Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
 | Discussing inappropriate subjects | Permanent ban | Everyone |
@@ -104,8 +105,8 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Lack of grammar | Verbal warning and a demotion to Customer | High Ranks |
 | Announcement abuse | Verbal warning or a blacklist - depending on the severity | High Ranks |
-| Failure to attend an assigned shift or training session without informing an SHR beforehand | 3 warnings and then a demotion to Customer | High Ranks |
-| Failure to take training attendance or submitting it 6+ hours after a session commences | 3 warnings and then a demotion to Customer | High Ranks |
+| Failure to attend an assigned shift or training session without informing an SHR beforehand | One warning if repetitive - reviewed on a case-by-case basis | High Ranks |
+| Failure to take training attendance or submitting it 6+ hours after a session commences | One warning if repetitive - reviewed on a case-by-case basis | High Ranks |
 | Claiming Board of Directors after claiming Store Director | Demotion to Store Director | High Ranks
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
