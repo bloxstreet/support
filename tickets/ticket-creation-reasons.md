@@ -44,7 +44,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Exploiting, hacking, or glitching | 
 | Force verification |
 | Gossiping |
-| Handing random items to a player or multiple players |
 | Homophobia |
 | HR reports |
 | Inappropriate avatar or username | 
