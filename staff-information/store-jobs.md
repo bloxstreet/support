@@ -89,7 +89,7 @@ The pharmacy is one of the many store departments. Customers can get medicine at
 
 **Step 2:** Once the customer has selected what medicine they want, it will be your job to find it. Click on the medicine behind you.
 
-**Step 3:** Follow the POS Systems guidance.
+**Step 3:** Follow the [POS Systems guidance](https://support.bloxstreet.store/staff-information/store-jobs.html#pos-systems).
 
 **Step 4:** Thank the customer for shopping at BloxStreet's pharmacy and remind them to come again soon.
 
@@ -115,7 +115,7 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 **Step 2:** After the customer selects their items, it will be the barista's job to prepare them. Head over to the counter behind the cafe stations and make the requested items.
 
-**Step 3:** Follow the POS Systems guidance.
+**Step 3:** Follow the [POS Systems guidance](https://support.bloxstreet.store/staff-information/store-jobs.html#pos-systems).
 
 **Step 4:** Once the customer has received their requested items, thank them for visiting the cafe and remind them to come again soon.
 
