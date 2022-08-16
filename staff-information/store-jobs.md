@@ -35,15 +35,15 @@ The POS systems are located in BloxStreet's cafe and pharmacy.
 
 **Step 1:** Staff members should approach a POS system that is not in use and scan their BloxStreet Staff Card to sign in.
 
-**Step 2:** Upon making the requested items, staff members should scan them against the POS terminal. Doing so will take away the items from the staff member's inventory.
+**Step 2:** Upon making the requested items, scan them against the POS terminal. Doing so will take away the items from the staff member's inventory.
 
-**Step 3:** When complete, staff members should click the 'Finish Transaction' button.
+**Step 3:** When complete, click the 'Finish Transaction' button.
 
-**Step 4:** Staff members should request the customer to scan their BloxStreet Cash Card on the card reader.
+**Step 4:** Request the customer to scan their BloxStreet Cash Card on the card reader.
 
-**Step 4:** Once the transaction is approved, money will be taken from the customer, and they will automatically receive their requested items. The staff member will also be rewarded a point.
+**Step 4:** Once the transaction is approved, money will be taken from the customer, and they will automatically receive their requested items. Staff members will also earn a point.
 
-**Note:** If a transaction is declined or a customer does not have an adequate amount of money, staff members should click 'Void Transaction.' Prior to walking away from your claimed POS system, sign out.
+**Note:** If a transaction is declined or a customer does not have an adequate amount of money, click 'Void Transaction.' Prior to walking away from your claimed POS system, sign out.
 
 
 ## Store Departments 
