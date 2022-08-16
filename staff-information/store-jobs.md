@@ -27,6 +27,24 @@ Utilize the following commands to go off and back on duty.
 
 While on duty, staff members are expected to work. This includes working at a station, fulfilling certain tasks around the store, and arresting shoplifters. If a staff member wishes to take a break, they may go off duty. Off duty staff members may not work. Note that professionalism to a certain degree is still required while off duty. HRs are not permitted to go off duty.
 
+## POS Systems
+{:.text-blue-000}
+{: .no_toc }
+
+The POS systems are located in BloxStreet's cafe and pharmacy. 
+
+**Step 1:** Staff members should approach a POS system that is not in use and scan their BloxStreet Staff Card to sign in.
+
+**Step 2:** Upon making the requested items, staff members should scan them against the POS terminal. Doing so will take away the items from the staff member's inventory.
+
+**Step 3:** When complete, staff members should click the 'Finish Transaction' button.
+
+**Step 4:** Staff members should request the customer to scan their BloxStreet Cash Card on the card reader.
+
+**Step 4:** Once the transaction is approved, money will be taken from the customer, and they will automatically receive their requested items. The staff member will also be rewarded a point.
+
+**Note:** If a transaction is declined or a customer does not have an adequate amount of money, staff members should click 'Void Transaction.' Prior to walking away from your claimed POS system, sign out.
+
 
 ## Store Departments 
 {:.text-red-300} 
@@ -69,9 +87,11 @@ The pharmacy is one of the many store departments. Customers can get medicine at
 
 **Step 1:** Customers will approach the pharmacist at their pharmacy station. Make sure to welcome them with a detailed and polite greeting. 
 
-**Step 2:** Once the guest has selected what medicine they want, it will be your job to find it. Click on the medicine behind you and hand it to the guest by pressing 'H' and entering their username. On mobile, use the handto system, which is located on the left side of your screen.
+**Step 2:** Once the customer has selected what medicine they want, it will be your job to find it. Click on the medicine behind you.
 
-**Step 3:** After you have given the guest their requested medicine, thank them for shopping at the BloxStreet Pharmacy and remind them to come again soon.
+**Step 3:** Follow the POS Systems guidance.
+
+**Step 4:** Thank the customer for shopping at BloxStreet's pharmacy and remind them to come again soon.
 
 ### Vision Center
 {:.text-blue-000}
@@ -95,23 +115,9 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 **Step 2:** After the customer selects their items, it will be the barista's job to prepare them. Head over to the counter behind the cafe stations and make the requested items.
 
-**Step 3:** Hand the customer their requested items. In order to hand an order, hold out the item, click the 'H' key, and follow the given instructions. On mobile, click the 'HANDTO' button on the left side of the screen to begin the process.
+**Step 3:** Follow the POS Systems guidance.
 
 **Step 4:** Once the customer has received their requested items, thank them for visiting the cafe and remind them to come again soon.
-
-### SubShoppe
-{:.text-blue-000}
-{: .no_toc }
-
-The SubShoppe is one of the many store departments. Customers and staff members can purchase a variety of sandwiches. 
-
-**Step 1:** Customers will approach the SubShoppe worker with their order. Make sure to welcome them with a detailed and polite greeting.
-
-**Step 2:** Press the cutting board to receive access to the bread. 
-
-**Step 3:** Place the toppings the customer desires. Finish the sandwich by pressing on the cutting board again. 
-
-**Step 4:** Hand the sandwich to the customer by clicking on the 'H' key and entering their username. Wish the customer a great day.
 
 ### Security
 {:.text-blue-000}
