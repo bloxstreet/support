@@ -129,11 +129,6 @@ In order to learn more about your duties at each department, visit [this link](h
 {: .no_toc }
 In order to go off-duty, run the command !stopwork in the chat. In order to go back on-duty, run the command !startwork in the chat.
 
-### How can I hand an item to a player?
-{: .text-red-300 }
-{: .no_toc }
-If you are on a desktop device, click the **H** key on your keyboard and follow the instructions. If you are on a mobile device, click the **HANDTO** button on the left side of your screen and follow the instructions.
-
 ### How can I hide my commands?
 {: .text-red-300 }
 {: .no_toc }
