@@ -27,7 +27,7 @@ Utilize the following commands to go off and back on duty.
 
 While on duty, staff members are expected to work. This includes working at a station, fulfilling certain tasks around the store, and arresting shoplifters. If a staff member wishes to take a break, they may go off duty. Off duty staff members may not work. Note that professionalism to a certain degree is still required while off duty. HRs are not permitted to go off duty.
 
-## POS Systems
+### POS Systems
 {:.text-blue-000}
 {: .no_toc }
 
