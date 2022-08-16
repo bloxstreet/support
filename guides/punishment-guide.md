@@ -71,7 +71,6 @@ Some things to note:
 | Advertising in-game | Blacklist | Staff |
 | Cuff abuse | Blacklist | Staff |
 | Dancing/standing on elevated surfaces | Blacklist | Staff |
-| Handing random items to a player or multiple players | Blacklist | Staff |
 | Refusal to wear correct uniform | Blacklist | Staff |
 | Trolling or spamming | Blacklist | Staff |
 | Unprofessionalism | Blacklist | Staff |
