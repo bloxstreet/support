@@ -51,7 +51,6 @@ Trainings can only be hosted at the following times:
 * Trainers and hosts should not be chatting or joking around with each other during the training session and before LRs join. 
 * If trainers and hosts need to chat, they should do so in the communications server, not in-game.
 * Each LR may only go AFK for up to three minutes. Each LR may only go AFK up to two times per training session.
-* LRs should use the handto system during the Cafe Test.
 
 ## Rank Information
 {: .text-red-300 }
@@ -99,7 +98,7 @@ As the LRs join the server, be sure to encourage them to enter the building and 
 Make sure to state the line above until the start time. Do not spam it.
 The Host and Co-Host should stand on their designated line. LRs are expected to enter the building and stand on the red lines.
 
-Between claiming the session (:45) and the commencement of it (:00), the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide (Trivia Test, removal of the explanations, and any recent updates).
+Between claiming the session (:45) and the commencement of it (:00), the Host or Co-Host must approach each trainer and ask if they have the correct/updated version of the training guide.
 
 **Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
 
@@ -142,7 +141,7 @@ Once the presentation concludes, LRs are required to remain silent for the host�
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
-**At this point, the Host will teleport LRs to trainers. Try to keep an eye on where the LRs are to ensure you don’t teleport someone currently being trained.**
+**At this point, the Host will teleport four LRs to each trainer. Try to keep an eye on where the LRs are to ensure you do not teleport someone currently being trained.**
 
 **Anybody who decides to idle during training should be kicked.**
 
@@ -162,19 +161,13 @@ For the Grammar/Greeting Test, trainers must explain how this test works. Make s
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the CafePOS system.
+The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the POS system.
 
 ### Register Test
 {: .text-purple-100 }
 {: .no_toc }
 
 The next part of training is the Register Test. In this test, LRs will roleplay a series of steps required in order to check someone out. If they do not know how to send a payment request, explain the process to them. Make sure they state a greeting and outro, ask what the desired form of payment is, and remind the trainer to scan their card, all while utilizing understandable grammar. If they fail, state the fail prompt and kick them from the server with the reason "Failed."
-
-### Trivia
-{: .text-purple-100 }
-{: .no_toc }
-
-The final part of training is Trivia. In this section of the training, trainers are required to quiz their LRs on topics covered in the presentation and in the training itself. This part tests an LR’s knowledge on BloxStreet and whether or not they were paying attention during the presentation.
 
 ### Passing LRs
 {: .text-purple-100 }
@@ -224,7 +217,7 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Shopping Center! My name is (username), how may I assist you today?”*
 
-**Trainer:** *You are welcome to add adjectives or emojis to your greeting. Feel free to customize it however you want.*
+**Trainer:** *You are welcome to add adjectives or emojis to your greeting. Feel free to customize it to your liking.*
 
 **Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
 
@@ -243,13 +236,13 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
 
-**Trainer:** *In this test, treat me as a guest who has approached your cafe register. Make sure to say your greeting when I approach you.*
+**Trainer:** *In this test, treat me as a guest who has approached your cafe register.*
 
 **Trainer:** *You must utilize understandable grammar in this test. I will determine if your grammar is understandable or not.*
 
-**Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention, and avoid going AFK, as the information is vital for your success.*
+**Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention and avoid going AFK, as the information is vital for your success.*
 
-**Trainer:** *Firstly, click on the mug. Once you have equipped the mug, dispense the type of coffee the customer ordered. I’ll show you an example, please watch closely.*
+**Trainer:** *Firstly, click on the mug. Once you have equipped the mug, dispense the type of coffee the customer ordered. I will show you an example, so please watch closely.*
 
 **At this point, show them how to make a simple coffee.**
 
@@ -259,27 +252,29 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *To dispense a slush, simply place the COLD CUP under the desired flavor.*
 
-**Trainer:** *To use the CafePOS system, scan your Staff Card on the screen to sign in.*
+**At this point, take your LRs back to the cafe counter.**
 
-**Trainer:** *Once signed in, scan any items the customer has ordered, and click "Finish Transaction". The customer will be required to tap their Cash Card on the reader.*
+**Trainer:** *To use the POS system, scan your BloxStreet Staff Card on the screen to sign in.*
 
-**Trainer:** *If the payment is declined, inform the customer you cannot serve them as they cannot afford what they ordered. You can remove items from the order or press "Void Transaction" to clear them all."
+**Trainer:** *Once signed in, scan any items the customer has ordered, and click "Finish Transaction." The customer will be required to tap their Cash Card on the reader.*
 
-**Trainer:** *Remember to sign out once you're done, never leave a terminal signed in.*
+**Trainer:** *If the payment is declined, you cannot serve the customer, as they cannot afford what they ordered.*
 
-**Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
+**Trainer:** *If this occurs, remove the items from the order or press "Void Transaction."*
 
-**Trainer:** *We will now begin this test. Once you have prepared your items, do NOT hand them to me until I provide additional instructions.*
+**Trainer:** *Be sure to sign out once you are finished. Never leave a terminal signed in.*
 
-**Trainer:** *You may now state your greetings.*
+**Trainer:** *Now that you have seen how to make drinks, it is time for you to have a turn. If you need assistance in this test, you are welcome to ask me.*
 
-**Wait for all LRs to state their greetings before stating the order.**
+**Trainer:** *We will now begin this test. I will approach each of you individually. When I do, be sure to state your greeting.*
+
+**Wait for the LR to state their greeting. Begin the test once they do.**
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
-**Wait for a response and the order. Once everyone has prepared the items, go up to each LR and ask for it to be handed using the handto system. Follow the procedure under ‘Cafe Test’ if an LR gives the wrong order. If an LR is unable to hand their items, run the :showtools or :viewtools command.**
+**Assist the LR as needed. Follow the procedure under ‘Cafe Test’ if an LR gives the wrong order.**
 
-**_If they pass, proceed. If they fail, use the line below._**
+**_If they pass, proceed to the next LR. If they fail, use the line below._**
 
 **Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
@@ -291,17 +286,9 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **This test takes place at the register.**
 
-**Trainer:** *Congratulations, you have all passed the Cafe  Test! We will now move on to the Register Test.*
+**Trainer:** *Congratulations, you have all passed the Cafe Test! We will now move on to the Register Test.*
 
 **Take all LRs to the station's cash register.**
-
-**Trainer:** *However, before we begin this test, I’d like to remind you about our sandwich shop.*
-
-**Trainer:** *In order to get the bread at BloxStreet’s sandwich shop, click on the cutting board. After doing so, add the desired toppings.*
-
-**Trainer:** *Once you have prepared the sandwich, click on the cutting board again.*
-
-**Trainer:** *We will now resume with the register part.*
 
 **Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
 
@@ -333,84 +320,11 @@ If they say yes, begin. If they say no, answer any questions until they are read
 **Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
 
-### Trivia Script
-{: .text-blue-000 }
-{: .no_toc }
-
-**This test takes place at the cafe station.**
-
-**Trainer:** *Congratulations, you have all passed the Register Test! As there are no more questions, we will move on to the final section of this training, Trivia.*
-
-**Take all LRs to the station's cafe counter.**
-
-**Trainer:** *In this section, you will be required to answer six questions. All topics you are being quizzed on were covered during the presentation or during this training.*
-
-**Trainer:** *All LRs are required to answer by typing in the chat. Copying someone else’s answers will not always lead you to the correct answer.*
-
-**Trainer:** *Signs of plagiarism in answers will result in an automatic fail.*
-
-**Trainer:** *All LRs must correctly answer at least four out of the six questions. You are welcome to use any BloxStreet sources.*
-
-**Trainer:** *All LRs are required to answer each question within a span of 30 seconds. If you do not answer a question once 30 seconds has passed, you will not receive a point for the question.*
-
-**Trainer:** *Before I begin, does anyone have any questions? This is your final opportunity to ask questions related to Trivia.*
-
-**Answer any questions related to Trivia.**
-
-**Trainer:** *Great! We will now begin. Firstly, when you are on a computer, how do you hand medicine to a guest?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
-
-**Trainer:** *In order to hand medicine to a guest when on a computer, staff members should **_click ‘H’ on their keyboard_** and enter the player’s username.*
-
-**Mobile answers are allowed. Keep the players who got each question incorrect in mind.**
-
-**Trainer:** *In BloxStreet’s sandwich shop, how do you receive access to the bread?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
-
-**Trainer:** *In order to receive access to the bread in BloxStreet’s sandwich shop, staff members should **_click on the cutting board_** once.*
-
-**Keep the players who got each question incorrect in mind.**
-
-**Trainer:** *When you are on a computer, how do you restock an empty shelf after equipping a box?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
-
-**Trainer:** *In order to restock an empty shelf after equipping a box, staff members should first approach the shelf. After doing so, **_hold on ‘E’_** for a few seconds to restock.*
-
-**Mobile answers are allowed. Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
-
-**Trainer:** *In order to clean spills, you are required to grab a mop. Where in the store are the mops located?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
-
-**Trainer:** *The mops are located in **_the staff room_**.*
-
-**Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
-
-**Trainer:** *What punishment do trollers receive?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact. However, LRs must indicate that a server ban is the punishment for trollers, not a permanent ban. If an LR is not specific, please request them to state which type of ban trollers receive.**
-
-**Trainer:** *Trollers must be **_server banned_**. Trollers do not receive warnings or kicks. Instead of handling a troller yourself, contact an HR.*
-
-**Keep the players who got each question incorrect in mind. If a player gets three or more questions incorrect, remove them from the server.**
-
-**Trainer:** *If no HR is in-game to handle a troller, what is the best way to contact one?*
-
-**State the answer line once everyone has finished answering, not after each LR has answered. Each LR's answer does not need to be exact.**
-
-**Trainer:** *If no HR is in-game to handle a troller, the best way to contact one would be by pinging or messaging an available one through **_the communications server_**.*
-
-**Kick any LRs who failed to get at least four out of the six questions correct. Once those who failed have been kicked, proceed to the next step below.**
-
-
 ### Passing LRs
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations to everyone who passed the Trivia Test! You have each completed all tests, meaning we can now conclude this training.*
+**Trainer:** *Congratulations to everyone who passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
 
 **Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
 
