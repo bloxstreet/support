@@ -268,7 +268,7 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *We will now begin this test. I will approach each of you individually. When I do, be sure to state your greeting.*
 
-**Wait for the LR to state their greeting. Begin the test once they do.**
+**Approach the first LR. Wait for the LR to state their greeting. Begin the test once they do.**
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
