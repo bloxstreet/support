@@ -162,7 +162,7 @@ For the Grammar/Greeting Test, trainers must explain how this test works. Make s
 {: .text-purple-100 }
 {: .no_toc }
 
-The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the handto system.
+The next part of training is the Cafe Test. In this test, LRs will be asked to prepare an order. LRs must utilize understandable grammar in this test. Ensure that LRs are aware of how the slush machine works and that it has two flavors that can be selected with a cold cup. If an LR gets the wrong drink during the Cafe Test, the trainer should repeat the order and request the drink again. If the LR still brings the incorrect drink, state the fail prompt and kick them from the server with the reason "Failed." For this test, LRs should use the CafePOS system.
 
 ### Register Test
 {: .text-purple-100 }
@@ -259,9 +259,13 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:** *To dispense a slush, simply place the COLD CUP under the desired flavor.*
 
-**Trainer:** *To use the handto system, click the H key if you are on a PC. The handto system is also used for handing medicine and sandwiches.*
+**Trainer:** *To use the CafePOS system, scan your Staff Card on the screen to sign in.*
 
-**Trainer:** *If you are on mobile, click the button on the left side of your screen to begin the process.*
+**Trainer:** *Once signed in, scan any items the customer has ordered, and click "Finish Transaction". The customer will be required to tap their Cash Card on the reader.*
+
+**Trainer:** *If the payment is declined, inform the customer you cannot serve them as they cannot afford what they ordered. You can remove items from the order or press "Void Transaction" to clear them all."
+
+**Trainer:** *Remember to sign out once you're done, never leave a terminal signed in.*
 
 **Trainer:** *Now that you’ve seen how to make drinks, it’s time for you to have a turn. Remember to use your greeting. If you need assistance in this test, you are welcome to ask me.*
 
