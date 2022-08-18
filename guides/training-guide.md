@@ -209,7 +209,7 @@ At this point, all LRs must respond. If they reply with a positive answer, imply
 
 **This test takes place at the cafe counter.**
 
-At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Greeting Test** above to learn how to perform it. 
+At this point, the Grammar/Greeting Test will begin. Read [this section](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test) to learn how to perform it. 
 
 **Trainer:** *We will start this training with the Grammar/Greeting Test.*
 
@@ -272,7 +272,7 @@ At this point, the Grammar/Greeting Test will begin. Read Section **Grammar/Gree
 
 **Trainer:**  *Hi! Could I get a Regular Coffee and a Cherry Slush?*
 
-**Assist the LR as needed. Follow the procedure under ‘Cafe Test’ if an LR gives the wrong order.**
+**Assist the LR as needed. Follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#cafe-test) if an LR gives the wrong order.**
 
 **_If they pass, proceed to the next LR. If they fail, use the line below._**
 
