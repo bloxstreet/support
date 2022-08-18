@@ -22,7 +22,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 ## Training Information
 {: .text-red-300 }
 
-Trainings may only be hosted at the following times:
+Training sessions may only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
@@ -36,15 +36,15 @@ Trainings may only be hosted at the following times:
 | 11 PM EST           |
 
 
-* Hosting at any other time is prohibited and will result in the appropriate disciplinary actions.
-* Hosts should not be in the Training Center until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, the training host should use the GUI to set themself as the host. 
-* Trainers will answer any inquiries from LRs once teleportation has been completed.
-* Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
-* Hosts are required to select a trusted HR to announce training at the store. The announcer should announce the training session in **all** large servers of the store.
+Hosting at any other time is prohibited and will result in the appropriate disciplinary actions.
+
+## Training Behavior and Information
+{: .text-red-300 }
+
 * Trainers should not rush through the script. Allow LRs to have time to read the information being provided to them. 
-* Trainers and hosts should not be chatting or joking around with each other during the training session and before LRs join. 
-* If trainers and hosts need to chat, they should do so in the communications server, not in-game.
-* Each LR may only go AFK for up to three minutes. Each LR may only go AFK up to two times per training session.
+* MRs and HRs should avoid chatting while in-game. Do so through the communications server.
+* Behaving unprofessionally in any way will lead to a dismissal from the session and possible punishments.
+* LRs are welcome to go AFK for three minutes if they inform their assigned trainer. LRs may only go AFK twice per session.
 
 ## Rank Information
 {: .text-red-300 }
@@ -52,10 +52,11 @@ Below is an overview of each rank's job at training sessions.
 
 | Job        | Description          | Eligible Ranks | Quantity | 
 |:-------------|:------------------|:------|:-------------------|
-| Host | The Host is responsible for leading the training session and stating the introduction. The Host is also responsible for claiming the training session, asking trainers if they have the correct version of the guide, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** Host per training |
-| Co-Host | The Co-Host is responsible for helping lead the training session. The Co-Host is also responsible for doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** Co-Host per training - an Executive Assistant+ may choose to host by themselves |
-| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. Rankers are also responsible for running the :info command on each LR and ensuring that they have been ranked successfully. | Executive Assistant+ | **2-3** Rankers per training
-| Trainer           | Trainers follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. | Store Manager+ | Maximum of **20 trainers** (1 trainer per counter)  |
+| Host | The Host should join the Training Center at :35 and claim the session using the GUI at :45. The Host is responsible for leading the training session, stating the introduction, asking trainers if they have the correct version of the guide, whitelisting trainers while teleporting LRs, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+ | **1** host per training |
+| Co-Host | The Co-Host should join the Training Center at :35. The Co-Host is responsible for helping lead the training session, doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** co-host per training - an Executive Assistant+ may choose to host by themselves |
+| Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. Rankers should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. Rankers are also responsible for running the :info command on each LR and ensuring that they have been ranked successfully. | Executive Assistant+ | **2-3** rankers per training
+| Announcer | Announcers are responsible for announcing the training session in all large servers of the store. | Store Director+ | **1** announcer per training
+| Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests to their LRs and determine whether they pass based on the criteria mentioned below. They should also answer any inquiries from LRs once the teleportation process has finished. | Store Manager+ | Maximum of **20 trainers** (1 trainer per counter)  |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
 | Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
 
