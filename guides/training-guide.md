@@ -58,7 +58,7 @@ Below is an overview of each rank's job at training sessions.
 | Announcer | The announcer is responsible for announcing the training session in all large servers of the store. | Store Director+ | **1** announcer per training
 | Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria mentioned below. They should also answer any inquiries from LRs once the teleportation process has finished. | Store Manager+ | Maximum of **20 trainers** (1 trainer per counter)  |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
-| Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ (If a spectator arrives, they cannot be turned down by the Host or Co-Host) | No maximum | 
+| Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ | No maximum | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
 {: .text-yellow-200 }
