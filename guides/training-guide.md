@@ -115,24 +115,22 @@ To begin the presentation, the Host must click the 'Host Settings' button at the
 {: .text-yellow-200 }
 {: .no_toc }
 
-Once the presentation concludes, LRs are required to remain silent for the host’s instructions.
+Once the presentation concludes, LRs are required to remain silent for the Host’s instructions.
 
 **Host:** *Thank you for paying attention during the presentation. You will now receive further instructions about this training.*
 
-**LRs will continue standing on the red lines after the presentation has concluded.**
+**LRs should continue standing on the red lines after the presentation has concluded.**
 
 **Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
-**At this point, the Host will teleport four LRs to each trainer. Try to keep an eye on where the LRs are to ensure you do not teleport someone currently being trained.**
-
-**Anybody who decides to idle during training should be kicked.**
+**At this point, the Host must head inside the training room and teleport four LRs to each trainer.**
 
 
 ## Trainer Scripts
 {: .text-red-300 }
-This section will outline each of the tests the trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed. If all LRs disconnect or fail the training session, leave the server immediately. There is no need to notify the Host or Co-Host. 
+This section will outline each of the tests trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed. If all LRs disconnect or fail the training session, the trainer should leave the server immediately without informing the Host or Co-Host. 
 
 
 ### Grammar/Greeting Test
