@@ -14,17 +14,15 @@ nav_order: 3
 1. TOC
 {:toc}
 
-This guide is intended for Store Manager+. 
-
 The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when training Low Ranks. 
 
-* The text in *italic* is meant for trainers to say in-game. 
-* The text in **bold** or normal are instructions of what trainers should do during training sessions. 
+* The text in *italics* is meant for trainers to say in-game. 
+* The text in **bold** are instructions of what trainers should do during training sessions. 
 
 ## Training Information
 {: .text-red-300 }
 
-Trainings can only be hosted at the following times:
+Trainings may only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
