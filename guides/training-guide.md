@@ -108,7 +108,7 @@ At :00 (0 minutes prior to the commencement), the Host should type **/e :slock**
 
 To begin the presentation, the Host must click the 'Host Settings' button at the bottom left corner of their screen. After doing so, the Host should click the 'Begin' button. If the 'Host Settings' button does not appear on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once.
 
-**Host:** The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.
+**Host:** *The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.*
 
 
 ### Host and Co-Host: After Presentation
