@@ -106,9 +106,7 @@ At :00 (0 minutes prior to the commencement), the Host should type **/e :slock**
 
 **Co-Host:** *Please note that speaking or distracting others is prohibited during this time, and you will be removed from the server if caught doing so.* 
 
-The host and co-host will stand and monitor the LRs and the presentation to ensure everything runs smoothly.
-
-To begin the presentation, the Host must press the “Host Settings” button at the bottom left corner of their screen, and then press the button that says ‘Begin’. **If the “Host Settings” button is not appearing on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once.**
+To begin the presentation, the Host must click the 'Host Settings' button at the bottom left corner of their screen. After doing so, the Host should click the 'Begin' button. If the 'Host Settings' button does not appear on the bottom left corner, the Host should rejoin immediately. The slideshow can only be played once.
 
 **Host:** The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.
 
