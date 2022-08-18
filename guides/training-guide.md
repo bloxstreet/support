@@ -36,8 +36,6 @@ Training sessions may only be hosted at the following times:
 | 11 PM EST           |
 
 
-Hosting at any other time is prohibited and will result in the appropriate disciplinary actions.
-
 ## Training Behavior and Information
 {: .text-red-300 }
 
