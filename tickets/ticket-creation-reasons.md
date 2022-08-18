@@ -30,7 +30,7 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | 
 | Abuse of the warning, kick, or ban systems | 
 | Advertising in-game - STAFF MEMBERS |
-| Alternate account of a server banned, blacklisted, or permanently banned player |
+| Alternate account of a blacklisted or permanently banned player |
 | Announcement abuse | 
 | Bypassing or attempting to bypass | 
 | Claiming a rank after a blacklist/permanent ban appeal is accepted |
