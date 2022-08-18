@@ -75,7 +75,7 @@ At :35 (25 minutes prior to the commencement of the session), the Host and Co-Ho
 
 At :45 (15 minutes prior to the commencement), the Host should claim the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the store in all large servers. Furthermore, the Host or Co-Host must ask trainers to state two lines from the Cafe Test to ensure they have access to the updated version of the guide.
 
-**_Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties._** 
+**Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties.** 
 
 
 ### Host and Co-Host: After Claiming
@@ -119,13 +119,13 @@ Once the presentation concludes, LRs are required to remain silent for the Hostâ
 
 **Host:** *Thank you for paying attention during the presentation. You will now receive further instructions about this training.*
 
-**LRs should continue standing on the red lines after the presentation has concluded.**
+LRs should continue standing on the red lines after the presentation has concluded.
 
 **Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
-**At this point, the Host must head inside the training room and teleport four LRs to each trainer.**
+At this point, the Host must head inside the training room and teleport four LRs to each trainer.
 
 
 ## Trainer Scripts
