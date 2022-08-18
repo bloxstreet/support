@@ -16,16 +16,13 @@ nav_order: 3
 
 This guide is intended for Store Manager+. 
 
-The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when teaching Low Ranks. 
+The purpose of this guide is to teach Store Manager+ what to do at training sessions and what to say when training Low Ranks. 
 
 * The text in *italic* is meant for trainers to say in-game. 
-  * (Copy and paste in-game).
 * The text in **bold** or normal are instructions of what trainers should do during training sessions. 
-  * (**Do not** copy and paste in-game).
 
 ## Training Information
 {: .text-red-300 }
-Before hosting a training session, consider the following information. Interested in knowing how to host a BloxStreet training? Watch [this video](https://vimeo.com/731831175).
 
 Trainings can only be hosted at the following times:
 
