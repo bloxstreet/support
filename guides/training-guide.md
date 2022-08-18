@@ -63,11 +63,11 @@ Below is an overview of each rank's job at training sessions.
 {: .no_toc }
 (Customer, Allied Representative, Noted Customer, Management Intern, Team Leader, Store Supervisor, Assistant Manager)
 
-## Host Scripts
+## Host and Co-Host Scripts
 {: .text-red-300 }
-This section outlines the duties the Host has and what they should say.
+This section outlines the duties the Host and Co-Host have and what they should say.
 
-### Host: Claiming
+### Host and Co-Host: Claiming
 {: .text-yellow-200 }
 {: .no_toc }
 
@@ -78,7 +78,7 @@ At :45 (15 minutes prior to the commencement), the Host should claim the session
 **_Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties._** 
 
 
-### Host: After Claiming
+### Host and Co-Host: After Claiming
 {: .text-yellow-200 }
 {: .no_toc }
 
@@ -90,7 +90,7 @@ At this point, the Host and Co-Host should stand on their designated line. As LR
 
 The Host should say the line above at :57. 
 
-### Host/Co-Host: Training Starts
+### Host and Co-Host: Training Commences
 {: .text-yellow-200 }
 {: .no_toc }
 
@@ -113,7 +113,7 @@ To begin the presentation, the Host must press the “Host Settings” button at
 **Host:** The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.
 
 
-### Host/Co-Host: After Presentation
+### Host and Co-Host: After Presentation
 {: .text-yellow-200 }
 {: .no_toc }
 
