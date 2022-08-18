@@ -130,7 +130,7 @@ Once the presentation concludes, LRs are required to remain silent for the Hostâ
 
 ## Trainer Scripts
 {: .text-red-300 }
-This section will outline each of the tests trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer is going at an average pace. When the LR returns from being AFK, the trainer should summarize the topic(s) that were covered. Additionally, the trainer should conduct the test(s) missed. If all LRs disconnect or fail the training session, the trainer should leave the server immediately without informing the Host or Co-Host. 
+This section will outline each of the tests trainers are expected to perform. If an LR has to go AFK, the trainer should not wait for them to return. The AFK limit is three minutes, meaning the LR should not miss too much if the trainer goes at an average pace. When the LR returns from being AFK, the trainer should summarize the topics that were covered. Additionally, the trainer should conduct any tests missed. If all LRs disconnect or fail the training session, the trainer should leave the server immediately without informing the Host or Co-Host. 
 
 
 ### Grammar/Greeting Test
@@ -161,7 +161,7 @@ If the group of LRs pass, the trainer should use the :ff command on them, and ta
 {: .text-blue-000 }
 {: .no_toc }
 
-This section will provide trainers with the training script. Do not modify this script. The use of emojis is permitted.
+This section will provide trainers with the training script. Trainers may not modify this script. The use of emojis is permitted.
 
 **The introduction takes place at the cafe counter.**
 
@@ -183,7 +183,7 @@ This section will provide trainers with the training script. Do not modify this 
 
 **Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
 
-At this point, all LRs must respond. If they reply with a positive answer, implying that they are ready to proceed, move on. If not, answer any questions they may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down. 
+At this point, all LRs must respond. If they reply with a positive answer, proceed. If not, answer any questions LRs may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down. 
 
 ### Grammar / Greeting Test Script
 {: .text-blue-000 }
@@ -205,7 +205,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Wait for all LRs to state their greetings.** 
 
-**_If their greetings are understandable, pass them. Do not be strict. If they lack understandable grammar, use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure under 'Grammar/Greeting Test.'_**
+**If their greetings are understandable, pass them. Trainers should not be strict. If one lacks understandable grammar, use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test).**
 
 **Trainer:** *Unfortunately, you have failed this training session due to a lack of understandable grammar in your greeting. You are always welcome to attend another session.*
 
@@ -256,7 +256,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Assist the LR as needed. Follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#cafe-test) if an LR gives the wrong order.**
 
-**_If they pass, proceed to the next LR. If they fail, use the line below._**
+**If they pass, proceed to the next LR. If they fail, use the line below.**
 
 **Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
@@ -284,10 +284,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:** *Is everyone here ready to begin the test? A response from every LR is mandatory.*
 
-**_THE REGISTERS IN THE TRAINING CENTER WORK!_** 
-{: .text-red-100 }
-If they say yes, begin. If they say no, answer any questions until they are ready. Note that trainers have a right to proceed if the questions are slowing the group down.
-
+If all LRs say yes, begin. If they say no, answer any questions until they are ready. Note that trainers have a right to proceed if the questions are slowing the group down.
 
 **Note: This part is the in-test script.**
 
@@ -295,9 +292,9 @@ If they say yes, begin. If they say no, answer any questions until they are read
 
 **Wait for them to say.** *Thank you!*
 
-**_If an LR claims their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If not, have them roleplay the simulation. Trainers may not fail their LRs if the register is not functioning properly._**
+**If an LR claims their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If not, have them roleplay the simulation. Trainers may not fail their LRs if the register is not functioning properly.**
 
-**_If they pass, proceed. If they fail, use the line below._**
+**If they pass, proceed. If they fail, use the line below.**
 
 **Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
 
