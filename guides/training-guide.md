@@ -38,7 +38,6 @@ Trainings may only be hosted at the following times:
 
 * Hosting at any other time is prohibited and will result in the appropriate disciplinary actions.
 * Hosts should not be in the Training Center until :35. Trainers (Store Managers and HRs) should not join until the session has been claimed by the host. When in-game, the training host should use the GUI to set themself as the host. 
-    - **If an HR goes into the training game and claims Host powers, and they are not the scheduled host, they will receive consequences for hosting an unofficial training session.** 
 * Trainers will answer any inquiries from LRs once teleportation has been completed.
 * Once the host claims using the GUI, all trainers are required to go inside the Training Center and find an available counter. Low Ranks should enter the building and stand on the red lines.
 * Hosts are required to select a trusted HR to announce training at the store. The announcer should announce the training session in **all** large servers of the store.
