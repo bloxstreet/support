@@ -19,7 +19,7 @@ The purpose of this guide is to teach Store Manager+ what to do at training sess
 * The text in *italics* is meant for trainers to say in-game. 
 * The text in **bold** are instructions of what trainers should do during training sessions. 
 
-## Training Information
+## Training Session Times
 {: .text-red-300 }
 
 Training sessions may only be hosted at the following times:
