@@ -69,11 +69,6 @@ Yes, reformed HRs can obtain an MR rank through points as long as they have not 
 {: .no_toc }
 No, resigned HRs may not claim a different HR rank with new points. Doing so will result in a permanent ban.
 
-### Can Store Directors obtain Board of Directors through points?
-{: .text-red-300 }
-{: .no_toc }
-No, Store Directors may not obtain Board of Directors through points. Doing so will result in a demotion back to Store Director.
-
 ### If Executive Assistant or Store Executive go on-sale, may players redeem either one?
 {: .text-red-300 }
 {: .no_toc }
