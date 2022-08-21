@@ -106,7 +106,6 @@ Some things to note:
 | Announcement abuse | Verbal warning or a blacklist - depending on the severity | High Ranks |
 | Failure to attend an assigned shift or training session without informing an SHR beforehand | One warning if repetitive - reviewed on a case-by-case basis | High Ranks |
 | Failure to take training attendance or submitting it 6+ hours after a session commences | One warning if repetitive - reviewed on a case-by-case basis | High Ranks |
-| Claiming Board of Directors after claiming Store Director | Demotion to Store Director | High Ranks
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Abusing the group shout | Permanent ban | High Ranks |
