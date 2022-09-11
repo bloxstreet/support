@@ -140,7 +140,7 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 Spills will randomly appear around the store. When customers leave litter, it is up to BloxStreet's staff to ensure the store is appealing and welcoming for new visitors.
 
-**Step 1:** Grab a mop from the staff room. In order to do so, walk up to the mop stand, hold 'E' (or touch on mobile), and a mop will appear in the player's inventory.
+**Step 1:** Grab a mop from the staff room, cafe, or pharmacy. In order to do so, walk up to the mop stand, hold 'E' (or touch on mobile), and a mop will appear in the player's inventory.
 
 **Step 2:** Walk up to a spill with the mop equipped. Hold 'E' (or touch on mobile) to clean the spill.
 
@@ -154,7 +154,7 @@ Items around the store will randomly go out of stock. It is our staff's responsi
 
 **Step 1:** Find an empty shelf that needs to be restocked.
 
-**Step 2:** Grab a box from the staff room or from the three restocking carts located near the shelves.
+**Step 2:** Grab a box from one of the two restocking carts located near the shelves.
 
 **Step 3:** Head back to the empty shelf.
 
