@@ -31,7 +31,7 @@ Trainee Team Member is the fourth rank at BloxStreet, and it is considered an **
 ### **Junior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
-Junior Team Member is the fifth rank at BloxStreet, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. They are allowed to work at all store departments, help restock empty shelves, and clean spills. Additionally, Junior Team Member+ may work as security by purchasing cuffs for 600 Robux. In order to receive a promotion, Junior Team Members must attend and pass another training session.
+Junior Team Member is the fifth rank at BloxStreet, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. They are allowed to work at all store departments, help restock empty shelves, and clean spills. Additionally, Junior Team Member+ may work as security by purchasing cuffs for 500 Robux. In order to receive a promotion, Junior Team Members must attend and pass another training session.
 
 ### **Senior Team Member**
 {: .text-yellow-300 }
