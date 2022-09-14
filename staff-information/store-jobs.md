@@ -123,7 +123,7 @@ The cafe is one of the many store departments. Customers can come here to relax 
 {:.text-blue-000}
 {: .no_toc }
 
-**Step 1:** Upon joining the server, head over to the security uniform. Wear the uniform by stepping on the rectangle below it. Equip the cuffs by pressing and holding the 'E' key (or touch on mobile). IMPORTANT: Players may only work as security if they have access to cuffs. Junior Team Member+ may purchase cuffs for 600 Robux. 
+**Step 1:** Upon joining the server, head over to the security uniform. Wear the uniform by stepping on the rectangle below it. Equip the cuffs by pressing and holding the 'E' key (or touch on mobile). IMPORTANT: Players may only work as security if they have access to cuffs. Junior Team Member+ may purchase cuffs for 500 Robux. 
 
 **Step 2:** Security staff members can cuff players who steal items from the store. If a player is found stealing an item, equip the cuffs and click on the player. After doing so, select the 'Stealing' option. Doing so will send the player to the jail. IMPORTANT: Players may not cuff trollers. Instead, contact an HR through the communications server.
 
