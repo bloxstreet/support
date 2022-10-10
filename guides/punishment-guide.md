@@ -35,6 +35,7 @@ Some things to note:
 | Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Disrespecting others | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
+| Inciting a raid | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Trolling | Server ban | Everyone |
 | Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
@@ -45,7 +46,6 @@ Some things to note:
 | Homophobia | Permanent ban | Everyone |
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Inappropriate behavior or roleplay | Permanent ban | Everyone |
-| Inciting a raid | Permanent ban | Everyone |
 | Joking about serious topics | Permanent ban | Everyone | 
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
@@ -93,8 +93,8 @@ Some things to note:
 | Lack of grammar | 3 verbal warnings and then a demotion one rank down | Team Leader - Store Manager |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Blacklist | Store Supervisor+ |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
-| Abusing the warning/kick system | Blacklist | Store Supervisor+ |
 | Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
+| Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
 | Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
 
 ## HR+ Punishments
