@@ -26,10 +26,9 @@ Training sessions may only be hosted at the following times:
 
 | Training Times     | 
 |:-------------|
-| 6 AM EST           |
+| 6 AM EST - weekends only           |
 | 10 AM EST            | 
 | 12 PM EST           | 
-| 2 PM EST           | 
 | 4 PM EST           | 
 | 7 PM EST          |
 | 9 PM EST           |
