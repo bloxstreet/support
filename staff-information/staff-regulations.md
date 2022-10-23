@@ -6,13 +6,14 @@ nav_order: 1
 ---
 
 # Staff Regulations 
-Here you will find all regulations for staff members in-game and in the communications server.
+Staff members at BloxStreet are required to abide by certain regulations in order to enhance the shopping experience for our customers. Below is a list of conduct regulations all staff members are expected to comply with. Failure to follow the regulations below will result in consequences. Keep in mind that the rules below are only a portion of the many guidelines staff members are expected to follow. Refer to the Punishment Guide for more information regarding consequences of specific offenses.
 
-## Rules
+## Uniform Regulations
 {: .text-red-300 } 
-- All staff members must abide by the regulations in [#rules & info](https://discord.gg/bloxstreet)
-- All staff need to wear their uniform while at the store and when on-duty.
-- All staff need to use grammar at all times, even when off-duty.
+All staff members are required to wear an official BloxStreet uniform while on duty. Staff members may equip a uniform by interacting with a locker and selecting their desired uniform.
+Refusal to wear a uniform will result in consequences.
+BloxStreet merchandise from the group’s store IS acceptable as long as the uniform is up to date. Uniforms with a Target logo are considered outdated.
+The Cafe/Pharmacy uniform may only be worn at the cafe and pharmacy.
  
  | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
