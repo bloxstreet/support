@@ -8,7 +8,7 @@ nav_order: 1
 # Staff Regulations 
 Staff members at BloxStreet are required to abide by certain regulations in order to enhance the shopping experience for our customers. Below is a list of conduct regulations all staff members are expected to comply with. Failure to follow the regulations below will result in consequences. Keep in mind that the rules below are only a portion of the many guidelines staff members are expected to follow. Refer to the Punishment Guide for more information regarding consequences of specific offenses.
 
-## Uniform Regulations
+## Uniforms
 {: .text-red-300 } 
 
 All staff members are required to wear an official BloxStreet uniform while on duty. Staff members may equip a uniform by interacting with a locker and selecting their desired uniform.
@@ -25,18 +25,34 @@ All staff members are required to wear an official BloxStreet uniform while on d
 | Team Leader - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 | Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
 
-* Abusing admin, the staff panel, or any permissions will result in consequences. Refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html) for details. 
-* Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games. Behaving unprofessionally reflects badly on our group. We don't want to be known as a group that behaves unprofessionally.
-* Please remember to **work** while at the store. Messing around looks bad, and also leads to an increase in unsatisfied guests. Staff members who mess around at the store will not be promoted.
-* For hosting shifts and trainings:
-  *  **Board of Directors+ can host training sessions**
-  *  **Store Manager+ can train at training sessions**
-  *  **Store Director+ can host shifts**
-  *  **Board of Directors+ can supervise the store**
-* Please respect all decisions made by SHRs.
-* Do not instigate drama. If you have an issue with a fellow staff member, please report it to a Junior Moderator+. Keep all personal drama **OUT** of the staff team.
-* Do not make unnecessary announcements with the announcement feature on the staff panel.
-* Don't intervene with Junior Moderator+ moderation. We know what we're doing, and minimods are not needed nor appreciated.
-* Hinting for a promotion for yourself or another staff member is prohibited.
-* Simping for Junior Moderator+ will not be tolerated. Please don't suck up to Junior Moderator+ staff for promotions.
-* Don't try to find ways to avoid these rules. Use common sense at all times.
+## In-Game Conduct
+{: .text-red-300 } 
+
+  *  Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games, both on and off duty. Behaving unprofessionally reflects badly on our the group. We don’t want to be known as a group that behaves unprofessionally.
+
+  *  LRs and MRs are to be working while at the store. Staff members who mess around at the store will receive consequences. If a staff member wishes to converse with others and/or take a break from their general duties, they should go off duty.
+
+  *  Players who choose to act unprofessionally while off duty will be subject to the same consequences one would receive while on duty.
+
+  *  Staff members may NOT go idle in the middle of the store. If a staff member wishes to go idle, they may go to the staff room.
+
+  *  LRs and MRs may NOT interact with trollers; instead, consult with an HR official, as they are trained to handle certain situations.
+
+  *  Staff members are expected to comply with orders issued by an HR+ official. Failure to comply with certain orders will result in consequences.
+
+  *  Abusing admin, the warning system, cuffs, or any permissions will result in consequences.
+
+
+## General Conduct
+{: .text-red-300 } 
+
+  *  Respect all decisions made by SHRs. If a player has a question or concern regarding a decision made by a Senior High Rank, they may consult with one through a ticket.
+
+  *  Do not instigate drama, regardless of whether the other player is at fault. If a player has an issue with a fellow staff member, please report it to a Junior Moderator+. Keep all personal drama OUT of the staff team.
+
+  *  Administrative action is FINAL. Any questions or concerns regarding administrative action inflicted upon a player should be directed through a TICKET. Complaining about administrative action will only lead to further consequences.
+
+  *  Staff members are expected to remain professional at both affiliated and non-affiliated establishments. Failure to do so will result in consequences.
+
+  *  Professionalism must be maintained to a certain degree within the communications server. Staff members are more than welcome to converse with one another, but all topics must be appropriate and within reason.
+
