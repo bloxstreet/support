@@ -10,6 +10,7 @@ Staff members at BloxStreet are required to abide by certain regulations in orde
 
 ## Uniform Regulations
 {: .text-red-300 } 
+
 All staff members are required to wear an official BloxStreet uniform while on duty. Staff members may equip a uniform by interacting with a locker and selecting their desired uniform.
 Refusal to wear a uniform will result in consequences.
 BloxStreet merchandise from the group’s store IS acceptable as long as the uniform is up to date. Uniforms with a Target logo are considered outdated.
