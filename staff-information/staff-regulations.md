@@ -17,8 +17,7 @@ All staff members are required to wear an official BloxStreet uniform while on d
   *  Refusal to wear a uniform will result in consequences.
   *  BloxStreet merchandise from the group’s store IS acceptable as long as the uniform is up to date. 
   *  Uniforms with a Target logo are considered outdated.
-  *  The Cafe/Pharmacy uniform may only be worn at the cafe and pharmacy.
- 
+
  | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge | 
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
 | Trainee Team Member - Management Intern  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
