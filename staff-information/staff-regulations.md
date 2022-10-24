@@ -27,7 +27,7 @@ All staff members are required to wear an official BloxStreet uniform while on d
 ## In-Game Conduct
 {: .text-red-300 } 
 
-  *  Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games, both on and off duty. Behaving unprofessionally reflects badly on our the group. We don’t want to be known as a group that behaves unprofessionally.
+  *  Professionalism is required while in public eye. Team Leader+ should utilize proper grammar in all BloxStreet games, both on and off duty. Behaving unprofessionally reflects badly on the group.
   *  LRs and MRs are to be working while at the store. Staff members who mess around at the store will receive consequences. If a staff member wishes to converse with others and/or take a break from their general duties, they should go off duty.
   *  Players who choose to act unprofessionally while off duty will be subject to the same consequences one would receive while on duty.
   *  Staff members may NOT go idle in the middle of the store. If a staff member wishes to go idle, they may respawn into the staff room by resetting their character.
