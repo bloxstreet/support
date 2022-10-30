@@ -53,7 +53,6 @@ Some things to note:
 | Racism | Permanent ban | Everyone |
 | Raiding | Permanent ban | Everyone |
 | Sexism | Permanent ban | Everyone |
-| Spreading false rumors | Permanent ban | Everyone |
 | Suicidal thoughts | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
 
@@ -65,7 +64,7 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Faking a resignation | Verbal warning | Staff |
 | Wearing the incorrect uniform | Verbal warning | Staff |
-| Hinting for a promotion | Demotion one rank down with no verbal warning | Staff |
+| Hinting for/complaining about a promotion | Demotion one rank down with no verbal warning | Staff |
 | Crowding or refusing to disperse | Demotion to Customer | Staff |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Advertising in-game | Blacklist | Staff |
