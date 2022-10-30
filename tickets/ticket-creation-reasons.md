@@ -65,7 +65,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Refusing to wear the correct uniform |
 | Sexism |
 | Simping for a higher rank | 
-| Spreading false rumors | 
 | Suicidal thoughts |
 | Trolling or behaving unprofessionally on an alternate account |
 | Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
