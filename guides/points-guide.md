@@ -24,7 +24,7 @@ BloxStreet provides players with an alternative to ranking up, which is through 
 * Claiming a rank through the points system will decrease a player’s chances of future promotions. The higher the rank purchased, the lower the chances of a promotion will be. SHRs encourage players to work their way up through hard work and dedication instead.
 * Players must abide by all rules and regulations, regardless of whether they purchased a rank or not. Those who fail to abide by all guidelines will be subject to the same moderation action as everyone else, including demotions, blacklists, and permanent bans.
 
-## Clarifications/Regulations
+## Points Clarifications/Regulations
 {: .text-red-300 }
 
 * Reclaiming ranks is prohibited and will result in a permanent ban, regardless of whether it is claimed with old or new points. However, players are permitted to reuse points to claim a rank they have not claimed previously.
