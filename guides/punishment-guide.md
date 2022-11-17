@@ -53,7 +53,7 @@ Some things to note:
 | Racism | Permanent ban | Everyone |
 | Raiding | Permanent ban | Everyone |
 | Sexism | Permanent ban | Everyone |
-| Suicidal thoughts | Permanent ban | Everyone |
+| Encouragement of suicide or self-harm | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
 
 
