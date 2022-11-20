@@ -97,7 +97,7 @@ BloxStreet does not offer refunds for any purchases. Prior to purchasing any of 
 ### Where can I report bugs and provide suggestions? 
 {: .text-red-300 }
 {: .no_toc }
-In order to report bugs and provide suggestions, visit [this website](https://feedback.bloxstreet.store/).
+In order to report bugs and provide suggestions, visit [this link](https://discord.com/channels/323081832071561216/1022266747715330099). Keep in mind that only Trainee Team Member+ may suggest features and report game bugs.
 
 ### Where can I find the format for player reports?
 {: .text-red-300 }
