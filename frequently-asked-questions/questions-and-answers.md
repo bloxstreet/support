@@ -147,12 +147,12 @@ No.
 ### What is the Public Relations Department?
 {: .text-red-300 }
 {: .no_toc }
-The Public Relations Department handles events and alliances at BloxStreet. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile), [fwauIts](https://www.roblox.com/users/72553571/profile), and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
+The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile), [fwauIts](https://www.roblox.com/users/72553571/profile), and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
 
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles appeals, reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaBaryanou](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [ryvics](https://www.roblox.com/users/376897159/profile),[arrangedlove](https://www.roblox.com/users/366227557/profile), [discentted](https://www.roblox.com/users/84690789/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) are Assistants of Staffing.
+The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaBaryanou](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [ryvics](https://www.roblox.com/users/376897159/profile),[arrangedlove](https://www.roblox.com/users/366227557/profile), [discentted](https://www.roblox.com/users/84690789/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) are Assistants of Staffing.
 
 
 
