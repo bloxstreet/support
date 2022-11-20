@@ -67,6 +67,7 @@ Some things to note:
 | Hinting for/complaining about a promotion | Demotion one rank down with no verbal warning | Staff |
 | Crowding or refusing to disperse | Demotion to Customer | Staff |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
+| Point grinding or cheating | Demotion to Customer | Staff |
 | Advertising in-game | Blacklist | Staff |
 | Cuff abuse | Blacklist | Staff |
 | Dancing/standing on elevated surfaces | Blacklist | Staff |
@@ -75,7 +76,6 @@ Some things to note:
 | Unprofessionalism | Blacklist | Staff |
 | Gossiping | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
-| Point grinding or cheating | Permanent ban | Staff |
 | Reclaiming a rank using old points after being demoted | Permanent ban | Staff |
 | Reclaiming a rank while blacklisted | Permanent ban | Staff |
 | Reclaiming the same rank more than once | Permanent ban | Staff |
