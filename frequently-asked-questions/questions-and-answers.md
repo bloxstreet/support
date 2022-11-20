@@ -59,51 +59,6 @@ Store Manager+ may train at training sessions. Board of Directors+ may host and 
 {: .no_toc }
 Players can earn one point for each successful restock and two points for each spill cleaned. Management Intern+ do not have the ability to earn points through registers at the moment. 
 
-### Can reformed HRs obtain an MR rank through points?
-{: .text-red-300 }
-{: .no_toc }
-Yes, reformed HRs can obtain an MR rank through points as long as they have not claimed the same rank in the past. However, they may not obtain another HR rank through points. Doing so will result in a permanent ban.
-
-### Can resigned HRs claim a different HR rank with new points?
-{: .text-red-300 }
-{: .no_toc }
-No, resigned HRs may not claim a different HR rank with new points. Doing so will result in a permanent ban.
-
-### If Executive Assistant or Store Executive go on-sale, may players redeem either one?
-{: .text-red-300 }
-{: .no_toc }
-If Executive Assistant or Store Executive go on-sale, players may not redeem either one.
-
-### Are players allowed to point grind or go to a small server in an attempt to earn points?
-{: .text-red-300 }
-{: .no_toc }
-No, players may not point grind or go to a small server in an attempt to earn points. Doing so will result in a permanent ban.
-
-### Are players allowed to check out their alternate accounts or friends in an attempt to earn points?
-{: .text-red-300 }
-{: .no_toc }
-No, players are not allowed to check out their alternate accounts or friends in an attempt to earn points. Doing so is considered point cheating and will result in a permanent ban.
-
-### Can points be reused?
-{: .text-red-300 }
-{: .no_toc }
-Players may reuse points. For example, if a player claims Team Leader with 1,000 points, they only need 1,000 more points to claim a 2,000-point rank. IMPORTANT: Players may NOT reuse points after moderation action has been taken (i.e.: demotions, blacklists, permanent bans).
-
-### Do players who claim another rank with points have a cooldown? For example, if a player purchases Store Manager with points, would they need to wait until their cooldown ends to claim Store Director with points?
-{: .text-red-300 }
-{: .no_toc }
-Players who plan to claim a rank with points do not have a cooldown. If a player purchases Store Manager with points, they do not need to wait until their cooldown ends to claim Store Director with points. However, they do have a cooldown if they are working their way up through promotions.
-
-### Are demoted MRs allowed to use previously-used points to claim a rank that is above the rank they were demoted from?
-{: .text-red-300 }
-{: .no_toc }
-No, demoted MRs may not use previously-used points to claim a rank that is above the rank they were demoted from. However, they are more than welcome to work their way back up or purchase completely new points to claim any rank above the rank they were demoted from.
-
-### If a player’s blacklist or permanent ban appeal is accepted, can they claim a rank through points?
-{: .text-red-300 }
-{: .no_toc }
-If a player’s blacklist or permanent ban appeal is accepted, they cannot claim a rank through points. However, they are more than welcome to work their way up through promotions.
-
 ### What happens if a player is violating an in-game rule?
 {: .text-red-300 }
 {: .no_toc }
