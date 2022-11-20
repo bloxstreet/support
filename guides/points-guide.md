@@ -34,10 +34,10 @@ BloxStreet provides players with an alternative to ranking up, which is through 
 * Formerly blacklisted/permanently banned players are NOT permitted to use the point system if their appeal has been accepted. Doing so will result in consequences, regardless of whether the player was aware or not.
 * Players who are blacklisted may NOT use the point system until their appeal is accepted. Doing so will result in a permanent ban.
 * If Executive Assistant and/or Store Executive go on sale, players may NOT claim those respective ranks. Doing so will result in consequences.
-* Players may NOT partake in any act of point cheating/grinding. Doing so will result in a permanent ban. Examples of point cheating/grinding include but are not limited to:
+* Players may NOT partake in any act of point cheating/grinding. Doing so will result in a demotion to Customer. Examples of point cheating/grinding include but are not limited to:
 
   * Assisting an alternate account in an attempt to farm points
-  * Joining a small/private server in an attempt to grind tasks
+  * Joining a small server in an attempt to grind tasks
   * Taking items off of a shelf and restocking them shortly after
   * Completing tasks when simply unnecessary (ie: running around the store and waiting until a shelf is empty)
 
