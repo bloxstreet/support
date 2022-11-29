@@ -82,7 +82,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Trolling Guests/Customers - contact an available HR |
 | Urgent in-game or group issues - contact an available HR | 
 | Disrespecting, arguing, or ignoring an HR - contact an available Executive Assistant+ |
-| Lack of grammar for MR ranks - contact an available Executive Assistant+ | 
 | LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
 | MRs failing to hide TSA commands - contact an available Executive Assistant+ | 
 | Using :view on an SHR - for MRs - contact an available Executive Assistant+ |
