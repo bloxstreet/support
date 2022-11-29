@@ -33,7 +33,7 @@ Store Managers wishing to receive a promotion should remain active on all BloxSt
 {:.text-blue-000}
 {: .no_toc }
 
-> 1.   Store Managers must utilize proper grammar in all BloxStreet games.
+> 1.   Store Managers should utilize proper grammar in all BloxStreet games if they wish to be recommended for a promotion.
 > 2.   Store Managers must possess a certain number of characteristics (professionalism, maturity, respect, etc.).
 > 3.   Having past moderation history (warnings, kicks, server bans, blacklists, etc.) will significantly decrease one's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
 > 4.   Store Managers wishing to receive a promotion should remain active in the communications server. Talking in channels and attending events does help.
