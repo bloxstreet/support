@@ -169,4 +169,4 @@ Items around the store will randomly go out of stock. It is our staff's responsi
 Supervision is the process in which Board of Directors+ oversee the store to ensure all operations run smoothly.
 
 * Only **Board of Directors+** can supervise
-* Board of Directors, Executive Assistants, and Store Executives should be overseeing all store departments and answering any questions guests and staff members may have
+* Board of Directors, Executive Assistants, and Store Executives may oversee all store departments and answer any questions guests and staff members may have
