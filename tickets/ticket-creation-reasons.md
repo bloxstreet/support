@@ -29,7 +29,7 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | ------ | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | 
 | Abuse of the warning, kick, or ban systems | 
-| Advertising in-game - STAFF MEMBERS |
+| Advertising in-game - TEAM LEADER+ |
 | Alternate account of a blacklisted or permanently banned player |
 | Announcement abuse | 
 | Bypassing or attempting to bypass | 
@@ -39,7 +39,7 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Claiming Board of Directors after claiming Store Director |
 | Clarification regarding a rule that can only be answered by a Senior Administration member |
 | Cuff abuse | 
-| Dancing/standing on elevated surfaces - STAFF MEMBERS | 
+| Dancing/standing on elevated surfaces - TEAM LEADER+ | 
 | Discrimination |
 | Exploiting, hacking, or glitching | 
 | Force verification |
@@ -62,13 +62,13 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Rank transfers | 
 | Reclaiming a rank using old points after being demoted |
 | Reclaiming the same rank more than once |
-| Refusing to wear the correct uniform |
+| Refusing to wear the correct uniform - TEAM LEADER+ |
 | Sexism |
 | Simping for a higher rank | 
 | Suicidal thoughts |
 | Trolling or behaving unprofessionally on an alternate account |
-| Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBERS |
-| Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANKS+ | 
+| Trolling, spamming, capitals abuse, or unprofessionalism - TEAM LEADER+ |
+| Trolling/unprofessionalism at alliances or non-affiliated establishments - TEAM LEADER+ | 
 | Using :view on an SHR - HRs |
 {:.text-green-100} 
 
