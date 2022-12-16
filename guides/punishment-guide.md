@@ -62,18 +62,18 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
+| Advertising in-game | Server ban | Low Ranks |
+| Dancing/standing on elevated surfaces | Server ban | Low Ranks |
+| Refusal to wear correct uniform | Server ban | Low Ranks |
+| Trolling or spamming | Server ban | Low Ranks |
+| Unprofessionalism | Server ban | Low Ranks |
 | Faking a resignation | Verbal warning | Staff |
 | Wearing the incorrect uniform | Verbal warning | Staff |
-| Hinting for/complaining about a promotion | Demotion one rank down with no verbal warning | Staff |
-| Crowding or refusing to disperse | Demotion to Customer | Staff |
+| Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Point grinding or cheating | Demotion to Customer | Staff |
-| Advertising in-game | Blacklist | Staff |
 | Cuff abuse | Blacklist | Staff |
-| Dancing/standing on elevated surfaces | Blacklist | Staff |
-| Refusal to wear correct uniform | Blacklist | Staff |
-| Trolling or spamming | Blacklist | Staff |
-| Unprofessionalism | Blacklist | Staff |
+| Crowding or refusing to disperse | Server ban | Staff |
 | Gossiping | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
 | Reclaiming a rank using old points after being demoted | Permanent ban | Staff |
@@ -92,6 +92,11 @@ Some things to note:
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Blacklist | Store Supervisor+ |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
+| Advertising in-game | Blacklist | Team Leader+ |
+| Dancing/standing on elevated surfaces | Blacklist | Team Leader+ |
+| Refusal to wear correct uniform | Blacklist | Team Leader+ |
+| Trolling or spamming | Blacklist | Team Leader+ |
+| Unprofessionalism | Blacklist | Team Leader+ |
 | Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
 | Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
 
@@ -104,7 +109,7 @@ Some things to note:
 | Announcement abuse | Verbal warning or a blacklist - depending on the severity | High Ranks |
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
-| Abusing the group shout | Permanent ban | High Ranks |
+| Abusing the group shout | Verbal warning or permanent ban | High Ranks |
 | Claiming an HR rank after resigning or being reformed | Permanent ban | High Ranks
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Free ranking | Permanent ban | Executive Assistant+ |
