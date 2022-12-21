@@ -62,11 +62,11 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Advertising in-game | Server ban | Low Ranks |
-| Dancing/standing on elevated surfaces | Server ban | Low Ranks |
-| Refusal to wear correct uniform | Server ban | Low Ranks |
-| Trolling or spamming | Server ban | Low Ranks |
-| Unprofessionalism | Server ban | Low Ranks |
+| Advertising in-game | Server ban and a demotion to Customer | Low Ranks |
+| Dancing/standing on elevated surfaces | Server ban and a demotion to Customer | Low Ranks |
+| Refusal to wear correct uniform | Server ban and a demotion to Customer | Low Ranks |
+| Trolling or spamming | Server ban and a demotion to Customer | Low Ranks |
+| Unprofessionalism | Server ban and a demotion to Customer | Low Ranks |
 | Faking a resignation | Verbal warning | Staff |
 | Wearing the incorrect uniform | Verbal warning | Staff |
 | Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
