@@ -89,7 +89,7 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Team Leader+ |
 | Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Team Leader+ |
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Blacklist | Store Supervisor+ |
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Demotion one rank down | Store Supervisor+ |
 | Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Store Supervisor+ |
 | Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
 | Advertising in-game | Blacklist | Team Leader+ |
