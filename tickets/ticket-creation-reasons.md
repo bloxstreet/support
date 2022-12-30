@@ -36,7 +36,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Claiming a rank after a blacklist/permanent ban appeal is accepted |
 | Claiming a rank while blacklisted |
 | Claiming an HR rank after resigning or being reformed |
-| Claiming Board of Directors after claiming Store Director |
 | Clarification regarding a rule that can only be answered by a Senior Administration member |
 | Cuff abuse | 
 | Dancing/standing on elevated surfaces - TEAM LEADER+ | 
@@ -48,7 +47,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | HR reports |
 | Inappropriate avatar or username | 
 | Inappropriate roleplay or behavior | 
-| Inciting a raid |
 | Issues with redeeming points or point issues |
 | Joking about serious topics | 
 | Lack of grammar - HIGH RANKS | 
@@ -78,11 +76,11 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Unacceptable Reasons | 
 | ------ |
 | Crowding or refusing to disperse - contact an available HR |
+| LRs or MRs hinting for a promotion - contact an available HR | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Trolling Guests/Customers - contact an available HR |
 | Urgent in-game or group issues - contact an available HR | 
 | Disrespecting, arguing, or ignoring an HR - contact an available Executive Assistant+ |
-| LRs or MRs hinting for a promotion - contact an available Executive Assistant+ | 
 | MRs failing to hide TSA commands - contact an available Executive Assistant+ | 
 | Using :view on an SHR - for MRs - contact an available Executive Assistant+ |
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
