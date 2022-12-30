@@ -124,7 +124,7 @@ LRs should continue standing on the red lines after the presentation has conclud
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
-At this point, the Host must head inside the training room and teleport four LRs to each trainer.
+At this point, the Host must head inside the training room and teleport LRs to each trainer. Each trainer should receive a minimum of one LR and a maximum of four LRs.
 
 
 ## Trainer Scripts
