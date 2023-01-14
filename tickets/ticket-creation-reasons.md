@@ -54,7 +54,6 @@ Tickets are used in BloxStreet to report various punishments, request clarificat
 | Major death threats | 
 | Playing inappropriate or loud audios | 
 | Playing with ranking sticks or misusing them | 
-| Point grinding or cheating |
 | Racism |
 | Raiding |
 | Rank transfers | 
