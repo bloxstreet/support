@@ -147,7 +147,7 @@ No.
 ### What is the Public Relations Department?
 {: .text-red-300 }
 {: .no_toc }
-The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile), [fwauIts](https://www.roblox.com/users/72553571/profile), and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
+The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile) and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
 
 ### What is the Staffing Department?  
 {: .text-red-300 }
