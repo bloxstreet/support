@@ -53,7 +53,7 @@ The POS systems are located in BloxStreet's Cafe, Pharmacy, and Technology Cente
 {:.text-blue-000}
 {: .no_toc }
 
-The registers are the main job at the BloxStreet. All staff must be able to know how the registers function.
+The registers are the main job at BloxStreet. All staff must be able to know how the registers function.
 
 **Step 1:** Customers will approach the cashier with their items. Make sure to welcome them with a detailed and polite greeting.
 
