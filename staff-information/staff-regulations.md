@@ -29,9 +29,9 @@ All staff members are required to wear an official BloxStreet uniform while on d
 
   *  Professionalism is required while in public eye. Behaving unprofessionally reflects badly on our group.
   *  LRs and MRs are to be working while at the store. Staff members who mess around at the store will receive consequences. If a staff member wishes to converse with others and/or take a break from their general duties, they should go off duty.
-  *  Players who choose to act unprofessionally while off duty will be subject to the same consequences one would receive while on duty.
+  *  Staff members who choose to act unprofessionally while off duty will be subject to the same consequences one would receive while on duty.
   *  Staff members may NOT go idle in the middle of the store. If a staff member wishes to go idle, they may respawn into the staff room by resetting their character.
-  *  LRs and MRs may NOT interact with trollers; instead, consult with an HR official, as they are trained to handle certain situations.
+  *  LRs and MRs may NOT interact with trollers; instead, consult with an HR+ official, as they are trained to handle certain situations.
   *  Staff members are expected to comply with orders issued by an HR+ official. Failure to comply with certain orders will result in consequences.
   *  Abusing admin, the warning system, cuffs, or any permissions will result in consequences.
 
@@ -39,8 +39,7 @@ All staff members are required to wear an official BloxStreet uniform while on d
 {: .text-red-300 } 
 
   *  Respect all decisions made by SHRs. If a player has a question or concern regarding a decision made by a Senior High Rank, they may consult with one through a ticket.
-  *  Do not instigate drama, regardless of whether the other player is at fault. If a player has an issue with a fellow staff member,  it should be reported to a Junior Moderator+ privately. Keep all personal drama OUT of the staff team.
+  *  Do not instigate drama, regardless of whether the other player is at fault. If a player has an issue with a fellow staff member, it should be reported to a Junior Moderator+ privately. Keep all personal drama OUT of the staff team.
   *  Administrative action is FINAL. Any questions or concerns regarding administrative action inflicted upon a player should be directed through a TICKET. Complaining about administrative action will only lead to further consequences.
   *  Staff members are expected to remain professional at both affiliated and non-affiliated establishments. Failure to do so will result in consequences.
   *  Professionalism must be maintained to a certain degree within the communications server. Staff members are more than welcome to converse with one another, but all topics must be appropriate and within reason.
-
