@@ -12,6 +12,7 @@ Here, staff members can find all of BloxStreet's shift and training session time
 |:------------| 
 | 12 AM EST | 
 | 7 AM EST |
+| 9 AM EST - weekends only |
 | 11 AM EST |
 | 1 PM EST |
 | 3 PM EST |
@@ -22,6 +23,8 @@ Here, staff members can find all of BloxStreet's shift and training session time
 
 | Training Times | 
 |:------------| 
+| 2 AM EST - weekends only |
+| 4 AM EST - weekends only |
 | 6 AM EST - weekends only |
 | 10 AM EST |
 | 12 PM EST |

@@ -102,7 +102,7 @@ In order to report bugs and provide suggestions, visit [this link](https://disco
 ### Where can I find the format for player reports?
 {: .text-red-300 }
 {: .no_toc }
-The format for player reports can be found [here](https://support.bloxstreet.store/tickets/player-reports.html).
+The format for player reports can be found [here](https://support.bloxstreet.store/tickets/player-report-format.html).
 
 ### How can I create a ticket?
 {: .text-red-300 }
@@ -112,7 +112,7 @@ To create a ticket, run the command **;new (reason)** in #bot-commands.
 ### What are the acceptable and unacceptable reasons to create a ticket?
 {: .text-red-300 }
 {: .no_toc }
-The acceptable and unacceptable reasons to create a ticket can be found [here](https://support.bloxstreet.store/tickets/ticket-reports.html).
+The acceptable and unacceptable reasons to create a ticket can be found [here](https://support.bloxstreet.store/tickets/ticket-creation-reasons.html).
 
 ### How can I update my roles in the Discord server?
 {: .text-red-300 }
