@@ -22,7 +22,7 @@ BloxStreet provides players with an alternative to ranking up, which is through 
 * Lying about rank purchases or faking evidence of purchased points will result in a permanent ban.
 * Abusing rank privileges will result in consequences.
 * Claiming a rank through the points system will decrease a player’s chances of future promotions. The higher the rank purchased, the lower the chances of a promotion will be. SHRs encourage players to work their way up through hard work and dedication instead.
-* Players must abide by all rules and regulations, regardless of whether they purchased a rank or not. Those who fail to abide by all guidelines will be subject to the same moderation action as everyone else, including demotions, blacklists, and permanent bans.
+* Players must abide by all rules and regulations, regardless of whether they purchased a rank or not. Those who fail to abide by all guidelines will be subject to the same moderation actions as everyone else, including demotions, blacklists, and permanent bans.
 
 ## Points Clarifications/Regulations
 {: .text-red-300 }
