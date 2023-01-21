@@ -28,13 +28,13 @@ BloxStreet offers players with an opportunity to claim ranks through a points sy
 
 ## Reclaiming Policy
 {:.text-red-300}
-If a player has been demoted for any reason, they may not reclaim the rank they were originally demoted from. Players may also not reclaim a rank after receiving a blacklist. View our point regulations [here](https://docs.google.com/document/d/1bZDsploU3au7V0suj-SS5YB0GT3GRasvs2rZTelXazk/edit).
+If a player has been demoted for any reason, they may not reclaim the rank they were originally demoted from. Players may also not reclaim a rank after receiving a blacklist. View our point regulations [here](https://support.bloxstreet.store/guides/points-guide.html#points-clarificationsregulations).
 
 ## Strike Policy
 {:.text-red-300}
 **Please note the following:**
 {:.text-red-000}
-* Only **Junior Moderator+** can hand out strikes. 
+* Only staff members ranked **Junior Moderator+** can hand out strikes. 
 * Strikes are **permanent.** Once assigned, they cannot be removed.
 * Receiving **three** strikes results in a demotion one rank down. 
 * Reranks are not offered once administrative action has taken place. Players are more than welcome to work their way back up.
