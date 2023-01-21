@@ -31,7 +31,7 @@ Trainee Team Member is the fourth rank at BloxStreet, and it is considered an **
 ### **Junior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
-Junior Team Member is the fifth rank at BloxStreet, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. They are allowed to work at all store departments, help restock empty shelves, and clean spills. Additionally, Junior Team Member+ may work as security by purchasing cuffs for 500 Robux. In order to receive a promotion, Junior Team Members must attend and pass another training session.
+Junior Team Member is the fifth rank at BloxStreet, and it is considered an **LR** rank. Junior Team Members have attended and passed one training session. They are allowed to work at all store departments, help restock empty shelves, and clean spills. Additionally, Junior Team Member+ may work as security by purchasing cuffs for 300 Robux. In order to receive a promotion, Junior Team Members must attend and pass another training session.
 
 ### **Senior Team Member**
 {: .text-yellow-300 }
@@ -81,6 +81,6 @@ Executive Assistant is the fourteenth rank at BloxStreet, and it is considered a
 ### **Store Executive** 
 {:.text-red-300}
 {: .no_toc }
-Store Executive is the fifteenth rank at BloxStreet, and it is considered an **HR** rank. Store Executives are tasked with working at departments and/or supervising the store, ensuring all in-store operations run smoothly, banning any rule violators, restocking items,  cleaning spills, training LRs, and hosting, co-hosting, and ranking at trainings and shifts. They are also permitted to host trainings without a co-host. Store Executives receive access to Admin commands and must use them responsibly. In order to be eligible for a promotion, they must be off their three-month cooldown. Additionally, Head Moderators must unanimously agree to the promotion.
+Store Executive is the fifteenth rank at BloxStreet, and it is considered an **HR** rank. Store Executives are tasked with working at departments and/or supervising the store, ensuring all in-store operations run smoothly, banning any rule violators, restocking items, cleaning spills, training LRs, and hosting, co-hosting, and ranking at trainings and shifts. They are also permitted to host trainings without a co-host. Store Executives receive access to Admin commands and must use them responsibly. In order to be eligible for a promotion, they must be off their three-month cooldown. Additionally, Head Moderators must unanimously agree to the promotion.
 
 **SHR ranks start with Junior Moderator and end with the Group Owner. SHRs are tasked with managing BloxStreet and its daily operations.**
