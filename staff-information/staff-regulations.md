@@ -28,7 +28,7 @@ All staff members are required to wear an official BloxStreet uniform while on d
 {: .text-red-300 } 
 
   *  Professionalism is required while in public eye. Behaving unprofessionally reflects badly on our group.
-  *  LRs and MRs are to be working while at the store. Staff members who mess around at the store will receive consequences. If a staff member wishes to converse with others and/or take a break from their general duties, they should go off duty.
+  *  LRs and MRs are to work while at the store while on duty. Staff members who mess around at the store will receive consequences. If a staff member wishes to converse with others and/or take a break from their general duties, they should go off duty.
   *  Players who choose to act unprofessionally while off duty will be subject to the same consequences one would receive while on duty.
   *  Staff members may NOT go idle in the middle of the store. If a staff member wishes to go idle, they may respawn into the staff room by resetting their character.
   *  LRs and MRs may NOT interact with trollers; instead, consult with an HR official, as they are trained to handle certain situations.
