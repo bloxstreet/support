@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Staff Regulations 
-Staff members at BloxStreet are required to abide by certain regulations in order to enhance the shopping experience for our customers. Below is a list of conduct regulations all staff members are expected to comply with. Failure to follow the regulations below will result in consequences. Keep in mind that the rules below are only a portion of the many guidelines staff members are expected to follow. Refer to the Punishment Guide for more information regarding consequences of specific offenses.
+Staff members at BloxStreet are required to abide by certain regulations in order to enhance the shopping experience for our customers. Below is a list of conduct regulations all staff members are expected to comply with. Failure to follow the regulations below will result in consequences. Keep in mind that the rules below are only a portion of the many guidelines staff members are expected to follow. Refer to the Punishment Guide [here](https://support.bloxstreet.store/guides/punishment-guide.html) for more information regarding consequences of specific offenses.
 
 ## Uniforms
 {: .text-red-300 } 
