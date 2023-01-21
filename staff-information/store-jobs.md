@@ -144,7 +144,7 @@ Spills will randomly appear around the store. When customers leave litter, it is
 
 **Step 2:** Walk up to a spill with the mop equipped. Hold 'E' (or touch on mobile) to clean the spill.
 
-**Step 3:** While cleaning a spill, staff members cannot move for a period of 20 seconds. Once the spill has been cleaned, the staff member will be awarded one point.
+**Step 3:** While cleaning a spill, staff members cannot move for a period of 20 seconds. Once the spill has been cleaned, the staff member will be awarded two points.
 
 ### Restocking
 {:.text-blue-000}
