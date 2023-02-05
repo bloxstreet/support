@@ -74,7 +74,7 @@ This section outlines the duties the Host and Co-Host have and what they should 
 
 At :35 (25 minutes prior to the commencement of the session), the Host and Co-Host should arrive at the Training Center. It is both the Host and Co-Host's responsibility to ensure they are online and arrive on time.
 
-At :45 (15 minutes prior to the commencement), the Host should claim the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the store in all large servers. Furthermore, the Host or Co-Host must ask trainers to state two lines from the Cafe Test to ensure they have access to the updated version of the guide.
+At :45 (15 minutes prior to the commencement), the Host should claim the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the store in all large servers. Furthermore, the Host or Co-Host must ask trainers to state two lines from the Cafe Test to ensure they have access to the updated version of the guide The Host or Co-Host must also request trainers to state the three updated lines.
 
 **Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties.** 
 
@@ -247,7 +247,9 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:** *Be sure to sign out once you are finished. Never leave a terminal signed in.*
 
-**Trainer:** *Now that you have seen how to make drinks, it is time for you to have a turn. If you need assistance in this test, you are welcome to ask me.*
+**Trainer:** *Now that I have finished providing an explanation about our group's cafe system, please face your register.*
+
+**Once all LRs face their cafe register, state the line below.**
 
 **Trainer:** *We will now begin this test. I will approach each of you individually. When I do, be sure to state your greeting.*
 
@@ -305,6 +307,12 @@ If all LRs say yes, begin. If they say no, answer any questions until they are r
 {: .no_toc }
 
 **Trainer:** *Congratulations to everyone who passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
+
+**State the line below if there is at least one Senior Team Member remaining in your group.**
+
+**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. In order to be promoted as a Management Intern, you must attend and be recognized at a shift.*
+
+**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store's staff room.*
 
 **Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
 
