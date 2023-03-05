@@ -44,6 +44,7 @@ Some things to note:
 | Discussing inappropriate subjects | Permanent ban | Everyone |
 | Exploiting, hacking, or glitching | Permanent ban | Everyone |
 | Homophobia | Permanent ban | Everyone |
+| Impersonation | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Inappropriate behavior or roleplay | Permanent ban | Everyone |
 | Joking about serious topics | Permanent ban | Everyone | 
