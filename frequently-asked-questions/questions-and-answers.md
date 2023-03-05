@@ -117,7 +117,7 @@ The acceptable and unacceptable reasons to create a ticket can be found [here](h
 ### How can I update my roles in the Discord server?
 {: .text-red-300 }
 {: .no_toc }
-To update your roles in the Discord server, run the command **;getroles** in #bot-commands. If TSA is down, refrain from mass pinging SHRs, as they are more than likely already aware. 
+To update your roles in the Discord server, run the command **/verify** in #bot-commands. If TSA is down, refrain from mass pinging SHRs, as they are more than likely already aware. 
 
 ### TSA is currently not functional. Where can I find the status of all TSA services?
 {: .text-red-300 }
@@ -127,7 +127,7 @@ The status of all TSA services can be found [here](https://status.bloxstreet.sto
 ### How can I get unblacklisted or unbanned?
 {: .text-red-300 }
 {: .no_toc }
-In order to be unblacklisted or unbanned, submit an appeal through [this form](https://bit.ly/blacklistbanappeals). Ensure all requirements are met before submitting the form. 
+In order to be unblacklisted or unbanned, submit an appeal through [this form](https://bit.ly/blacklistbanappeals). Ensure all requirements are met before submitting the form.
 
 ### How can I get unbanned from BloxStreet’s Discord server? 
 {: .text-red-300 }
