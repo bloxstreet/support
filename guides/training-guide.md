@@ -74,7 +74,7 @@ This section outlines the duties the Host and Co-Host have and what they should 
 
 At :35 (25 minutes prior to the commencement of the session), the Host and Co-Host should arrive at the Training Center. It is both the Host and Co-Host's responsibility to ensure they are online and arrive on time.
 
-At :45 (15 minutes prior to the commencement), the Host should claim the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the store in all large servers. Furthermore, the Host or Co-Host must ask trainers to state two lines from the Cafe Test to ensure they have access to the updated version of the guide The Host or Co-Host must also request trainers to state the three updated lines.
+At :45 (15 minutes prior to the commencement), the Host should claim the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the store in all large servers. Furthermore, the Host or Co-Host must ask trainers to state two lines from the Cafe Test to ensure they have access to the updated version of the guide. The Host or Co-Host must also request trainers to state the three updated lines.
 
 **Note: Once the Host has claimed in-game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties.** 
 
