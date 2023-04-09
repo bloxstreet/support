@@ -57,7 +57,7 @@ Store Manager+ may train at training sessions. Board of Directors+ may host and 
 ### How can I earn points? 
 {: .text-red-300 }
 {: .no_toc }
-Players can earn one point for each successful restock and two points for each spill cleaned. Management Intern+ do not have the ability to earn points through registers at the moment. 
+Players can earn one point for each successful restock and two points for each spill cleaned.
 
 ### What happens if a player is violating an in-game rule?
 {: .text-red-300 }
