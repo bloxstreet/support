@@ -152,7 +152,7 @@ The Public Relations Department handles BloxStreet's events and partnerships. [a
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaKardashian](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [pwcifyy](https://www.roblox.com/users/376897159/profile), [discentted](https://www.roblox.com/users/84690789/profile), [huntedhim](https://www.roblox.com/users/366227557/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) are Assistants of Staffing.
+The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaKardashian](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile), [r6ssidy](https://www.roblox.com/users/366227557/profile), [mmqrko](https://www.roblox.com/users/1413147204/profile), and [pwcifyy](https://www.roblox.com/users/376897159/profile) are Assistants of Staffing.
 
 
 
