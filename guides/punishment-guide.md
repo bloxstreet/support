@@ -72,7 +72,8 @@ Some things to note:
 | Wearing the incorrect uniform | Verbal warning | Staff |
 | Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
-| Point grinding or cheating | Demotion to Customer | Staff |
+| Point grinding | Logged warning and a demotion to Customer | Staff |
+| Point cheating | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
 | Crowding or refusing to disperse | Server ban | Staff |
 | Gossiping | Permanent ban | Staff |
