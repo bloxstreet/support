@@ -7,7 +7,7 @@ nav_order: 4
 
 # Staff Promotions
 {: .no_toc }
-This guide will outline all of the necessary information regarding promotions at BloxStreet. Keep in mind that promotions are a privilege, not a right.
+This guide outlines all of the necessary information about the promotion process at BloxStreet.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,11 +17,11 @@ This guide will outline all of the necessary information regarding promotions at
 
 ## Trainee Team Member-Senior Team Member
 {:.text-red-300}
-Trainee, Junior, and Senior Team Members must attend training sessions for a chance at a promotion. Training sessions are held several times each day, providing staff members with plenty of opportunities to rank up. The training schedule can be found in the in-game staff room or through the communications server. 
+Trainee, Junior, and Senior Team Members are required to attend training sessions in order to rank up. These training sessions are held multiple times throughout the day, allowing staff members many opportunities to receive a promotion. The schedule for these training sessions can be accessed through the in-game staff room or the communications server. 
 
 ## Management Intern-Assistant Manager
 {:.text-red-300}
-Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must attend shifts and receive recognition from the shift host for a chance at a promotion. Utilizing proper grammar, behaving professionally, and showing dedication at all times will increase one's chances of a promotion. Although Middle Ranks are not required to utilize grammar at BloxStreet, they must if they wish to receive a promotion. Note that attending a shift does not guarantee a promotion. Hinting for a promotion or complaining about not receiving one will result in a logged warning and a demotion to Customer if repeated. Team Leaders, Store Supervisors, and Assistant Managers are also required to be off cooldown in order to receive a promotion. Another way to get promoted is by being noticed by an SHR outside of a shift. Staff members may not recommend other workers to an SHR for a promotion. Doing so will result in consequences.
+To increase the chances of a promotion, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers should actively participate in shifts and strive to gain recognition from the shift host. It is crucial to maintain professionalism, utilize proper grammar, and demonstrate dedication consistently. While Middle Ranks are not obligated to use grammar, it is mandatory if they choose to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are based on a combination of factors. It is important to refrain from hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, such as logged warnings and a potential demotion to the Customer rank. Additionally, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must be off cooldown to be eligible for a promotion. Another pathway for a promotion is by being noticed by an SHR outside of a shift. However, it is not permitted to recommend other staff members to an SHR for a promotion.
 
 ## Store Manager-Store Executive
 {:.text-red-300}
