@@ -107,7 +107,7 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Lack of grammar | Verbal warning and a demotion to Customer | High Ranks |
+| Lack of grammar | Logged warning and a demotion to Customer | High Ranks |
 | Announcement abuse | Verbal warning or a blacklist - depending on the severity | High Ranks |
 | Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
