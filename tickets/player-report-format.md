@@ -7,7 +7,7 @@ nav_order: 1
 
 
 # Player Report Format
-When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
+When creating a ticket for a player report, community members are required to use the format provided below. It is important to adhere to the specified format, as any player reports that do not follow it will not be addressed immediately.
 
 
 - [ ] **Their Username:**
@@ -19,4 +19,4 @@ When creating a ticket for a player report, community members should use the for
 - [ ] **Evidence:**
 {:.text-red-000}
 
-Reasons should be brief and limited to a few words. Community members should not type sentences for the reason.
+Reasons for player reports should be concise and limited to a few words. Community members are advised to avoid typing full sentences for the reason.
