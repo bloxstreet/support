@@ -152,7 +152,7 @@ The Public Relations Department handles BloxStreet's events and partnerships. [a
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [lwyric](https://www.roblox.com/users/366227557/profile), and [mmqrko](https://www.roblox.com/users/1413147204/profile) are Assistants of Staffing.
+The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [Ieahdelrey](https://www.roblox.com/users/128130445/profile), [mmqrko](https://www.roblox.com/users/1413147204/profile), and [taylorswiftfangrl](https://www.roblox.com/users/366227557/profile) are Assistants of Staffing.
 
 
 
