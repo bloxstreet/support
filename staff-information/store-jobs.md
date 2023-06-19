@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # Store Jobs
 {: .no_toc }
-This guide will outline the many departments BloxStreet staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
+This guide will highlight the various departments available for staff members at BloxStreet and provide detailed instructions on how to ensure a pleasant customer experience.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,31 +19,31 @@ This guide will outline the many departments BloxStreet staff members are permit
 
 While on duty, uniforms must be visible. Professionalism to a certain degree is required at all times, regardless of whether a staff member is on or off duty.
 
-Utilize the following commands to go off and back on duty.
+Use the following commands to go off and on duty.
 
-* **!startwork** -> Allows staff members to go back on duty.
+* **!startwork** -> Allows staff members to go on duty.
 
 * **!stopwork** -> Allows staff members to go off duty.
 
-While on duty, staff members are expected to work. This includes working at a station, fulfilling certain tasks around the store, and arresting shoplifters. If a staff member wishes to take a break, they may go off duty. Off duty staff members may not work. Note that professionalism to a certain degree is still required while off duty. HRs are not permitted to go off duty.
+While on duty, staff members are expected to work and fulfill specific tasks. These tasks include actively working at a station and arresting shoplifters. If a staff member needs to take a break, they may go off duty. It is essential to note that maintaining professionalism while off duty is required, as staff members are still representing BloxStreet. HRs are not permitted to go off duty, as they have additional responsibilities.
 
 ### POS Systems
 {:.text-blue-000}
 {: .no_toc }
 
-The POS systems are located in BloxStreet's cafe, pharmacy, and technology department.
+The POS systems are located in BloxStreet's cafe, pharmacy, and electronics department.
 
-**Step 1:** Staff members should approach a POS system that is not in use and scan their BloxStreet Staff Card to sign in.
+**Step 1:** Staff members should locate an available POS system that is not currently in use, take out their BloxStreet Staff Card, and scan it to sign in.
 
-**Step 2:** Upon gathering the requested items, scan them against the POS terminal. Doing so will take away the items from the staff member's inventory.
+**Step 2:** After collecting the requested items, staff members should proceed to scan them using the POS terminal. This process will remove the items from the staff member's inventory.
 
-**Step 3:** When complete, click the 'Finish Transaction' button.
+**Step 3:** Once finished, staff members should click on the 'Finish Transaction' button to complete the process.
 
-**Step 4:** Request the customer to scan their BloxStreet Cash Card on the card reader.
+**Step 4:** Kindly ask the customer to scan their BloxStreet Cash Card on the card reader.
 
-**Step 4:** Once the transaction is approved, money will be taken from the customer, and they will automatically receive their requested items. Staff members will also earn a point.
+**Step 5:** After the transaction is approved, the customer's money amount will drop, and they will receive the requested items automatically. As a result, staff members will earn a point for the successful transaction.
 
-**Note:** If a transaction is declined or a customer does not have an adequate amount of money, click the "Void Transaction" button. Prior to walking away from your claimed POS system, sign out.
+**Note:** If a transaction is declined or a customer does not have a sufficient amount of money, click the 'Void Transaction' button to cancel the transaction. Before leaving the POS system that was claimed, make sure to sign out.
 
 
 ## Store Departments 
