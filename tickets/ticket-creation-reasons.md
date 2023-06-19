@@ -14,12 +14,12 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in BloxStreet to report various punishments, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
+Tickets in BloxStreet serve the purpose of reporting players, seeking clarifications, and addressing other related concerns. It is important for community members to be aware of the acceptable and unacceptable reasons for creating a ticket, many of which can be found below.
 
 **Note:**
 {:.text-red-000} 
-- Text highlighted in **green** are the acceptable reasons to make a ticket. Community members should create a ticket for these reasons.
-- Text highlighted in **red** are the unacceptable reasons. Tickets made for these reasons will be disregarded.
+- Text highlighted in **green** are the acceptable reasons to make a ticket.
+- Text highlighted in **red** are the unacceptable reasons. Tickets made for these reasons will be disregarded or not addressed immediately.
 - For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html).
 
 ## Acceptable Reasons
