@@ -40,7 +40,7 @@ Training sessions may only be hosted at the following times:
 ## Training Behavior and Information
 {: .text-red-300 }
 
-* Trainers should not rush through the script. Allow LRs to have time to read the information being provided.
+* Trainers should not rush through the script. Allow LRs to have time to read the information being provided. If an LR requests for a trainer to send messages to be sent at a slower rate, trainers should do so unless doing so is not possible.
 * MRs and HRs should avoid chatting while in-game. Do so through the communications server.
 * Behaving unprofessionally in any way will lead to a dismissal from the session and possible punishments.
 * LRs are welcome to go AFK for three minutes if they inform their assigned trainer. LRs may only go AFK twice per session.
@@ -55,7 +55,7 @@ Below is an overview of each rank's job at training sessions.
 | Co-Host | The Co-Host should join the Training Center at :35. The Co-Host is responsible for helping lead the training session, doing the group shouts, asking trainers if they have the correct version of the guide, taking training attendance using the proper format, supervising and ensuring the session is running smoothly, and ranking. | Board of Directors+  | **1** co-host per training - an Executive Assistant+ may choose to host by themselves |
 | Ranker           | Rankers are responsible for ranking all LRs who pass. Rankers are required to supervise the training session after teleportation and before ranking. They should stand near the ranking lines before teleportation begins. Rankers may not train and then rank. They are also responsible for running the :info command on each LR and ensuring that they have been ranked successfully. | Executive Assistant+ | **2-3** rankers per training
 | Announcer | The announcer is responsible for announcing the training session in all large servers of the store. The Host selects the announcer.| Store Director+ | **1** announcer per training
-| Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria in this guide. They should also answer any inquiries from LRs once the teleportation process has finished. | Store Manager+ | Maximum of **16 trainers** (1 trainer per counter)  |
+| Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria in this guide. They should also answer any inquiries from LRs once the trainer introduction and basic information parts have concluded. | Store Manager+ | Maximum of **16 trainers** (1 trainer per counter)  |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
 | Spectators | Spectators supervise training and ensure everything is running smoothly. | Junior Moderator+ | No maximum | 
 
@@ -87,7 +87,7 @@ At this point, the Host and Co-Host should stand on their designated line. As LR
 
 **Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions you may have.*
 
-**Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
+**Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking, failure to do so will result in a removal from the server.* 
 
 The Host should say the line above at :57. 
 
@@ -122,7 +122,7 @@ Once the presentation concludes, LRs are required to remain silent for the Host�
 
 LRs should continue standing on the red lines after the presentation has concluded.
 
-**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
+**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around and hold all questions until said otherwise.*
 
 **Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
 
@@ -166,6 +166,8 @@ This section will provide trainers with the training script. Trainers may not mo
 
 **The introduction takes place at the cafe counter.**
 
+**Trainers should encourage all LRs to find an open terminal and remain there.**
+
 **Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I will be your trainer for today.*
 
 **Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
@@ -180,11 +182,11 @@ This section will provide trainers with the training script. Trainers may not mo
 
 **Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
 
-**Trainer:** *If you disconnect from the server, you may attend the next training session. The training schedule can be found in the staff room, which is located in the store.*
+**Trainer:** *If you disconnect from the server, you may attend the next training session. The training schedule can be found in the staff room and the support website. The staff room is located in the store.*
 
-**Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
+**Trainer:** *Does anyone have any questions? A response from every LR is mandatory.*
 
-At this point, all LRs must respond. If they reply with a positive answer, proceed. If not, answer any questions LRs may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down. 
+At this point, all LRs must respond. If they reply with a positive answer, proceed. If not, answer any questions LRs may have until they are ready to begin. Trainers have a right to proceed if the questions are slowing the group down or unnecessary.
 
 ### Grammar / Greeting Test Script
 {: .text-blue-000 }
@@ -196,11 +198,13 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:** *We will start this training with the Grammar/Greeting Test.*
 
-**Trainer:** *When a guest approaches your register at the store, you must greet them with a polite greeting.*
+**Trainer:** *When a guest approaches your register at the store, you must greet them with a polite and professional greeting.*
 
 **Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Shopping Center! My name is (username), how may I assist you today?”*
 
 **Trainer:** *You are welcome to add adjectives or emojis to your greeting. Feel free to customize it to your liking.*
+
+**Trainer:** *It is promoted to use a way to quickly state your greetings, the easiest of those being to use the notepad. Staff may type "!notepad" in the chat to utilize it.*
 
 **Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
 
@@ -245,7 +249,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Trainer:** *If this occurs, remove the items from the order or press "Void Transaction."*
 
-**Trainer:** *Be sure to sign out once you are finished. Never leave a terminal signed in.*
+**Trainer:** *Be sure to sign out once you are finished. Never leave a terminal signed in. Terminals will automatically sign oout once you exit the game.*
 
 **Trainer:** *Now that I have finished providing an explanation about our group's cafe system, please face your register.*
 
@@ -275,7 +279,7 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **Take all LRs to the station's cash register.**
 
-**Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
+**Trainer:** *When a guest approaches your register at the store, you must greet them with a polite greeting.*
 
 **Trainer:** *When they ask to be checked out, click “Start Sale” on the register.*
 
@@ -312,15 +316,15 @@ If all LRs say yes, begin. If they say no, answer any questions until they are r
 
 **Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. In order to be promoted as a Management Intern, you must attend and be recognized at a shift.*
 
-**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store's staff room.*
+**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store's staff room and the support website.*
 
-**Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
+**Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘.gg/bloxstreet’.*
 
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
-**Trainers should FF their LRs by executing the command :ff (username). Trainers must hide their commands by utilizing the command bar or placing a "/e" before any command.**
+**Trainers should FF their LRs by executing the command :ff (username). Trainers must hide their commands by utilizing the command bar or placing a "/e" before any command. The command bar may be accessed by pressing the ' or ; key.**
 
-**Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
+**Trainer:** *Stay online until the ranker dismisses you or removes you from the game with a message similar to "Ranked!". It has been a pleasure training you!*
 
 **Rankers should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.**
 
