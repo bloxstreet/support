@@ -1,41 +1,10 @@
-# Website
+# BloxStreet Support
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository holds the source of the BloxStreet support website.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Contributing?
+When contributing, ensure that you keep the style consistent with the other pages of the website.
+- Wording should be kept short and simple, no need to overcomplicate things.
+- Introductions should go directly under the page title, without a subheading.
+- There should be no more than one # tag per page. All sub headings should use ##.
+- Unsure of the Markdown syntax? Click [here](https://docusaurus.io/docs) for documentation.
