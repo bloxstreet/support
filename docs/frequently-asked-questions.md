@@ -9,9 +9,7 @@ sidebar_label: FAQ
 Here, community members can find answers to frequently asked questions.
 
 ### When are shifts hosted?
-:root {
-  --ifm-color-primary: #25c2a0;
-}
+<span class="badge badge--danger">Danger</span>
 Shifts are hosted at 12 AM, 7 AM, 9 AM, 11 AM, 1 PM, 3 PM, 6 PM, 8 PM, and 10 PM. All times are in EST.
 
 ### When are training sessions hosted?
