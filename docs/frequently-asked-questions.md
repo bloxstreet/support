@@ -6,7 +6,6 @@ sidebar_label: FAQ
 
 # Frequently Asked Questions
 
-Here, community members can find answers to frequently asked questions.
 <div class="alert alert--primary" role="alert">
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
