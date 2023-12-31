@@ -1,7 +1,7 @@
 # Staff Regulations
 At BloxStreet, it is imperative that staff members abide by a set of regulations in order to enhance the overall shopping experience for our customers. The rules outlined below represent only a fraction of the many guidelines that staff members are expected to observe. For a detailed understanding of the consequences associated with specific offenses, refer to the [Punishment Guide](https://support.bloxstreet.com/lr+-information/punishment-guide.html).
 
-## Uniforms
+### Uniforms
 
 
 While on-duty, it is mandatory for all staff members to wear an official BloxStreet uniform. Staff members can easily equip a uniform by interacting with a locker and selecting their preferred hoodie or shirt.
@@ -16,7 +16,7 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 | Department Supervisor - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 | Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
 
-## Guidelines
+### Guidelines
 
 
 - Always respect other staff members.
