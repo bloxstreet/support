@@ -40,8 +40,8 @@ Shifts offer opportunities for Department Supervisors, Department Managers, and 
 ### How can I check my demotion reason?
 If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to open a ticket in the BloxStreet Discord server.
 
-### Which ranks are permitted to train, host, co-host, and rank at training sessions?
-Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions independently or with a co-host. Executive Assistant+ may rank.
+### Which ranks are permitted to train, host, and co-host at training sessions?
+Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions. They may host independently or with a co-host.
 
 ### How can I earn points?
 Staff members can earn one point for each successful restock, two points for each spill cleaned, two points for working at any department with POS systems, and three points for working at the main registers.
