@@ -1,6 +1,11 @@
 # Rank Structure
 
-You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
+</div>
 
 ### **Customer**
 
