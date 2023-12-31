@@ -4,7 +4,7 @@
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
   </button>
-  At BloxStreet, it is imperative that staff members abide by a set of regulations in order to enhance the overall shopping experience for our customers. The rules outlined below represent only a fraction of the many guidelines that staff members are expected to observe. For a detailed understanding of the consequences associated with specific offenses, refer to the [Punishment Guide](https://support.bloxstreet.com/lr+-information/punishment-guide.html).
+  At BloxStreet, it is imperative that staff members abide by a set of regulations in order to enhance the overall shopping experience for our customers. The rules outlined below represent only a fraction of the many guidelines that staff members are expected to observe. For a detailed understanding of the consequences associated with specific offenses, refer to the Punishment Guide.
 </div>
 
 ### Uniforms
