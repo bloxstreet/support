@@ -19,6 +19,7 @@
 - Not attainable by regular members
 
 ### **Trainee Team Member**
+<span class="badge badge--warning">LR</span>
 
 
 - LR rank
