@@ -1,17 +1,13 @@
 # Training Guide
 
 
-## Table of Contents
-1. TOC
-
-
 The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
 * The text in **red italics** is intended for the host, co-host, rankers, or trainers to say.
 * The text in **green italics** is intended for the trainers to say during guide checking and while training LRs.
 * The text in **bold** provides instructions on what trainers should do.
 
-## Training Behavior and Information
+### Training Behavior and Information
 
 
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
@@ -22,7 +18,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 * Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Please be direct when conveying your intent to pass LRs.
 
-## Rank Information
+### Rank Information
 
 Below is an overview of each rank's job at training sessions.
 
@@ -36,7 +32,7 @@ Below is an overview of each rank's job at training sessions.
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
 | Spectators | Spectators supervise training sessions and ensure everything is running smoothly. | Group Administrator+ | No maximum |
 
-## Host and Co-Host Scripts
+### Host and Co-Host Scripts
 
 This section provides an overview of the responsibilities and duties assigned to the Host and Co-Host, as well as guidelines on what they should say.
 
@@ -311,6 +307,6 @@ Rankers should run the :info command on each LR before kicking. Running the comm
 After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if an SHR determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the SHR's instructions accordingly.
 
 
-## Training Conclusion
+### Training Conclusion
 
 Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host, Co-Host, and rankers only are not permitted after training sessions. The Host or an SHR should run the command "/e :shutdown Concluded." to shutdown the server. Additionally, the Co-Host should send the final group shout and submit the training attendance through a ticket.
