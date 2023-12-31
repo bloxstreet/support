@@ -3,15 +3,15 @@
 This guide outlines all of the necessary information about the promotion process at BloxStreet.
 
 
-## Trainee Team Member - Senior Team Member
+### Trainee Team Member - Senior Team Member
 
 Trainee, Junior, and Senior Team Members must attend training sessions to progress in their ranks. These sessions are hosted multiple times a day, providing LRs with ample chances to earn promotions. The schedule for these training sessions can be accessed in the in-game staff room or [here](https://discord.com/channels/323081832071561216/600732254502780928/1133663177549299794).
 
-## Department Supervisor - Assistant Store Manager
+### Department Supervisor - Assistant Store Manager
 
 To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. It is important to avoid hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, including a logged warning or demotion to the Customer rank. Additionally, Department Managers and Assistant Store Managers must be off cooldown to be eligible for a promotion. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR for a promotion is not permitted.
 
-## Store Manager - Store Executive
+### Store Manager - Store Executive
 
 When considering promotions from Store Manager to Store Director, as well as promotions within the HR ranks, the administration team takes into account various factors.
 
@@ -33,7 +33,7 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 
 > Keep in mind that these include only some requirements Store Managers must meet.
 
-## Cooldowns
+### Cooldowns
 
 Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion.
 
@@ -52,7 +52,7 @@ Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 
 Working at the store while on cooldown will increase an individual's chances of a promotion.
 
-## Points
+### Points
 
 Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. The specific amount of points required to claim each rank can be found in the list provided below.
 
