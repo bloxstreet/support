@@ -75,7 +75,7 @@
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 3,500 points in total to be promoted
 
-### **Store Director**
+### **Store Director** <span class="badge badge--danger">HR</span>
 
 
 - HR rank
@@ -85,7 +85,7 @@
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 5,500 points in total to be promoted
 
-### **Executive Assistant**
+### **Executive Assistant** <span class="badge badge--danger">HR</span>
 
 
 - HR rank
@@ -96,7 +96,7 @@
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 10,000 points in total to be promoted
 
-### **Store Executive**
+### **Store Executive** <span class="badge badge--danger">HR</span>
 
 
 - HR rank
