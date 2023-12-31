@@ -7,6 +7,12 @@ sidebar_label: FAQ
 # Frequently Asked Questions
 
 Here, community members can find answers to frequently asked questions.
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  Here, community members can find answers to frequently asked questions.
+</div>
 
 ### When are shifts hosted?
 <span class="badge badge--danger">Danger</span>
