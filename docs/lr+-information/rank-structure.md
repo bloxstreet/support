@@ -82,7 +82,7 @@
 
 - HR rank
 - Staff members who have been recognized by an SHR or have earned 5,500 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting, co-hosting, and ranking at trainings, hosting and ranking at shifts, restocking items, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting, and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
@@ -93,7 +93,7 @@
 
 - HR rank
 - Staff members who have been recognized by an SHR or have earned 10,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting, co-hosting, and ranking at trainings, hosting and ranking at shifts, restocking items, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to use them responsibly
 - Must complete their three month cooldown to be promoted, with exceptions being made when decided by Group Director+
