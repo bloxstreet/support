@@ -11,6 +11,7 @@
 
 
 - Higher ranks may be subject to more severe punishments.
+  - test
 - All punishments are subject to change depending on the severity of the community member's actions. Only SHRs may change a punishment from what is listed below.
 - Lack of awareness regarding the rules does not exempt an individual from receiving a punishment.
 - Staff members who acquire a rank through points are still obligated to adhere to all of BloxStreet's rules. Failure to do so will result in the same disciplinary actions, such as demotions, blacklists, and permanent bans.
