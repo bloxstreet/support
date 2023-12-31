@@ -37,27 +37,21 @@
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Department Supervisor**
-
-
+### **Department Supervisor** <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
 - Must be noticed by a shift host, an SHR outside of a shift, or earn 800 points in total to be promoted
 
-### **Department Manager**
-
-
+### **Department Manager** <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 800 points in total
 - Responsible for working at store departments, restocking items, and cleaning spills
 - Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,000 points in total to be promoted
 
-### **Assistant Store Manager**
-
-
+### **Assistant Store Manager** <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
@@ -65,9 +59,7 @@
 - Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,500 points in total to be promoted
 
-### **Store Manager**
-
-
+### **Store Manager** <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,500 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
