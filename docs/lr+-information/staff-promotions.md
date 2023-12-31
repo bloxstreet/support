@@ -1,6 +1,11 @@
 # Staff Promotions
 
-This guide outlines all of the necessary information about the promotion process at BloxStreet.
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  This guide outlines all of the necessary information about the promotion process at BloxStreet.
+</div>
 
 
 ### Trainee Team Member - Senior Team Member
