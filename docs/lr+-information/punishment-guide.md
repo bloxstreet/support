@@ -1,11 +1,11 @@
 # Punishment Guide
 
-
-## Table of contents
-1. TOC
-
-
-Below is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  This is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
+</div>
 
 ## Important Information
 
