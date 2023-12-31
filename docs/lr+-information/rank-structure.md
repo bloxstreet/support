@@ -18,8 +18,7 @@
 - Individuals who have made noteworthy contributions to BloxStreet in various capacities, such as former SHRs, developers, and graphic designers
 - Not attainable by regular members
 
-<span class="badge badge--warning">LR</span>
-### **Trainee Team Member**
+### **Trainee Team Member** <span class="badge badge--warning">LR</span>
 - LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
 - Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
