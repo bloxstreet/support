@@ -24,18 +24,14 @@
 - Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Junior Team Member**
-
-
+### **Junior Team Member** <span class="badge badge--warning">LR</span>
 - LR rank
 - Staff members who have successfully attended and passed one training session
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Have the opportunity to cuff shoplifters by purchasing cuffs
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Senior Team Member**
-
-
+### **Senior Team Member** <span class="badge badge--warning">LR</span>
 - LR rank
 - Staff members who have successfully attended and passed two training sessions
 - Permitted to work in all store departments, restock empty shelves, and clean spills
