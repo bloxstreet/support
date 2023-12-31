@@ -6,7 +6,7 @@
   </button>
   The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
-* The text in **red italics** is intended for the host, co-host, rankers, or trainers to say.
+* The text in **red italics** is intended for the host, co-host, or trainers to say.
 * The text in **green italics** is intended for the trainers to say during guide checking and while training LRs.
 * The text in **bold** provides instructions on what trainers should do.
 </div>
@@ -31,7 +31,6 @@ Below is an overview of each rank's job at training sessions.
 |:-------------|:------------------|:------|:-------------------|
 | Host | The Host should join the Training Center between :35 and :40 and claim the session using the GUI at :45. The Host assumes several key responsibilities in the training session, including leading the session and delivering the introduction. They are also responsible for verifying that trainers have the correct guide version, whitelisting trainers, supervising the session to ensure smooth operation, and ranking. | Executive Assistant+ | **1** host per training |
 | Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts, verifying that trainers have the correct guide version, and recording training attendance using the appropriate format. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. It is crucial for the Co-Host to accurately submit the training attendance in a ticket, adhering to the designated format. | Executive Assistant+  | **1** co-host per training - an Executive Assistant+ can host independently |
-| Ranker           | The rankers of the session have the responsibility of ranking all LRs who have successfully completed the training. While it is not mandatory for rankers to be present for the entire session, they are expected to join approximately 10 minutes before ranking commences. However, they are also welcome to attend the entire session, supervising after the teleportation process, but before the actual ranking begins. Rankers have permission to help the training session Host and Co-Host with guide checking. They are allowed to perform guide checks independently, but whether they choose to do so or not depends on the agreement among the Host, Co-Host, and themselves. If rankers decide to conduct guide checks, they are required to remain present for the entire duration of the session. It is not acceptable for them to only join for guide checking, leave, and then rejoin later for ranking. The Host holds the responsibility of ensuring that the rankers are present during their session. This includes coordinating with the rankers and confirming their availability. Once the LRs have been teleported, if the second or third ranker is deemed unnecessary due to a low number of LRs, the Host has the authority to dismiss the extra ranker(s) at their discretion. | Executive Assistant+ | **2 or 3** rankers per training
 | Announcer | The announcer is tasked with making the announcement about the training session in all large servers of the store. The selection of the announcer is made by the Host, who has the authority to choose an individual for this specific role. | Store Director+ | **1** announcer per training
 | Trainer           | Trainers are expected to join the Training Center at :45 and carefully follow the instructions provided in this guide. Trainers conduct a series of tests and evaluate the performance of their LRs based on the criteria outlined in this guide. | Store Manager+ | Maximum of **16 trainers** (1 trainer per station)  |
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
@@ -55,16 +54,16 @@ Between :35 and :40, it is expected that both the Host and Co-Host arrive at the
 
 At :45, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all large servers at the store.
 
-### Host, Co-Host, and/or Rankers: Guide Checking
+### Host and/or Co-Host: Guide Checking
 
 
 
-After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
+After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below.
 
-**Host, Co-Host, and/or Rankers:** *Hello! Please state all green lines found on the training guide. There are three in total.*
+**Host and/or Co-Host:** *Hello! Please state all green lines found on the training guide. There are three in total.*
 
 
-**Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
+**Host and/or Co-Host:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
 
 ### Host: Minutes before Commencement
@@ -107,7 +106,7 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 
 The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of four LRs to each trainer, depending on the number of trainers available.
 
-Once the Host has successfully completed the teleportation process, they, along with the Co-Host and any rankers present, should start supervising the LRs and trainers. By this point, the Co-Host should have already taken the training attendance.
+Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. By this point, the Co-Host should have already taken the training attendance.
 
 ## Trainer Scripts
 
@@ -129,7 +128,7 @@ The subsequent stage of training is the Register Test. During this evaluation, L
 
 
 
-If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host, Co-Host, or rankers will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
+If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host or Co-Host will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
 
 ### Training Process
 
@@ -307,11 +306,11 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **Trainers should FF their LRs by executing the command /e :ff (username).**
 
-Rankers should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
+The Host and Co-Host should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
 
 After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if an SHR determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the SHR's instructions accordingly.
 
 
 ### Training Conclusion
 
-Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host, Co-Host, and rankers only are not permitted after training sessions. The Host or an SHR should run the command "/e :shutdown Concluded." to shutdown the server. Additionally, the Co-Host should send the final group shout and submit the training attendance through a ticket.
+Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host and Co-Host only are not permitted after training sessions. The Host or an SHR should run the command "/e :shutdown Concluded." to shutdown the server. Additionally, the Co-Host should send the final group shout and submit the training attendance through a ticket.
