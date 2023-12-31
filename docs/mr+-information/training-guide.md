@@ -1,11 +1,16 @@
 # Training Guide
 
-
-The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="clean-btn close" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
 * The text in **red italics** is intended for the host, co-host, rankers, or trainers to say.
 * The text in **green italics** is intended for the trainers to say during guide checking and while training LRs.
 * The text in **bold** provides instructions on what trainers should do.
+</div>
+
 
 ### Training Behavior and Information
 
