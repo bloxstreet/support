@@ -8,7 +8,6 @@
 </div>
 
 ### Important Information
-  return 
     <main>
       <h1 className="red-text">Purple Heading!</h1>
     </main>
