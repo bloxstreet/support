@@ -8,10 +8,6 @@
 </div>
 
 ### Important Information
-return
-    <main>
-      <h1 className="purple-text">Purple Heading!</h1>
-    </main>
 
 - Higher ranks may be subject to more severe punishments.
 - All punishments are subject to change depending on the severity of the community member's actions. Only SHRs may change a punishment from what is listed below.
