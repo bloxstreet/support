@@ -10,7 +10,7 @@
 ### Important Information
 return
     <main>
-      <h1 className="red-text">Purple Heading!</h1>
+      <h1 className="purple-text">Purple Heading!</h1>
     </main>
 
 - Higher ranks may be subject to more severe punishments.
