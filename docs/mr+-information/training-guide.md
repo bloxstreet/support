@@ -55,14 +55,12 @@ At :45, which is 15 minutes before the training session begins, the Host should 
 
 ### <font color="#FFD300">Host and/or Co-Host: Guide Checking</font>
 
-
-
 After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below.
 
-**Host and/or Co-Host:** *Hello! Please state all green lines found on the training guide. There are three in total.*
+<font color="#0F52BA">**Host and/or Co-Host:**</font> *Hello! Please state all green lines found on the training guide. There are three in total.*
 
 
-**Host and/or Co-Host:** *Thank you! Please note that the green lines are also used when you are training LRs.*
+<font color="#0F52BA">**Host and/or Co-Host:**</font> *Thank you! Please note that the green lines are also used when you are training LRs.*
 
 
 ### <font color="#FFD300">Host: Minutes before Commencement</font>
@@ -71,7 +69,7 @@ After claiming the session and before :00, it is important for the Host and/or C
 
 The Host should announce the line below at :57.
 
-**Host:** *We will commence in approximately three minutes. At this time, all LRs are requested to refrain from chatting so that we may begin promptly.*
+<font color="#0F52BA">**Host:**</font> *We will commence in approximately three minutes. At this time, all LRs are requested to refrain from chatting so that we may begin promptly.*
 
 
 ### <font color="#FFD300">Host and Co-Host: Training Commences</font>
@@ -83,12 +81,12 @@ At :00, which is the exact time of the training session's commencement, the Host
 **Host:** *Greetings, everyone, and welcome to this training session! You will start your training by watching a presentation on the monitors. For your success, your undivided attention is required.*
 
 
-**Host:** *Please keep in mind that chatting or distracting others is strictly prohibited at this time and will result in a removal from the server.*
+<font color="#0F52BA">**Host:**</font> *Please keep in mind that chatting or distracting others is strictly prohibited at this time and will result in a removal from the server.*
 
 
 To initiate the presentation, the Host needs to click the 'Host Settings' button located at the bottom left corner of their screen. Afterward, the Host should proceed by clicking the 'Begin' button. In case the 'Host Settings' button is not visible in the bottom left corner, the Host should promptly rejoin the session. The slideshow can only be played once.
 
-**Host:** *The presentation is now underway. For those of you who desire a closer view of the slideshow, simply click on any monitor to zoom in.*
+<font color="#0F52BA">**Host:**</font> *The presentation is now underway. For those of you who desire a closer view of the slideshow, simply click on any monitor to zoom in.*
 
 
 Throughout the presentation, both the Host and Co-Host should actively supervise the LRs to ensure they are adhering to the guidelines. This includes making sure that the LRs are remaining on the red lines and refraining from engaging in conversations with one another. In addition, the Host and/or Co-Host should remove Department Supervisors, Department Managers, and Assistant Store Managers from the session. Lastly, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
@@ -97,10 +95,10 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 
 
 
-**Co-Host:** *As the presentation is now finished, you will be teleported to a trainer shortly. Once you are teleported, please refrain from wandering around.*
+<font color="#0F52BA">**Co-Host:**</font> *As the presentation is now finished, you will be teleported to a trainer shortly. Once you are teleported, please refrain from wandering around.*
 
 
-**Co-Host:** *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
+*<font color="#0F52BA">**Co-Host:**</font> *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
 
 
 The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of four LRs to each trainer, depending on the number of trainers available.
@@ -137,22 +135,22 @@ This section will provide trainers with the training script. It is essential not
 
 **The introduction takes place at the cafe station.**
 
-**Trainer:** <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.*</font>
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.*</font>
 
 
-**Trainer:** *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
+<font color="#0F52BA">**Trainer:**</font> *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
 
 
-**Trainer:** *Please be aware that you are allowed to go AFK for a maximum of two minutes. You may not go AFK for a duration exceeding this time.*
+<font color="#0F52BA">**Trainer:**</font> *Please be aware that you are allowed to go AFK for a maximum of two minutes. You may not go AFK for a duration exceeding this time.*
 
 
-**Trainer:** *During this training session, you are permitted to go AFK up to two times.*
+<font color="#0F52BA">**Trainer:**</font> *During this training session, you are permitted to go AFK up to two times.*
 
 
-**Trainer:** *In the event that I disconnect from the server, please wait for me to rejoin. Refrain from moving to a different station or wandering around.*
+<font color="#0F52BA">**Trainer:**</font> *In the event that I disconnect from the server, please wait for me to rejoin. Refrain from moving to a different station or wandering around.*
 
 
-**Trainer:** *Please indicate you are ready to proceed by jumping. At this time, I will not answer any questions.*
+<font color="#0F52BA">**Trainer:**</font> *Please indicate you are ready to proceed by jumping. At this time, I will not answer any questions.*
 
 
 At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. Trainers may not answer questions at this time.
@@ -164,67 +162,67 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **This test takes place at the cafe station.**
 
-**Trainer:** *We will now begin with the Cafe Test.*
+<font color="#0F52BA">**Trainer:**</font> *We will now begin with the Cafe Test.*
 
 
-**Trainer:** *When a customer approaches your cafe register at the store, it is essential to greet them with a polite and friendly greeting.*
+<font color="#0F52BA">**Trainer:**</font> *When a customer approaches your cafe register at the store, it is essential to greet them with a polite and friendly greeting.*
 
 
-**Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Corporation! I'm (username), and I'm here to assist you. How may I help you today?”*
+<font color="#0F52BA">**Trainer:**</font> *Here is an example of a greeting: “Hello! Welcome to BloxStreet Corporation! I'm (username), and I'm here to assist you. How may I help you today?”*
 
 
-**Trainer:** *Make sure to include the term "BloxStreet" in your greeting.*
+<font color="#0F52BA">**Trainer:**</font> *Make sure to include the term "BloxStreet" in your greeting.*
 
 
-**Trainer:** <font color="#03AC13">*While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*</font>
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*</font>
 
 
-**Trainer:** *Feel free to utilize the !notepad command to record the customer's order.*
+<font color="#0F52BA">**Trainer:**</font> *Feel free to utilize the !notepad command to record the customer's order.*
 
 
-**Trainer:** *I will now demonstrate how to prepare some common orders: a coffee and a slushie. Please pay close attention and refrain from attempting to make the drinks yourselves.*
+<font color="#0F52BA">**Trainer:**</font> *I will now demonstrate how to prepare some common orders: a coffee and a slushie. Please pay close attention and refrain from attempting to make the drinks yourselves.*
 
 
 **At this point, head to the other side of the cafe station to demonstrate how to make the drinks.**
 
-**Trainer:** *To prepare a coffee, begin by clicking on the white mug. Once you have equipped the mug, proceed to dispense the type of coffee that the guest ordered.*
+<font color="#0F52BA">**Trainer:**</font> *To prepare a coffee, begin by clicking on the white mug. Once you have equipped the mug, proceed to dispense the type of coffee that the guest ordered.*
 
 
-**Trainer:** *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
+<font color="#0F52BA">**Trainer:**</font> *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
 
 
 **At this point, head back to the trainer spot. Ensure your LRs face you.**
 
-**Trainer:** *To log into a cafe register, simply scan your BloxStreet Staff Card on the screen. You may scan your card at this time.*
+<font color="#0F52BA">**Trainer:**</font> *To log into a cafe register, simply scan your BloxStreet Staff Card on the screen. You may scan your card at this time.*
 
 
 **At this point, make sure all LRs are signed into their cafe register.**
 
-**Trainer:** *After signing in, proceed to scan any items the customer has requested. Once all items have been scanned, click on "Finish Transaction" to complete the order.*
+<font color="#0F52BA">**Trainer:**</font> *After signing in, proceed to scan any items the customer has requested. Once all items have been scanned, click on "Finish Transaction" to complete the order.*
 
 
-**Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
+<font color="#0F52BA">**Trainer:**</font> *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
 
 
-**Trainer:** *We will begin this test shortly. You must utilize comprehensible grammar, and I will assess your understandability.*
+<font color="#0F52BA">**Trainer:**</font> *We will begin this test shortly. You must utilize comprehensible grammar, and I will assess your understandability.*
 
 
-**Trainer:** *Please be aware that I can only repeat the order twice. If you give me an incorrect item, you will fail this training automatically.*
+<font color="#0F52BA">**Trainer:**</font> *Please be aware that I can only repeat the order twice. If you give me an incorrect item, you will fail this training automatically.*
 
 
-**Trainer:** *I will now approach each of you individually. When I do, make sure to greet me with your greeting.*
+<font color="#0F52BA">**Trainer:**</font> *I will now approach each of you individually. When I do, make sure to greet me with your greeting.*
 
 
 **Approach the first LR. Wait for the LR to state their greeting and begin once they do.**
 
-**Trainer:** *Greetings! May I please have a Cherry Slushie and a Regular Coffee?*
+<font color="#0F52BA">**Trainer:**</font> *Greetings! May I please have a Cherry Slushie and a Regular Coffee?*
 
 
 **Assist the LR as needed. If the LR provides the wrong order, fail them.**
 
 **If they pass, proceed to the next LR. If they fail, use the line below.**
 
-**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
+<font color="#0F52BA">**Trainer:**</font> *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
 
 
 
@@ -235,29 +233,29 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **This test takes place at the register.**
 
-**Trainer:** <font color="#03AC13">*Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*</font>
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*</font>
 
 **Ensure all LRs are signed out of their cafe registers before proceeding.**
 
-**Trainer:** *Follow me so we can start the Register Test. When at the register, form a line facing the register from the cashier point.*
+<font color="#0F52BA">**Trainer:**</font> *Follow me so we can start the Register Test. When at the register, form a line facing the register from the cashier point.*
 
 
-**Trainer:** *When a customer approaches your cash register, similar to the cafe, it is essential to greet them with a polite and friendly greeting.*
+<font color="#0F52BA">**Trainer:**</font> *When a customer approaches your cash register, similar to the cafe, it is essential to greet them with a polite and friendly greeting.*
 
 
-**Trainer:** *When a customer requests to proceed with checkout, click on the "Start Sale" button on the register.*
+<font color="#0F52BA">**Trainer:**</font> *When a customer requests to proceed with checkout, click on the "Start Sale" button on the register.*
 
 
-**Trainer:** *After selecting the customer's username, proceed to click on the "Finalize Sale" button.*
+<font color="#0F52BA">**Trainer:**</font> *After selecting the customer's username, proceed to click on the "Finalize Sale" button.*
 
 
-**Trainer:** *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
+<font color="#0F52BA">**Trainer:**</font> *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
 
 
-**Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
+<font color="#0F52BA">**Trainer:**</font> *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
 
 
-**Trainer:** *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
+<font color="#0F52BA">**Trainer:**</font> *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
 
 
 At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. If any LRs have questions or concerns, trainers should take the time to address them until all LRs are ready to begin. Nevertheless, trainers also have the discretion to proceed if the questions are causing delays and slowing down the group's progress.
@@ -274,7 +272,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **If they pass, proceed. If they fail, use the line below.**
 
-**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
+<font color="#0F52BA">**Trainer:**</font> *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
 
 
 
@@ -282,24 +280,24 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-**Trainer:** *Congratulations, you have all passed the Register Test! You have each completed both tests.*
+<font color="#0F52BA">**Trainer:**</font> *Congratulations, you have all passed the Register Test! You have each completed both tests.*
 
 
 **State the line below if there is at least one Senior Team Member remaining in your group.**
 
-**Trainer:** *If you are currently a Senior Team Member, you will be promoted to Department Supervisor. In order to be promoted as a Department Supervisor, you must attend and be recognized at a shift.*
+<font color="#0F52BA">**Trainer:**</font> *If you are currently a Senior Team Member, you will be promoted to Department Supervisor. In order to be promoted as a Department Supervisor, you must attend and be recognized at a shift.*
 
 
-**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store’s staff room.*
+<font color="#0F52BA">**Trainer:**</font> *Shifts are hosted daily at the store. The entire schedule can be found in the store’s staff room.*
 
 
-**Trainer:** *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
+<font color="#0F52BA">**Trainer:**</font> *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
 
 
-**Trainer:** *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
+<font color="#0F52BA">**Trainer:**</font> *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
 
 
-**Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
+<font color="#0F52BA">**Trainer:**</font> *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
 
 **Trainers should FF their LRs by executing the command /e :ff (username).**
