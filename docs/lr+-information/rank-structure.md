@@ -48,7 +48,7 @@
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 800 points in total
 - Responsible for working at store departments, restocking items, and cleaning spills
-- Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
+- Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,000 points in total to be promoted
 
 ### **Assistant Store Manager** <span class="badge badge--secondary">MR</span>
@@ -56,7 +56,7 @@
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
 - Granted access to moderator commands and are expected to use them responsibly
-- Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
+- Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,500 points in total to be promoted
 
 ### **Store Manager** <span class="badge badge--secondary">MR</span>
