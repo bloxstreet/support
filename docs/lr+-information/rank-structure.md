@@ -11,7 +11,7 @@
 ### <font color="#00FFFF">Customer</font>
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
 
-### <font color="#C21807">Noted Customer</font>
+### <font color="#ff0066">Noted Customer</font>
 
 
 - Individuals who have made noteworthy contributions to BloxStreet in various capacities, such as former SHRs, developers, and graphic designers
