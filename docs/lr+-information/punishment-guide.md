@@ -9,8 +9,6 @@
 
 ### $\color{red}{\textsf{Important Information}}$
 
-### <font color="#C21807">Important Information</font>
-
 - Higher ranks may be subject to more severe punishments.
 - All punishments are subject to change depending on the severity of the community member's actions. Only SHRs may change a punishment from what is listed below.
 - Lack of awareness regarding the rules does not exempt an individual from receiving a punishment.
