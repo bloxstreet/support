@@ -14,7 +14,7 @@ Trainee, Junior, and Senior Team Members must attend training sessions to progre
 
 ### Department Supervisor - Assistant Store Manager
 
-To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. It is important to avoid hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, including a logged warning or demotion to the Customer rank. Additionally, Department Managers and Assistant Store Managers must be off cooldown to be eligible for a promotion. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR for a promotion is not permitted.
+To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. It is important to avoid hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, including a logged warning or demotion to the Customer rank. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR for a promotion is not permitted.
 
 ### Store Manager - Store Executive
 
@@ -40,7 +40,7 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 
 ### Cooldowns
 
-Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion.
+Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion.
 
 | Cooldowns |
 |:----------|
@@ -48,8 +48,8 @@ Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 | Junior Team Member: None |
 | Senior Team Member: None |
 | Department Supervisor: None |
-| Department Manager: 3 days |
-| Assistant Store Manager: 3 days |
+| Department Manager: None |
+| Assistant Store Manager: None |
 | Store Manager: 2 weeks |
 | Store Director: 1 month |
 | Executive Assistant: 1 month |
