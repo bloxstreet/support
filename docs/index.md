@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 # 👋 Welcome!
 
-:::danger ALERT
+::: danger ALERT
 
 Find inaccurate information on this website? Contact avnemone.
 
