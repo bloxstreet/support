@@ -12,7 +12,7 @@
 </div>
 
 
-### Training Behavior and Information
+### <font color="#C21807">Training Behavior and Information</font>
 
 
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
@@ -23,7 +23,7 @@
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 * Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Please be direct when conveying your intent to pass LRs.
 
-### Rank Information
+### <font color="#C21807">Rank Information</font>
 
 Below is an overview of each rank's job at training sessions.
 
@@ -36,11 +36,11 @@ Below is an overview of each rank's job at training sessions.
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
 | Spectators | Spectators supervise training sessions and ensure everything is running smoothly. | Group Administrator+ | No maximum |
 
-### Host and Co-Host Scripts
+### <font color="#FFD300">Host and Co-Host Scripts</font>
 
 This section provides an overview of the responsibilities and duties assigned to the Host and Co-Host, as well as guidelines on what they should say.
 
-### Host and Co-Host: Before Claiming
+### <font color="#FFD300">Host and Co-Host: Before Claiming</font>
 
 
 
@@ -48,13 +48,13 @@ Prior to the commencement of the training session, it is the responsibility of t
 
 Between :35 and :40, it is expected that both the Host and Co-Host arrive at the Training Center to prepare for the training session. It is the responsibility of both the Host and Co-Host to ensure they are online and punctual for the session. Failing to attend a claimed session without giving a notice will result in a punishment (if done repetitively).
 
-### Host and Co-Host: Claiming
+### <font color="#FFD300">Host and Co-Host: Claiming</font>
 
 
 
 At :45, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all large servers at the store.
 
-### Host and/or Co-Host: Guide Checking
+### <font color="#FFD300">Host and/or Co-Host: Guide Checking</font>
 
 
 
@@ -66,7 +66,7 @@ After claiming the session and before :00, it is important for the Host and/or C
 **Host and/or Co-Host:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
 
-### Host: Minutes before Commencement
+### <font color="#FFD300">Host: Minutes before Commencement</font>
 
 
 
@@ -75,7 +75,7 @@ The Host should announce the line below at :57.
 **Host:** *We will commence in approximately three minutes. At this time, all LRs are requested to refrain from chatting so that we may begin promptly.*
 
 
-### Host and Co-Host: Training Commences
+### <font color="#FFD300">Host and Co-Host: Training Commences</font>
 
 
 
@@ -94,7 +94,7 @@ To initiate the presentation, the Host needs to click the 'Host Settings' button
 
 Throughout the presentation, both the Host and Co-Host should actively supervise the LRs to ensure they are adhering to the guidelines. This includes making sure that the LRs are remaining on the red lines and refraining from engaging in conversations with one another. In addition, the Host and/or Co-Host should remove Department Supervisors, Department Managers, and Assistant Store Managers from the session. Lastly, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
 
-### Host and Co-Host: After Presentation
+### <font color="#FFD300">Host and Co-Host: After Presentation</font>
 
 
 
@@ -108,29 +108,29 @@ The Co-Host can now proceed to move towards the red lines, while the Host should
 
 Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. By this point, the Co-Host should have already taken the training attendance.
 
-## Trainer Scripts
+## <font color="#663399">Trainer Scripts</font>
 
 This section provides an overview of the tests that trainers are required to perform. In the event that an LR needs to go AFK, trainers should not wait for their return. The maximum AFK duration is two minutes, ensuring that the LR does not miss significant content if the trainer maintains an average pace. Upon the LR's return from being AFK, the trainer should provide a summary of the covered topics and perform any missed tests. However, if all LRs disconnect or fail the training session, the trainer should promptly leave the server without notifying the Host or Co-Host.
 
-### Cafe Test
+### <font color="#663399">Cafe Test</font>
 
 
 
 The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Please keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
-### Register Test
+### <font color="#663399">Register Test</font>
 
 
 
 The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
 
-### Passing LRs
+### <font color="#663399">Passing LRs</font>
 
 
 
 If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host or Co-Host will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
 
-### Training Process
+### <font color="#663399">Training Process</font>
 
 
 
@@ -159,7 +159,7 @@ This section will provide trainers with the training script. It is essential not
 At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. Trainers may not answer questions at this time.
 
 
-### Cafe Test Script
+### <font color="#663399">Cafe Test Script</font>
 
 
 
@@ -230,7 +230,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-### Register Test Script
+### <font color="#663399">Register Test Script</font>
 
 
 
@@ -280,7 +280,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-### Passing LRs
+### <font color="#663399">Passing LRs</font>
 
 
 
@@ -311,6 +311,6 @@ The Host and Co-Host should run the :info command on each LR before kicking. Run
 After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if an SHR determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the SHR's instructions accordingly.
 
 
-### Training Conclusion
+### <font color="#C21807">Training Conclusion</font>
 
 Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host and Co-Host only are not permitted after training sessions. The Host or an SHR should run the command "/e :shutdown Concluded." to shutdown the server. Additionally, the Co-Host should send the final group shout and submit the training attendance through a ticket.
