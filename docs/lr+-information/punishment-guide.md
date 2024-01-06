@@ -7,6 +7,8 @@
   This is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
 </div>
 
+### $\color{red}{\textsf{Important Information}}$
+
 ### <font color="#C21807">Important Information</font>
 
 - Higher ranks may be subject to more severe punishments.
