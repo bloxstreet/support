@@ -136,7 +136,7 @@ This section will provide trainers with the training script. It is essential not
 **The introduction takes place at the cafe station.**
 
 <font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.* </font> 
- 
+* *
  
 <font color="#0F52BA">**Trainer:**</font> *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
 
