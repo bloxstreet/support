@@ -176,7 +176,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Make sure to include the term "BloxStreet" in your greeting.*
 
 
-**Trainer:** *While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*
+**Trainer:** <font color="#03AC13">*While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*</font>
 
 
 **Trainer:** *Feel free to utilize the !notepad command to record the customer's order.*
@@ -235,8 +235,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **This test takes place at the register.**
 
-**Trainer:** *Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*
-
+**Trainer:** <font color="#03AC13">*Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*</font>
 
 **Ensure all LRs are signed out of their cafe registers before proceeding.**
 
