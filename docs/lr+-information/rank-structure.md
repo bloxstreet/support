@@ -7,7 +7,7 @@
   You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
 </div>
 
-### **Customer**
+### <span style="color: #00f;">Customer</span>
 
 
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
