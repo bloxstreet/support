@@ -1,11 +1,5 @@
 # Punishment Guide
 
----
-sidebar_position: 1
-sidebar_label: Punishment Guide
-sidebar_class_name: LR+ Information
----
-
 <div class="alert alert--primary" role="alert">
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
