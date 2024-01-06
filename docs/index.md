@@ -6,9 +6,9 @@ sidebar_label: Introduction
 
 # 👋 Welcome!
 
-:::warning
+:::danger ALERT
 
-We're still working on this website, some content may be missing or incomplete and all content is subject to change.
+Find inaccurate information on this website? Contact avnemone.
 
 :::
 
