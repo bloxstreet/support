@@ -78,7 +78,7 @@ The Host should announce the line below at :57.
 
 At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server.
 
-**Host:** *Greetings, everyone, and welcome to this training session! You will start your training by watching a presentation on the monitors. For your success, your undivided attention is required.*
+<font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to this training session! You will start your training by watching a presentation on the monitors. For your success, your undivided attention is required.*
 
 
 <font color="#0F52BA">**Host:**</font> *Please keep in mind that chatting or distracting others is strictly prohibited at this time and will result in a removal from the server.*
@@ -98,7 +98,7 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 <font color="#0F52BA">**Co-Host:**</font> *As the presentation is now finished, you will be teleported to a trainer shortly. Once you are teleported, please refrain from wandering around.*
 
 
-*<font color="#0F52BA">**Co-Host:**</font> *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
+<font color="#0F52BA">**Co-Host:**</font> *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
 
 
 The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of four LRs to each trainer, depending on the number of trainers available.
@@ -135,7 +135,7 @@ This section will provide trainers with the training script. It is essential not
 
 **The introduction takes place at the cafe station.**
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.*</font>
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.*
 
 
 <font color="#0F52BA">**Trainer:**</font> *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
