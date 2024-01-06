@@ -11,13 +11,13 @@
 ### <font color="#C21807">Customer</font>
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
 
-### **Noted Customer**
+### <font color="#C21807">Noted Customer</font>
 
 
 - Individuals who have made noteworthy contributions to BloxStreet in various capacities, such as former SHRs, developers, and graphic designers
 - Not attainable by regular members
 
-### **Trainee Team Member** <span class="badge badge--warning">LR</span>
+### <font color="#C21807">Trainee Team Member</font> <span class="badge badge--warning">LR</span>
 - LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
 - Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
