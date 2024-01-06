@@ -8,7 +8,7 @@
 </div>
 
 
-### <font color="#C21807">Customer</font>
+### <font color="#00FFFF">Customer</font>
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
 
 ### <font color="#C21807">Noted Customer</font>
@@ -17,40 +17,40 @@
 - Individuals who have made noteworthy contributions to BloxStreet in various capacities, such as former SHRs, developers, and graphic designers
 - Not attainable by regular members
 
-### <font color="#C21807">Trainee Team Member</font> <span class="badge badge--warning">LR</span>
+### <font color="#FFD300">Trainee Team Member</font> <span class="badge badge--warning">LR</span>
 - LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
 - Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Junior Team Member** <span class="badge badge--warning">LR</span>
+### <font color="#FFD300">Junior Team Member</font> <span class="badge badge--warning">LR</span>
 - LR rank
 - Staff members who have successfully attended and passed one training session
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Have the opportunity to cuff shoplifters by purchasing cuffs
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Senior Team Member** <span class="badge badge--warning">LR</span>
+### <font color="#FFD300">Senior Team Member</font> <span class="badge badge--warning">LR</span>
 - LR rank
 - Staff members who have successfully attended and passed two training sessions
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### **Department Supervisor** <span class="badge badge--secondary">MR</span>
+### <font color="#E27602">Department Supervisor</font> <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
 - Must be noticed by a shift host, an SHR outside of a shift, or earn 800 points in total to be promoted
 
-### **Department Manager** <span class="badge badge--secondary">MR</span>
+### <font color="#E27602">Department Manager</font> <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 800 points in total
 - Responsible for working at store departments, restocking items, and cleaning spills
 - Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,000 points in total to be promoted
 
-### **Assistant Store Manager** <span class="badge badge--secondary">MR</span>
+### <font color="#E27602">Assistant Store Manager</font> <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
@@ -58,7 +58,7 @@
 - Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,500 points in total to be promoted
 
-### **Store Manager** <span class="badge badge--secondary">MR</span>
+### <font color="#E27602">Store Manager</font> <span class="badge badge--secondary">MR</span>
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,500 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
@@ -66,7 +66,7 @@
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 3,500 points in total to be promoted
 
-### **Store Director** <span class="badge badge--danger">HR</span>
+### <font color="#C21807">Store Director</font> <span class="badge badge--danger">HR</span>
 
 
 - HR rank
@@ -76,7 +76,7 @@
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 5,500 points in total to be promoted
 
-### **Executive Assistant** <span class="badge badge--danger">HR</span>
+### <font color="#C21807">Executive Assistant</font> <span class="badge badge--danger">HR</span>
 
 
 - HR rank
@@ -87,7 +87,7 @@
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 10,000 points in total to be promoted
 
-### **Store Executive** <span class="badge badge--danger">HR</span>
+### <font color="#C21807">Store Executive</font> <span class="badge badge--danger">HR</span>
 
 
 - HR rank
