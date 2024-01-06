@@ -7,7 +7,7 @@
   This is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
 </div>
 
-### Important Information
+### <font color="#C21807">Important Information</font>
 
 - Higher ranks may be subject to more severe punishments.
 - All punishments are subject to change depending on the severity of the community member's actions. Only SHRs may change a punishment from what is listed below.
@@ -19,7 +19,7 @@
 - If an action below does not occur in-game, HRs do not need to server ban the player. For example, if a community member is found simping for an SHR in the Discord server, there should be no server ban.
 - HRs may only use the :kick command to update a player's rank in case of a glitch.
 
-### Player Punishments
+### <font color="#C21807">Player Punishments</font>
 
 
 | Action | Punishment | Applies to | HR Action |
@@ -51,7 +51,7 @@
 | Encouragement of suicide or self-harm | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
 
 
-### LR+ Punishments
+### <font color="#C21807">LR+ Punishments</font>
 
 
 | Action | Punishment | Applies to | HR Action |
@@ -67,7 +67,7 @@
 | Simping for a higher rank | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
 
 
-### HR+ Punishments
+### <font color="#C21807">HR+ Punishments</font>
 
 
 | Action | Punishment | Applies to | HR Action |
