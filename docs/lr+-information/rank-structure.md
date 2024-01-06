@@ -8,7 +8,7 @@
 </div>
 
 
-### <font color="#00ff32">Customer</font>
+### <font color="#C21807">Customer</font>
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
 
 ### **Noted Customer**
