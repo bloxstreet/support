@@ -38,7 +38,7 @@ Yes, using the :h command in the Training Center is prohibited.
 Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
 
 ### How can I check my demotion reason?
-If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to open a ticket in the BloxStreet Discord server.
+If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to DM an SHR.
 
 ### Which ranks are permitted to train, host, and co-host at training sessions?
 Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions. They may host independently or with a co-host.
