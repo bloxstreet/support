@@ -101,7 +101,7 @@ Staff members are allowed to utilize alternate accounts for roleplaying purposes
 BloxStreet has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
 
 ### <font color="#C21807">Where can I report bugs and provide suggestions?</font>
-In order to report bugs and provide suggestions, visit [this link](https://discord.com/channels/323081832071561216/1122229192520638514).
+In order to report bugs and provide suggestions, visit [this link](https://discord.com/channels/323081832071561216/1170444163452514454).
 
 ### <font color="#C21807">How can I create a ticket?</font>
 To create a ticket, visit [#support](https://discord.com/channels/323081832071561216/1111320732903952478).
