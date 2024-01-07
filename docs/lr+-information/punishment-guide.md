@@ -1,3 +1,9 @@
+---
+sidebar_position: 4
+sidebar_label: Punishment Guide
+sidebar_class_name: LR+ Information
+---
+
 # Punishment Guide
 
 <div class="alert alert--primary" role="alert">
