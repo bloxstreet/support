@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+sidebar_label: Staff Promotions
+sidebar_class_name: LR+ Information
+---
+
 # Staff Promotions
 
 <div class="alert alert--primary" role="alert">
