@@ -34,7 +34,7 @@ Co-Hosts must use the three shouts below and may not modify them. The first shou
 ### <font color="#C21807">Training Attendance Format</font>
 To ensure accurate tracking of trainers and training session activity, training attendance is taken. After the completion of a training session, the Co-Host should immediately create a ticket through the [#support](https://discord.com/channels/323081832071561216/1111320732903952478) channel and submit the training attendance log. It is important to spell all usernames correctly and follow the format below, including proper spacing. Please note that failing to submit training attendance within 90 minutes of a session’s start will result in a logged warning.
 
-`mm/dd/yyyy @ x AM/PM EST Training Session Attendance
+mm/dd/yyyy @ x AM/PM EST Training Session Attendance
             
 	Host: (username)
 	Co-Host: (username) - if inapplicable, remove this from the attendance log
