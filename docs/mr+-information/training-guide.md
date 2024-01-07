@@ -109,13 +109,13 @@ Once the Host has successfully completed the teleportation process, they, along 
 
 This section provides an overview of the tests that trainers are required to perform. In the event that an LR needs to go AFK, trainers should not wait for their return. The maximum AFK duration is two minutes, ensuring that the LR does not miss significant content if the trainer maintains an average pace. Upon the LR's return from being AFK, the trainer should provide a summary of the covered topics and perform any missed tests. However, if all LRs disconnect or fail the training session, the trainer should promptly leave the server without notifying the Host or Co-Host.
 
-### <font color="#663399">Cafe Test</font>
+### <font color="#663399">Cafe Test Information</font>
 
 
 
 The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Please keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
-### <font color="#663399">Register Test</font>
+### <font color="#663399">Register Test Information</font>
 
 
 
@@ -303,7 +303,9 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
 
-**Trainers should FF their LRs by executing the command /e :ff (username).**
+**Trainers should FF their LRs by executing the command /e :ff (username) and take them to one of the designated purple/pink lines in the training room.** 
+
+The Host or Co-Host will then rank the LRs before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
 
 The Host and Co-Host should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
 
