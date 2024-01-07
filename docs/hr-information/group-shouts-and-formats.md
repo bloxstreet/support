@@ -45,6 +45,4 @@ To ensure accurate tracking of trainers and training session activity, training 
 `Trainer:`<br />
 `(list usernames vertically)`
 
-There is one space each between:
-- `mm/dd/yyyy @ x AM/PM EST Training Session Attendance` and `Host: (username)`
-- `Co-Host: (username) - if inapplicable, remove this from the attendance log` and `Trainer:`
+
