@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_label: Training Guide
+sidebar_class_name: MR+ Information
+---
+
 # Training Guide
 
 <div class="alert alert--primary" role="alert">
