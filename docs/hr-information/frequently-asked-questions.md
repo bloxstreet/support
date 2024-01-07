@@ -12,7 +12,7 @@ Here, HRs can find answers to frequently asked questions.
 
 :::
 
-### <font color="#C21807">How many HRs can supervise a store department?</font>
+### <font color="#C21807">How many HRs can supervise each store department?</font>
 A maximum of two HRs may supervise each store department.
 
 ### <font color="#C21807">Am I required to use grammar?</font>
