@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_label: Staff Regulations
+sidebar_class_name: LR+ Information
+---
+
 # Staff Regulations
 
 <div class="alert alert--primary" role="alert">
