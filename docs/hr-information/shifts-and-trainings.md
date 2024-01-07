@@ -54,14 +54,14 @@ If an HR's claim is approved, an SHR will indicate approval with a ✅ reaction.
 Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
 
-### <font color="#C21807">Shift Information</font>
+### <font color="#C21807">Basic Shift Information</font>
 **Basic Information:**
 - Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion.
 - Shifts also serve as times for guests to visit the store and have an enjoyable experience.
 - Shift hosts are responsible for ensuring a successful shift by supervising, ensuring staff members have detailed and courteous greetings, and recognizing outstanding performance by promoting individuals.
 - Shifts should be claimed at xx:00. Shifts can be claimed at xx:10 at the latest. A shift cannot be claimed after this time.
 
-**Promoting at Shifts:**
+### <font color="#C21807">Promoting at Shifts</font>
 During a shift, the host is permitted to promote Department Supervisors, Department Managers, and Assistant Store Managers. Store Managers, however, are ineligible for a promotion during shifts, although their contributions during shifts are still appreciated.
 
 __During the shift at the store, the host should consider the following before promoting individuals:__
@@ -72,7 +72,7 @@ __During the shift at the store, the host should consider the following before p
 
 If a player meets all the previously mentioned requirements, the host may proceed to promote them.
 
-Hosts should conduct shift promotions in a professional manner, wherein they directly approache staff members, extend their congratulations, and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Please be direct when conveying your intent to promote a staff member. After congratulating the promoted staff member, the host should provide them with brief information regarding their new rank responsibilities. The host should then instruct the staff member to rejoin the game for their new rank.
+Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations, and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Please be direct when conveying your intent to promote a staff member. After congratulating the promoted staff member, the host should provide them with brief information regarding their new rank responsibilities. The host should then instruct the staff member to rejoin the game for their new rank.
 
 It is important to note that the host is limited to promoting a maximum of **5** players per shift. Promotions should be viewed as a privilege rather than a right, and the host has the discretion to choose not to promote anyone if no staff members have surpassed their expectations. Additionally, there should only be one host during a shift. No other individuals may offer assistance, follow the host, or supervise the host.
 
