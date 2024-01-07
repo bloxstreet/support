@@ -69,11 +69,13 @@ Please keep in mind that HRs have the option of taking a break from BloxStreet b
 - We request refraining from making announcements 15 minutes prior to the commencement of any training session.
 
 __Acceptable Usages for Announcements:__
+
 `Thirsty? Head down to the cafe to enjoy a refreshing raspberry slushy! Sounds like a wonderful plan to me!`
 
 `More staff members are needed at the pharmacy.`
 
 __Unacceptable Usages for Announcements:__
+
 `Staff members, let’s take a group photo outside!`
 
 `Can another HR teleport to me, please?`
