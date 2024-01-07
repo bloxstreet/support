@@ -173,7 +173,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *Make sure to include the term "BloxStreet" in your greeting.*
 
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.</font>
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*</font>
 
 <br />
 
