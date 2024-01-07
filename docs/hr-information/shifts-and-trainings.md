@@ -12,7 +12,7 @@ Here, HRs can find information about shifts and training sessions.
 
 :::
 
-### <font color="#C21807">Claiming Shifts and Training Sessions: Information</font>
+### <font color="#C21807">Claiming Shifts and Training Sessions: Information and Formats</font>
 
 To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. HRs who cannot claim sessions at this time are encouraged to visit the [Claiming Exception Requests thread](https://discord.com/channels/323081832071561216/1177015340803293184). If you are unable to access the thread, you are encouraged to contact an SHR. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
 
