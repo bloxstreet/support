@@ -46,7 +46,7 @@ Executive Assistants and Store Executives are permitted to host training session
 
 If an HR's claim is approved, an SHR will indicate approval with a ✅ reaction. If declined, an SHR will use an ❎ reaction. Arguments about claiming will not be tolerated. An SHR will announce the schedule for the following day between 5:00 PM and 11:30 PM EST.
 
-Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
+Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement and informing the scheduler in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608). Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
 
 ### <font color="#C21807">Basic Shift Information</font>
