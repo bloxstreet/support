@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 # 👋 Welcome!
 
-<div class="alert alert--primary" role="alert">
+<div class="alert alert--danger" role="alert">
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
   </button>
