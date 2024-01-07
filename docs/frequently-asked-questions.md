@@ -6,12 +6,11 @@ sidebar_label: FAQ
 
 # Frequently Asked Questions
 
-<div class="alert alert--primary" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  Here, community members can find answers to frequently asked questions.
-</div>
+:::info
+
+Here, community members can find answers to frequently asked questions.
+
+:::
 
 ### <font color="#C21807">When are shifts hosted?</font>
 Shifts are hosted at 12 AM, 7 AM, 9 AM, 11 AM, 1 PM, 3 PM, 6 PM, 8 PM, and 10 PM. All times are in EST.
