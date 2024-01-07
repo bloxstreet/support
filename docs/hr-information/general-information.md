@@ -6,6 +6,12 @@ sidebar_class_name: HR Information
 
 # General Information
 
+:::info
+
+Here, HRs can find information about conduct, uniforms, communication, announcement usage, and resignations.
+
+:::
+
 ### <font color="#C21807">Conduct at BloxStreet</font>
 At BloxStreet, we place great importance on behavior, particularly in our services. Acting unprofessionally can have a negative impact on our establishment and HR team.
 
