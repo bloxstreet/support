@@ -54,7 +54,6 @@ Note that it is crucial to follow through on claimed shifts and training session
 
 
 ### <font color="#C21807">Basic Shift Information</font>
-**Basic Information:**
 - Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion.
 - Shifts also serve as times for guests to visit the store and have an enjoyable experience.
 - Shift hosts are responsible for ensuring a successful shift by supervising, ensuring staff members have detailed and courteous greetings, and recognizing outstanding performance by promoting individuals.
