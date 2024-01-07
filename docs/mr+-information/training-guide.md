@@ -121,13 +121,8 @@ The first phase of training is the Cafe Test. During this evaluation, LRs will b
 
 The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
 
-### <font color="#663399">Passing LRs</font>
 
-
-
-If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host or Co-Host will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
-
-### <font color="#663399">Training Process</font>
+### <font color="#663399">Introduction Script</font>
 
 
 
