@@ -23,12 +23,15 @@ Hosts must use these group shouts and may not modify them.
 Co-Hosts must use the three shouts below and may not modify them. The first shout is the same format announcers must use to announce training sessions in the store.
 
 **Training is Starting:**
+
 `📋 [TRAINING] | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance to rank up.`
 
 **Training is Locked:**
+
 `🔒 [TRAINING] | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the pharmacy and grab some allergy medicine?`
 
 **Training is Concluded:**
+
 `📋 [TRAINING] | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? [APPLY] | Interested in working at our establishment? Visit the Quiz Center!`
 
 ### <font color="#C21807">Training Attendance Format</font>
@@ -37,7 +40,9 @@ To ensure accurate tracking of trainers and training session activity, training 
 `mm/dd/yyyy @ x AM/PM EST Training Session Attendance
             
 Host: (username)
+
 Co-Host: (username) - if inapplicable, remove this from the attendance log
   
 Trainer:
+
 (list usernames vertically)`
