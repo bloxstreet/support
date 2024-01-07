@@ -10,7 +10,7 @@ sidebar_label: Introduction
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
   </button>
-  Find inaccurate information on this website? Contact avnemone.
+  Find incorrect information on this website? Contact avnemone.
 </div>
 
 🛍️ BloxStreet Corporation is the most prominent store-based establishment on the Roblox platform, dedicated to providing a lifelike and interactive shopping experience for every player. Our committed staff work tirelessly to ensure that each guest leaves satisfied after exploring our various store departments, including the meticulously designed cafe and advanced registers. BloxStreet Corporation is currently owned by PostlyTiked, but it is managed by the entire Senior High Rank team.
