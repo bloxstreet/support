@@ -6,13 +6,11 @@ sidebar_class_name: LR+ Information
 
 # Staff Promotions
 
-<div class="alert alert--primary" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  This guide outlines all of the necessary information about the promotion process at BloxStreet.
-</div>
+:::info
 
+This guide outlines all of the necessary information about the promotion process at BloxStreet.
+
+:::
 
 ### <font color="#C21807">Trainee Team Member - Senior Team Member</font>
 
