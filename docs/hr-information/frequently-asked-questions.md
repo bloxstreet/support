@@ -12,6 +12,9 @@ Here, HRs can find answers to frequently asked questions.
 
 :::
 
+### <font color="#C21807">How many HRs can supervise a store department?</font>
+A maximum of two HRs may supervise each store department.
+
 ### <font color="#C21807">Am I required to use grammar?</font>
 Grammar is always required in all BloxStreet games and in ban reasons, but it is not mandatory in private servers. Please keep in mind that grammar is not required in the BloxStreet Discord server.
 
