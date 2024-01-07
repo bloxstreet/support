@@ -18,20 +18,16 @@ To claim a shift or training session, HRs are required to use the provided forma
 
 **Shift Claiming Format:**
 
-`Host’s Username:`
-
-`Ranker’s Username:`
-
+`Host’s Username:`<br />
+`Ranker’s Username:`<br />
 `Shift Date & Time:`
 
 All HRs have the option to host shifts. Only individuals who hold the rank of Executive Assistant or higher are granted ranking privileges. As a result, Store Directors must have a ranker available for their shift before claiming. The ranker does not necessarily have to be in the store to perform their duties. It is the ranker's responsibility to be online and available when the Store Director is hosting their shift. In the case of Executive Assistants or Store Executives hosting a shift, they should exclude the 'Ranker's Username:' portion from the claiming message, as they are capable of ranking themselves.
 
 **Training Claiming Format:**
 
-`Host’s Username:`
-
-`Co-Host’s Username:`
-
+`Host’s Username:`<br />
+`Co-Host’s Username:`<br />
 `Training Date & Time:`
 
 Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message.
