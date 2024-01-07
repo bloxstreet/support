@@ -1,3 +1,9 @@
+---
+sidebar_position: 3
+sidebar_label: Rank Structure
+sidebar_class_name: LR+ Information
+---
+
 # Rank Structure
 
 <div class="alert alert--primary" role="alert">
