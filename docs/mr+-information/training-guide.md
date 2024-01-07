@@ -6,16 +6,14 @@ sidebar_class_name: MR+ Information
 
 # Training Guide
 
-<div class="alert alert--primary" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
+:::info
+
+The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
 * The text in <font color="#03AC13">*green italics*</font> is intended for the trainers to say during guide checking and while training LRs.
 * The text in **bold** provides instructions on what trainers should do.
-</div>
 
+:::
 
 ### <font color="#C21807">Training Behavior and Information</font>
 
