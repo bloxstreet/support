@@ -1,11 +1,5 @@
 # Punishment Guide
 
----
-sidebar_position: 4
-sidebar_label: Easy
-sidebar_class_name: green
----
-
 <div class="alert alert--primary" role="alert">
   <button aria-label="Close" class="clean-btn close" type="button">
     <span aria-hidden="true">&times;</span>
