@@ -6,13 +6,11 @@ sidebar_class_name: LR+ Information
 
 # Rank Structure
 
-<div class="alert alert--primary" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
-</div>
+:::info
 
+You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
+
+:::
 
 ### <font color="#00FFFF">Customer</font>
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
