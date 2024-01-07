@@ -6,12 +6,11 @@ sidebar_class_name: LR+ Information
 
 # Punishment Guide
 
-<div class="alert alert--primary" role="alert">
-  <button aria-label="Close" class="clean-btn close" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  This is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
-</div>
+:::info
+
+This is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
+
+:::
 
 ### <font color="#C21807">Important Information</font>
 
