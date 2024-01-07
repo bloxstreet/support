@@ -14,7 +14,6 @@ At BloxStreet, it is imperative that staff members abide by a set of regulations
 
 ### <font color="#C21807">Uniforms</font>
 
-![Uniform Example](https://i.ibb.co/wpSdb4t/image-2.webp)
 
 While on-duty, it is mandatory for all staff members to wear an official BloxStreet uniform. Staff members can easily equip a uniform by interacting with a locker and selecting their preferred hoodie or shirt.
 
