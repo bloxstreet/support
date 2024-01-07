@@ -17,15 +17,21 @@ Here, HRs can find information about shifts and training sessions.
 To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. HRs who cannot claim sessions at this time are encouraged to visit the [Claiming Exception Requests thread](https://discord.com/channels/323081832071561216/1177015340803293184). If you are unable to access the thread, you are encouraged to contact an SHR. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
 
 **Shift Claiming Format:**
+
 `Host’s Username:`
+
 `Ranker’s Username:`
+
 `Shift Date & Time:`
 
 All HRs have the option to host shifts. Only individuals who hold the rank of Executive Assistant or higher are granted ranking privileges. As a result, Store Directors must have a ranker available for their shift before claiming. The ranker does not necessarily have to be in the store to perform their duties. It is the ranker's responsibility to be online and available when the Store Director is hosting their shift. In the case of Executive Assistants or Store Executives hosting a shift, they should exclude the 'Ranker's Username:' portion from the claiming message, as they are capable of ranking themselves.
 
 **Training Claiming Format:**
+
 `Host’s Username:`
+
 `Co-Host’s Username:`
+
 `Training Date & Time:`
 
 Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message.
