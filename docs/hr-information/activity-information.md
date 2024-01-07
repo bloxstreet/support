@@ -22,7 +22,7 @@ To facilitate activity tracking, we use Hyra. If you haven't already, please sig
 
 
 ### <font color="#C21807">Inactivity Notices</font>
-If an HR is unable to meet an activity requirement or cannot remain active for three or more days, they should create a ticket in the [BloxStreet Staffing Support Discord](discord.gg/5yfvT5fntP). BloxStreet does not use Hyra for inactivity notices.
+If an HR is unable to meet an activity requirement or cannot remain active for three or more days, they should create a ticket in the [BloxStreet Staffing Support Discord](https://discord.com/invite/5yfvT5fntP). BloxStreet does not use Hyra for inactivity notices.
 
 __Inactivity Notice Rules:__
 - HRs are allowed to have an inactivity notice for a maximum duration of three weeks, and extensions may be granted in genuine cases. 
