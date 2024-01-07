@@ -63,9 +63,6 @@ Ping an SHR with the individual’s username to check for the punishment reason.
 ### <font color="#C21807">I am unable to attend my scheduled session, so what should I do?</font>
 If you are unable to attend your scheduled session, you must find a suitable replacement as soon as possible. Additionally, inform the SHR scheduler immediately in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) about the change.
 
-### <font color="#C21807">Am I allowed to post HR videos on YouTube and/or stream on any platform?</font>
-Yes. As long as you are not leaking any information, you may upload your video or stream it.
-
 ### <font color="#C21807">What is Hyra? Am I required to sign up?</font>
 Hyra is an activity tracker that counts the amount of time you spend at the store. In order to view this information yourself, you must make an account. However, this is not mandatory. Even if you do not own an account, activity will still be tracked.
 
