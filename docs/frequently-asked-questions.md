@@ -25,13 +25,13 @@ If you are a Store Manager, please ping or send a direct message to an HR. If yo
 Players who claim ranks through the points system do not face a cooldown period if they choose to work their way up through points. However, Store Managers and HRs who have acquired a rank through points and are seeking a promotion by getting recognized are subject to cooldowns.
 
 ### <font color="#C21807">What are some examples of point cheating?</font>
-Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points, joining a small server to expedite task completion, and removing items from shelves only to restock them shortly afterward.
+Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points and removing items from shelves only to restock them shortly afterward.
 
 ### <font color="#C21807">Which ranks receive access to moderator and admin commands?</font>
 Assistant Store Managers and Store Managers have access to moderator commands. Store Directors, Executive Assistants, and Store Executives have access to admin commands.
 
-### <font color="#C21807">Is it true that using the :h command in the Training Center is prohibited?</font>
-Yes, using the :h command in the Training Center is prohibited.
+### <font color="#C21807">Is it true that using the :h command in the Training Center is prohibited for trainers?</font>
+Yes, using the :h command in the Training Center is prohibited for trainers. Only the host and co-host may use the command.
 
 ### <font color="#C21807">What are shifts?</font>
 Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
@@ -133,4 +133,4 @@ No.
 The Public Relations Department handles BloxStreet's events. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations. [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) is the Upper Management of Public Relations, and [shakybreath](https://www.roblox.com/users/1599452692/profile) is an Assistant of Public Relations.
 
 ### <font color="#C21807">What is the Staffing Department?</font>
-The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [cellarce](https://www.roblox.com/users/512239445/profile), [EchoSt0rm](https://www.roblox.com/users/29623454/profile), [FlowersInAntarctica](https://www.roblox.com/users/218008636/profile), [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile), and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
+The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [cellarce](https://www.roblox.com/users/512239445/profile), [EchoSt0rm](https://www.roblox.com/users/29623454/profile), [FlowersInAntarctica](https://www.roblox.com/users/218008636/profile), and [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile) are Assistants of Staffing.
