@@ -20,9 +20,10 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 - Staff members who acquire a rank through points are still obligated to adhere to all of BloxStreet's rules. Failure to do so will result in the same disciplinary actions, such as demotions, blacklists, and permanent bans.
 - Certain punishments designated for staff members may also be applicable to non-staff.
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
-- Intentional leaking, gossiping, affiliating with gossip, and failing to report gossip are considered unappealable offenses. Apart from these, SHRs hold the authority to designate other offenses as unappealable on a case-by-case basis.
 - If an action below does not occur in-game, HRs do not need to server ban the player. For example, if a community member is found simping for an SHR in the Discord server, there should be no server ban.
 - HRs may only use the :kick command to update a player's rank in case of a glitch.
+
+Gossip Rules under review.
 
 ### <font color="#C21807">Player Punishments</font>
 
@@ -68,7 +69,6 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 | Point cheating | Blacklist | Staff | Once you have a clear screen recording, run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
 | Claiming a rank while blacklisted | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
 | Claiming the same rank more than once | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
-| Gossiping | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format OR DM a Group Director. |
 | Simping for a higher rank | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. |
 
 
