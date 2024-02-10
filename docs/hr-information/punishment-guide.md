@@ -84,4 +84,4 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 | Major admin abuse | Blacklist or permanent ban | High Ranks | DM a Group Administrator or Group Director, making sure to use the player report format. |
 | Abusing the group shout | Permanent ban | High Ranks | DM a Group Administrator or Group Director, making sure to use the player report format. |
 | Free ranking | Permanent ban | Executive Assistant+ | DM a Group Administrator or Group Director, making sure to use the player report format. |
-| Leaking chats or confidential information | Permanent ban | DM a Group Administrator or Group Director, making sure to use the player report format. |
+| Leaking chats or confidential information | Permanent ban | High Ranks | DM a Group Administrator or Group Director, making sure to use the player report format. |
