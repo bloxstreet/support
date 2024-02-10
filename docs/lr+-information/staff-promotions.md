@@ -71,6 +71,6 @@ Players have the opportunity to rank up by earning points, which can be used to 
 | Department Manager: 800 |
 | Assistant Store Manager: 1,000 |
 | Store Manager: 1,500 |
-| Store Director: 3,500 |
-| Executive Assistant: 5,500 |
-| Store Executive: 10,000 |
+| Store Director: 4,000 |
+| Executive Assistant: 6,500 |
+| Store Executive: 12,000 |
