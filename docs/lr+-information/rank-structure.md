@@ -68,33 +68,33 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
 - Granted access to moderator commands and are expected to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
-- Can also earn 3,500 points in total to be promoted
+- Can also earn 4,000 points in total to be promoted
 
 ### <font color="#C21807">Store Director</font> 
 
 
 - HR rank
-- Staff members who have been recognized by an SHR or have earned 3,500 points
+- Staff members who have been recognized by an SHR or have earned 4,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, participating in training sessions to assist in the training of LRs, banning rule violators in the store, hosting shifts, restocking items, and cleaning spills
 - Granted access to admin commands and are expected to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
-- Can also earn 5,500 points in total to be promoted
+- Can also earn 6,500 points in total to be promoted
 
 ### <font color="#C21807">Executive Assistant</font> 
 
 - HR rank
-- Staff members who have been recognized by an SHR or have earned 5,500 points
+- Staff members who have been recognized by an SHR or have earned 6,500 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
-- Can also earn 10,000 points in total to be promoted
+- Can also earn 12,000 points in total to be promoted
 
 ### <font color="#C21807">Store Executive</font> 
 
 
 - HR rank
-- Staff members who have been recognized by an SHR or have earned 10,000 points
+- Staff members who have been recognized by an SHR or have earned 12,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to use them responsibly
