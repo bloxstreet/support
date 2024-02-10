@@ -24,9 +24,6 @@ No, HRs may not go off-duty. HRs have additional responsibilities and can order 
 ### <font color="#C21807">When is it appropriate to use the in-game announcement system?</font>
 You may use the announcement system to advertise departments in the store, to announce a training session, and to request staff members at a department. We request refraining from advertising store departments 15 minutes prior to the commencement of any training session.
 
-### <font color="#C21807">What should I do if I need to go inactive for over three days?</font>
-You are required to create an inactivity notice in the BloxStreet Staffing Support server. 
-
 ### <font color="#C21807">If I need to go AFK while in-game, what should I do?</font>
 If you need to go AFK while in-game, stand against a wall or head to the staff room. If you anticipate being AFK for five or more minutes, you are encouraged to leave the server. Staying AFK for a prolonged period of time will result in a potential punishment.
 
@@ -39,17 +36,11 @@ Hinting for a promotion is when a staff member is expressing their want or need 
 ### <font color="#C21807">If I were to resign or get demoted, can I claim another HR rank again?</font>
 Yes, if you were to resign or get demoted, you are permitted to claim another HR rank. Note that you may not claim the same rank more than once.
 
-### <font color="#C21807">How can I hide my commands? Is it mandatory to hide commands?</font>
-You can hide your commands in two ways. To execute a command privately using the “/e” method, simply open the chat and enter the command as usual. Once entered, place an “/e” before the desired command to ensure it is hidden. Additionally, to access the console, simply press the “;” or “’” key on your keyboard. This action will display a GUI at the top of your screen. Unlike using commands in the chat, the console does not require a prefix before entering the command. Hiding commands is not required. It is not mandatory to hide commands.
-
 ### <font color="#C21807">May I purchase items while at the store?</font>
 Yes, all HRs are highly encouraged to test LRs’ and MRs’ greetings, provide feedback if necessary, and purchase items at the store.
 
 ### <font color="#C21807">I opened a ticket, but no one is answering. What should I do?</font>
 In most cases, tickets take up to 24 hours before they are solved. Feel free to ping a support staff member if your ticket is not answered within 24 hours.
-
-### <font color="#C21807">What are the HR activity requirements?</font>
-In order to avoid being reformed, you must spend at least 60 minutes at the store per week. You must also be moderately active in our Discord server. More information can be found in the Activity Requirements and Inactivity Notices section.
 
 ### <font color="#C21807">My account has been compromised. What should I do?</font>
 In this case, inform an SHR immediately. One will be able to assist you and take action. 
