@@ -21,9 +21,6 @@ Grammar is always required in all BloxStreet games and in ban reasons, but it is
 ### <font color="#C21807">Can I go off-duty as an HR?</font>
 No, HRs may not go off-duty. HRs have additional responsibilities and can order or check out from staff while on-duty.
 
-### <font color="#C21807">When is it appropriate to use the in-game announcement system?</font>
-You may use the announcement system to advertise departments in the store, to announce a training session, and to request staff members at a department. We request refraining from advertising store departments 15 minutes prior to the commencement of any training session.
-
 ### <font color="#C21807">If I need to go AFK while in-game, what should I do?</font>
 If you need to go AFK while in-game, stand against a wall or head to the staff room. If you anticipate being AFK for five or more minutes, you are encouraged to leave the server. Staying AFK for a prolonged period of time will result in a potential punishment.
 
@@ -39,9 +36,6 @@ Yes, if you were to resign or get demoted, you are permitted to claim another HR
 ### <font color="#C21807">May I purchase items while at the store?</font>
 Yes, all HRs are highly encouraged to test LRs’ and MRs’ greetings, provide feedback if necessary, and purchase items at the store.
 
-### <font color="#C21807">I opened a ticket, but no one is answering. What should I do?</font>
-In most cases, tickets take up to 24 hours before they are solved. Feel free to ping a support staff member if your ticket is not answered within 24 hours.
-
 ### <font color="#C21807">My account has been compromised. What should I do?</font>
 In this case, inform an SHR immediately. One will be able to assist you and take action. 
 
@@ -56,9 +50,6 @@ Ping an SHR with the individual’s username to check for the punishment reason.
 
 ### <font color="#C21807">I am unable to attend my scheduled session, so what should I do?</font>
 If you are unable to attend your scheduled session, you must find a suitable replacement as soon as possible. Additionally, inform the SHR scheduler immediately in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) about the change.
-
-### <font color="#C21807">What is Hyra? Am I required to sign up?</font>
-Hyra is an activity tracker that counts the amount of time you spend at the store. In order to view this information yourself, you must make an account. However, this is not mandatory. Even if you do not own an account, activity will still be tracked.
 
 ### <font color="#C21807">Someone claims to have purchased their rank, but Jupiter did not rank them. What should I do?</font>
 Instruct the individual to create a ticket in the BloxStreet Discord server. Do not rank the player.
