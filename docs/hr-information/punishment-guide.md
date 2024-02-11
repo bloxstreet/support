@@ -22,6 +22,7 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
 - If an action below does not occur in-game, HRs do not need to server ban the player. For example, if a community member is found simping for an SHR in the Discord server, there should be no server ban.
 - HRs may only use the :kick command to update a player's rank in case of a glitch.
+- Group Directors have the right to hold certain punishments as unappealable.
 
 ### <font color="#C21807">Player Punishments</font>
 
@@ -53,6 +54,7 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 | Major threats | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. If the individual is an HR, DM a Group Administrator or Group Director, making sure to use the player report format. |
 | Offensive language | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. If the individual is an HR, DM a Group Administrator or Group Director, making sure to use the player report format. |
 | Encouragement of suicide or self-harm | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478), making sure to use the player report format. If the individual is an HR, DM a Group Administrator or Group Director, making sure to use the player report format. |
+| Gossiping | Punishment varies | Everyone | DM a Group Administrator or Group Director, making sure to use the player report format. |
 
 
 ### <font color="#C21807">LR+ Punishments</font>
