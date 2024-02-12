@@ -22,7 +22,7 @@ Training sessions are hosted at 2 AM (weekends only), 6 AM (weekends only), 10 A
 If you are a Store Manager, please ping or send a direct message to an HR. If you are an HR, please ping an SHR.
 
 ### <font color="#C21807">Do players who claim ranks through the points system face a cooldown period?</font>
-Players who claim ranks through the points system do not face a cooldown period if they choose to work their way up through points. However, Store Managers and HRs who have acquired a rank through points and are seeking a promotion by getting recognized are subject to cooldowns.
+Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns.
 
 ### <font color="#C21807">What are some examples of point cheating?</font>
 Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points and removing items from shelves only to restock them shortly afterward.
