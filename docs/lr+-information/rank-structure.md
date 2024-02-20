@@ -58,7 +58,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
-- Granted access to moderator commands and are expected to use them responsibly
+- Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,500 points in total to be promoted
 
@@ -66,7 +66,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,500 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
-- Granted access to moderator commands and are expected to use them responsibly
+- Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 4,000 points in total to be promoted
 
@@ -76,7 +76,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - HR rank
 - Staff members who have been recognized by an SHR or have earned 4,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, participating in training sessions to assist in the training of LRs, banning rule violators in the store, hosting shifts, restocking items, and cleaning spills
-- Granted access to admin commands and are expected to use them responsibly
+- Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 6,500 points in total to be promoted
 
@@ -86,7 +86,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Staff members who have been recognized by an SHR or have earned 6,500 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
-- Granted access to admin commands and are expected to use them responsibly
+- Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 12,000 points in total to be promoted
 
@@ -97,5 +97,5 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Staff members who have been recognized by an SHR or have earned 12,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
-- Granted access to admin commands and are expected to use them responsibly
+- Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must complete their three month cooldown to be promoted, with exceptions being made when decided by Group Director+
