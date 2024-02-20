@@ -27,8 +27,8 @@ If you need to go AFK while in-game, stand against a wall or head to the staff r
 ### <font color="#C21807">How do I become a Ticket Support Assistant?</font>
 Ticket Support Assistant applications are announced randomly. If you meet the expectations and requirements outlined in the announcement, you may apply. 
 
-### <font color="#C21807">What classifies as hinting?</font>
-Hinting for a promotion is when a staff member is expressing their want or need for one. An example of this would be a staff member saying, "I really want a promotion, I've worked so hard!” If this occurs, be sure to issue a logged warning in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If this is their second offense, contact an Executive Assistant+ to issue a demotion. Keep in mind that asking how to get promoted or how shifts work is not hinting. If in doubt, speak to your colleagues in [#hr-room](https://discord.com/channels/323081832071561216/600727208155414546).
+### <font color="#C21807">What classifies as demanding a promotion?</font>
+Demanding a promotion is when a staff member telling you to promote them. An example of this would be a staff member saying, "GIVE ME A PROMOTION RIGHT NOW" or "I don't understand why I haven't been promoted after working for six hours. Give me a promotion." If this occurs, be sure to issue a logged warning in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If this is their second offense, contact an Executive Assistant+ to issue a demotion. Phrases such as "I've worked for six hours and still haven't been promoted," "Aw man, I worked so hard and didn't get promoted this shift," or "Can I be promoted because I've had this role forever?" are not punishable. If in doubt, speak to your colleagues in [#hr-room](https://discord.com/channels/323081832071561216/600727208155414546).
 
 ### <font color="#C21807">If I were to resign or get demoted, can I claim another HR rank again?</font>
 Yes, if you were to resign or get demoted, you are permitted to claim another HR rank. Note that you may not claim the same rank more than once.
