@@ -61,7 +61,7 @@ Professionalism while off-duty is required, as staff members are still represent
 Junior Team Member+ can purchase cuffs for 300 Robux.
 
 ### <font color="#C21807">Can staff members cuff trollers?</font>
-Staff members should not cuff trollers. Instead, they should contact an HR through the BloxStreet Discord server.
+LRs and MRs have the authority to cuff trollers to ensure a positive player experience. These staff members should reach out to an HR to ban trollers from the server after cuffing them. 
 
 ### <font color="#C21807">How many staff members can work at the help desk? Are staff members required to own cuffs to work at the help desk?</font>
 A maximum of one staff member is allowed to assist at the help desk. Staff members are not required to own cuffs to work at the help desk.
