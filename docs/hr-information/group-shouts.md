@@ -1,14 +1,14 @@
 ---
 sidebar_position: 6
-sidebar_label: Group Shouts and Formats
+sidebar_label: Group Shouts
 sidebar_class_name: HR Information
 ---
 
-# Group Shouts and Formats
+# Group Shouts
 
 :::info
 
-Here, HRs can find the group shouts used for shifts and trainings, as well as important formats.
+Here, HRs can find the group shouts used for shifts and trainings.
 
 :::
 
