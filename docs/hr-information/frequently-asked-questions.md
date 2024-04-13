@@ -24,9 +24,6 @@ No, HRs may not go off-duty. HRs have additional responsibilities and can order 
 ### <font color="#C21807">If I need to go AFK while in-game, what should I do?</font>
 If you need to go AFK while in-game, stand against a wall or head to the staff room. If you anticipate being AFK for five or more minutes, you are encouraged to leave the server. Staying AFK for a prolonged period of time will result in a potential punishment.
 
-### <font color="#C21807">How do I become a Ticket Support Assistant?</font>
-Ticket Support Assistant applications are announced randomly. If you meet the expectations and requirements outlined in the announcement, you may apply. 
-
 ### <font color="#C21807">What classifies as demanding a promotion?</font>
 Demanding a promotion is when a staff member tells you to promote them. An example of this would be a staff member saying, "GIVE ME A PROMOTION RIGHT NOW" or "I don't understand why I haven't been promoted after working for six hours. Give me a promotion." If this occurs, be sure to issue a logged warning in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If this is their second offense, contact an Executive Assistant+ to issue a demotion. Phrases such as "I've worked for six hours and still haven't been promoted," "Aw man, I worked so hard and didn't get promoted this shift," or "Can I be promoted because I've had this role forever?" are not punishable. If in doubt, speak to your colleagues in [#hr-room](https://discord.com/channels/323081832071561216/600727208155414546).
 
