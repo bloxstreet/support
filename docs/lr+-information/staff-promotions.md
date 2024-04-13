@@ -18,7 +18,7 @@ Trainee, Junior, and Senior Team Members must attend training sessions to progre
 
 ### <font color="#C21807">Department Supervisor - Assistant Store Manager</font>
 
-To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. It is important to avoid hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, including a logged warning or demotion to the Customer rank. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR for a promotion is not permitted.
+To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR is not permitted.
 
 ### <font color="#C21807">Store Manager - Store Executive</font>
 
@@ -31,14 +31,13 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 > 2.   Store Managers must possess a certain number of characteristics, such as professionalism, maturity, and respect.
 > 3.   Having past moderation history will significantly decrease an individual's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
 > 4.   Store Managers wishing to receive a promotion should remain active in the BloxStreet Discord server. Talking in channels and attending events does help.
-> 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
+> 5.   Store Managers should work frequently at the store. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
 > 6.   Avoid sucking up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping.
-> 7.   Hinting for a promotion will not benefit one in any way. Doing so will result in a logged warning and a demotion to Customer if repeated.
-> 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer.
-> 9.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
-> 10.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory.
-> 11.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
-> 12.  Grammar in the Discord server does not play a role in promotions.
+> 7.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer.
+> 8.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
+> 9.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory.
+> 10.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
+> 11.  Grammar in the Discord server does not play a role in promotions.
 
 > Keep in mind that these include only some requirements Store Managers must meet.
 
@@ -73,4 +72,4 @@ Players have the opportunity to rank up by earning points, which can be used to 
 | Store Manager: 1,500 |
 | Store Director: 4,000 |
 | Executive Assistant: 6,500 |
-| Store Executive: 12,000 |
+| Store Executive: 10,000 |
