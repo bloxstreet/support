@@ -30,7 +30,7 @@ All HRs have the option to host shifts. Only individuals who hold the rank of Ex
 `Co-Host’s Username:`<br />
 `Training Date & Time:`
 
-Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message.
+Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message. To request a co-host, HRs must add one when claiming a session. Adding a co-host after claiming a session is not allowed.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
 
@@ -59,7 +59,7 @@ Note that it is crucial to follow through on claimed shifts and training session
 During a shift, the host is permitted to promote Department Supervisors, Department Managers, and Assistant Store Managers. Store Managers, however, are ineligible for a promotion during shifts, although their contributions during shifts are still appreciated.
 
 __During the shift at the store, the host should consider the following before promoting individuals:__
-- Staff members who have recently viewed or followed the shift host or hinted recently should be excluded from promotion consideration.
+- Staff members who have recently viewed or followed the shift host or complained recently should be excluded from promotion consideration.
 - Professionalism, politeness, respect, hard work, excellent grammar, and unique greetings are required for MRs seeking a promotion.
 - The host should attempt to check all store departments.
 - The host has the option to approach players and engage with them by checking out or ordering an item.
