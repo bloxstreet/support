@@ -88,13 +88,13 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by an SHR to be promoted
-- Can also earn 12,000 points in total to be promoted
+- Can also earn 10,000 points in total to be promoted
 
 ### <font color="#C21807">Store Executive</font> 
 
 
 - HR rank
-- Staff members who have been recognized by an SHR or have earned 12,000 points
+- Staff members who have been recognized by an SHR or have earned 10,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
