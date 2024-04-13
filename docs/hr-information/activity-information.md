@@ -8,15 +8,13 @@ sidebar_class_name: HR Information
 
 :::info
 
-Here, HRs can find information about activity requirements, inactivity notices, and monthly reforms.
+Here, HRs can find information about the activity requirement, inactivity notices, and monthly reforms.
 
 :::
 
 
-### <font color="#C21807">Activity Requirements</font>
+### <font color="#C21807">Activity Requirement</font>
 - All HRs are required to spend a minimum of 60 minutes per week or 120 minutes every two weeks at the store.
-- All HRs are required to attend at least one training session each week. Hosting, co-hosting, and training LRs all count as attending. HRs who cannot meet this requirement must contact discentted through DMs.
-- All HRs are required to actively engage in conversations in the Discord chats.
 
 To facilitate activity tracking, we use Hyra. If you haven't already, please sign up for Hyra using [this link](https://app.hyra.io/get-started). HRs who lose their minutes on Hyra are encouraged to create a ticket in the BloxStreet Staffing Support server, making sure to use the format shown in the ticket.
 
