@@ -30,9 +30,6 @@ Point cheating includes actions such as using alternate accounts or enlisting fr
 ### <font color="#C21807">Which ranks receive access to moderator and admin commands?</font>
 Assistant Store Managers and Store Managers have access to moderator commands. Store Directors, Executive Assistants, and Store Executives have access to admin commands.
 
-### <font color="#C21807">Is it true that using the :h command in the Training Center is prohibited for trainers?</font>
-Yes, using the :h command in the Training Center is prohibited for trainers. Only the host and co-host may use the command.
-
 ### <font color="#C21807">What are shifts?</font>
 Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
 
@@ -43,7 +40,7 @@ If you have been demoted and would like to understand the reasons behind your de
 Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions. They may host independently or with a co-host.
 
 ### <font color="#C21807">How can I earn points?</font>
-Staff members can earn one point for each successful restock, two points for each spill cleaned, two points for working at any department with POS systems, and three points for working at the main registers.
+Staff members can earn one point for each successful restock, one point for working at any department with POS systems, one point for working at the main registers, two points for each spill cleaned, and two points for working at the hotel.
 
 ### <font color="#C21807">What are BloxStreet’s uniform policies?</font>
 In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.com/lr+-information/staff-regulations.html).
