@@ -45,26 +45,26 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
-- Must be noticed by a shift host, an SHR outside of a shift, or earn 800 points in total to be promoted
+- Must be noticed by a shift host, an SHR outside of a shift, or earn 1,000 points in total to be promoted
 
 ### <font color="#E27602">Department Manager</font> 
 - MR rank
-- Staff members who have been recognized by a shift host or an SHR or have earned 800 points in total
-- Responsible for working at store departments, restocking items, and cleaning spills
-- Be recognized by a shift host or an SHR outside of a shift to be promoted
-- Can also earn 1,000 points in total to be promoted
-
-### <font color="#E27602">Assistant Store Manager</font> 
-- MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
-- Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
-- Granted access to moderator commands and are expected to hide their commands and to use them responsibly
+- Responsible for working at store departments, restocking items, and cleaning spills
 - Be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 1,500 points in total to be promoted
 
-### <font color="#E27602">Store Manager</font> 
+### <font color="#E27602">Assistant Store Manager</font> 
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,500 points in total
+- Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
+- Granted access to moderator commands and are expected to hide their commands and to use them responsibly
+- Be recognized by a shift host or an SHR outside of a shift to be promoted
+- Can also earn 2,000 points in total to be promoted
+
+### <font color="#E27602">Store Manager</font> 
+- MR rank
+- Staff members who have been recognized by a shift host or an SHR or have earned 2,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
 - Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
