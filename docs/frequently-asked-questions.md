@@ -25,7 +25,7 @@ If you are a Store Manager, please ping or send a direct message to an HR. If yo
 Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns.
 
 ### <font color="#C21807">What are some examples of point cheating?</font>
-Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points and removing items from shelves only to restock them shortly afterward.
+Point cheating includes actions such as using alternate accounts or enlisting friends to remove items from shelves, allowing the staff member to restock them shortly afterward.
 
 ### <font color="#C21807">Which ranks receive access to moderator and admin commands?</font>
 Assistant Store Managers and Store Managers have access to moderator commands. Store Directors, Executive Assistants, and Store Executives have access to admin commands.
