@@ -14,7 +14,9 @@ Here, HRs can find information about the activity requirement, inactivity notice
 
 
 ### <font color="#C21807">Activity Requirement</font>
-- All HRs are required to spend a minimum of 60 minutes per week or 120 minutes every two weeks at the store.
+- All HRs are required to spend a minimum of 60 minutes per week at the store.
+
+Please note that one week's minutes of activity are not transferable to another week. For example, if you complete 180 minutes in one week, you are **not** set for three weeks.
 
 To facilitate activity tracking, we use Hyra. If you haven't already, please sign up for Hyra using [this link](https://app.hyra.io/get-started). HRs who lose their minutes on Hyra are encouraged to create a ticket in the BloxStreet Staffing Support server, making sure to use the format shown in the ticket.
 
