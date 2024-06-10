@@ -24,7 +24,10 @@ __Expectations:__
 - All HRs are not allowed to misuse any special permissions, such as the announcement feature.
 
 ### <font color="#C21807">Uniform Rules</font>
-HRs have the flexibility to choose from various clothing options. HRs can wear any suitable attire along with the HR badge, opt for the MR/HR uniform (with or without the HR badge), or have a hoodie featuring "BloxStreet" (with or without the HR badge).
+HRs have several clothing options:
+- Wear any suitable attire along with the HR badge
+- Opt for the MR/HR uniform (with or without the HR badge)
+- Have a hoodie featuring "BloxStreet" (with or without the HR badge)
 
 __Allowed:__
 - Leg warmers or socks past the knees
