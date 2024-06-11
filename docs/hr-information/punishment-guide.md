@@ -22,6 +22,7 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
 - If an action below does not occur in-game, HRs do not need to server ban the player. For example, if a community member is found simping for an SHR in the Discord server, there should be no server ban.
 - HRs may only use the :kick command to update a player's rank in case of a glitch, when punishing people crowding or excessively large avatars that obstruct the view.
+- If a player has been demoted twice, they can be blacklisted. Create a ticket if this is the case.
 - Group Directors have the right to hold certain punishments as unappealable.
 
 ### <font color="#C21807">Player Punishments</font>
