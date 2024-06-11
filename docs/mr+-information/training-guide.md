@@ -33,7 +33,7 @@ Below is an overview of each rank's job at training sessions.
 | Job        | Description          | Eligible Ranks | Quantity |
 |:-------------|:------------------|:------|:-------------------|
 | Host | The Host should join the Training Center between :35 and :40 and claim the session using the GUI at :45. The Host assumes several key responsibilities in the training session, including leading the session and delivering the introduction. They are also responsible for verifying that trainers have the correct guide version, whitelisting trainers, supervising the session to ensure smooth operation, and ranking. | Executive Assistant+ | **1** host per training |
-| Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts, verifying that trainers have the correct guide version, and recording [training attendance](https://support.bloxstreet.com/hr-information/group-shouts-and-formats#training-attendance-format) using the appropriate format. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. It is crucial for the Co-Host to accurately submit the training attendance in a ticket, adhering to the designated format. | Executive Assistant+  | **1** co-host per training - please note that co-hosts are OPTIONAL |
+| Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts and verifying that trainers have the correct guide version. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. | Executive Assistant+  | **1** co-host per training - please note that co-hosts are OPTIONAL |
 | Announcer | The announcer is tasked with making the announcement about the training session in all large servers of the store. The selection of the announcer is made by the Host, who has the authority to choose an individual for this specific role. | Store Director+ | **1** announcer per training
 | Trainer           | Trainers are expected to join the Training Center at :45 and carefully follow the instructions provided in this guide. Trainers conduct a series of tests and evaluate the performance of their LRs based on the criteria outlined in this guide. | Store Manager+ | Maximum of **16 trainers** (1 trainer per station)  |
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
@@ -59,7 +59,7 @@ At :45, which is 15 minutes before the training session begins, the Host should 
 
 ### <font color="#FFD300">Host and/or Co-Host: Guide Checking</font>
 
-After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below.
+After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below. To speed up guide checking, the Host and Co-Host are permitted to skip trainers whom they know already have the guide because they were previously tested.
 
 <font color="#0F52BA">**Host and/or Co-Host:**</font> *Hello! Please state all green lines found on the training guide. There are three in total.*
 
@@ -105,7 +105,7 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 <font color="#0F52BA">**Co-Host:**</font> *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
 
 
-The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of four LRs to each trainer, depending on the number of trainers available.
+The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of six LRs to each trainer, depending on the number of trainers available.
 
 Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. By this point, the Co-Host should have already taken the training attendance.
 
@@ -123,7 +123,7 @@ The first phase of training is the Cafe Test. During this evaluation, LRs will b
 
 
 
-The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
+The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
 
 
 ### <font color="#663399">Introduction Script</font>
@@ -317,4 +317,4 @@ After guiding their LRs to a purple ranking line, trainers should leave the Trai
 
 ### <font color="#C21807">Training Conclusion</font>
 
-Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host and Co-Host only are not permitted after training sessions. The Host or an SHR should run the command "/e :shutdown Concluded." to shutdown the server. Additionally, the Co-Host should send the final group shout and submit the training attendance through a ticket.
+Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host and Co-Host only are not permitted after training sessions. The Co-Host should send the final group shout at this time.
