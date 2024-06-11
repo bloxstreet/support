@@ -107,7 +107,7 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 
 The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of six LRs to each trainer, depending on the number of trainers available.
 
-Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. By this point, the Co-Host should have already taken the training attendance.
+Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers.
 
 ## <font color="#663399">Trainer Scripts</font>
 
