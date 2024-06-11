@@ -59,7 +59,7 @@ At :45, which is 15 minutes before the training session begins, the Host should 
 
 ### <font color="#FFD300">Host and/or Co-Host: Guide Checking</font>
 
-After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below. To speed up guide checking, the Host and Co-Host are permitted to skip trainers whom they know already have the guide because they were previously tested.
+After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below. To speed up guide checking, the Host and Co-Host are permitted to skip trainers whom they know already have the guide because they were previously tested.
 
 <font color="#0F52BA">**Host and/or Co-Host:**</font> *Hello! Please state all green lines found on the training guide. There are three in total.*
 
