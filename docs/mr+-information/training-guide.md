@@ -24,7 +24,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Although Store Managers are not required to use grammar at the store, they are required to when training LRs. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
-* Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Please be direct when conveying your intent to pass LRs.
+* Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Be direct when conveying your intent to pass LRs.
 
 ### <font color="#C21807">Rank Information</font>
 
@@ -33,7 +33,7 @@ Below is an overview of each rank's job at training sessions.
 | Job        | Description          | Eligible Ranks | Quantity |
 |:-------------|:------------------|:------|:-------------------|
 | Host | The Host should join the Training Center between :35 and :40 and claim the session using the GUI at :45. The Host assumes several key responsibilities in the training session, including leading the session and delivering the introduction. They are also responsible for verifying that trainers have the correct guide version, whitelisting trainers, supervising the session to ensure smooth operation, and ranking. | Executive Assistant+ | **1** host per training |
-| Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts and verifying that trainers have the correct guide version. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. | Executive Assistant+  | **1** co-host per training - please note that co-hosts are OPTIONAL |
+| Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts and verifying that trainers have the correct guide version. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. | Executive Assistant+  | **1** co-host per training - note that co-hosts are OPTIONAL |
 | Announcer | The announcer is tasked with making the announcement about the training session in all large servers of the store. The selection of the announcer is made by the Host, who has the authority to choose an individual for this specific role. | Store Director+ | **1** announcer per training
 | Trainer           | Trainers are expected to join the Training Center at :45 and carefully follow the instructions provided in this guide. Trainers conduct a series of tests and evaluate the performance of their LRs based on the criteria outlined in this guide. | Store Manager+ | Maximum of **16 trainers** (1 trainer per station)  |
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
@@ -117,7 +117,7 @@ This section provides an overview of the tests that trainers are required to per
 
 
 
-The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Please keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
+The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
 ### <font color="#663399">Register Test Information</font>
 
