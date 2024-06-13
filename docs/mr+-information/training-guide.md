@@ -175,10 +175,8 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *Make sure to include the term "BloxStreet" in your greeting.*
 
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*</font>
+<font color="#0F52BA">**Trainer:**</font> *While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*
 
-<br />
-<br />
 
 <font color="#0F52BA">**Trainer:**</font> *Feel free to utilize the !notepad command to record the customer's order.*
 
@@ -236,29 +234,50 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 **This test takes place at the register.**
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*</font>
-
-<br />
-<br />
+<font color="#0F52BA">**Trainer:**</font> *Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*
 
 **Ensure all LRs are signed out of their cafe registers before proceeding.**
 
-<font color="#0F52BA">**Trainer:**</font> *Follow me so we can start the Register Test. When at the register, form a line facing the register from the cashier point.*
+<font color="#0F52BA">**Trainer:**</font> *Follow me so we can begin the Register Test. When we reach the register station, each of you should stand in front of a computer.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *When a customer approaches your cash register, similar to the cafe, it is essential to greet them with a polite and friendly greeting.*
+<font color="#0F52BA">**Trainer:**</font> *We will now begin the Register Test.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *When a customer requests to proceed with checkout, click on the "Start Sale" button on the register.*
+<font color="#0F52BA">**Trainer:**</font> *When a customer approaches your register at the store, it is essential to greet them with a polite and friendly greeting.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *After selecting the customer's username, proceed to click on the "Finalize Sale" button.*
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Before assisting a customer with their purchase, equip the Staff Card from your inventory and swipe it on the computer. You only need to do this once.* </font>
+
+<br />
+<br />
 
 
-<font color="#0F52BA">**Trainer:**</font> *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
+<font color="#0F52BA">**Trainer:**</font> *After confirming that you are signed into the computer, have the customer scan their Loyalty Card.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Once the Loyalty Card has been scanned, the computer will automatically detect the customer's items and display them on your screen.* </font>
+
+<br />
+<br />
+
+
+<font color="#0F52BA">**Trainer:**</font> *Afterwards, click "Finalize Transaction" in the top right corner of the computer screen.*
+
+
+<font color="#0F52BA">**Trainer:**</font> *Next, ask the customer which payment method they would like to use for their purchase: their Cash Card or Robux.*
+
+
+<font color="#0F52BA">**Trainer:**</font> *Once the payment is made, the customer will receive their items. At this point, wish them an enjoyable rest of their day.* 
+
+
+<font color="#0F52BA">**Trainer:**</font> *Note that if the customer wishes to void the transaction at any point, click on "Void Transaction."*
+
+
+<font color="#0F52BA">**Trainer:**</font> *To log out of the register, click on "Sign Out." You must always do this before moving to a different station within the store.*
+
+
+<font color="#0F52BA">**Trainer:**</font> *For this test, you will check me out by following the instructions I provided. Please note that I do not have any items with me, so no items will appear on the computer screen.*
 
 
 <font color="#0F52BA">**Trainer:**</font> *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
@@ -274,7 +293,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Wait for them to say.** *Thank you!*
 
 
-**If an LR claims their register is not working, check to see if they are signed into another register. If they are, have them sign out of the register. If not, have them roleplay the simulation. Trainers may not fail their LRs if the register is not functioning properly.**
+**If an LR claims their computer is not working, check to see if they are signed into another one. If they are, have them sign out of the computer. If not, have them roleplay the simulation. Trainers may not fail their LRs if a computer is not functioning properly.**
 
 **If they pass, proceed. If they fail, use the line below.**
 
