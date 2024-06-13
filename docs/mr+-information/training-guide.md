@@ -232,13 +232,15 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-**This test takes place at the register.**
+**This test takes place at the register station.**
 
 <font color="#0F52BA">**Trainer:**</font> *Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*
 
 **Ensure all LRs are signed out of their cafe registers before proceeding.**
 
 <font color="#0F52BA">**Trainer:**</font> *Follow me so we can begin the Register Test. When we reach the register station, each of you should stand in front of a computer.*
+
+**At this point, head to the register station.**
 
 
 <font color="#0F52BA">**Trainer:**</font> *We will now begin the Register Test.*
