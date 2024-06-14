@@ -37,7 +37,7 @@ Co-Hosts must use the three shouts below and may not modify them. The first shou
 ### <font color="#C21807">Congratulatory Formats for Shift Promotions</font>
 Shift hosts must use the following messages when promoting staff members.
 
-**Department Supervisor -> Department Manager**
+**Department Supervisor -> Department Manager:**
 
 `Congratulations, you have been promoted to Department Manager! In this role, you will continue to work at the store's departments, restock shelves, and clean up spills.`
 
@@ -45,7 +45,7 @@ Shift hosts must use the following messages when promoting staff members.
 
 `Please rejoin to claim your new rank! Keep up the excellent work!`
 
-**Department Manager -> Assistant Store Manager**
+**Department Manager -> Assistant Store Manager:**
 
 `Congratulations, you have been promoted to Assistant Store Manager! In this role, you will continue working at the store's departments, restock shelves, and clean up spills.`
 
@@ -55,7 +55,7 @@ Shift hosts must use the following messages when promoting staff members.
 
 `Please rejoin to claim your new rank! Keep up the excellent work!`
 
-**Assistant Store Manager -> Store Manager**
+**Assistant Store Manager -> Store Manager:**
 
 `Congratulations, you have been promoted to Store Manager! In this role, you will continue working at the store's departments, restock shelves, and clean up spills.`
 
