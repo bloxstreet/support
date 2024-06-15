@@ -47,7 +47,7 @@ This section provides an overview of the responsibilities and duties assigned to
 
 
 
-Prior to the commencement of the training session, it is the responsibility of the Host to find an HR who will be responsible for announcing the training session in all large servers of the store. The Host should ensure that the HR uses the appropriate format when making the announcement.
+Prior to the commencement of the training session, it is the responsibility of the Host to find an HR who will be responsible for announcing the training session in all store servers that have at least 40 players. The Host should ensure that the HR uses the appropriate format when making the announcement.
 
 Between :35 and :40, it is expected that both the Host and Co-Host arrive at the Training Center to prepare for the training session. It is the responsibility of both the Host and Co-Host to ensure they are online and punctual for the session. Failing to attend a claimed session without giving a notice will result in a punishment (if done repetitively).
 
