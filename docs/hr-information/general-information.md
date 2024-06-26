@@ -25,9 +25,11 @@ __Expectations:__
 
 ### <font color="#C21807">Uniform Rules</font>
 HRs have several clothing options:
-- Wear any suitable attire along with the HR badge
-- Opt for the MR/HR uniform (with or without the HR badge)
-- Have a hoodie featuring "BloxStreet" (with or without the HR badge)
+- MR/HR Shirt & Tie with the HR badge
+- MR/HR Shirt & Tie without the HR badge 
+- Hoodies or BloxStreet uniforms
+
+HRs may **NOT** wear casual clothing with the HR badge.
 
 __Allowed:__
 - Leg warmers or socks past the knees
