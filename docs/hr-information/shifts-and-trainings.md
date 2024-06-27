@@ -22,7 +22,7 @@ To claim a shift or training session, HRs are required to use the provided forma
 `Ranker’s Username:`<br />
 `Shift Date & Time:`
 
-All HRs have the option to host shifts. Only individuals who hold the rank of Executive Assistant or higher are granted ranking privileges. As a result, Store Directors must have a ranker available for their shift before claiming. The ranker does not necessarily have to be in the store to perform their duties. It is the ranker's responsibility to be online and available when the Store Director is hosting their shift. In the case of Executive Assistants or Store Executives hosting a shift, they should exclude the 'Ranker's Username:' portion from the claiming message, as they are capable of ranking themselves.
+All HRs have the option to host shifts. Only individuals who hold the rank of Executive Assistant or higher are granted ranking privileges. As a result, Store Directors must have a ranker available for their shift before claiming. The ranker does not necessarily have to be in the store to perform their duties. It is the ranker's responsibility to be online and available when the Store Director is hosting their shift. For shifts, rankers should request and check the chat logs of the MRs that Store Directors wish to promote. In the case of Executive Assistants or Store Executives hosting a shift, they should exclude the 'Ranker's Username:' portion from the claiming message, as they are capable of ranking themselves.
 
 **Training Claiming Format:**
 
