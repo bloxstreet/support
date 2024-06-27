@@ -60,8 +60,8 @@ __Leaking:__
 - If an HR discovers any instance of leaking by a community member, it is imperative to promptly report the player through a ticket.
 
 __Gossiping:__
-- Gossiping refers to hate speech (racism, transphobia, homophobia, etc...), cyberbullying an individual (where we have evidence that it is consistent, not a one off comment), defamation (attempting to create a scandal or damage an individual's reputation through the sharing of altered evidence or incorrect information), wishing or threatening physical or mental harm, or doxxing/leaking and sharing of personal information.
-- If caught engaging in such behavior, the punishment varies and will be decided by Group Administrators and Group Directors.
+- Speaking negatively about someone in the BloxStreet community is considered gossiping.
+- If caught engaging in such behavior, the punishment is a permanent ban and a ban from BloxStreet Discord servers.
 
 __Discussions of Suicide and Self-Harm:__
 - Avoid discussing topics related to suicide and self-harm within the BloxStreet Discord server and in-game, as this can be distressing for many individuals. Mentioning these topics will lead to an immediate termination and permanent ban.
