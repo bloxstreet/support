@@ -34,6 +34,7 @@ Executive Assistants and Store Executives are permitted to host training session
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
 
+- As a perk of being an SHR, all SHRs have priority for claiming. An SHR who claims a session will receive that session, even if the claim is sent later than an HR's.
 - Executive Assistant+ may only host/co-host trainings twice a day.
 - Store Director+ can only host shifts once a day. Store Directors need a ranker.
 - Any claim submitted before 5:00 PM EST will not be accepted.
