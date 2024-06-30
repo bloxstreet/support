@@ -107,10 +107,7 @@ This section will provide trainers with the training script. It is essential not
 
 **The introduction takes place at the cafe station.**
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13">*Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.* </font>
-
-<br />
-<br />
+<font color="#0F52BA">**Trainer:**</font> *Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.* 
 
 <font color="#0F52BA">**Trainer:**</font> *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
 
@@ -222,37 +219,38 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *When a customer approaches your register at the store, it is essential to greet them with a polite and friendly greeting.*
 
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Before assisting a customer with their purchase, equip the Staff Card from your inventory and swipe it on the computer. You only need to do this once.* </font>
-
-<br />
-<br />
-
+<font color="#0F52BA">**Trainer:**</font> *Before assisting a customer with their purchase, equip the Staff Card from your inventory and swipe it on the computer. You only need to do this once.* 
 
 <font color="#0F52BA">**Trainer:**</font> *After confirming that you are signed into the computer, have the customer scan their Loyalty Card.*
 
 
-<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Once the Loyalty Card has been scanned, the computer will automatically detect the customer's items and display them on your screen.* </font>
-
-<br />
-<br />
-
+<font color="#0F52BA">**Trainer:**</font> *Once the Loyalty Card has been scanned, the computer will automatically detect the customer's items and display them on your screen.*
 
 <font color="#0F52BA">**Trainer:**</font> *Afterwards, click "Finalize Transaction" in the top right corner of the computer screen.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *Next, ask the customer which payment method they would like to use for their purchase: their Cash Card or Robux.*
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Next, ask the customer which payment method they would like to use for their purchase.* </font>
+
+<br />
+<br />
 
 
 <font color="#0F52BA">**Trainer:**</font> *Once the payment is made, the customer will receive their items. At this point, wish them an enjoyable rest of their day.* 
 
 
-<font color="#0F52BA">**Trainer:**</font> *Note that if the customer wishes to void the transaction at any point, click on "Void Transaction."*
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *To sign out of the register, click on “Sign Out.” You must always do this before moving to a different station within the store.* </font>
+
+<br />
+<br />
 
 
-<font color="#0F52BA">**Trainer:**</font> *To log out of the register, click on "Sign Out." You must always do this before moving to a different station within the store.*
+<font color="#0F52BA">**Trainer:**</font> *For this test, you will check me out by following the instructions I provided.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *For this test, you will check me out by following the instructions I provided. Please note that I do not have any items with me, so no items will appear on the computer screen.*
+<font color="#0F52BA">**Trainer:**</font> <font color="#03AC13"> *Please note that I do not have any items with me, so no items will appear on the computer screen.* </font>
+
+<br />
+<br />
 
 
 <font color="#0F52BA">**Trainer:**</font> *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
