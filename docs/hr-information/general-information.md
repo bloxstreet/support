@@ -23,6 +23,16 @@ __Expectations:__
 - All HRs should refrain from commenting on or questioning a player's demotion.
 - All HRs are not allowed to misuse any special permissions, such as the announcement feature.
 
+### <font color="#C21807">Joking about Resignations</font>
+- As HRs, we expect you to maintain a high level of professionalism, including in Discord chat channels.
+- Joking about resignations can come across as unprofessional and insensitive, undermining the seriousness of your role and responsibilities.
+- Therefore, any jokes about resignations are strictly prohibited and will result in a forced resignation by a Group Administrator or Group Director, effectively a demotion to Customer.
+
+### <font color="#C21807">Professional Conduct Regarding Points</font>
+- As an HR, your primary focus at the store should be performing your HR duties as listed on the BloxStreet Support website, not *grinding* points.
+- While *earning* points to rank up is acceptable, counting down the points you need for a rank, openly flaunting the process of grinding, and congratulating others for ranking up through grinding are considered unacceptable and unprofessional behaviors.
+- Engaging in these actions will result in disciplinary measures.
+
 ### <font color="#C21807">Uniform Rules</font>
 HRs have several clothing options:
 - MR/HR Shirt & Tie with the HR badge
