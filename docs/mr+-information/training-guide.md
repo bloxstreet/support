@@ -66,21 +66,11 @@ After claiming the session and before :00, it is important for the Host and/or C
 
 <font color="#0F52BA">**Host and/or Co-Host:**</font> *Thank you! Please note that the green lines are also used when you are training LRs.*
 
-
-### <font color="#FFD300">Host: Minutes before Commencement</font>
-
-
-
-The Host should announce the line below at :57.
-
-<font color="#0F52BA">**Host:**</font> *We will commence in approximately three minutes. At this time, all LRs are requested to refrain from chatting so that we may begin promptly.*
-
-
 ### <font color="#FFD300">Host and Co-Host: Training Commences</font>
 
 
 
-At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server. **LRs no longer watch the presentation.**
+At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Even if LRs are speaking, the Host should start the session. The Host and Co-Host may not remove LRs for speaking. **LRs no longer watch the presentation.**
 
 <font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to this training session!*
 
