@@ -14,7 +14,7 @@ Here, HRs can find information about shifts and training sessions.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Information and Formats</font>
 
-To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. HRs who cannot claim sessions at this time are encouraged to visit the [Claiming Exception Requests thread](https://discord.com/channels/323081832071561216/1177015340803293184). If you are unable to access the thread, you are encouraged to contact an SHR. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
+To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. If you cannot claim at 5:00 PM EST but would still like to help in sessions, you can ask someone to be their co-host at a training or rank for a Store Director's shift, with the other individual claiming. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
 
 **Shift Claiming Format:**
 
@@ -41,9 +41,7 @@ Executive Assistants and Store Executives are permitted to host training session
 - Edited claims will not be accepted.
 - There may only be one claim per message.
 - The spelling of usernames or an incorrect date do not matter.
-- HRs on an inactivity notice cannot claim for other HRs.
 - HRs on an inactivity notice cannot claim for themselves until it is the final day of their notice.
-- Anyone can claim for HRs on the claiming exceptions list if the HR has agreed to a session.
 
 If an HR's claim is approved, an SHR will indicate approval with a ✅ reaction. If declined, an SHR will use an ❎ reaction. Arguments about claiming will not be tolerated. An SHR will announce the schedule for the following day between 5:00 PM and 11:30 PM EST.
 
