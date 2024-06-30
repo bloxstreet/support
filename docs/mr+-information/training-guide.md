@@ -80,34 +80,17 @@ The Host should announce the line below at :57.
 
 
 
-At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server.
+At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server. **LRs no longer watch the presentation.**
 
-<font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to this training session! You will start your training by watching a presentation on the monitors. For your success, your undivided attention is required.*
+<font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to this training session!*
 
+<font color="#0F52BA">**Host:**</font> *Shortly, you will be teleported to a trainer. Please remain patient during the teleportation process.*
 
-<font color="#0F52BA">**Host:**</font> *Please keep in mind that chatting or distracting others is strictly prohibited at this time and will result in a removal from the server.*
+<font color="#0F52BA">**Host:**</font> *We wish you the best of luck!*
 
+The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of six LRs to each trainer, depending on the number of trainers available. While teleporting, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
 
-To initiate the presentation, the Host needs to click the 'Host Settings' button located at the bottom left corner of their screen. Afterward, the Host should proceed by clicking the 'Begin' button. In case the 'Host Settings' button is not visible in the bottom left corner, the Host should promptly rejoin the session. The slideshow can only be played once.
-
-<font color="#0F52BA">**Host:**</font> *The presentation is now underway. For those of you who desire a closer view of the slideshow, simply click on any monitor to zoom in.*
-
-
-Throughout the presentation, both the Host and Co-Host should actively supervise the LRs to ensure they are adhering to the guidelines. This includes making sure that the LRs are remaining on the red lines and refraining from engaging in conversations with one another. In addition, the Host and/or Co-Host should remove Department Supervisors, Department Managers, and Assistant Store Managers from the session. Lastly, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
-
-### <font color="#FFD300">Host and Co-Host: After Presentation</font>
-
-
-
-<font color="#0F52BA">**Co-Host:**</font> *As the presentation is now finished, you will be teleported to a trainer shortly. Once you are teleported, please refrain from wandering around.*
-
-
-<font color="#0F52BA">**Co-Host:**</font> *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
-
-
-The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of six LRs to each trainer, depending on the number of trainers available.
-
-Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers.
+Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. The Host and/or Co-Host must also remove Department Supervisors, Department Managers, and Assistant Store Managers from the session.
 
 ## <font color="#663399">Trainer Scripts</font>
 
