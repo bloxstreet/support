@@ -21,11 +21,11 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
   *  Failure or refusal to comply with the requirement of wearing an official BloxStreet uniform while on-duty will result in consequences.
   *  BloxStreet merchandise from the group's store is acceptable to wear as part of the uniform, as long as it is up-to-date.
 
- | Ranks       | Any hoodie that says "BloxStreet" on it    | Any hoodie that says "BloxStreet" on it with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge |
+ | Ranks       | BloxStreet hoodies    | BloxStreet hoodies with the appropriate badge | Any pants | MR/HR uniform | MR/HR uniform with the appropriate badge | Any appropriate clothing with the HR badge |
 |:-------------|:------------------|:------|:--------|:----------|:--------|:-----------|
 | Trainee Team Member - Senior Team Member  | ✔️| ✔️  | ✔️ | ✖️ | ✖️ | ✖️ |
 | Department Supervisor - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
-| Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✔️ |
+| Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 
 ### <font color="#C21807">Guidelines</font>
 
