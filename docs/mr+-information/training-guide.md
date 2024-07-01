@@ -21,10 +21,12 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
 * MRs and HRs should refrain from engaging in conversations and instead utilize the BloxStreet Discord server.
 * Engaging in any form of unprofessional behavior will result in immediate dismissal from the session and potential disciplinary actions.
-* Although Store Managers are not required to use grammar at the store, they are required to when training LRs. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
+* Although Store Managers are not required to use grammar at the store, they are required to do so while at the Training Center. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 * Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Be direct when conveying your intent to pass LRs.
+* Without giving reminders, the Host and the Co-Host have the authority to kick extra Store Managers from the Training Center if all stations are full. The Host and the Co-Host should also inform any extra HRs to leave the server.
+* If Store Managers wait at the ranking line, the Host and the Co-Host must kick them from the server without any reminders. They should also instruct any HRs doing the same to leave the server. 
 
 ### <font color="#C21807">Rank Information</font>
 
