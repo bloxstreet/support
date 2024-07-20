@@ -28,7 +28,6 @@ __Inactivity Notice Rules:__
 - HRs are allowed to have an inactivity notice for a maximum duration of three weeks, and extensions may be granted in genuine cases. 
 - All HRs are personally responsible for keeping track of their own inactivity notices.
 - During their last day of an inactivity notice, HRs are permitted to claim a spot for themselves to host a session on the following day.
-- HRs cannot claim sessions on behalf of other HRs while they are on an inactivity notice.
 - During their inactivity notice, HRs can briefly join the game to take a picture, but they are not allowed to join BloxStreet games for any other reasons.
 - HRs are authorized to use Jupiter to rank individuals for shifts or demotions while they are on an inactivity notice.
 - If an HR wishes to end their inactivity notice earlier than planned, they can reach out to a Staffing Department member. A Staffing Department member must officially approve the end of an inactivity notice before an HR resumes their duties.
