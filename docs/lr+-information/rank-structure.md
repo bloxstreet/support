@@ -40,7 +40,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### <font color="#E27602">Department Supervisor</font> 
+### <font color="#FFD300">Department Supervisor</font> 
 - MR rank
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
