@@ -19,7 +19,7 @@ Shifts are hosted at 12 AM, 7 AM, 9 AM, 11 AM, 1 PM, 3 PM, 6 PM, 8 PM, and 10 PM
 Training sessions are hosted at 2 AM (weekends only), 6 AM (weekends only), 10 AM, 12 PM, 2 PM, 4 PM, 7 PM, 9 PM, and 11 PM. All times are in EST.
 
 ### <font color="#C21807">I am a Store Manager or an HR. Is there a way for me to determine the remaining duration of my promotion cooldown?</font>
-If you are a Store Manager, please ping or send a direct message to an HR. If you are an HR, please ping an SHR.
+If you are a Store Manager, please ping or send a direct message to an HR. If you are an HR, please ping a Group Administrator or Group Director.
 
 ### <font color="#C21807">Do players who claim ranks through the points system face a cooldown period?</font>
 Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns.
@@ -34,7 +34,7 @@ Assistant Store Managers and Store Managers have access to moderator commands. S
 Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
 
 ### <font color="#C21807">How can I check my demotion reason?</font>
-If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to DM an SHR.
+If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to DM a Group Administrator or Group Director.
 
 ### <font color="#C21807">Which ranks are permitted to train, host, and co-host at training sessions?</font>
 Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions. They may host independently or with a co-host.
@@ -73,19 +73,19 @@ You can hide your commands in two ways. To execute a command privately using the
 All players, irrespective of whether they purchased a rank, are required to adhere to all rules and regulations. Any individual who fails to comply with the guidelines will face identical moderation actions as others, which may include demotions, blacklists, and permanent bans.
 
 ### <font color="#C21807">Can I get my rank back after resigning?</font>
-Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, SHRs have the possibility to return to BloxStreet under certain circumstances.
+Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, Group Administrators and Group Directors have the possibility to return to BloxStreet under certain circumstances.
 
 ### <font color="#C21807">Can I transfer my rank to another account?</font>
 Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet Discord server for assistance.
 
 ### <font color="#C21807">Can I transfer my rank to another account if I am hacked?</font>
-BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform an SHR through a ticket.
+BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform a Group Administrator or Group Director through a ticket.
 
 ### <font color="#C21807">Can I transfer my rank if my account gets deleted?</font>
 Staff members whose accounts are deleted have the option to transfer their rank to a different account if their ban is deemed false by a Group Administrator+. The Group Administrator+ has the authority to assess whether it is appropriate for an individual’s rank to be transferred to another account when their original account is deleted. We acknowledge that Roblox moderation can fall short of complete accuracy, and as a result, we provide individuals with the chance to transfer their rank to an alternate account if their main account gets deleted.
 
 ### <font color="#C21807">What is the investigation policy at BloxStreet?</font>
-In the event that an SHR is conducting an investigation into a community member, the SHR has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the SHR has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the SHR will take appropriate action or re-rank the player(s) involved. Moreover, SHRs who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, SHRs are not obligated to provide evidence to the players who are undergoing an investigation.
+In the event that a Group Administrator or Group Director is conducting an investigation into a community member, that Group Administrator or Group Director has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the Group Administrator or Group Director has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the Group Administrator or Group Director will take appropriate action or re-rank the player(s) involved. Moreover, Group Administrators or Group Directors who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, Group Administrators or Group Directors are not obligated to provide evidence to the players who are undergoing an investigation.
 
 ### <font color="#C21807">What is the plagiarism policy at BloxStreet?</font>
 Intentionally copying official BloxStreet materials, encompassing, but not limited to, our forms, guides, documents, server layout, GFX, and game, may lead to, at the very least, a termination, a staff blacklist, and/or a ban from the BloxStreet Discord server. Neglecting to report such plagiarism despite being aware can also lead to consequences. It is expected that establishments throughout Roblox foster originality, which prohibits the replication of BloxStreet’s resources for personal gain.
