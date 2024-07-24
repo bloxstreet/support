@@ -38,7 +38,7 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 - Staff members should not idle in the middle of the store, but they will not be punished for doing so. If a staff member needs to go idle or take a break, they should respawn in the staff room by resetting their character. HRs are permitted to stand against a wall while AFK.
 - Staff members are prohibited from stealing other workers' tills or cash registers.
 - Regardless of who may be at fault in a given situation, staff members are expected to refrain from instigating or participating in any form of drama.
-- Staff members are required to respect the decisions made by SHRs.
+- Staff members are required to respect the decisions made by Group Administrators and Group Directors.
 - Administrative actions are considered final. Complaining or openly expressing discontent about administrative actions will lead to consequences.
 - Refer to the [Punishment Guide](https://support.bloxstreet.com/hr-information/punishment-guide) for more guidelines.
 
