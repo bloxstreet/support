@@ -41,7 +41,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 - Must attend and satisfactorily complete a training session to be promoted
 
 ### <font color="#FFD300">Department Supervisor</font> 
-- MR rank
+- LR rank
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
