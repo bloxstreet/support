@@ -99,7 +99,7 @@ __Unacceptable Usages for Announcements:__
 
 
 ### <font color="#C21807">Resignations</font>
-- If an HR decides to step down from their position, they have two options for resigning: they can either leave BloxStreet's group or request an SHR to rank them to Customer.
+- If an HR decides to step down from their position, they have two options for resigning: they can either leave BloxStreet's group or request a Group Administrator or a Group Director to rank them to Customer.
 - Once an HR has departed the group, they gain the ability to update their roles in the Discord server by simply executing the command **/getrole** in any channel used to run commands.
 - Please keep reactions to resignations appropriate, thanking an individual for their service and time spent at BloxStreet while also refraining from exaggerated reactions.
 - While community members are permitted to inquire about the reasons behind an HR's resignation, it is ultimately at the HR's discretion to decide whether they want to disclose their reason(s) appropriately.
