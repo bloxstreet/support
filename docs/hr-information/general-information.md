@@ -54,7 +54,7 @@ __Not Allowed:__
 - Pants that are less than half a thigh
 - A visible bra
 
-![Uniform Example](https://ibb.co/23d71Z7)
+![Uniform Example](https://i.ibb.co/SwBX4fX/Screenshot-2024-07-27-at-6-38-48-PM.webp)
 
 ### <font color="#C21807">Communication at BloxStreet</font>
 
