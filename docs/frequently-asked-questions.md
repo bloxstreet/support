@@ -19,7 +19,7 @@ Shifts are hosted at 12 AM, 7 AM, 9 AM, 11 AM, 1 PM, 3 PM, 6 PM, 8 PM, and 10 PM
 Training sessions are hosted at 2 AM (weekends only), 6 AM (weekends only), 10 AM, 12 PM, 2 PM, 4 PM, 7 PM, 9 PM, and 11 PM. All times are in EST.
 
 ### <font color="#C21807">I am a Store Manager or an HR. Is there a way for me to determine the remaining duration of my promotion cooldown?</font>
-If you are a Store Manager, please ping or send a direct message to an HR. If you are an HR, please ping a Group Administrator or Group Director.
+If you are a Store Manager, ping or send a direct message to an HR. If you are an HR, ping a Group Administrator or Group Director.
 
 ### <font color="#C21807">Do players who claim ranks through the points system face a cooldown period?</font>
 Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns.
@@ -34,7 +34,7 @@ Assistant Store Managers and Store Managers have access to moderator commands. S
 Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
 
 ### <font color="#C21807">How can I check my demotion reason?</font>
-If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to DM a Group Administrator or Group Director.
+If you have been demoted and would like to understand the reasons behind your demotion, send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to DM a Group Administrator or Group Director.
 
 ### <font color="#C21807">Which ranks are permitted to train, host, and co-host at training sessions?</font>
 Store Manager+ may train at training sessions. Executive Assistant+ have the authority to host and co-host training sessions. They may host independently or with a co-host.
@@ -103,7 +103,7 @@ In order to report bugs and provide suggestions, visit [this link](https://disco
 To create a ticket, visit [#support](https://discord.com/channels/323081832071561216/1111320732903952478).
 
 ### <font color="#C21807">What are some reasons to not use the ticket system?</font>
-The ticket system should not be used for many reasons, including bugs and suggestions, minor LR reports, trollers, simple questions, and more. Please keep in mind that these are only some of the reasons.
+The ticket system should not be used for many reasons, including bugs and suggestions, minor LR reports, trollers, simple questions, and more. Keep in mind that these are only some of the reasons.
 
 ### <font color="#C21807">How can I update my roles in the Discord server?</font>
 To update your roles in the Discord server, run the command **/getrole** in [#bot-commands](https://discord.com/channels/323081832071561216/600727310890565644).
