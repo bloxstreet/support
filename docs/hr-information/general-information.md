@@ -13,7 +13,7 @@ Here, HRs can find information about conduct, uniforms, communication, announcem
 :::
 
 ### <font color="#C21807">Conduct at BloxStreet</font>
-At BloxStreet, we place great importance on behavior, particularly in our services. Acting unprofessionally can have a negative impact on our establishment and HR team.
+BloxStreet places great importance on behavior, particularly in our services. Acting unprofessionally can have a negative impact on our establishment and HR team.
 
 __Expectations:__
 - All HRs are expected to use grammar in BloxStreet's games and ban reasons.
@@ -70,8 +70,8 @@ __Gossiping:__
 
 __Discussions of Suicide and Self-Harm:__
 - Avoid discussing topics related to suicide and self-harm within the BloxStreet Discord server and in-game, as this can be distressing for many individuals. Mentioning these topics will lead to an immediate termination and permanent ban.
-- The majority of BloxStreet members are teenagers or young adults, so we are not qualified to provide assistance. Instead, we encourage you to reach out to a professional or a trusted individual for support.
-- If you are unable to do both, the suicide hotline or the Samaritans are open 24/7. We encourage you to browse this website to make yourself familiar with the [suicide hotline for your country](https://blog.opencounseling.com/suicide-hotlines/).
+- The majority of BloxStreet members are teenagers or young adults, making members unqualified to provide assistance. Instead, BloxStreet encourages you to reach out to a professional or a trusted individual for support.
+- If you are unable to do both, the suicide hotline or the Samaritans are open 24/7. BloxStreet encourages you to browse this website to make yourself familiar with the [suicide hotline for your country](https://blog.opencounseling.com/suicide-hotlines/).
 
 For the United States, **988** is the nationwide suicide hotline number. 
 For the United Kingdom, **0800 689 5652** is the hotline number. 
@@ -83,7 +83,7 @@ Please keep in mind that HRs have the option of taking a break from BloxStreet b
 - HRs have the option to use the announcement system for promoting a store department, announcing the start of a training session, or requesting staff members at a department.
 - When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality.
 - It is important to ensure that these advertisements do not disrupt shift or training session announcements.
-- We request refraining from making announcements 15 minutes prior to the commencement of any training session.
+- Do not make these announcements 15 minutes prior to the commencement of any training session.
 
 __Acceptable Usages for Announcements:__
 
