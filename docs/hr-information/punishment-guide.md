@@ -30,10 +30,10 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 
 | Action | Punishment | Applies to | HR Action |
 | ------ | ---------- | ---------- | --------- |
-| Crowding (5+ players) | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Advertising in-game | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Alternate account of a server banned user | Server ban | Everyone | Run the command :ban (username) (reason). |
 | Bypassing or attempting to bypass | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
+| Crowding (5+ players) | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Dancing/standing on elevated surfaces | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Discussing inappropriate subjects | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Disrespecting others | Server ban | Everyone | Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
@@ -49,13 +49,13 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 | Trolling | Server ban | Everyone | LRs and MRs have the authority to cuff trollers but should then contact an HR to server ban them. Run the command :ban (username) (reason). If the individual is an LR, demote them to Customer. If the individual is an MR, demote them to Customer and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the proper format. |
 | Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Discrimination in any way | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
+| Encouragement of suicide or self-harm | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Exploiting | Permanent ban | Everyone | A screen recording is recommended. Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
+| Gossiping | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Impersonation | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Joking about serious topics | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Major threats | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Offensive language | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
-| Encouragement of suicide or self-harm | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
-| Gossiping | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 
 
 ### <font color="#C21807">LR+ Punishments</font>
