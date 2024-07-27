@@ -55,7 +55,7 @@ This is a compilation of BloxStreet's punishments. Certain punishments only pert
 | Major threats | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Offensive language | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Encouragement of suicide or self-harm | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
-| Gossiping | Punishment varies | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
+| Gossiping | Permanent ban | Everyone | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 
 
 ### <font color="#C21807">LR+ Punishments</font>
