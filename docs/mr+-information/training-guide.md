@@ -72,7 +72,7 @@ After claiming the session and before :00, it is important for the Host and/or C
 
 
 
-At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Even if LRs are speaking, the Host should start the session. The Host and Co-Host may not remove LRs for speaking. **LRs no longer watch the presentation.**
+At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Even if LRs are speaking, the Host should start the session. The Host and Co-Host may not remove LRs for speaking. 
 
 <font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to this training session!*
 
