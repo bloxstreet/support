@@ -24,7 +24,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Although Store Managers are not required to use grammar at the store, they are required to do so while at the Training Center. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
-* Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Be direct when conveying your intent to pass LRs.
+* Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Trainers should be direct when conveying their intent to pass LRs.
 * Without giving reminders, the Host and the Co-Host have the authority to kick extra Store Managers from the Training Center if all stations are full. The Host and the Co-Host should also inform any extra HRs to leave the server.
 * If Store Managers wait at the ranking line, the Host and the Co-Host must kick them from the server without any reminders. They should also instruct any HRs doing the same to leave the server. 
 
@@ -164,7 +164,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
 
 
-**At this point, head back to the trainer spot. Ensure your LRs face you.**
+**At this point, head back to the trainer spot. Ensure the LRs face the trainer.**
 
 <font color="#0F52BA">**Trainer:**</font> *To log into a cafe register, simply scan your BloxStreet Staff Card on the screen. You may scan your card at this time.*
 
@@ -283,7 +283,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *Congratulations, you have all passed the Register Test! You have each completed both tests.*
 
 
-**State the line below if there is at least one Senior Team Member remaining in your group.**
+**State the line below if there is at least one Senior Team Member remaining in the group.**
 
 <font color="#0F52BA">**Trainer:**</font> *If you are currently a Senior Team Member, you will be promoted to Department Supervisor. In order to be promoted as a Department Supervisor, you must attend and be recognized at a shift.*
 
