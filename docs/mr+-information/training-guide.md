@@ -41,7 +41,7 @@ Below is an overview of each rank's job at training sessions.
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
 | Spectators | Spectators supervise training sessions and ensure everything is running smoothly. | Group Administrator+ | No maximum |
 
-### <font color="#C21807">Host and Co-Host Scripts</font>
+## <font color="#C21807">Host and Co-Host Scripts</font>
 
 This section provides an overview of the responsibilities and duties assigned to the Host and Co-Host, as well as guidelines on what they should say.
 
