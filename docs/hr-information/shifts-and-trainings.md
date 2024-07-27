@@ -65,7 +65,7 @@ __During the shift at the store, the host should consider the following before p
 
 If a player meets all the previously mentioned requirements, the host may proceed to promote them.
 
-Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations [using the formats found here](https://support.bloxstreet.com/hr-information/group-shouts-and-formats#congratulatory-formats-for-shift-promotions), and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Please be direct when conveying your intent to promote a staff member. 
+Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations [using the formats found here](https://support.bloxstreet.com/hr-information/group-shouts-and-formats#congratulatory-formats-for-shift-promotions), and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Be direct when conveying your intent to promote a staff member. 
 
 It is important to note that the host is limited to promoting a maximum of **5** players per shift. Promotions should be viewed as a privilege rather than a right, and the host has the discretion to choose not to promote anyone if no staff members have surpassed their expectations. Additionally, there should only be one host during a shift. No other individuals may offer assistance, follow the host, or supervise the host.
 
