@@ -83,8 +83,7 @@ Please keep in mind that HRs have the option of taking a break from BloxStreet b
 - HRs have the option to use the announcement system for promoting a store department, announcing the start of a training session, or requesting staff members at a department.
 - When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality. Do not use the announcements below.
 - It is important to ensure that these advertisements do not disrupt shift or training session announcements.
-- Do not make these announcements 15 minutes prior to the commencement of any training session.
-
+  
 __Acceptable Usages for Announcements:__
 
 `Thirsty? Head down to the cafe to enjoy a refreshing raspberry slushy! Sounds like a wonderful plan to me!`
