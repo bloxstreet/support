@@ -8,7 +8,7 @@ sidebar_label: Introduction
 
 :::danger[ERRORS]
 
-Notice any inaccurate information on this website? Contact avnemone!
+Notice any inaccurate information on this website? Contact avnemone.
 
 :::
 
