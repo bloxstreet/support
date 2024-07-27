@@ -39,9 +39,6 @@ In this case, inform a Group Administrator or a Group Director immediately. One 
 ### <font color="#C21807">Can I oversee or supervise at training sessions?</font>
 No, HRs can only participate by hosting, co-hosting, or training. Group Administrator+ are the only individuals permitted to oversee training sessions. 
 
-### <font color="#C21807">Do I need the HR badge as a High Rank?</font>
-No. If you cannot afford the badge, you may wear the free BloxStreet uniform by simply interacting with the lockers, which can be found in the staff room. 
-
 ### <font color="#C21807">I want to know why someone was blacklisted or permanently banned. Who can check that?</font>
 Ping a Group Administrator or a Group Director with the individual’s username to check for the punishment reason.
 
