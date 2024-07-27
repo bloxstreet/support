@@ -14,7 +14,7 @@ Here, HRs can find information about shifts and training sessions.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Information and Formats</font>
 
-To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. If you cannot claim at 5:00 PM EST but would still like to help in sessions, you can ask someone to be their co-host at a training or rank for a Store Director's shift, with the other individual claiming. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
+To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. If an HR cannot claim at 5:00 PM EST but would still like to help in sessions, they can ask someone to be their co-host at a training or rank for a Store Director's shift, with the other individual claiming. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
 
 **Shift Claiming Format:**
 
@@ -65,15 +65,15 @@ __During the shift at the store, the host should consider the following before p
 
 If a player meets all the previously mentioned requirements, the host may proceed to promote them.
 
-Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations [using the formats found here](https://support.bloxstreet.com/hr-information/group-shouts-and-formats#congratulatory-formats-for-shift-promotions), and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Be direct when conveying your intent to promote a staff member. 
+Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations [using the formats found here](https://support.bloxstreet.com/hr-information/group-shouts-and-formats#congratulatory-formats-for-shift-promotions), and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. HRs should be direct when conveying their intent to promote a staff member. 
 
 It is important to note that the host is limited to promoting a maximum of **5** players per shift. Promotions should be viewed as a privilege rather than a right, and the host has the discretion to choose not to promote anyone if no staff members have surpassed their expectations. Additionally, there should only be one host during a shift. No other individuals may offer assistance, follow the host, or supervise the host.
 
 ### <font color="#C21807">Step-By-Step Claiming</font>
 
-1. Equip the Staff Tablet located in your inventory.
-2. Once you equip the tablet, click the menu icon and go to "Shifts."
-3. Click the "Start Shift" button.
+1. The scheduled host should equip the Staff Tablet located in their inventory.
+2. Once they equip the tablet, they should click the menu icon and go to "Shifts."
+3. Finally, they should click the "Start Shift" button.
 
 Only HRs who are scheduled to host a shift may claim it in-game.
 
