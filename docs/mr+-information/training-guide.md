@@ -41,11 +41,11 @@ Below is an overview of each rank's job at training sessions.
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum |
 | Spectators | Spectators supervise training sessions and ensure everything is running smoothly. | Group Administrator+ | No maximum |
 
-### <font color="#FFD300">Host and Co-Host Scripts</font>
+### <font color="#C21807">Host and Co-Host Scripts</font>
 
 This section provides an overview of the responsibilities and duties assigned to the Host and Co-Host, as well as guidelines on what they should say.
 
-### <font color="#FFD300">Host and Co-Host: Before Claiming</font>
+### <font color="#C21807">Host and Co-Host: Before Claiming</font>
 
 
 
@@ -53,13 +53,13 @@ Prior to the commencement of the training session, it is the responsibility of t
 
 Between :35 and :40, it is expected that both the Host and Co-Host arrive at the Training Center to prepare for the training session. It is the responsibility of both the Host and Co-Host to ensure they are online and punctual for the session. Failing to attend a claimed session without giving a notice will result in a punishment (if done repetitively).
 
-### <font color="#FFD300">Host and Co-Host: Claiming</font>
+### <font color="#C21807">Host and Co-Host: Claiming</font>
 
 
 
 At :45, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all store servers that have at least 40 players.
 
-### <font color="#FFD300">Host and/or Co-Host: Guide Checking</font>
+### <font color="#C21807">Host and/or Co-Host: Guide Checking</font>
 
 After claiming the session and before :00, it is important for the Host and/or Co-Host to request trainers to state the three green lines, ensuring they have access to the correct version of the guide. The Host and/or Co-Host should use the messages below. To speed up guide checking, the Host and Co-Host are permitted to skip trainers whom they know already have the guide because they were previously tested.
 
@@ -68,7 +68,7 @@ After claiming the session and before :00, it is important for the Host and/or C
 
 <font color="#0F52BA">**Host and/or Co-Host:**</font> *Thank you! Please note that the green lines are also used when you are training LRs.*
 
-### <font color="#FFD300">Host and Co-Host: Training Commences</font>
+### <font color="#C21807">Host and Co-Host: Training Commences</font>
 
 
 
@@ -84,24 +84,24 @@ The Co-Host can now proceed to move towards the red lines, while the Host should
 
 Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. The Host and/or Co-Host must also remove Department Supervisors, Department Managers, and Assistant Store Managers from the session.
 
-## <font color="#663399">Trainer Scripts</font>
+## <font color="#C21807">Trainer Scripts</font>
 
 This section provides an overview of the tests that trainers are required to perform. In the event that an LR needs to go AFK, trainers should not wait for their return. The maximum AFK duration is two minutes, ensuring that the LR does not miss significant content if the trainer maintains an average pace. Upon the LR's return from being AFK, the trainer should provide a summary of the covered topics and perform any missed tests. However, if all LRs disconnect or fail the training session, the trainer should promptly leave the server without notifying the Host or Co-Host.
 
-### <font color="#663399">Cafe Test Information</font>
+### <font color="#C21807">Cafe Test Information</font>
 
 
 
 The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
-### <font color="#663399">Register Test Information</font>
+### <font color="#C21807">Register Test Information</font>
 
 
 
 The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
 
 
-### <font color="#663399">Introduction Script</font>
+### <font color="#C21807">Introduction Script</font>
 
 
 
@@ -129,7 +129,7 @@ This section will provide trainers with the training script. It is essential not
 At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. Trainers may not answer questions at this time.
 
 
-### <font color="#663399">Cafe Test Script</font>
+### <font color="#C21807">Cafe Test Script</font>
 
 
 
@@ -200,7 +200,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-### <font color="#663399">Register Test Script</font>
+### <font color="#C21807">Register Test Script</font>
 
 
 
@@ -276,7 +276,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 
 
 
-### <font color="#663399">Passing LRs</font>
+### <font color="#C21807">Passing LRs</font>
 
 
 
