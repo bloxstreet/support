@@ -306,7 +306,7 @@ The Host or Co-Host will then rank the LRs before dismissing them from the game.
 
 The Host and Co-Host should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
 
-After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if an SHR determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the SHR's instructions accordingly.
+After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if a Group Administrator+ determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the instructions accordingly.
 
 
 ### <font color="#C21807">Training Conclusion</font>
