@@ -76,7 +76,7 @@ __Discussions of Suicide and Self-Harm:__
 For the United States, **988** is the nationwide suicide hotline number. 
 For the United Kingdom, **0800 689 5652** is the hotline number. 
 
-Please keep in mind that HRs have the option of taking a break from BloxStreet by going on an inactivity notice.
+Keep in mind that HRs have the option of taking a break from BloxStreet by going on an inactivity notice.
 
 
 ### <font color="#C21807">Proper and Improper Usage of the Announcement System</font>
@@ -100,7 +100,7 @@ __Unacceptable Usages for Announcements:__
 ### <font color="#C21807">Resignations</font>
 - If an HR decides to step down from their position, they have two options for resigning: they can either leave BloxStreet's group or request a Group Administrator or a Group Director to rank them to Customer.
 - Once an HR has departed the group, they gain the ability to update their roles in the Discord server by simply executing the command **/getrole** in any channel used to run commands.
-- Please keep reactions to resignations appropriate, thanking an individual for their service and time spent at BloxStreet while also refraining from exaggerated reactions.
+- Keep reactions to resignations appropriate, thanking an individual for their service and time spent at BloxStreet while also refraining from exaggerated reactions.
 - While community members are permitted to inquire about the reasons behind an HR's resignation, it is ultimately at the HR's discretion to decide whether they want to disclose their reason(s) appropriately.
 
 ### <font color="#C21807">Joking about Resignations</font>
