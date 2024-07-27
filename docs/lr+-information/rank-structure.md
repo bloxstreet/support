@@ -8,7 +8,7 @@ sidebar_class_name: LR+ Information
 
 :::info
 
-You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
+Staff members can find a comprehensive list of BloxStreet's ranks and their descriptions below.
 
 :::
 
