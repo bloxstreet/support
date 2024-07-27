@@ -103,7 +103,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 
 ### <font color="50C878">Group Administrator</font>
 
-Please note that this overview of the Group Administrator rank does not completely encompass all responsibilities associated with the role. Not every Group Administrator is assigned all the duties listed below; responsibilities may vary, with some handling fewer tasks while others manage more.
+This overview of the Group Administrator rank does not completely encompass all responsibilities associated with the role. Not every Group Administrator is assigned all the duties listed below; responsibilities may vary, with some handling fewer tasks while others manage more.
 
 - Moderating the Discord server by disciplining rule violators through time-outs, warnings, kicks, and bans
 - Ensuring punishments issued by HRs are accurate by reviewing all logged punishments
@@ -126,7 +126,7 @@ Please note that this overview of the Group Administrator rank does not complete
 
 ### <font color="50C878">Group Director</font>
 
-Please note that this overview of the Group Director rank does not completely encompass all responsibilities associated with the role. Not every Group Director is assigned all the duties listed below; responsibilities may vary, with some handling fewer tasks while others manage more.
+This overview of the Group Director rank does not completely encompass all responsibilities associated with the role. Not every Group Director is assigned all the duties listed below; responsibilities may vary, with some handling fewer tasks while others manage more.
 
 - Leading and managing the group, including stepping in for the Group Owner as needed
 - Ensuring Group Administrators fulfill their roles efficiently and effectively
