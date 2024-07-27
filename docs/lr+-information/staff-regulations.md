@@ -31,7 +31,7 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 
 
 - Always respect other staff members.
-- Do not discriminate against anyone's race, sexuality, gender, religion, ethnicity, etc.
+- Do not discriminate against anyone's race, sexuality, gender, religion, or ethnicity.
 - Maintaining professionalism is required when on-duty and off-duty. Staff members are expected to conduct themselves in a professional manner at all times, as their behavior directly reflects the reputation of our group.
 - Professionalism must be maintained to a certain degree within the BloxStreet Discord server. Staff members are more than welcome to converse with one another, but all topics must be appropriate and within reason.
 - If an LR or MR desires to engage in conversations, take a break while in-game, or order/check out, they should switch to the off-duty mode.
