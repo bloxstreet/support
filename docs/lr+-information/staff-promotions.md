@@ -8,7 +8,7 @@ sidebar_class_name: LR+ Information
 
 :::info
 
-This guide outlines all of the necessary information about the promotion process at BloxStreet.
+Here, HRs can find all of the necessary information about the promotion process at BloxStreet.
 
 :::
 
