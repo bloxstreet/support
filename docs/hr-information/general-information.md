@@ -81,7 +81,7 @@ Please keep in mind that HRs have the option of taking a break from BloxStreet b
 
 ### <font color="#C21807">Proper and Improper Usage of the Announcement System</font>
 - HRs have the option to use the announcement system for promoting a store department, announcing the start of a training session, or requesting staff members at a department.
-- When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality.
+- When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality. Do not use the announcements below.
 - It is important to ensure that these advertisements do not disrupt shift or training session announcements.
 - Do not make these announcements 15 minutes prior to the commencement of any training session.
 
