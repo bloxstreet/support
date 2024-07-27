@@ -34,7 +34,7 @@ Executive Assistants and Store Executives are permitted to host training session
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
 
-- As a perk of being an SHR, all SHRs have priority for claiming. An SHR who claims a session will receive that session, even if the claim is sent later than an HR's.
+- All Group Administrators and Group Directors have priority for claiming. A Group Administrator or a Group Director who claims a session will receive that session, even if the claim is sent later than an HR's.
 - Executive Assistant+ may only host/co-host trainings twice a day.
 - Store Director+ can only host shifts once a day. Store Directors need a ranker.
 - Any claim submitted before 5:00 PM EST will not be accepted.
@@ -43,7 +43,7 @@ Executive Assistants and Store Executives are permitted to host training session
 - The spelling of usernames or an incorrect date do not matter.
 - HRs on an inactivity notice cannot claim for themselves until it is the final day of their notice.
 
-If an HR's claim is approved, an SHR will indicate approval with a ✅ reaction. If declined, an SHR will use an ❎ reaction. Arguments about claiming will not be tolerated. An SHR will announce the schedule for the following day between 5:00 PM and 11:30 PM EST.
+If an HR's claim is approved, a Group Administrator or a Group Director will indicate approval with a ✅ reaction. If declined, the Group Administrator or Group Director will use an ❎ reaction. Arguments about claiming will not be tolerated. The schedule for the following day will be announced between 5:00 PM and 11:30 PM EST.
 
 Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement and informing the scheduler in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608), making sure to provide a reason. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
