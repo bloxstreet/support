@@ -44,10 +44,10 @@ __Allowed:__
 - Pants halfway down the thigh
 
 __Not Allowed:__
-- Big cut-outs or skits
+- Big cut-outs
 - Short shorts or skirts
 - Unrealistic avatars
-- Costumes or cosplays
+- Costumes
 - The HR badge getting covered
 - Tops that are shorter than the HR badge
 - Thong straps
