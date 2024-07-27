@@ -24,8 +24,8 @@ __Expectations:__
 - All HRs are not allowed to misuse any special permissions, such as the announcement feature.
 
 ### <font color="#C21807">Professional Conduct Regarding Points</font>
-- As an HR, your primary focus at the store should be performing your HR duties as listed on the BloxStreet Support website, not *grinding* points.
-- While *earning* points to rank up is acceptable, counting down the points you need for a rank, openly flaunting the process of grinding, and congratulating others for ranking up through grinding are considered unacceptable and unprofessional behaviors.
+- HRs' primary focus at the store should be performing their HR duties as listed on the BloxStreet Support website, not *grinding* points.
+- While *earning* points to rank up is acceptable, HRs should not count down the points needed for a rank, openly flaunt the process of grinding, and congratulate others for ranking up through grinding. This is considered unacceptable and unprofessional.
 - Engaging in these actions will result in disciplinary measures.
 
 ### <font color="#C21807">Uniform Rules</font>
@@ -70,8 +70,8 @@ __Gossiping:__
 
 __Discussions of Suicide and Self-Harm:__
 - Avoid discussing topics related to suicide and self-harm within the BloxStreet Discord server and in-game, as this can be distressing for many individuals. Mentioning these topics will lead to an immediate termination and permanent ban.
-- The majority of BloxStreet members are teenagers or young adults, making members unqualified to provide assistance. Instead, BloxStreet encourages you to reach out to a professional or a trusted individual for support.
-- If you are unable to do both, the suicide hotline or the Samaritans are open 24/7. BloxStreet encourages you to browse this website to make yourself familiar with the [suicide hotline for your country](https://blog.opencounseling.com/suicide-hotlines/).
+- The majority of BloxStreet members are teenagers or young adults, making members unqualified to provide assistance. Instead, BloxStreet encourages HRs to reach out to a professional or a trusted individual for support.
+- If an HR is unable to do both, the suicide hotline or the Samaritans are open 24/7. BloxStreet encourages HRs to browse this website to make themselves familiar with the [suicide hotline for their country](https://blog.opencounseling.com/suicide-hotlines/).
 
 For the United States, **988** is the nationwide suicide hotline number. 
 For the United Kingdom, **0800 689 5652** is the hotline number. 
@@ -104,6 +104,6 @@ __Unacceptable Usages for Announcements:__
 - While community members are permitted to inquire about the reasons behind an HR's resignation, it is ultimately at the HR's discretion to decide whether they want to disclose their reason(s) appropriately.
 
 ### <font color="#C21807">Joking about Resignations</font>
-- As HRs, we expect you to maintain a high level of professionalism, including in Discord chat channels.
-- Joking about resignations can come across as unprofessional and insensitive, undermining the seriousness of your role and responsibilities.
+- HRs are expected to maintain a high level of professionalism, including in Discord chat channels.
+- Joking about resignations as an HR can come across as unprofessional and insensitive, undermining the seriousness of their role and responsibilities.
 - Therefore, any jokes about resignations are strictly prohibited and will result in a forced resignation by a Group Administrator or Group Director, effectively a demotion to Customer.
