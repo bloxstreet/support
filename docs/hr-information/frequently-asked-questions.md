@@ -34,25 +34,25 @@ Yes, if you were to resign or get demoted, you are permitted to claim another HR
 Yes, all HRs are highly encouraged to test LRs’ and MRs’ greetings, provide feedback if necessary, and purchase items at the store.
 
 ### <font color="#C21807">My account has been compromised. What should I do?</font>
-In this case, inform an SHR immediately. One will be able to assist you and take action. 
+In this case, inform a Group Administrator or a Group Director immediately. One will be able to assist you and take action. 
 
 ### <font color="#C21807">Can I oversee or supervise at training sessions?</font>
-No, HRs can only participate by hosting, co-hosting, or training. SHRs are the only individuals permitted to oversee training sessions. 
+No, HRs can only participate by hosting, co-hosting, or training. Group Administrator+ are the only individuals permitted to oversee training sessions. 
 
 ### <font color="#C21807">Do I need the HR badge as a High Rank?</font>
 No. If you cannot afford the badge, you may wear the free BloxStreet uniform by simply interacting with the lockers, which can be found in the staff room. 
 
 ### <font color="#C21807">I want to know why someone was blacklisted or permanently banned. Who can check that?</font>
-Ping an SHR with the individual’s username to check for the punishment reason.
+Ping a Group Administrator or a Group Director with the individual’s username to check for the punishment reason.
 
 ### <font color="#C21807">I am unable to attend my scheduled session, so what should I do?</font>
-If you are unable to attend your scheduled session, you must find a suitable replacement as soon as possible. Additionally, inform the SHR scheduler immediately in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) about the change.
+If you are unable to attend your scheduled session, you must find a suitable replacement as soon as possible. Additionally, inform the scheduler immediately in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) about the change.
 
 ### <font color="#C21807">Someone claims to have purchased their rank, but Jupiter did not rank them. What should I do?</font>
 Instruct the individual to create a ticket in the BloxStreet Discord server. Do not rank the player.
 
 ### <font color="#C21807">If a player claims to be demoted without reason, what should I do?</font>
-If a player claims to have been demoted without a reason, HRs have the ability to investigate the situation by reviewing the demotion reason(s) logged for the LR or MR. This can be done by searching the player's username in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877), where demotion logs for LRs and MRs are typically found. It is important to note that most LR demotions are not logged. In cases where no demotion log is found for the player, it is possible that they have either been blacklisted or permanently banned. To determine if a player is blacklisted or permanently banned, HRs can seek assistance from an SHR.
+If a player claims to have been demoted without a reason, HRs have the ability to investigate the situation by reviewing the demotion reason(s) logged for the LR or MR. This can be done by searching the player's username in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877), where demotion logs for LRs and MRs are typically found. It is important to note that most LR demotions are not logged. In cases where no demotion log is found for the player, it is possible that they have either been blacklisted or permanently banned. To determine if a player is blacklisted or permanently banned, HRs can seek assistance from a Group Administrator or a Group Director.
 
 ### <font color="#C21807">What are the rules in private servers?</font>
 In BloxStreet private servers, HRs are expected to maintain a professional behavior and adhere to all regulations. It is crucial that HRs do not engage in activities that violate BloxStreet's rules, as they are fully applicable in private servers as well. However, there is no requirement for grammar usage in private servers. 
