@@ -78,7 +78,7 @@ Once a staff member resigns, it is considered final. BloxStreet does not offer r
 ### <font color="#C21807">Can a staff member transfer their rank to another account?</font>
 Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet Discord server for assistance.
 
-### <font color="#C21807">Can a staff member transfer my rank to another account if they are hacked?</font>
+### <font color="#C21807">Can a staff member transfer their rank to another account if they are hacked?</font>
 BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform a Group Administrator or Group Director through a ticket.
 
 ### <font color="#C21807">Can a staff member transfer their rank if their account gets deleted?</font>
