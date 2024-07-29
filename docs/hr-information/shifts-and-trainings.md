@@ -59,7 +59,7 @@ During a shift, the host is permitted to promote Department Supervisors, Departm
 
 __During the shift at the store, the host should consider the following before promoting individuals:__
 - Staff members who have recently viewed or followed the shift host or complained recently should be excluded from promotion consideration.
-- Professionalism, politeness, respect, hard work, excellent grammar, and unique greetings are required for MRs seeking a promotion.
+- Professionalism, politeness, respect, hard work, excellent grammar **(less than three grammar mistakes in their ENTIRE chat logs)** , and unique greetings are required for MRs seeking a promotion.
 - The host should attempt to check all store departments.
 - The host has the option to approach players and engage with them by checking out or ordering an item.
 
