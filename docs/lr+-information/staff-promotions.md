@@ -43,7 +43,8 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 
 ### <font color="#C21807">Cooldowns</font>
 
-Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion.
+Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion. Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns. Store Managers can ping or DM an HR to check their cooldown. HRs can ping a Group Administrator or Group Director. Working at the store while on cooldown will increase an individual's chances of a promotion.
+
 
 | Cooldowns |
 |:----------|
@@ -58,7 +59,6 @@ Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 | Executive Assistant: 1 month |
 | Store Executive: 3 months |
 
-Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns. Store Managers can ping or DM an HR to check their cooldown. HRs can ping a Group Administrator or Group Director. Working at the store while on cooldown will increase an individual's chances of a promotion.
 
 ### <font color="#C21807">Points</font>
 
