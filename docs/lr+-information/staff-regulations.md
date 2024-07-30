@@ -27,7 +27,7 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 | Department Manager - Store Manager | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 | Store Director - Store Executive  | ✔️| ✔️  | ✔️ | ✔️ | ✔️ | ✖️ |
 
-### <font color="#C21807">Guidelines and Other Information</font>
+### <font color="#C21807">Guidelines</font>
 
 
 - Always respect other staff members.
