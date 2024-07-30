@@ -47,7 +47,6 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 - Demoted LRs and MRs are permitted to reuse points to claim a rank they have not previously claimed.
 - Staff members are required to respect the decisions made by Group Administrators and Group Directors.
 - Administrative actions are considered final. Complaining or openly expressing discontent about administrative actions will lead to consequences.
-- Refer to the [Punishment Guide](https://support.bloxstreet.com/hr-information/punishment-guide) for more guidelines.
 
 ### <font color="#C21807">Policies</font>
 
