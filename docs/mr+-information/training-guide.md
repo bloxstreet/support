@@ -92,20 +92,20 @@ This section provides an overview of the tests that trainers are required to per
 
 
 
-The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
+The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable English throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
 ### <font color="#C21807">Register Test Information</font>
 
 
 
-The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable grammar. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
+The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable English. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
 
 
 ### <font color="#C21807">Introduction Script</font>
 
 
 
-This section will provide trainers with the training script. It is essential not to modify this script. The use of emojis is permitted.
+This section will provide trainers with the training script. It is essential not to modify this script unless there are lines that tag. In this case, the lines should be modified or separated so the overall content remains the same. The use of emojis is permitted.
 
 **The introduction takes place at the cafe station.**
 
@@ -177,7 +177,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *We will begin this test shortly. You must utilize comprehensible grammar, and I will assess your understandability.*
+<font color="#0F52BA">**Trainer:**</font> *We will begin shortly. During this test, you must use understandable English.*
 
 
 <font color="#0F52BA">**Trainer:**</font> *Please be aware that I can only repeat the order twice. If you give me an incorrect item, you will fail this training automatically.*
