@@ -32,21 +32,21 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 
 - Always respect other staff members.
 - Do not discriminate against anyone's race, sexuality, gender, religion, or ethnicity.
-- Maintaining professionalism is required when on-duty (!startwork) and off-duty (!stopwork). Staff members are expected to conduct themselves in a professional manner at all times, as their behavior directly reflects the reputation of our group.
 - Professionalism must be maintained to a certain degree within the BloxStreet Discord server. Staff members are more than welcome to converse with one another, but all topics must be appropriate and within reason.
+- Regardless of who may be at fault in a given situation, staff members are expected to refrain from instigating or participating in any form of drama.
+- Staff members are required to respect the decisions made by Group Administrators and Group Directors.
+- Administrative actions are considered final. Complaining or openly expressing discontent about administrative actions will lead to consequences.
+- Maintaining professionalism is required when on-duty (!startwork) and off-duty (!stopwork). Staff members are expected to conduct themselves in a professional manner at all times, as their behavior directly reflects the reputation of our group.
 - If an LR or MR desires to engage in conversations, take a break while in-game, or order/check out, they should switch to the off-duty mode.
 - Staff members should not idle in the middle of the store, but they will not be punished for doing so. If a staff member needs to go idle or take a break, they should respawn in the staff room by resetting their character. HRs are permitted to stand against a wall while AFK.
-- If an LR or MR has been demoted and would like to understand the reasons behind their demotion, they should send a direct message to an HR.
-- Staff members are prohibited from stealing other workers' tills or cash registers.
-- Regardless of who may be at fault in a given situation, staff members are expected to refrain from instigating or participating in any form of drama.
 - Assistant Store Managers and Store Managers have access to moderator commands. Store Directors, Executive Assistants, and Store Executives have access to admin commands. All commands must be hidden. To execute a command privately using the “/e” method, simply open the chat and enter the command as usual. Once entered, place an “/e” before the desired command to ensure it is hidden. Additionally, to access the console, simply press the “;” or “’” key on the keyboard. This action will display a GUI at the top of the screen. Unlike using commands in the chat, the console does not require a prefix before entering the command.
 - LRs and MRs have the authority to cuff trollers to ensure a positive player experience. These staff members should reach out to an HR to ban trollers from the server after cuffing them.
 - A maximum of one staff member is allowed to assist at the help desk. Staff members are not required to own cuffs to work at the help desk.
 - Store Director+ may supervise at the store. A maximum of two HRs may supervise each store department.
 - Previously blacklisted and banned individuals, as well as reformed and resigned HRs, are allowed to utilize their points to claim a rank they have not previously acquired.
 - Demoted LRs and MRs are permitted to reuse points to claim a rank they have not previously claimed.
-- Staff members are required to respect the decisions made by Group Administrators and Group Directors.
-- Administrative actions are considered final. Complaining or openly expressing discontent about administrative actions will lead to consequences.
+- If an LR or MR has been demoted and would like to understand the reasons behind their demotion, they should send a direct message to an HR.
+- Staff members are prohibited from stealing other workers' tills or cash registers.
 
 ### <font color="#C21807">Policies</font>
 
