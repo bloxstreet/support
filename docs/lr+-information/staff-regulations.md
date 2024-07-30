@@ -94,5 +94,9 @@ Intentionally copying official BloxStreet materials, encompassing, but not limit
 Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
 
 **__Refund Policy:__**
+
+<br />
+<br />
+
 BloxStreet has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
 
