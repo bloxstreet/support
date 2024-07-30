@@ -18,7 +18,7 @@ Trainee, Junior, and Senior Team Members must attend training sessions to progre
 
 ### <font color="#C21807">Department Supervisor - Assistant Store Manager</font>
 
-To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in [shifts](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253) and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by a Group Administrator or a Group Director outside of a shift. Recommending other staff members is not permitted.
+To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in [shifts](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253), which offer opportunities for these ranks to receive a promotion. Shifts also serve as times for guests to visit the store and have an enjoyable experience. To be promoted, it is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Department Supervisors, Department Managers, and Assistant Store Managers are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by a Group Administrator or a Group Director outside of a shift. Recommending other staff members is not permitted.
 
 ### <font color="#C21807">Store Manager - Store Executive</font>
 
@@ -58,11 +58,11 @@ Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 | Executive Assistant: 1 month |
 | Store Executive: 3 months |
 
-Working at the store while on cooldown will increase an individual's chances of a promotion.
+Players who claim ranks through the points system do not face a cooldown period if they choose to earn their next rank through points. However, Store Managers and HRs who choose not to acquire their ranks through points will be subject to cooldowns. Store Managers can ping or DM an HR to check their cooldown. HRs can ping a Group Administrator or Group Director. Working at the store while on cooldown will increase an individual's chances of a promotion.
 
 ### <font color="#C21807">Points</font>
 
-Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. The specific amount of points required to claim each rank can be found in the list provided below.
+Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. Point cheating includes actions such as using alternate accounts or enlisting friends to remove items from shelves, allowing the staff member to restock them shortly afterward. The specific amount of points required to claim each rank can be found in the list provided below.
 
 | Points |
 |:----------|
