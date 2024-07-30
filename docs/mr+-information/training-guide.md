@@ -186,7 +186,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *I will now approach each of you individually. When I do, make sure to greet me with your greeting.*
 
 
-**Approach the first LR. Wait for the LR to state their greeting and begin once they do.**
+**Approach the first LR. Wait for the LR to state their greeting and begin once they do. Trainers may not change the order.**
 
 <font color="#0F52BA">**Trainer:**</font> *Greetings! May I please have a Cherry Slushie and a Regular Coffee?*
 
