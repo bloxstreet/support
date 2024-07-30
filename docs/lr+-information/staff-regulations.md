@@ -52,21 +52,45 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 ### <font color="#C21807">Policies</font>
 
 **__Resignation Policy:__**
+
+<br />
+<br />
+
 Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, Group Administrators and Group Directors have the possibility to return to BloxStreet under certain circumstances.
 
 **__Rank Transfer Policy for Hacked Accounts:__**
+
+<br />
+<br />
+
 BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform a Group Administrator or Group Director through a ticket.
 
 **__Rank Transfer Policy for Deleted Accounts:__**
+
+<br />
+<br />
+
 Staff members whose accounts are deleted have the option to transfer their rank to a different account if their ban is deemed false by a Group Administrator+. The Group Administrator+ has the authority to assess whether it is appropriate for an individual’s rank to be transferred to another account when their original account is deleted. BloxStreet acknowledges that Roblox moderation can fall short of complete accuracy, and as a result, the chance to transfer a rank to an alternate account if a main account gets deleted is provided.
 
 **__Investigation Policy:__**
+
+<br />
+<br />
+
 In the event that a Group Administrator or Group Director is conducting an investigation into a community member, that Group Administrator or Group Director has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the Group Administrator or Group Director has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the Group Administrator or Group Director will take appropriate action or re-rank the player(s) involved. Moreover, Group Administrators or Group Directors who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, Group Administrators or Group Directors are not obligated to provide evidence to the players who are undergoing an investigation.
 
 **__Plagiarism Policy:__**
+
+<br />
+<br />
+
 Intentionally copying official BloxStreet materials, encompassing, but not limited to, our forms, guides, documents, server layout, GFX, and game, may lead to, at the very least, a termination, a staff blacklist, and/or a ban from the BloxStreet Discord server. Neglecting to report such plagiarism despite being aware can also lead to consequences. It is expected that establishments throughout Roblox foster originality, which prohibits the replication of BloxStreet’s resources for personal gain.
 
 **__Alternate Account Policy:__**
+
+<br />
+<br />
+
 Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
 
 **__Refund Policy:__**
