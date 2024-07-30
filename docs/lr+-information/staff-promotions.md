@@ -62,7 +62,7 @@ Some BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 
 ### <font color="#C21807">Points</font>
 
-Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. Point cheating includes actions such as using alternate accounts or enlisting friends to remove items from shelves, allowing the staff member to restock them shortly afterward. The specific amount of points required to claim each rank can be found in the list provided below.
+Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Staff members can earn one point for each successful restock, one point for working at any department with POS systems, one point for working at the main registers, two points for each spill cleaned, and two points for working at the hotel. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. Point cheating includes actions such as using alternate accounts or enlisting friends to remove items from shelves, allowing the staff member to restock them shortly afterward. The specific amount of points required to claim each rank can be found in the list provided below.
 
 | Points |
 |:----------|
