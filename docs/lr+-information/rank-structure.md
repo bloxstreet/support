@@ -42,59 +42,59 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 ### <font color="#FFD300">Department Supervisor</font> 
 - LR rank
-- Staff members who have attended and passed three training sessions or have earned 500 points
+- Staff members who have attended and passed three training sessions or have earned 1,500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
-- Must be noticed by a shift host, a Group Administrator+ outside of a shift, or earn 1,000 points in total to be promoted
+- Must be noticed by a shift host, a Group Administrator+ outside of a shift, or earn 3,000 points in total to be promoted
 
 ### <font color="#E27602">Department Manager</font> 
 - MR rank
-- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 1,000 points in total
+- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 3,000 points in total
 - Responsible for working at store departments, restocking items, and cleaning spills
 - Be recognized by a shift host or a Group Administrator+ outside of a shift to be promoted
-- Can also earn 1,500 points in total to be promoted
+- Can also earn 5,000 points in total to be promoted
 
 ### <font color="#E27602">Assistant Store Manager</font> 
 - MR rank
-- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 1,500 points in total
+- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 5,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
 - Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Be recognized by a shift host or a Group Administrator+ outside of a shift to be promoted
-- Can also earn 2,000 points in total to be promoted
+- Can also earn 8,000 points in total to be promoted
 
 ### <font color="#E27602">Store Manager</font> 
 - MR rank
-- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 2,000 points in total
+- Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 8,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
 - Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by a Group Administrator+ to be promoted
-- Can also earn 4,000 points in total to be promoted
+- Can also earn 10,000 points in total to be promoted
 
 ### <font color="#C21807">Store Director</font> 
 
 
 - HR rank
-- Staff members who have been recognized by a Group Administrator+ or have earned 4,000 points
+- Staff members who have been recognized by a Group Administrator+ or have earned 10,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, participating in training sessions to assist in the training of LRs, banning rule violators in the store, hosting shifts, restocking items, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
-- Can also earn 6,500 points in total to be promoted
+- Can also earn 20,000 points in total to be promoted
 
 ### <font color="#C21807">Executive Assistant</font> 
 
 - HR rank
-- Staff members who have been recognized by a Group Administrator+ or have earned 6,500 points
+- Staff members who have been recognized by a Group Administrator+ or have earned 20,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
-- Can also earn 10,000 points in total to be promoted
+- Can also earn 25,000 points in total to be promoted
 
 ### <font color="#C21807">Store Executive</font> 
 
 
 - HR rank
-- Staff members who have been recognized by a Group Administrator+ or have earned 10,000 points
+- Staff members who have been recognized by a Group Administrator+ or have earned 25,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
