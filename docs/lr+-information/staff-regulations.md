@@ -56,37 +56,25 @@ Once a staff member resigns, it is considered final. BloxStreet does not offer r
 
 **Rank Transfer Policy for Hacked Accounts:**
 
-<br />
-
 BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform a Group Administrator or Group Director through a ticket.
 
 **Rank Transfer Policy for Deleted Accounts:**
-
-<br />
 
 Staff members whose accounts are deleted have the option to transfer their rank to a different account if their ban is deemed false by a Group Administrator+. The Group Administrator+ has the authority to assess whether it is appropriate for an individual’s rank to be transferred to another account when their original account is deleted. BloxStreet acknowledges that Roblox moderation can fall short of complete accuracy, and as a result, the chance to transfer a rank to an alternate account if a main account gets deleted is provided.
 
 **Investigation Policy:**
 
-<br />
-
 In the event that a Group Administrator or Group Director is conducting an investigation into a community member, that Group Administrator or Group Director has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the Group Administrator or Group Director has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the Group Administrator or Group Director will take appropriate action or re-rank the player(s) involved. Moreover, Group Administrators or Group Directors who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, Group Administrators or Group Directors are not obligated to provide evidence to the players who are undergoing an investigation.
 
 **Plagiarism Policy:**
-
-<br />
 
 Intentionally copying official BloxStreet materials, encompassing, but not limited to, our forms, guides, documents, server layout, GFX, and game, may lead to, at the very least, a termination, a staff blacklist, and/or a ban from the BloxStreet Discord server. Neglecting to report such plagiarism despite being aware can also lead to consequences. It is expected that establishments throughout Roblox foster originality, which prohibits the replication of BloxStreet’s resources for personal gain.
 
 **Alternate Account Policy:**
 
-<br />
-
 Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
 
 **Refund Policy:**
-
-<br />
 
 BloxStreet has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
 
