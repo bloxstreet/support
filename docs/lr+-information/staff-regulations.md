@@ -53,8 +53,6 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 
 **Resignation Policy:**
 
-<br />
-
 Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, Group Administrators and Group Directors have the possibility to return to BloxStreet under certain circumstances.
 
 **Rank Transfer Policy for Hacked Accounts:**
