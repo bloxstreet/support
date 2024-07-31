@@ -76,6 +76,4 @@ Only HRs who are scheduled to host a shift may claim it in-game.
 
 
 ### <font color="#C21807">Joining and Leaving During a Shift</font>
-- Before an HR decides to claim a shift at the store, it is important for them to have a stable internet connection and the ability to remain in-game for a minimum of 35 minutes. If a host is unable to stay for the entire duration of the shift, they should refrain from claiming it.
-- Shifts always conclude at :30.
-- HRs who leave a shift after promoting five players will face consequences. HRs may only leave once the shift has concluded.
+Before an HR decides to claim a shift at the store, it is important for them to have a stable internet connection and the ability to remain in-game for a minimum of 35 minutes. If a host is unable to stay for the entire duration of the shift, they should refrain from claiming it. Note that shifts always conclude at :30. HRs who leave a shift after promoting five players will face consequences. HRs may only leave once the shift has concluded.
