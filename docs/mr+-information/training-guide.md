@@ -90,15 +90,33 @@ This section provides an overview of the tests that trainers are required to per
 
 ### <font color="#C21807">Cafe Test Information</font>
 
-
-
-The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable English throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
+The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable English throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Keep in mind that it is mandatory to have 'BloxStreet' in a greeting.
 
 ### <font color="#C21807">Register Test Information</font>
 
+The subsequent stage of training is the Register Test. During this evaluation, LRs will simulate the necessary steps to check out a customer. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable English. 
 
+### <font color="#C21807">Reasons to Fail LRs</font>
+**During either test, trainers may fail LRs for the following reasons:**
+- Lack of understandable English
+- AFK for longer than two minutes
+- LR does not respond and is presumed AFK without notifying their trainer
+- Misbehaving
 
-The subsequent stage of training is the Register Test. During this evaluation, LRs will engage in roleplay, simulating the necessary steps to check out a customer. If any LRs are unsure of how to send a payment request, trainers should take the time to explain the process to them. It is imperative that LRs state a greeting and an outro, inquire about the desired form of payment, and remind the trainer to scan their loyalty card and their cash card, all while employing understandable English. If an LR fails to meet these requirements, the trainer should state the fail prompt and remove them from the server, specifying the reason as "Failed."
+**During the Cafe Test, trainers may fail LRs for the following reasons:**
+- Wrong order
+- Failure to greet the trainer
+- Misspelling "BloxStreet" or failing to include the term in their greeting **after one reminder**
+- Lack of knowledge on how to complete a transaction
+
+**During the Register Test, trainers may fail LRs for the following reasons:**
+- Failure to greet the trainer
+- Failing to ask the trainer to scan their Loyalty Card
+- Failing to ask the trainer about their desired form of payment
+- Failing to click "Finalize Transaction"
+- No outro (failing to wish the guest an enjoyable rest of their day or something similar)
+
+If any of these reasons apply, the trainer should state the fail prompt and then remove the failed LR from the server, specifying the reason as "Failed."
 
 
 ### <font color="#C21807">Introduction Script</font>
