@@ -56,7 +56,7 @@ __Not Allowed:__
 ![Uniform Example](https://i.ibb.co/SwBX4fX/Screenshot-2024-07-27-at-6-38-48-PM.webp)
 
 ### <font color="#C21807">Proper and Improper Usage of the Announcement System</font>
-HRs have the option to use the announcement system for promoting a store department, announcing the start of a training session, or requesting staff members at a department. When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality. Do not use the announcements below.It is important to ensure that these advertisements do not disrupt shift or training session announcements.
+HRs have the option to use the announcement system for promoting a store department, announcing the start of a training session, or requesting staff members at a department. When advertising a store department, HRs should create announcements that demonstrate outstanding grammar and originality. Do not use the announcements below. It is important to ensure that these advertisements do not disrupt shift or training session announcements.
   
 __Acceptable Usages for Announcements:__
 
