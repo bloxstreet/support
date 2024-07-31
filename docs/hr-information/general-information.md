@@ -8,7 +8,7 @@ sidebar_class_name: HR Information
 
 :::info
 
-Here, HRs can find information about conduct, uniforms, communication, announcement usage, and resignations.
+Here, HRs can find information about conduct, uniforms, announcement usage, communication, ranking, resignations, and more.
 
 :::
 
