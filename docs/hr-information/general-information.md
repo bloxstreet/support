@@ -56,27 +56,21 @@ __Not Allowed:__
 
 ![Uniform Example](https://i.ibb.co/SwBX4fX/Screenshot-2024-07-27-at-6-38-48-PM.webp)
 
-### <font color="#C21807">Communication at BloxStreet</font>
-
-__Leaking:__
+### <font color="#C21807">Leaking</font>
 - Leaking encompasses actions such as sharing screenshots or information from chats, disclosing confidential details, and distributing links to documents that are typically inaccessible to lower ranks within public or private chats.
 - Referencing a confidential chat name in a public chat or disclosing the host or co-host of a session does not fall under the category of leaking.
 - Leaking results in severe consequences, including a demotion to Customer and an unappealable permanent ban.
 - If an HR discovers any instance of leaking by a community member, it is imperative to promptly report the player through a ticket.
 
-__Gossiping:__
+### <font color="#C21807">Gossiping</font>
 - Speaking negatively about someone in the BloxStreet community is considered gossiping.
 - If caught engaging in such behavior, the punishment is a permanent ban and a ban from BloxStreet Discord servers.
 
-__Discussions of Suicide and Self-Harm:__
+### <font color="#C21807">Discussions of Suicide and Self-Harm</font>
 - Avoid discussing topics related to suicide and self-harm within the BloxStreet Discord server and in-game, as this can be distressing for many individuals. Mentioning these topics will lead to an immediate termination and permanent ban.
 - The majority of BloxStreet members are teenagers or young adults, making members unqualified to provide assistance. Instead, BloxStreet encourages HRs to reach out to a professional or a trusted individual for support.
 - If an HR is unable to do both, the suicide hotline or the Samaritans are open 24/7. BloxStreet encourages HRs to browse this website to make themselves familiar with the [suicide hotline for their country](https://blog.opencounseling.com/suicide-hotlines/).
-
-For the United States, **988** is the nationwide suicide hotline number. 
-For the United Kingdom, **0800 689 5652** is the hotline number. 
-
-Keep in mind that HRs have the option of taking a break from BloxStreet by going on an inactivity notice.
+- Keep in mind that HRs have the option of taking a break from BloxStreet by going on an inactivity notice.
 
 
 ### <font color="#C21807">Proper and Improper Usage of the Announcement System</font>
