@@ -49,10 +49,7 @@ Note that it is crucial to follow through on claimed shifts and training session
 
 
 ### <font color="#C21807">Basic Shift Information</font>
-- Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion.
-- Shifts also serve as times for guests to visit the store and have an enjoyable experience.
-- Shift hosts are responsible for ensuring a successful shift by supervising, ensuring staff members have detailed and courteous greetings, and recognizing outstanding performance by promoting individuals.
-- Shifts should be claimed at xx:00. Shifts can be claimed at xx:10 at the latest. A shift cannot be claimed after this time.
+Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion. Shifts also serve as times for guests to visit the store and have an enjoyable experience. Shift hosts are responsible for ensuring a successful shift by supervising, ensuring staff members have detailed and courteous greetings, and recognizing outstanding performance by promoting individuals. Shifts should be claimed at xx:00 and at xx:10 at the latest. A shift cannot be claimed after this time.
 
 ### <font color="#C21807">Promoting at Shifts</font>
 During a shift, the host is permitted to promote Department Supervisors, Department Managers, and Assistant Store Managers. Store Managers, however, are ineligible for a promotion during shifts, although their contributions during shifts are still appreciated.
