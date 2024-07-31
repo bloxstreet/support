@@ -116,7 +116,7 @@ The subsequent stage of training is the Register Test. During this evaluation, L
 - Failing to click "Finalize Transaction"
 - No outro (failing to wish the guest an enjoyable rest of their day or something similar)
 
-If any of these reasons apply, the trainer should state the fail prompt and then remove the failed LR from the server, specifying the reason as "Failed."
+All of this information is explained before the tests, so failing LRs for these reasons is fair. If any of these reasons apply, the trainer should state the fail prompt and then remove the failed LR from the server, specifying the reason as "Failed."
 
 
 ### <font color="#C21807">Introduction Script</font>
