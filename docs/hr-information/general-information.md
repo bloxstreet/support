@@ -15,16 +15,17 @@ Here, HRs can find information about conduct, uniforms, communication, announcem
 ### <font color="#C21807">Conduct at BloxStreet</font>
 BloxStreet places great importance on behavior, particularly in our services. Acting unprofessionally can have a negative impact on our establishment and HR team.
 
-__Expectations:__
-- All HRs are expected to use grammar in BloxStreet's games and ban reasons.
-- All HRs are expected to maintain professional conduct.
-- All HRs are expected to handle situations calmly and to the best of their abilities.
+__Requirements:__
+- All HRs are required to use grammar in BloxStreet's games and ban reasons.
+- All HRs are required to maintain professional conduct.
+- All HRs are required to handle situations calmly and to the best of their abilities.
 - All HRs should refrain from engaging in off-topic conversations while playing BloxStreet games. HRs are expected to use DMs and chats for such discussions.
 - All HRs should refrain from commenting on or questioning a player's demotion.
 - All HRs are not allowed to misuse any special permissions, such as the announcement feature.
 - A maximum of two HRs may supervise each store department.
 - HRs may not go off-duty. HRs have additional responsibilities and can order or check out from staff while on-duty.
 - If an HR needs to go AFK while in-game, they must stand against a wall or head to the staff room. If they anticipate being AFK for five or more minutes, they are required to leave the server. Staying AFK for a prolonged period of time will result in a potential punishment.
+- If an HR encounters a Group Administrator+ in a BloxStreet game, they should not ask questions or try starting a conversation. Group Administrator+ are not in-game to chat with HRs. If an HR has a question or needs to speak with a Group Administrator+, they should use the Discord server to communicate.
 
 ### <font color="#C21807">Uniform Rules</font>
 HRs have several clothing options:
