@@ -24,7 +24,7 @@ To increase the likelihood of receiving a promotion, Department Supervisors, Dep
 
 When considering promotions from Store Manager to Store Director, as well as promotions within the HR ranks, the administration team takes into account various factors.
 
-To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games and its Discord server, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Group Administrator+ and occur at random times. These promotions are typically more challenging compared to promotions from Department Supervisor to Assistant Store Manager, requiring a greater investment of time and effort. Store Managers must prove to Group Administrators and Group Directors that they are fully prepared to undertake the responsibilities of an HR role.
+To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Group Administrator+ and occur at random times. These promotions are typically more challenging compared to promotions from Department Supervisor to Assistant Store Manager, requiring a greater investment of time and effort. Store Managers must prove to Group Administrators and Group Directors that they are fully prepared to undertake the responsibilities of an HR role.
 
 ### <font color="#C21807">Store Manager Promotion Guide</font>
 > 1.   Store Managers must utilize proper grammar in all BloxStreet games.
