@@ -8,7 +8,7 @@ sidebar_class_name: HR Information
 
 :::info
 
-Here, HRs can find compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
+Here, HRs can find a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
 
 :::
 
