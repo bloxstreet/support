@@ -14,7 +14,7 @@ Here, HRs can find information about shifts and training sessions.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Information and Formats</font>
 
-To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. If an HR cannot claim at 5:00 PM EST but would still like to help in sessions, they can ask someone to be their co-host at a training or rank for a Store Director's shift, with the other individual claiming. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow. HRs should avoid hosting the same sessions every day. Allow other HRs to host. Repeatedly hosting or co-hosting the same session may result in a punishment.
+To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. If an HR cannot claim at 5:00 PM EST but would still like to help in sessions, they can ask someone to be their co-host at a training or rank for a Store Director's shift, with the other individual claiming. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow. HRs should avoid hosting the same sessions every day. Repeatedly hosting or co-hosting the same session may result in a punishment.
 
 **Shift Claiming Format:**
 
@@ -43,7 +43,7 @@ Executive Assistants and Store Executives are permitted to host training session
 - The spelling of usernames or an incorrect date do not matter.
 - HRs on an inactivity notice cannot claim for themselves until it is the final day of their notice.
 
-If an HR's claim is approved, a Group Administrator or a Group Director will indicate approval with a ✅ reaction. If declined, the Group Administrator or Group Director will use an ❎ reaction. Arguments about claiming will not be tolerated. The schedule for the following day will be announced between 5:00 PM and 11:30 PM EST.
+Arguments about claiming will not be tolerated. The schedule for the following day will be announced between 5:00 PM and 11:30 PM EST.
 
 Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement and informing the scheduler in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608), making sure to provide a reason. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
