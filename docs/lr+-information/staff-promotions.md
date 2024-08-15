@@ -20,26 +20,36 @@ Trainee, Junior, and Senior Team Members must attend training sessions to progre
 
 To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in [shifts](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253), which offer opportunities for these ranks to receive a promotion. Shifts also serve as times for guests to visit the store and have an enjoyable experience. To be promoted, it is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Department Supervisors, Department Managers, and Assistant Store Managers are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by a Group Administrator or a Group Director outside of a shift. Recommending other staff members is not permitted.
 
-### <font color="#C21807">Store Manager - Store Executive</font>
-
-When considering promotions from Store Manager to Store Director, as well as promotions within the HR ranks, the administration team takes into account various factors.
-
-To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Group Administrator+ and occur at random times. These promotions are typically more challenging compared to promotions from Department Supervisor to Assistant Store Manager, requiring a greater investment of time and effort. Store Managers must prove to Group Administrators and Group Directors that they are fully prepared to undertake the responsibilities of an HR role.
-
 ### <font color="#C21807">Store Manager Promotion Guide</font>
-> 1.   Store Managers must utilize proper grammar in all BloxStreet games.
-> 2.   Store Managers must possess a certain number of characteristics, such as professionalism, maturity, and respect.
-> 3.   Having past moderation history will significantly decrease an individual's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
-> 4.   Store Managers wishing to receive a promotion should remain active in the BloxStreet Discord server. Talking in channels and attending events does help.
-> 5.   Store Managers should work frequently at the store. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
-> 6.   Avoid sucking up to Group Administrators and Group Directors for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping.
-> 7.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer.
-> 8.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
-> 9.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory.
-> 10.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
-> 11.  Grammar in the Discord server does not play a role in promotions.
+To increase your chances of being promoted as a Store Manager at BloxStreet, you must meet several key requirements, including being off cooldown. Keep in mind that fulfilling these requirements only improves your chances of a promotion and does not guarantee one.
 
-> Keep in mind that these include only some requirements Store Managers must meet.
+**Requirement #1 - Activity:**
+
+To be considered for a promotion, Store Managers must spend at least 60 minutes per week at the store for a minimum of two consecutive weeks. Activity should be consistent and well-distributed. Overworking is not encouraged; Group Administrators and Group Directors value seeing a balance between Roblox and other aspects of your life. While at the store, Store Managers should focus on working in departments rather than going off-duty, cleaning spills, and restocking items, as these activities do not show hard work. Greetings should be unique, and players must demonstrate a solid understanding of BloxStreet's rules and procedures.
+
+**Requirement #2 - Discord Server:**
+
+Store Managers must be in the Discord server to get promoted by a Group Administrator or a Group Director. It is highly recommended that Store Managers assist lower-ranking staff with their questions and provide accurate information. Participating in events is also beneficial.
+
+**Requirement #3 - Grammar:**
+
+While Store Managers are not required to use grammar at the store, they must use correct capitalization, punctuation, and spelling when playing BloxStreet games to be considered for a promotion. Proper grammar demonstrates professionalism and maturity. Having more than three grammar errors can reduce one's chances of a promotion.
+
+**Requirement #4 - Maturity:**
+
+Maturity is a crucial factor for Group Administrators and Group Directors when making promotion decisions. Immature conversations and erratic behavior will not help one's chances. Constantly discussing your BloxStreet rank is not beneficial, as Group Administrators and Group Directors want to see that you have interests outside of Roblox and a well-rounded life.
+
+**Requirement #5 - Not Complaining about Promotions:**
+
+Complaining about the promotion system at BloxStreet may lead to disciplinary actions. Promotions at BloxStreet are relatively easier compared to other groups, so such complaints suggest a lack of commitment and an overemphasis on one's rank rather than focusing on serving the community and providing excellent service to visitors.
+
+**Common Misconceptions:**
+
+Group Administrators and Group Directors can monitor Store Managers' activity through various platforms and are not required to be in-game. Additionally, some Store Executives have the authority to recommend Store Managers based on several factors.
+
+**Earning Points for HR Ranks:**
+
+Players who aim to earn an HR rank through points may see reduced chances of future promotions and being recommended for special positions. Those who have advanced through hard work over several months are recognized by Group Administrators and Group Directors for their dedication and commitment. Consequently, these individuals are more likely to be selected for higher positions compared to those who achieve ranks quickly through points and without demonstrating the same level of dedication.
 
 ### <font color="#C21807">Cooldowns</font>
 
