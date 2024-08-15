@@ -25,7 +25,7 @@ To increase your chances of being promoted as a Store Manager at BloxStreet, you
 
 **Requirement #1 - Activity:**
 
-To be considered for a promotion, Store Managers must spend at least 60 minutes per week at the store for a minimum of two consecutive weeks. Activity should be consistent and well-distributed. Overworking is not encouraged; Group Administrators and Group Directors value seeing a balance between Roblox and other aspects of your life. While at the store, Store Managers should focus on working in departments rather than going off-duty, cleaning spills, and restocking items, as these activities do not show hard work. Greetings should be unique, and players must demonstrate a solid understanding of BloxStreet's rules and procedures.
+To be considered for a promotion, Store Managers must spend at least 60 minutes per week **at the store** for a minimum of two consecutive weeks. Training activity is **not** a factor when considering promotions. However, if a Group Administrator or Group Director notices a Store Manager consistently attending trainings, they may pay closer attention to that individual's store activity.  Activity should be consistent and well-distributed. Overworking is not encouraged; Group Administrators and Group Directors value seeing a balance between Roblox and other aspects of your life. While at the store, Store Managers should focus on working in departments rather than going off-duty, cleaning spills, and restocking items, as these activities do not show hard work. Greetings should be unique, and players must demonstrate a solid understanding of BloxStreet's rules and procedures.
 
 **Requirement #2 - Discord Server:**
 
