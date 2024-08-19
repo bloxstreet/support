@@ -29,7 +29,7 @@ To be considered for a promotion, Store Managers must spend at least 60 minutes 
 
 **Requirement #2 - Discord Server:**
 
-Store Managers must be in the Discord server to get promoted by a Group Administrator or a Group Director. It is highly recommended that Store Managers assist lower-ranking staff with their questions and provide accurate information. Participating in events is also beneficial.
+Store Managers must be in the Discord server to get promoted by a Group Administrator or a Group Director. It is highly recommended that Store Managers assist lower-ranking staff with their questions and provide accurate information. Frequently chatting in the Discord server is required for those aiming for the Store Director position. Participating in events is also beneficial.
 
 **Requirement #3 - Grammar:**
 
