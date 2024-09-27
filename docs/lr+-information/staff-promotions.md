@@ -18,7 +18,7 @@ Trainee, Junior, and Senior Team Members must attend training sessions to progre
 
 ### <font color="#C21807">Department Supervisor - Assistant Store Manager</font>
 
-To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in [shifts](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253), which offer opportunities for these ranks to receive a promotion. Shifts also serve as times for guests to visit the store and have an enjoyable experience. To be promoted, it is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Department Supervisors, Department Managers, and Assistant Store Managers are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by a Group Administrator or a Group Director outside of a shift. Recommending other staff members is not permitted.
+To increase the likelihood of receiving a promotion, Department Supervisors, Department Managers, and Assistant Store Managers should actively participate in [shifts](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253), which offer opportunities for these ranks to receive a promotion. Shifts also serve as times for guests to visit the store and have an enjoyable experience. To be promoted, it is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While grammar is not required for any rank, it is necessary in-game if one wishes to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. Staff members are expected to not complain about not receiving a promotion. Another pathway for a promotion is to be noticed by a Group Administrator or a Group Director outside of a shift. Recommending other staff members is not permitted.
 
 ### <font color="#C21807">Store Manager Promotion Guide</font>
 To increase your chances of being promoted as a Store Manager at BloxStreet, you must meet several key requirements, including being off cooldown. Store Manager promotions happen at random times. Keep in mind that fulfilling these requirements only improves your chances of a promotion and does not guarantee one.
@@ -33,7 +33,7 @@ Store Managers must be in the Discord server to get promoted by a Group Administ
 
 **Requirement #3 - Grammar:**
 
-While Store Managers are not required to use grammar at the store, they must use correct capitalization, punctuation, and spelling when playing BloxStreet games to be considered for a promotion. Proper grammar demonstrates professionalism and maturity. Having more than three grammar errors can reduce one's chances of a promotion.
+While grammar is not required at the store for any rank, Store Managers must use correct capitalization, punctuation, and spelling (grammar) when playing BloxStreet games to be considered for a promotion. Proper grammar demonstrates professionalism and maturity. Having more than three grammar errors can reduce one's chances of a promotion.
 
 **Requirement #4 - Maturity:**
 
