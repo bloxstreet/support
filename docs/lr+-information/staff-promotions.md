@@ -39,9 +39,9 @@ While grammar is not required at the store for any rank, Store Managers must use
 
 Maturity is a crucial factor for Group Administrators and Group Directors when making promotion decisions. Immature conversations and erratic behavior will not help one's chances. Constantly discussing your BloxStreet rank is not beneficial, as Group Administrators and Group Directors want to see that you have interests outside of Roblox and a well-rounded life.
 
-**Requirement #5 - Not Complaining about Promotions:**
+**Requirement #5 - Not Hinting or Complaining about the Promotion System:**
 
-Complaining about the promotion system at BloxStreet may lead to disciplinary actions. Promotions at BloxStreet are relatively easier compared to other groups, so such complaints suggest a lack of commitment and an overemphasis on one's rank rather than focusing on serving the community and providing excellent service to visitors.
+Complaining about the promotion system at BloxStreet or hinting may lead to disciplinary actions. Promotions at BloxStreet are relatively easier compared to other groups, so such complaints and hinting suggest a lack of commitment and an overemphasis on one's rank rather than focusing on serving the community and providing excellent service to visitors.
 
 **Common Misconceptions:**
 
