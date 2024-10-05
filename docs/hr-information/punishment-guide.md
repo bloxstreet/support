@@ -61,7 +61,6 @@ Here, HRs can find a compilation of BloxStreet's punishments. Certain punishment
 
 | Action | Punishment | Applies to | HR Action |
 | ------ | ---------- | ---------- | --------- |
-| Demanding a promotion (can involve using passive aggressive quotes) | Logged warning and a demotion to Customer if repeated | Staff | Firstly, check if the staff member has demanded a promotion in the past by searching their current username and any past usernames in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If the player has no past history of demanding a promotion, issue a warning and log it in that channel. In your warning log, provide evidence of the staff member demanding a promotion, as well as proof of the warning given to them. If this is the player's second offense of demanding a promotion, rank them to Customer. Be sure to also log the demotion in that channel using the proper format, REGARDLESS of the player's rank. |
 | Lack of understandable English | Logged warning and a demotion to Customer if repeated | Staff | Firstly, check if the staff member has lacked understandable English in the past by searching their current username and any past usernames in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If the player has no past history of lacking understandable English, issue a warning and log it in that channel. In your warning log, provide evidence of the staff member lacking understandable English, as well as proof of the warning given to them. If this is the player's second offense, rank them to Customer. Be sure to also log the demotion in that channel using the proper format, REGARDLESS of the player's rank. For HRs, start by issuing a verbal warning and documenting the incident with evidence in a ticket. If the issue persists, submit another ticket. |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, advertising in-game, disrespecting/arguing with/ignoring an HR, etc.) | Demotion to Customer | Staff | Run the command :ban (username) (reason). Rank the staff member to Customer. If the individual is an MR, log the demotion in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877). If the individual is an HR, create a ticket. |
 | Cuff abuse | Blacklist | Staff | Once you have a clear screen recording, run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
@@ -70,6 +69,14 @@ Here, HRs can find a compilation of BloxStreet's punishments. Certain punishment
 | Claiming a rank while blacklisted | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Claiming the same rank more than once | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
 | Simping for a higher rank | Permanent ban | Staff | Run the command :ban (username) (reason). Create a ticket by visiting [#support](https://discord.com/channels/323081832071561216/1111320732903952478). |
+
+
+
+### <font color="#C21807">MR+ Punishments</font>
+
+| Action | Punishment | Applies to | HR Action |
+| ------ | ---------- | ---------- | --------- |
+| Hinting for a promotion | Logged warning and a demotion to Customer | Department Manager+ |  For the first offense, issue a warning and log it in [#staff-punishments](https://discord.com/channels/323081832071561216/789513615572729877) using the format provided in the pinned messages. Be sure to include face-to-face evidence of both the warning and the MR hinting for a promotion. If the MR hints again, you must demote them to Customer, providing evidence of the hinting. For the second offense, face-to-face evidence of the demotion is not required, as you are not issuing a warning. For HRs, start by issuing a verbal warning and documenting the incident with evidence in a ticket. If the issue persists, submit another ticket. |
 
 
 ### <font color="#C21807">HR+ Punishments</font>
