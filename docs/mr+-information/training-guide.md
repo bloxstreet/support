@@ -79,7 +79,7 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *We wish you the best of luck!*
 
-The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of six LRs to each trainer, depending on the number of trainers available. While teleporting, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
+The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host should view the Co-Host and bring the LRs. It is important to note that the Host **must** teleport **six LRs per trainer**. This should continue for each trainer until the final one, who will receive the remaining LRs if fewer than six remain. While teleporting, the Host should whitelist all Store Managers by running the commands /e :wl on and /e :wl add (username).
 
 Once the Host has successfully completed the teleportation process, they, along with the Co-Host, should start supervising the LRs and trainers. The Host and/or Co-Host must also remove Department Supervisors, Department Managers, and Assistant Store Managers from the session.
 
@@ -311,19 +311,19 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 <font color="#0F52BA">**Trainer:**</font> *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
+<font color="#0F52BA">**Trainer:**</font> *For any further inquiries, please refer to the group's social links or speak with an in-game HR.*
 
 
-<font color="#0F52BA">**Trainer:**</font> *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
+<font color="#0F52BA">**Trainer:**</font> *Please follow me to the ranking line so you can be ranked. Congratulations on passing!*
 
 
-**Trainers should FF their LRs by executing the command /e :ff (username) and take them to one of the designated purple/pink lines in the training room.** 
+**Trainers should FF their LRs by executing the command /e :ff (username) and take them to the designated green line in the training room.** 
 
 The Host or Co-Host will then rank the LRs before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
 
 The Host and Co-Host should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
 
-After guiding their LRs to a purple ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if a Group Administrator+ determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the instructions accordingly.
+After guiding their LRs to the green ranking line, trainers should leave the Training Center promptly. They should not wait until after their LRs have been ranked. However, if a Group Administrator+ determines that a photo will take place, trainers should proceed to the lobby, find a seat/stand and remain silent, and follow the instructions accordingly.
 
 
 ### <font color="#C21807">Training Conclusion</font>
