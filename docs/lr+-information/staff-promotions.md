@@ -33,7 +33,7 @@ Store Managers must be in the Discord server to get promoted by a Group Administ
 
 **Requirement #3 - Grammar:**
 
-While grammar is not required at the store for any rank, Store Managers must use correct capitalization, punctuation, and spelling (grammar) when playing BloxStreet games to be considered for a promotion. Proper grammar demonstrates professionalism and maturity. Having more than five grammar errors can reduce one's chances of a promotion.
+Store Managers must use correct capitalization, punctuation, and spelling (grammar) when playing BloxStreet games to be considered for a promotion. Proper grammar demonstrates professionalism and maturity. Having more than five grammar errors can reduce one's chances of a promotion.
 
 **Requirement #4 - Maturity:**
 
