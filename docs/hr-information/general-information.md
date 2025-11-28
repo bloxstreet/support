@@ -60,9 +60,9 @@ HRs have the option to use the announcement system for promoting a store departm
   
 __Acceptable Usages for Announcements:__
 
-`Thirsty? Head down to the cafe to enjoy a refreshing raspberry slushy! Sounds like a wonderful plan to me!`
+`Thirsty? Head down to the cafe to enjoy a refreshing Oolong Tea! Sounds like a wonderful plan to me!`
 
-`More staff members are needed at the pharmacy.`
+`More staff members are needed at the Electronics Department.`
 
 __Unacceptable Usages for Announcements:__
 
