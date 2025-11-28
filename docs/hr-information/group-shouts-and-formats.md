@@ -28,7 +28,7 @@ Co-Hosts must use the three shouts below and may not modify them. The first shou
 
 **Training is Locked:**
 
-`🔒 [TRAINING] | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, why not head down to the pharmacy and grab some allergy medicine?`
+`🔒 [TRAINING] | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, head down to the Electronics Department to purchase a new device!`
 
 **Training is Concluded:**
 
