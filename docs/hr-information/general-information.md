@@ -22,7 +22,7 @@ __Requirements:__
 - All HRs should refrain from engaging in off-topic conversations while playing BloxStreet games. HRs are expected to use DMs and chats for such discussions.
 - All HRs should refrain from commenting on or questioning a player's demotion.
 - All HRs are not allowed to misuse any special permissions, such as the announcement feature.
-- A maximum of two HRs may supervise each store department.
+- All HRs should focus on ensuring that every department across the store has proper supervision. HRs should spread out.
 - HRs may not go off-duty. HRs have additional responsibilities and can order or check out from staff while on-duty.
 - If an HR needs to go AFK while in-game, they must stand against a wall or head to the staff room. If they anticipate being AFK for five or more minutes, they are required to leave the server. Staying AFK for a prolonged period of time will result in a potential punishment.
 - If an HR encounters a Group Administrator+ in a BloxStreet game, they should not ask questions or try starting a conversation. Group Administrator+ are not in-game to chat with HRs. If an HR has a question or needs to speak with a Group Administrator+, they should use the Discord server to communicate.
