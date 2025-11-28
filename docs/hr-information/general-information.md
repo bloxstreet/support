@@ -16,7 +16,7 @@ Here, HRs can find information about conduct, uniforms, announcement usage, comm
 BloxStreet places great importance on behavior, particularly in our services. Acting unprofessionally can have a negative impact on our establishment and HR team.
 
 __Requirements:__
-- All HRs are required to use understandable English in BloxStreet's games and ban reasons.
+- All HRs are required to use proper grammar in BloxStreet's games and ban reasons.
 - All HRs are required to maintain professional conduct.
 - All HRs are required to handle situations calmly and to the best of their abilities.
 - All HRs should refrain from engaging in off-topic conversations while playing BloxStreet games. HRs are expected to use DMs and chats for such discussions.
