@@ -34,4 +34,4 @@ __Inactivity Notice Rules:__
 
 
 ### <font color="#C21807">HR Reforms</font>
-HR reforms happen once a month at an undisclosed time. During reforms, HRs who have not met the activity requirement will be demoted to Customer. Additionally, warnings may be issued to inactive HRs. Warnings are not a prerequisite for a demotion in the context of reforms. A list of HRs who have received a warning may be found in the pinned messages of [#hr-room](https://discord.com/channels/323081832071561216/600727208155414546). After being demoted, HRs cannot reclaim their previous rank, as doing so will lead to a permanent ban.
+HR reforms happen once a month at an undisclosed time. During reforms, HRs who have not met the activity requirement will be demoted to Customer. After being demoted, HRs cannot reclaim their previous rank, as doing so will lead to a permanent ban.
