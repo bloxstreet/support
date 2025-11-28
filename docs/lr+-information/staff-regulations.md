@@ -42,7 +42,6 @@ While on-duty, it is mandatory for all staff members to wear an official BloxStr
 - Staff members are prohibited from stealing other workers' tills or cash registers.
 - Assistant Store Managers and Store Managers have access to moderator commands. Store Directors, Executive Assistants, and Store Executives have access to admin commands. All commands must be hidden. To execute a command privately using the “/e” method, simply open the chat and enter the command as usual. Once entered, place an “/e” before the desired command to ensure it is hidden. Additionally, to access the console, simply press the “;” or “’” key on the keyboard. This action will display a GUI at the top of the screen. Unlike using commands in the chat, the console does not require a prefix before entering the command.
 - LRs and MRs have the authority to cuff trollers to ensure a positive player experience. These staff members should reach out to an HR to ban trollers from the server after cuffing them.
-- A maximum of one staff member is allowed to assist at the help desk. Staff members are not required to own cuffs to work at the help desk.
 - Store Director+ may supervise at the store. A maximum of two HRs may supervise each store department.
 - Previously blacklisted and banned individuals, as well as reformed and resigned HRs, are allowed to utilize their points to claim a rank they have not previously acquired.
 - Demoted LRs and MRs are permitted to reuse points to claim a rank they have not previously claimed.
