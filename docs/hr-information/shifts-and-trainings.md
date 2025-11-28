@@ -35,8 +35,6 @@ Executive Assistants and Store Executives are permitted to host training session
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
 
 - All Group Administrators and Group Directors have priority for claiming. A Group Administrator or a Group Director who claims a session will receive that session, even if the claim is sent later than an HR's.
-- Executive Assistant+ may only host/co-host trainings twice a day.
-- Store Director+ can only host shifts once a day. Store Directors need a ranker.
 - Any claim submitted before 5:00 PM EST will not be accepted.
 - Edited claims will not be accepted.
 - There may only be one claim per message.
@@ -45,7 +43,7 @@ Executive Assistants and Store Executives are permitted to host training session
 
 Arguments about claiming will not be tolerated. The schedule for the following day will be announced between 5:00 PM and 11:30 PM EST.
 
-Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement and informing the scheduler in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608), making sure to provide a reason. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
+Note that it is crucial to follow through on claimed shifts and training sessions. Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
 
 ### <font color="#C21807">Basic Shift Information</font>
@@ -56,7 +54,7 @@ During a shift, the host is permitted to promote Department Supervisors, Departm
 
 __During the shift at the store, the host should consider the following before promoting individuals:__
 - Staff members who have recently viewed or followed the shift host or complained recently should be excluded from promotion consideration.
-- Professionalism, politeness, respect, hard work, excellent grammar **(less than three grammar mistakes in their ENTIRE chat logs)**, and unique greetings are required for MRs seeking a promotion.
+- Professionalism, politeness, respect, hard work, excellent grammar **(less than five grammar mistakes in their ENTIRE chat logs)**, and unique greetings are required for MRs seeking a promotion.
 - The host should attempt to check all store departments.
 - The host has the option to approach players and engage with them by checking out or ordering an item.
 
