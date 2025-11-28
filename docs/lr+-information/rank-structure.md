@@ -81,7 +81,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 ### <font color="#C21807">Executive Assistant</font> 
 
 - HR rank
-- Staff members who have been recognized by a Group Administrator+ or have earned 20,000 points
+- Staff members who have been recognized by a Group Administrator+ or have earned 15,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
@@ -92,7 +92,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 
 - HR rank
-- Staff members who have been recognized by a Group Administrator+ or have earned 25,000 points
+- Staff members who have been recognized by a Group Administrator+ or have earned 20,000 points
 - Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
