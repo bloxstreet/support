@@ -31,7 +31,6 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 - LR rank
 - Staff members who have successfully attended and passed one training session
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
-- Have the opportunity to cuff shoplifters by purchasing cuffs
 - Must attend and satisfactorily complete a training session to be promoted
 
 ### <font color="#FFD300">Senior Team Member</font>
