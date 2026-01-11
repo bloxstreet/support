@@ -117,4 +117,4 @@ The Host should run the :info command on each LR before kicking. Running the com
 
 ### <font color="#C21807">Training Conclusion</font>
 
-Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. Nothing else should be happening after training sessions. Photos for the Host and Co-Host only are not permitted after training sessions. The Co-Host should send the final group shout at this time.
+The Host should send the final group shout at this time.
