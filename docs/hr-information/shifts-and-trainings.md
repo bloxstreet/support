@@ -27,10 +27,9 @@ All HRs have the option to host shifts. Only individuals who hold the rank of Ex
 **Training Claiming Format:**
 
 `Host’s Username:`<br />
-`Co-Host’s Username:`<br />
 `Training Date & Time:`
 
-Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message. To request a co-host, HRs must add one when claiming a session. Adding a co-host after claiming a session is not allowed.
+Executive Assistants and Store Executives are permitted to host training sessions.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
 
