@@ -67,6 +67,4 @@ Shift hosts must use the following messages when promoting staff members.
 
 `You continue to have access to moderator commands. Always hide your commands by prefacing them with /e or by using the command bar by clicking '. Use these commands responsibly!`
 
-`Lastly, you are now able to train LRs at the Training Center. The training times can be found in the staff room. Be sure to join the communications server for the Training Guide.`
-
 `Please rejoin to claim your new rank! Keep up the excellent work!`
