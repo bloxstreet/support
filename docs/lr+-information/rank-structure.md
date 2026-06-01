@@ -41,7 +41,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 ### <font color="#FFD300">Department Supervisor</font> 
 - LR rank
-- Staff members who have attended and passed three training sessions or have earned 1,500 points
+- Staff members who have attended and passed one training session or have earned 1,500 points
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
 - Must be noticed by a shift host, a Group Administrator+ outside of a shift, or earn 3,000 points in total to be promoted
 
@@ -63,7 +63,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 ### <font color="#E27602">Store Manager</font> 
 - MR rank
 - Staff members who have been recognized by a shift host or a Group Administrator+ or have earned 8,000 points in total
-- Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, clean spills, and participate in training sessions to assist in the training of LRs
+- Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
 - Granted access to moderator commands and are expected to hide their commands and to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by a Group Administrator+ to be promoted
 - Can also earn 10,000 points in total to be promoted
@@ -73,7 +73,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 10,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, participating in training sessions to assist in the training of LRs, banning rule violators in the store, hosting shifts, restocking items, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, banning rule violators in the store, hosting shifts, restocking items, empty trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
 - Can also earn 15,000 points in total to be promoted
@@ -82,8 +82,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 15,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
-- Authorized to independently host trainings
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, empty trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
 - Can also earn 20,000 points in total to be promoted
@@ -93,7 +92,6 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 20,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings, hosting and ranking at shifts, restocking items, and cleaning spills
-- Authorized to independently host trainings
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, empty trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must complete their three month cooldown to be promoted, with exceptions being made when decided by Group Director+
