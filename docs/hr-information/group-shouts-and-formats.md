@@ -22,8 +22,6 @@ Hosts must use these group shouts and may not modify them.
 ### <font color="#C21807">Training Shouts</font>
 Announcers must use the shout below and may not modify it. It may only be used for announcing trainings at the store.
 
-**Training is Starting:**
-
 `📋 [TRAINING] | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance to rank up.`
 
 ### <font color="#C21807">Congratulatory Formats for Shift Promotions</font>
