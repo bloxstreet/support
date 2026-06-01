@@ -73,7 +73,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 10,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, banning rule violators in the store, hosting shifts, restocking items, empty trash cans, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, serving customers, banning rule violators in the store, hosting shifts, restocking items, emptying trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
 - Can also earn 15,000 points in total to be promoted
@@ -82,7 +82,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 15,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, empty trash cans, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, emptying trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must first complete their one month cooldown period and then be recognized by a Group Administrator+ to be promoted
 - Can also earn 20,000 points in total to be promoted
@@ -92,6 +92,6 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 - HR rank
 - Staff members who have been recognized by a Group Administrator+ or have earned 20,000 points
-- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, empty trash cans, and cleaning spills
+- Responsible for various tasks, including working at departments or supervising store operations to ensure smooth functioning, banning rule violators, hosting trainings, hosting and ranking at shifts, restocking items, emptying trash cans, and cleaning spills
 - Granted access to admin commands and are expected to hide their commands and to use them responsibly
 - Must complete their three month cooldown to be promoted, with exceptions being made when decided by Group Director+
