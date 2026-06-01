@@ -20,19 +20,11 @@ Hosts must use these group shouts and may not modify them.
 `🛒 [SHIFT] | The shift has concluded. Congratulations to everyone who was promoted! If you were unable to attend, do not fret, as there will be several more in the future. Why not head down to the cafe for a custom sandwich?`
 
 ### <font color="#C21807">Training Shouts</font>
-Co-Hosts must use the three shouts below and may not modify them. The first shout is the same format announcers must use to announce training sessions in the store.
+Announcers must use the shout below and may not modify it. It may only be used for announcing trainings at the store.
 
 **Training is Starting:**
 
 `📋 [TRAINING] | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance to rank up.`
-
-**Training is Locked:**
-
-`🔒 [TRAINING] | The training session is now locked. There are plenty of opportunities in the future if you could not attend. In the meanwhile, head down to the Electronics Department to purchase a new device!`
-
-**Training is Concluded:**
-
-`📋 [TRAINING] | The training session has now concluded. Congratulations to everyone who passed! Why not head down to the store and celebrate? [APPLY] | Interested in working at our establishment? Visit the Quiz Center!`
 
 ### <font color="#C21807">Congratulatory Formats for Shift Promotions</font>
 Shift hosts must use the following messages when promoting staff members.
