@@ -117,4 +117,4 @@ The Host should run the :info command on each LR before kicking. Running the com
 
 ### <font color="#C21807">Training Conclusion</font>
 
-The Host should send the final group shout at this time.
+The Host should leave the server once all LRs have been ranked.
