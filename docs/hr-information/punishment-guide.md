@@ -20,7 +20,7 @@ Here, HRs can find a compilation of BloxStreet's punishments. Certain punishment
 - Certain punishments designated for staff members may also be applicable to non-staff.
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
 - HRs may only use the :kick command to update a player's rank in case of a glitch.
-- If a player has been demoted twice, they can be blacklisted. Create a ticket if this is the case.
+- If a player has been demoted four times, they can be blacklisted. Create a ticket if this is the case.
 - Group Directors have the right to hold certain punishments as unappealable.
 
 ### <font color="#C21807">Player Punishments</font>
