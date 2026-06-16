@@ -40,12 +40,12 @@ Between :35 and :40, it is expected that the Host arrives at the Training Center
 
 ### <font color="#C21807">Host: Claiming</font>
 
-At :45, which is 15 minutes before the training session begins, the Host should claim the session and do the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all store servers that have at least 40 players.
+At :45, which is 15 minutes before the training session begins, the Host should claim the session. Simultaneously, the announcer is responsible for making an announcement about the training session in all store servers that have at least 40 players.
 
 
 ### <font color="#C21807">Host: Training Commences</font>
 
-At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock" and send the second group shout. 
+At :00, which is the exact time of the training session's commencement, the Host should type the command "/e :slock".
 
 <font color="#0F52BA">**Host:**</font> *Greetings, everyone, and welcome to today's training session!*
 
@@ -65,13 +65,9 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *Be sure to include the term "BloxStreet" in your greeting.*
 
-<font color="#0F52BA">**Host:**</font> *To record sandwich orders on the POS system, select the "Sandwiches" option and then click "Custom Sandwich" to edit the ingredients. Do not exceed seven total ingredients.*
-
-<font color="#0F52BA">**Host:**</font> *For drink and juice orders, some allow custom ingredients. If a customer requests ingredients, add one of each requested ingredient.*
-
 <font color="#0F52BA">**Host:**</font> *You may use the !notepad command to write down customer orders.*
 
-<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, click the "Subtotal" button and then the "Checkout" button. An "Order Confirmed" screen will appear once the payment is complete.*
+<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, click the "Finalize Transaction" button. Afterwards, inform the customer to scan their "Cash Card".
 
 <font color="#0F52BA">**Host:**</font> *After payment, wish the customer an enjoyable rest of their day.*
 
@@ -81,7 +77,7 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *To prepare sandwiches, click the cutting board to begin. If an order exceeds seven toppings, select the most important ones to equal seven.*
 
-<font color="#0F52BA">**Host:**</font> *To prepare drinks, use a grande cup if no size is specified. Follow the drink boards and include any additional ingredients requested.*
+<font color="#0F52BA">**Host:**</font> *To prepare drinks, use a grande cup. Follow the drink boards and include any additional ingredients requested.*
 
 <font color="#0F52BA">**Host:**</font> *To hand the customer their order, use the /handto (username) or /give (username) commands, the hand button on the left side of your screen, or press the H key on your keyboard.*
 
