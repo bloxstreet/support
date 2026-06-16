@@ -57,7 +57,7 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *Due to Roblox chat restrictions, you may be unable to communicate with certain customers. If a customer cannot chat with you, please direct them to the self-ordering machines.*
 
-<font color="#0F52BA">**Host:**</font> *To log into the POS system, click the screen or scan your Staff Card when prompted. A menu of categories will then appear.*
+<font color="#0F52BA">**Host:**</font> *To log into the POS system, scan your Staff Card when prompted.*
 
 <font color="#0F52BA">**Host:**</font> *When a customer approaches your cafe register, it is essential to greet them politely and professionally.*
 
@@ -67,7 +67,9 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *You may use the !notepad command to write down customer orders.*
 
-<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, click the "Finalize Transaction" button. Afterwards, inform the customer to scan their Cash Card.*
+<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, scan the items they requested.*
+
+<font color="#0F52BA">**Host:**</font> *Afterwards, click "Finalize Transaction" and prompt the customer to scan their Cash Card.*
 
 <font color="#0F52BA">**Host:**</font> *After payment, wish the customer an enjoyable rest of their day.*
 
