@@ -67,7 +67,7 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *You may use the !notepad command to write down customer orders.*
 
-<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, click the "Finalize Transaction" button. Afterwards, inform the customer to scan their Cash Card.
+<font color="#0F52BA">**Host:**</font> *When the customer finishes ordering, click the "Finalize Transaction" button. Afterwards, inform the customer to scan their Cash Card.*
 
 <font color="#0F52BA">**Host:**</font> *After payment, wish the customer an enjoyable rest of their day.*
 
