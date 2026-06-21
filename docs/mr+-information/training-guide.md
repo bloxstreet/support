@@ -51,7 +51,9 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *Now that training has begun, all chatting must stop. Any messages sent from this point forward will result in a removal from the server.*
 
-<font color="#0F52BA">**Host:**</font> *During this session, you will be given important information about the procedures for working in BloxStreet's cafe and checkout areas. After completing this training, you will receive the Department Supervisor rank.*
+<font color="#0F52BA">**Host:**</font> *During this session, you will be given important information about the procedures for working in BloxStreet's cafe and checkout areas.
+
+<font color="#0F52BA">**Host:**</font> *After completing this training, you will receive the Department Supervisor rank.*
 
 <font color="#0F52BA">**Host:**</font> *We will begin with the cafe procedures.*
 
@@ -105,7 +107,9 @@ At :00, which is the exact time of the training session's commencement, the Host
 
 <font color="#0F52BA">**Host:**</font> *For further assistance, refer to the group’s social links or speak with an in-game HR.*
 
-<font color="#0F52BA">**Host:**</font> *To receive future promotions, you must attend shifts and demonstrate professionalism, strong grammar, and hard work. Shifts are hosted daily, and the full schedule is available in the staff room.*
+<font color="#0F52BA">**Host:**</font> *To receive future promotions, you must attend shifts and demonstrate professionalism, strong grammar, and hard work.
+
+<font color="#0F52BA">**Host:**</font> *Shifts are hosted daily, and the full schedule is available in the staff room.*
 
 <font color="#0F52BA">**Host:**</font> *I will now approach each of you individually to rank you. Do not leave the server.*
 
