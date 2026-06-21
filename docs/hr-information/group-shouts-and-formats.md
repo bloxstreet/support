@@ -53,7 +53,7 @@ Shift hosts must use the following messages when promoting staff members.
 
 `To be promoted as a Store Manager, you must be in the communications server. Please note that only Group Administrators and Group Directors can promote you.`
 
-`More information on Store Manager promotions can be found after you join the communications server.`
+`Further information on Store Manager promotions can be found on the communications server.`
 
 `You continue to have access to moderator commands. Always hide your commands by prefacing them with /e or by using the command bar by clicking '. Use these commands responsibly!`
 
