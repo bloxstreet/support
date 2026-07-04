@@ -25,7 +25,7 @@ Announcers must use the format below and may not modify it. It may only be used 
 `📋 [TRAINING] | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance to rank up.`
 
 ### <font color="#C21807">Congratulatory Formats for Shift Promotions</font>
-Shift hosts must use the following messages when promoting staff members.
+Shift hosts must use the following messages when promoting staff members. Hosts must not modify them.
 
 **Department Supervisor -> Department Manager:**
 
