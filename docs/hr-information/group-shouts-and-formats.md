@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: Training and Shift Formats
+sidebar_label: Group Shouts and Formats
 sidebar_class_name: HR Information
 ---
 
