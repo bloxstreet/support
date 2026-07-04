@@ -4,23 +4,23 @@ sidebar_label: Group Shouts and Formats
 sidebar_class_name: HR Information
 ---
 
-# Shift and Training Formats
+# Group Shouts and Formats
 
 :::info
 
-Here, HRs can find the formats used for shifts and trainings.
+Here, HRs can find the formats used for shift and training sessions.
 
 :::
 
-### <font color="#C21807">Shift Formats</font>
-Hosts must use these group shouts and may not modify them.
+### <font color="#C21807">Shift Shouts</font>
+Hosts must use these formats and may not modify them.
 
 `🛍️ [SHIFT] | Hello, everyone! I am now hosting a shift at the store. Staff, this is an opportunity for you to get promoted and earn points. Customers, why not head down to the cafe and get a delectable sandwich? I look forward to seeing everyone there!`
 
 `🛒 [SHIFT] | The shift has concluded. Congratulations to everyone who was promoted! If you were unable to attend, do not fret, as there will be several more in the future. Why not head down to the cafe for a custom sandwich?`
 
-### <font color="#C21807">Training Format</font>
-Announcers must use the shout below and may not modify it. It may only be used for announcing trainings at the store.
+### <font color="#C21807">Training Shout</font>
+Announcers must use the format below and may not modify it. It may only be used for announcing trainings at the store.
 
 `📋 [TRAINING] | A training session will be starting at the Training Center momentarily. Trainee Team Members, Junior Team Members, and Senior Team Members have a chance to rank up.`
 
