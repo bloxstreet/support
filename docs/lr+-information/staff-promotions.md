@@ -76,6 +76,8 @@ Players have the opportunity to rank up by earning points, which can be used to 
 
 | Points |
 |:----------|
+| Junior Team Member: 500 |
+| Senior Team Member: 1,000 | 
 | Department Supervisor: 1,500 |
 | Department Manager: 3,000 |
 | Assistant Store Manager: 5,000 |
