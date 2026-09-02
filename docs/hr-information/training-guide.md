@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 sidebar_label: Training Guide
-sidebar_class_name: MR+ Information
+sidebar_class_name: HR Information
 ---
 
 # Training Guide
