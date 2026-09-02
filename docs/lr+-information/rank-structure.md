@@ -35,7 +35,7 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 
 ### <font color="#FFD300">Senior Team Member</font>
 - LR rank
-- Staff members who have successfully attended and passed two training sessions or have earned 1000 points
+- Staff members who have successfully attended and passed two training sessions or have earned 1,000 points
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
 - Must attend and satisfactorily complete a training session or earn 1,500 points to be promoted
 
