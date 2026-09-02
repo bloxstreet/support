@@ -25,19 +25,19 @@ Here, staff members can find a comprehensive list of BloxStreet's ranks and thei
 - LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
-- Must attend and satisfactorily complete a training session to be promoted
+- Must attend and satisfactorily complete a training session or earn 500 points to be promoted
 
 ### <font color="#FFD300">Junior Team Member</font>
 - LR rank
-- Staff members who have successfully attended and passed one training session
+- Staff members who have successfully attended and passed one training session or have earned 500 points
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
-- Must attend and satisfactorily complete a training session to be promoted
+- Must attend and satisfactorily complete a training session or earn 1,000 points to be promoted
 
 ### <font color="#FFD300">Senior Team Member</font>
 - LR rank
-- Staff members who have successfully attended and passed two training sessions
+- Staff members who have successfully attended and passed two training sessions or have earned 1000 points
 - Permitted to work in all store departments, assist in restocking empty shelves, empty trash cans, and clean spills
-- Must attend and satisfactorily complete a training session to be promoted
+- Must attend and satisfactorily complete a training session or earn 1,500 points to be promoted
 
 ### <font color="#FFD300">Department Supervisor</font> 
 - LR rank
