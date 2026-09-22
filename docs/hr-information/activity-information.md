@@ -34,4 +34,4 @@ __Inactivity Notice Rules:__
 
 
 ### <font color="#C21807">HR Reforms</font>
-HR reforms happen once a month at an undisclosed time. During reforms, HRs who have not met the activity requirement will be demoted to Customer. After being demoted, HRs cannot reclaim their previous rank, as doing so will lead to a permanent ban.
+HR reforms happen once every three months at an undisclosed time. During reforms, HRs who have not met the activity requirement will be demoted to Customer. After being demoted, HRs cannot reclaim their previous rank, as doing so will lead to a permanent ban.
