@@ -51,9 +51,11 @@ Shift hosts must use the following messages when promoting staff members. Hosts 
 
 `With your new rank, there is a two-week cooldown period, after which you will be eligible for a promotion.`
 
-`To be promoted as a Store Manager, you must be in the communications server. Please note that only Group Administrators and Group Directors can promote you.`
+`You must be in the community server in order to be promoted as a Store Manager.`
 
-`Further information on Store Manager promotions can be found on the communications server.`
+`Please note that only Group Administrators and Group Directors can promote you.`
+
+`Further information on Store Manager promotions can be found on the community server.`
 
 `You continue to have access to moderator commands. Always hide your commands by prefacing them with /e or by using the command bar by clicking '. Use these commands responsibly!`
 
