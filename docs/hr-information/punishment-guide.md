@@ -19,7 +19,7 @@ Here, HRs can find a compilation of BloxStreet's punishments. Certain punishment
 - Staff members who acquire a rank through points are still obligated to adhere to all of BloxStreet's rules. Failure to do so will result in the same disciplinary actions, such as demotions, blacklists, and permanent bans.
 - Certain punishments designated for staff members may also be applicable to non-staff.
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
-- HRs may use the :kick command to update a player's rank in case of a glitch or for any punishments that require a warning.
+- HRs may use the :kick command to update a player's rank in case of a glitch or for any punishments that require a warning if you're unable to chat with the player.
 - If a player has been demoted four times, they can be blacklisted. Create a ticket if this is the case.
 - Group Directors have the right to hold certain punishments as unappealable.
 
